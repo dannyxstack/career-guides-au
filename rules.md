@@ -38,6 +38,24 @@
 **职位需求量：极高（★★★★★）。全国从业人数约128,000+，长期处于短缺清单，各州均有需求。**
 ```
 
+## 文件输出路径与命名规则
+
+生成的职业分析 Markdown 文件统一存放于 `career-contents/au/` 目录下，以职业英文名命名，空格用 `-` 代替，全部小写，例如：
+
+```
+career-contents/au/crane-operator.md
+career-contents/au/software-engineer.md
+career-contents/au/general-practitioner-gp.md
+```
+
+英文名取数据库 `occupations_i18n`（`locale='en'`）中的 `name` 字段，经以下规则转换为 slug：
+- 全部转小写
+- `/`、`(`、`)` 替换为空格
+- 其余非字母数字字符删除
+- 连续空格合并后替换为 `-`
+
+不使用 ANZSCO 代码作为文件名，不使用 `output/` 目录。
+
 ## 输出结构
 
 职业分析文档固定拆分为以下9个部分：
