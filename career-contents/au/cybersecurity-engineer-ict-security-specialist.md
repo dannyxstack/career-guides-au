@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：很高（★★★★☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：很高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,21 +20,21 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较高（★★★★☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：较高（★★★★☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Bachelor of Cybersecurity / Computer Science | 认可大学 | 行业通用基础学历 |
-| CISSP（Certified Information Systems Security Professional） | ISC² | 行业最高认可认证，要求5年从业经验，持有者薪资溢价显著 |
-| OSCP（Offensive Security Certified Professional） | Offensive Security | 渗透测试黄金标准认证，是红队/渗透岗的强烈推荐 |
-| ACS 技能评估 | Australian Computer Society | 189/190签证技术移民必须 |
-| Australian Government Security Clearance（NV1/NV2） | AGSVA | 政府和国防网络安全岗必须，持有者供不应求 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Bachelor of Cybersecurity / Computer Science | 认可大学 | 可选 | 行业通用基础学历 |
+| CISSP（Certified Information Systems Security Professional） | ISC² | 可选 | 行业最高认可认证，要求5年从业经验，持有者薪资溢价显著 |
+| OSCP（Offensive Security Certified Professional） | Offensive Security | 可选 | 渗透测试黄金标准认证，是红队/渗透岗的强烈推荐 |
+| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
+| Australian Government Security Clearance（NV1/NV2） | AGSVA | 可选 | 政府和国防网络安全岗必须，持有者供不应求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 70,900，ABS 数据显示网络安全从业人数同比增长 4.8%（年增3,300人），至2025年已达70,900人，增速是全行业平均的两倍。2030年预测缺口达17,000人。
+**职位需求量：极高（★★★★★）。** 全国从业人数约 70,900。ABS 数据显示网络安全从业人数同比增长 4.8%（年增3,300人），至2025年已达70,900人，增速是全行业平均的两倍。2030年预测缺口达17,000人。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -42,10 +42,8 @@
 | Indeed | 1,200~2,500 个 | 含合同工和安全顾问 |
 | LinkedIn | 2,000~4,000 个 | 企业和政府直招，猎头活跃度极高 |
 
-**竞争度：极低（★☆☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中高（★★★★☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：极低（★☆☆☆☆）。**
+**工作强度：中高（★★★★☆）。**
 
 ---
 
@@ -64,7 +62,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** AUKUS国防协议（AU$368亿核潜艇计划）对安全认证人才需求急剧增加。AI安全（防御LLM攻击/提示注入）是2025-2030年薪资溢价最高的新兴方向。
-**AI替代风险：较低（★★☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：较低（★★☆☆☆）。**
 
 主要增长方向：
 
@@ -78,17 +76,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：极高（★★★★★）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，网络安全为核心短缺岗位 |
+| Subclass 482（Skills in Demand） | 雇主担保，网络安全为核心短缺岗位 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190（Skilled Nominated） | 州提名，ACT（堪培拉政府岗密集）优先 |
 | Subclass 491（Skilled Work Regional） | 偏远地区IT，加15分 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -136,8 +134,7 @@
 | PR友好度 | 极高（★★★★★） |
 | PR难度 | 中等（★★★☆☆） |
 
-网络安全工程师是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+网络安全工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

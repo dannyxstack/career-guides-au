@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：极高（★★★★★）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：极高（★★★★★）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,20 +20,20 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：极高（★★★★★）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：极高（★★★★★）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| FIAA（Fellow of the Institute of Actuaries of Australia） | Actuaries Institute of Australia | 澳洲精算师最高级别资格，需要通过全部Part I~III考试+实践经验 |
-| AIAA（Associate of the Institute of Actuaries of Australia） | Actuaries Institute of Australia | 精算师助理级别资格，是晋升FIAA的阶段性认证 |
-| FSA（Fellow of the Society of Actuaries）/ FIA | SOA（美国）/ IFoA（英国） | 国际精算师资格，在澳洲通过互认协议部分认可 |
-| VETASSESS 技能评估 | VETASSESS | 189/190签证技术移民必须 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| FIAA（Fellow of the Institute of Actuaries of Australia） | Actuaries Institute of Australia | 可选 | 澳洲精算师最高级别资格，需要通过全部Part I~III考试+实践经验 |
+| AIAA（Associate of the Institute of Actuaries of Australia） | Actuaries Institute of Australia | 可选 | 精算师助理级别资格，是晋升FIAA的阶段性认证 |
+| FSA（Fellow of the Society of Actuaries）/ FIA | SOA（美国）/ IFoA（英国） | 可选 | 国际精算师资格，在澳洲通过互认协议部分认可 |
+| VETASSESS 技能评估 | VETASSESS | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 6,500，JSA 预测精算师至2035年就业增长约10%。气候风险量化（保险公司应对极端天气索赔激增）和网络安全风险精算是2025-2030年增长最快的新兴方向。
+**职位需求量：中高（★★★★☆）。** 全国从业人数约 6,500。JSA 预测精算师至2035年就业增长约10%。气候风险量化（保险公司应对极端天气索赔激增）和网络安全风险精算是2025-2030年增长最快的新兴方向。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -41,10 +41,8 @@
 | Indeed | 100~400 个 | 含保险、超级年金和咨询公司岗 |
 | LinkedIn | 300~800 个 | 保险公司和精算顾问公司直招，猎头活跃 |
 
-**竞争度：极低（★☆☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中等（★★★☆☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：极低（★☆☆☆☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -62,7 +60,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** 气候精算（Catastrophe Modelling/CAT modelling）是2025年保险行业最紧缺的精算方向，澳洲极端天气事件频发推动对相关专家的需求急剧增加。AI模型验证精算师也是新兴高薪方向。
-**AI替代风险：极低（★☆☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：极低（★☆☆☆☆）。**
 
 主要增长方向：
 
@@ -76,16 +74,16 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：很高（★★★★☆）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，精算师为核心短缺职业 |
+| Subclass 482（Skills in Demand） | 雇主担保，精算师为核心短缺职业 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190（Skilled Nominated） | 州提名，NSW/VIC保险业集中 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -133,8 +131,7 @@
 | PR友好度 | 很高（★★★★☆） |
 | PR难度 | 中等（★★★☆☆） |
 
-保险精算师是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+保险精算师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

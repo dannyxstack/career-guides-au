@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★★☆☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,20 +20,20 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| CSCP（Certified Supply Chain Professional） | APICS（美国生产和库存管理协会） | 全球最认可的供应链专业认证，持有者薪资溢价显著 |
-| CPIM（Certified in Planning and Inventory Management） | APICS | 库存和生产计划专精认证 |
-| CLTD（Certified in Logistics Transportation and Distribution） | APICS | 物流和配送专精认证 |
-| VETASSESS 技能评估 | VETASSESS | 189/190签证技术移民必须 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| CSCP（Certified Supply Chain Professional） | APICS（美国生产和库存管理协会） | 可选 | 全球最认可的供应链专业认证，持有者薪资溢价显著 |
+| CPIM（Certified in Planning and Inventory Management） | APICS | 可选 | 库存和生产计划专精认证 |
+| CLTD（Certified in Logistics Transportation and Distribution） | APICS | 可选 | 物流和配送专精认证 |
+| VETASSESS 技能评估 | VETASSESS | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 48,000，JSA预测供应链经理至2035年就业增长约11%。关键矿产战略储备、国防供应链本地化和ESG供应链合规是2025-2030年增长最快的政策驱动方向。
+**职位需求量：很高（★★★★☆）。** 全国从业人数约 48,000。JSA预测供应链经理至2035年就业增长约11%。关键矿产战略储备、国防供应链本地化和ESG供应链合规是2025-2030年增长最快的政策驱动方向。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -41,10 +41,8 @@
 | Indeed | 1,000~3,000 个 | 含零售、制造、医疗和政府供应链岗 |
 | LinkedIn | 2,000~5,000 个 | 大型零售商（Woolworths/Coles）和制造企业直招 |
 
-**竞争度：中等（★★★☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中高（★★★★☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：中等（★★★☆☆）。**
+**工作强度：中高（★★★★☆）。**
 
 ---
 
@@ -62,7 +60,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** 供应链数字化（Digital Supply Chain）是2025年行业核心转型，SAP S/4HANA和Oracle Supply Chain Management的专精人才需求急增。ESG供应链（可持续采购+碳足迹追踪）是上市公司供应链合规的强制方向。
-**AI替代风险：较低（★★☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：较低（★★☆☆☆）。**
 
 主要增长方向：
 
@@ -76,17 +74,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：很高（★★★★☆）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，供应链经理为短缺职业 |
+| Subclass 482（Skills in Demand） | 雇主担保，供应链经理为短缺职业 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列，VETASSESS评估 |
 | Subclass 190（Skilled Nominated） | 州提名通道 |
 | Subclass 491（Skilled Work Regional） | 偏远地区制造/物流中心，加15分 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -133,8 +131,7 @@
 | PR友好度 | 很高（★★★★☆） |
 | PR难度 | 中等（★★★☆☆） |
 
-供应链经理是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+供应链经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

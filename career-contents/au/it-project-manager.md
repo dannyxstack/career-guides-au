@@ -8,7 +8,7 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★★☆☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,20 +20,20 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| PMP（Project Management Professional） | Project Management Institute (PMI) | 全球最广泛认可的PM认证，澳洲IT PM岗位中约70%优先要求 |
-| PRINCE2 Practitioner | AXELOS/PeopleCert | 政府IT项目广泛使用的项目管理框架认证 |
-| Certified SAFe Agilist / SAFe Program Consultant | Scaled Agile Inc. | 大型企业Agile转型的核心认证，溢价明显 |
-| ACS 技能评估 | Australian Computer Society | 189/190签证技术移民必须 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| PMP（Project Management Professional） | Project Management Institute (PMI) | 可选 | 全球最广泛认可的PM认证，澳洲IT PM岗位中约70%优先要求 |
+| PRINCE2 Practitioner | AXELOS/PeopleCert | 可选 | 政府IT项目广泛使用的项目管理框架认证 |
+| Certified SAFe Agilist / SAFe Program Consultant | Scaled Agile Inc. | 可选 | 大型企业Agile转型的核心认证，溢价明显 |
+| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 75,000，JSA 预测ICT经理至2035年就业增长约18%。大型云迁移项目和联邦政府数字服务转型是主要驱动力，PMP/PRINCE2持有者供不应求。
+**职位需求量：很高（★★★★☆）。** 全国从业人数约 75,000。JSA 预测ICT经理至2035年就业增长约18%。大型云迁移项目和联邦政府数字服务转型是主要驱动力，PMP/PRINCE2持有者供不应求。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -41,10 +41,8 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 | Indeed | 1,500~3,000 个 | 含政府、银行和大型企业IT项目岗 |
 | LinkedIn | 3,000~6,000 个 | 企业直招和猎头，合同岗比例高 |
 
-**竞争度：中等（★★★☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中高（★★★★☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：中等（★★★☆☆）。**
+**工作强度：中高（★★★★☆）。**
 
 ---
 
@@ -63,7 +61,7 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：很好（★★★★☆）。** Agile/SAFe框架已成为澳洲IT项目标配。Product Owner和Scrum Master角色与IT PM高度融合，混合型IT PM（技术背景+Agile认证）薪资溢价 $15k~$25k。
-**AI替代风险：较低（★★☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：较低（★★☆☆☆）。**
 
 主要增长方向：
 
@@ -77,17 +75,17 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：很高（★★★★☆）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，IT PM/ICT Manager为短缺类别 |
+| Subclass 482（Skills in Demand） | 雇主担保，IT PM/ICT Manager为短缺类别 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190（Skilled Nominated） | 州提名，ACT政府IT项目多 |
 | Subclass 491（Skilled Work Regional） | 偏远地区IT PM岗，加15分 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -135,8 +133,7 @@ IT项目经理领导技术项目的规划、执行和交付，覆盖软件开发
 | PR友好度 | 很高（★★★★☆） |
 | PR难度 | 中等（★★★☆☆） |
 
-IT项目经理是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+IT项目经理的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

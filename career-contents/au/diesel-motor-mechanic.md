@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中高（★★★★☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -19,20 +19,20 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中高（★★★★☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中高（★★★★☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Certificate III in Heavy Commercial Vehicle Mechanical Technology (AUR31020) | TAFE / RTO | 全国统一课程，重型柴油维修基础资质 |
-| Certificate III in Mobile Plant Technology (AUR32720) | TAFE / RTO | 矿业移动设备维修专项资质（可选） |
-| High Voltage / Electrical Safety Certificate | 认可RTO | 矿业电气设备维修安全证书 |
-| TRA Skills Assessment | Trades Recognition Australia | 海外学历移民必须 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Certificate III in Heavy Commercial Vehicle Mechanical Technology (AUR31020) | TAFE / RTO | 必备 | 全国统一课程，重型柴油维修基础资质 |
+| Certificate III in Mobile Plant Technology (AUR32720) | TAFE / RTO | 可选 | 矿业移动设备维修专项资质（可选） |
+| High Voltage / Electrical Safety Certificate | 认可RTO | 可选 | 矿业电气设备维修安全证书 |
+| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 45,000，JSA 预测技工类至2035年新增约195,800个岗位。矿业自动化和新型重型电气设备的普及驱动柴油机技工的技能升级需求。
+**职位需求量：极高（★★★★★）。** 全国从业人数约 45,000。JSA 预测技工类至2035年新增约195,800个岗位。矿业自动化和新型重型电气设备的普及驱动柴油机技工的技能升级需求。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -40,10 +40,8 @@
 | Indeed | 800~1,500 个 | 含学徒岗和合同工 |
 | LinkedIn | 400~900 个 | 偏矿业公司直招和工程管理岗 |
 
-**竞争度：极低（★☆☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：很高（★★★★★）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：极低（★☆☆☆☆）。**
+**工作强度：很高（★★★★★）。**
 
 ---
 
@@ -63,7 +61,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** 矿业FIFO是柴油机技工薪资最高的就业方向，WA和QLD矿区长期短缺。物流车队维修和农业设备市场同样旺盛。
-**AI替代风险：较低（★★☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：较低（★★☆☆☆）。**
 
 主要增长方向：
 
@@ -77,17 +75,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：极高（★★★★★）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，最长4年，2年后可转186 |
+| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190（Skilled Nominated） | 州提名加5分，WA/QLD对柴油机技工需求旺盛 |
 | Subclass 491（Skilled Work Regional） | 偏远矿业地区提名加15分，5年转PR |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -136,8 +134,7 @@
 | PR友好度 | 极高（★★★★★） |
 | PR难度 | 中等（★★★☆☆） |
 
-柴油机技工是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+柴油机技工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

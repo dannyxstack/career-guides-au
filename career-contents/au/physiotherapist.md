@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中高（★★★★☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -19,20 +19,20 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Bachelor/Master of Physiotherapy | 认可大学 | AHPRA注册基础学历 |
-| AHPRA Physiotherapy Registration | AHPRA | 全国统一注册，无此注册不得执业 |
-| APC（Australian Physiotherapy Council）评估 | Australian Physiotherapy Council | 海外物理治疗师学历评估 |
-| Sports Physiotherapy 专科资质 | Sports Medicine Australia / APA | 晋升运动物理治疗师的进阶资质 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Bachelor/Master of Physiotherapy | 认可大学 | 必备 | AHPRA注册基础学历 |
+| AHPRA Physiotherapy Registration | AHPRA | 必备 | 全国统一注册，无此注册不得执业 |
+| APC（Australian Physiotherapy Council）评估 | Australian Physiotherapy Council | 可选 | 海外物理治疗师学历评估 |
+| Sports Physiotherapy 专科资质 | Sports Medicine Australia / APA | 可选 | 晋升运动物理治疗师的进阶资质 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 36,000，JSA 预测物理治疗师至2035年就业增长约15%。老龄化人口（骨关节疾病增加）、运动健康意识提升和老年护理改革是主要驱动力。
+**职位需求量：很高（★★★★☆）。** 全国从业人数约 36,000。JSA 预测物理治疗师至2035年就业增长约15%。老龄化人口（骨关节疾病增加）、运动健康意识提升和老年护理改革是主要驱动力。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -40,10 +40,8 @@
 | Indeed | 900~1,800 个 | 含兼职和合同工 |
 | LinkedIn | 400~900 个 | 偏管理、教育和专科岗 |
 
-**竞争度：较低（★★☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中等（★★★☆☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：较低（★★☆☆☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -62,7 +60,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★☆）。** 运动物理治疗（NRL/AFL/NBL等职业联赛）和老年护理物理治疗是增长最快的方向。Telehealth物理治疗在COVID后迅速普及，创造新就业模式。
-**AI替代风险：极低（★☆☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：极低（★☆☆☆☆）。**
 
 主要增长方向：
 
@@ -76,17 +74,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：极高（★★★★★）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，物理治疗师为核心短缺岗位 |
+| Subclass 482（Skills in Demand） | 雇主担保，物理治疗师为核心短缺岗位 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190（Skilled Nominated） | 州提名，农村医疗机构享优先 |
 | Subclass 491（Skilled Work Regional） | 偏远地区医疗，提名加15分 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -133,8 +131,7 @@
 | PR友好度 | 极高（★★★★★） |
 | PR难度 | 中等（★★★☆☆） |
 
-物理治疗师是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+物理治疗师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

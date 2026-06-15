@@ -8,7 +8,7 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★★☆☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,20 +20,20 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较低（★★☆☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：较低（★★☆☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Bachelor of Design (Interaction/Digital) | 认可大学 | UX岗位最直接相关的学历，ACS评估认可 |
-| Google UX Design Certificate | Google / Coursera | 广泛认可的UX入门认证，适合转行者 |
-| Nielsen Norman Group UX Certification | Nielsen Norman Group | 业界最权威的UX研究和设计认证，高级岗位的强烈推荐 |
-| ACS 技能评估 | Australian Computer Society | 189/190签证技术移民必须 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Bachelor of Design (Interaction/Digital) | 认可大学 | 可选 | UX岗位最直接相关的学历，ACS评估认可 |
+| Google UX Design Certificate | Google / Coursera | 可选 | 广泛认可的UX入门认证，适合转行者 |
+| Nielsen Norman Group UX Certification | Nielsen Norman Group | 可选 | 业界最权威的UX研究和设计认证，高级岗位的强烈推荐 |
+| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中高（★★★★☆）。** 全国从业人数约 48,000，JSA 预测网页和数字设计师至2035年就业增长约15%。AI设计工具（Figma AI/Adobe Firefly）提高生产率，但策略性设计思维和用户研究的价值反而提升。
+**职位需求量：中高（★★★★☆）。** 全国从业人数约 48,000。JSA 预测网页和数字设计师至2035年就业增长约15%。AI设计工具（Figma AI/Adobe Firefly）提高生产率，但策略性设计思维和用户研究的价值反而提升。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -41,10 +41,8 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 | Indeed | 600~1,500 个 | 含合同工和远程设计岗 |
 | LinkedIn | 1,200~3,000 个 | 科技公司直招，产品设计岗比例高 |
 
-**竞争度：中高（★★★★☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中等（★★★☆☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：中高（★★★★☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -62,7 +60,7 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：很好（★★★★☆）。** Figma已成为澳洲UI/UX设计工具的绝对标准。Design Tokens和设计系统（Design System）管理是2025-2026年薪资溢价最高的细分技能。AI生成式设计加速了产品迭代，但提升了对高级设计师的需求。
-**AI替代风险：中等（★★★☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：中等（★★★☆☆）。**
 
 主要增长方向：
 
@@ -76,16 +74,16 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：中等（★★★☆☆）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，科技公司UX岗位 |
+| Subclass 482（Skills in Demand） | 雇主担保，科技公司UX岗位 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 邀请制，ACS技能评估+EOI |
 | Subclass 190（Skilled Nominated） | 州提名，NSW/VIC科技通道 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -132,8 +130,7 @@ UI/UX设计师创造用户界面和交互体验，覆盖Web、移动App、SaaS�
 | PR友好度 | 中等（★★★☆☆） |
 | PR难度 | 中等（★★★☆☆） |
 
-UI/UX设计师是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+UI/UX设计师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

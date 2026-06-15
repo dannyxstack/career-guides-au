@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★★☆☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,21 +20,21 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Certificate III in Air Conditioning and Refrigeration (UEE32220) | TAFE / RTO | 全国统一课程，执业基础资质，学徒期间完成 |
-| ARCtick Refrigerant Handling Licence（RHL） | Australian Refrigeration Council (ARC) | 法定强制持牌，无证操作制冷剂违法，适用所有 RAC 工作 |
-| 各州电气许可证（部分州要求） | 各州 Fair Trading / Energy Safety 部门 | 从事电气接线（含 HVAC 电气部分）须持有州级 Electrical Licence |
-| Certificate IV in Air Conditioning and Refrigeration（可选） | TAFE / RTO | 晋升工程设计或管理岗位的进阶资质 |
-| TRA / VETASSESS Skills Assessment | Trades Recognition Australia / VETASSESS | 海外学历移民必须，国内学历豁免 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Certificate III in Air Conditioning and Refrigeration (UEE32220) | TAFE / RTO | 必备 | 全国统一课程，执业基础资质，学徒期间完成 |
+| ARCtick Refrigerant Handling Licence（RHL） | Australian Refrigeration Council (ARC) | 必备 | 法定强制持牌，无证操作制冷剂违法，适用所有 RAC 工作 |
+| 各州电气许可证（部分州要求） | 各州 Fair Trading / Energy Safety 部门 | 可选 | 从事电气接线（含 HVAC 电气部分）须持有州级 Electrical Licence |
+| Certificate IV in Air Conditioning and Refrigeration（可选） | TAFE / RTO | 可选 | 晋升工程设计或管理岗位的进阶资质 |
+| TRA / VETASSESS Skills Assessment | Trades Recognition Australia / VETASSESS | 可选 | 海外学历移民必须，国内学历豁免 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：很高（★★★★★）。** 全国从业人数约 55,000，Jobs and Skills Australia 预测技工类（含HVAC）至2035年新增就业约195,800人（+9.8%）。气候变化导致夏季高温天数增加，澳洲HVAC技术员长期供不应求，各州均有短缺。
+**职位需求量：很高（★★★★★）。** 全国从业人数约 55,000。Jobs and Skills Australia 预测技工类（含HVAC）至2035年新增就业约195,800人（+9.8%）。气候变化导致夏季高温天数增加，澳洲HVAC技术员长期供不应求，各州均有短缺。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -42,10 +42,8 @@
 | Indeed | 800~1,400 个 | 含兼职、合同工，去重后略低 |
 | LinkedIn | 300~700 个 | 偏企业直招、工程设计及管理类岗位 |
 
-**竞争度：较低（★★☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中等（★★★☆☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：较低（★★☆☆☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -65,7 +63,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** 绿色制冷剂转型（HFO替代HFC）、数据中心冷却爆发、新建住宅和商业项目持续推高需求。AI与自动化对现场施工和制冷剂处理替代率极低，职业稳定性强。
-**AI替代风险：极低（★☆☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：极低（★☆☆☆☆）。**
 
 主要增长方向：
 
@@ -79,17 +77,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：极高（★★★★★）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，中期技能流最长4年，2年后可转186 |
+| Subclass 482（Skills in Demand） | 雇主担保，中期技能流最长4年，2年后可转186 |
 | Subclass 186（ENS） | 雇主担保永久居留，TRT流需持482满2年，直接流需3年相关工作经验 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列，当前竞争激烈建议搭配190/491 |
 | Subclass 190（Skilled Nominated） | 州政府提名，加5分，永居，建议首选路线 |
 | Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，临居5年转PR，适合189分数不够者 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -142,8 +140,7 @@
 | PR友好度 | 极高（★★★★★） |
 | PR难度 | 中等（★★★☆☆） |
 
-空调技术员是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+空调技术员的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中高（★★★★☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -21,20 +21,20 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| CPA（Certified Practising Accountant）/ CA | CPA Australia / CAANZ | 税务顾问的主流专业资格，持有者薪资溢价显著 |
-| Tax Agent Registration（注册税务代理） | Tax Practitioners Board (TPB) | 独立执业税务代理法律必须；是自雇税务顾问的关键执照 |
-| BAS Agent Registration（GST/BAS代理） | Tax Practitioners Board (TPB) | GST和BAS申报服务提供者必须注册，是税务助理入门资格 |
-| CPA Australia / CAANZ 技能评估 | CPA Australia / CAANZ | 189/190签证技术移民必须，MLTSSL在列 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| CPA（Certified Practising Accountant）/ CA | CPA Australia / CAANZ | 可选 | 税务顾问的主流专业资格，持有者薪资溢价显著 |
+| Tax Agent Registration（注册税务代理） | Tax Practitioners Board (TPB) | 可选 | 独立执业税务代理法律必须；是自雇税务顾问的关键执照 |
+| BAS Agent Registration（GST/BAS代理） | Tax Practitioners Board (TPB) | 可选 | GST和BAS申报服务提供者必须注册，是税务助理入门资格 |
+| CPA Australia / CAANZ 技能评估 | CPA Australia / CAANZ | 可选 | 189/190签证技术移民必须，MLTSSL在列 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 55,000，JSA预测税务顾问至2035年就业增长约7%。数字经济税务（加密货币、NFT、跨境电商）和ESG碳税顾问是2025-2030年增长最快的新兴方向。
+**职位需求量：很高（★★★★☆）。** 全国从业人数约 55,000。JSA预测税务顾问至2035年就业增长约7%。数字经济税务（加密货币、NFT、跨境电商）和ESG碳税顾问是2025-2030年增长最快的新兴方向。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -42,10 +42,8 @@
 | Indeed | 1,500~4,000 个 | 含Big 4、中型会计所和中小企业税务岗 |
 | LinkedIn | 2,000~5,000 个 | Big 4税务部门和跨国公司内部税务团队 |
 
-**竞争度：中等（★★★☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中高（★★★★☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：中等（★★★☆☆）。**
+**工作强度：中高（★★★★☆）。**
 
 ---
 
@@ -63,7 +61,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：很好（★★★★☆）。** ATO加强对加密货币资本利得征税和外籍人士跨境税务的监管，推动对数字资产税务顾问的急迫需求。研发税收激励（R&D Tax Incentive）专精顾问是薪资溢价最高方向之一。
-**AI替代风险：较低（★★☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：较低（★★☆☆☆）。**
 
 主要增长方向：
 
@@ -77,17 +75,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：极高（★★★★★）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，税务顾问为短缺职业 |
+| Subclass 482（Skills in Demand） | 雇主担保，税务顾问为短缺职业 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 邀请制，MLTSSL在列，CPA/CAANZ评估 |
 | Subclass 190（Skilled Nominated） | 州提名通道 |
 | Subclass 491（Skilled Work Regional） | 偏远地区税务岗，加15分 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -134,8 +132,7 @@
 | PR友好度 | 极高（★★★★★） |
 | PR难度 | 中等（★★★☆☆） |
 
-税务顾问是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+税务顾问的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

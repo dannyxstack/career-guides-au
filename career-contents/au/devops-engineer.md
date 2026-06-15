@@ -8,7 +8,7 @@ DevOps工程师构建和维护CI/CD流水线、基础设施自动化和云原生
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中高（★★★★☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,20 +20,20 @@ DevOps工程师构建和维护CI/CD流水线、基础设施自动化和云原生
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Certified Kubernetes Administrator (CKA) | CNCF | DevOps/平台工程最重要的认证，持有者薪资溢价明显 |
-| HashiCorp Terraform Associate / Professional | HashiCorp | IaC（基础设施即代码）领域最广泛使用的认证 |
-| AWS DevOps Engineer Professional | Amazon Web Services | AWS生态DevOps方向的高级认证 |
-| ACS 技能评估 | Australian Computer Society | 189/190签证技术移民必须 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Certified Kubernetes Administrator (CKA) | CNCF | 可选 | DevOps/平台工程最重要的认证，持有者薪资溢价明显 |
+| HashiCorp Terraform Associate / Professional | HashiCorp | 可选 | IaC（基础设施即代码）领域最广泛使用的认证 |
+| AWS DevOps Engineer Professional | Amazon Web Services | 可选 | AWS生态DevOps方向的高级认证 |
+| ACS 技能评估 | Australian Computer Society | 可选 | 189/190签证技术移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 45,000，JSA 预测DevOps/平台工程师至2035年就业增长约20%。平台工程（Platform Engineering）是2025-2026年演进方向，提升内部开发者体验（IDP）。
+**职位需求量：极高（★★★★★）。** 全国从业人数约 45,000。JSA 预测DevOps/平台工程师至2035年就业增长约20%。平台工程（Platform Engineering）是2025-2026年演进方向，提升内部开发者体验（IDP）。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -41,10 +41,8 @@ DevOps工程师构建和维护CI/CD流水线、基础设施自动化和云原生
 | Indeed | 1,000~2,000 个 | 含合同工和远程岗 |
 | LinkedIn | 2,000~4,000 个 | 企业直招和猎头 |
 
-**竞争度：较低（★★☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中高（★★★★☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：较低（★★☆☆☆）。**
+**工作强度：中高（★★★★☆）。**
 
 ---
 
@@ -63,7 +61,7 @@ DevOps工程师构建和维护CI/CD流水线、基础设施自动化和云原生
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** 平台工程正在取代传统DevOps模式，专注于构建内部开发者平台（IDP）。DevSecOps（安全集成CI/CD）是最紧缺的子领域，薪资溢价 $15k~$25k。
-**AI替代风险：较低（★★☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：较低（★★☆☆☆）。**
 
 主要增长方向：
 
@@ -77,17 +75,17 @@ DevOps工程师构建和维护CI/CD流水线、基础设施自动化和云原生
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：很高（★★★★☆）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，DevOps为核心短缺岗位 |
+| Subclass 482（Skills in Demand） | 雇主担保，DevOps为核心短缺岗位 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190（Skilled Nominated） | 州提名，ACT/NSW/VIC科技移民通道 |
 | Subclass 491（Skilled Work Regional） | 偏远地区IT岗，加15分 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -134,8 +132,7 @@ DevOps工程师构建和维护CI/CD流水线、基础设施自动化和云原生
 | PR友好度 | 很高（★★★★☆） |
 | PR难度 | 中等（★★★☆☆） |
 
-DevOps工程师是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+DevOps工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

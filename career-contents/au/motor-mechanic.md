@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★★☆☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,20 +20,20 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Certificate III in Light Vehicle Mechanical Technology (AUR30620) | TAFE / RTO | 全国统一课程，轿车维修执业基础资质 |
-| Certificate III in Heavy Commercial Vehicle Mechanical Technology (AUR31120) | TAFE / RTO | 重型商业车维修资质（可选，扩展就业范围） |
-| EV High Voltage Safety Certificate | 认可RTO（如 NRSPP） | 电动车维修安全强制要求，EV经销商必须 |
-| TRA Skills Assessment | Trades Recognition Australia | 海外学历移民必须 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Certificate III in Light Vehicle Mechanical Technology (AUR30620) | TAFE / RTO | 必备 | 全国统一课程，轿车维修执业基础资质 |
+| Certificate III in Heavy Commercial Vehicle Mechanical Technology (AUR31120) | TAFE / RTO | 可选 | 重型商业车维修资质（可选，扩展就业范围） |
+| EV High Voltage Safety Certificate | 认可RTO（如 NRSPP） | 可选 | 电动车维修安全强制要求，EV经销商必须 |
+| TRA Skills Assessment | Trades Recognition Australia | 可选 | 海外学历移民必须 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：很高（★★★★★）。** 全国从业人数约 75,000，JSA 预测技工类至2035年新增约195,800个岗位。EV普及驱动大量旧技工转型升级需求，具备电动车技能的技工薪资溢价显著。
+**职位需求量：很高（★★★★★）。** 全国从业人数约 75,000。JSA 预测技工类至2035年新增约195,800个岗位。EV普及驱动大量旧技工转型升级需求，具备电动车技能的技工薪资溢价显著。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -41,10 +41,8 @@
 | Indeed | 1,200~2,000 个 | 含学徒岗和兼职 |
 | LinkedIn | 500~1,000 个 | 偏经销商、车队和EV专业岗 |
 
-**竞争度：较低（★★☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中高（★★★★☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：较低（★★☆☆☆）。**
+**工作强度：中高（★★★★☆）。**
 
 ---
 
@@ -64,7 +62,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** 电动车（EV）和混合动力技术转型是最大变量，具备高压电气技能的汽车技工极度短缺。传统燃油车维修需求短期内不会消失。
-**AI替代风险：较低（★★☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：较低（★★☆☆☆）。**
 
 主要增长方向：
 
@@ -78,17 +76,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：很高（★★★★☆）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，最长4年，2年后可转186 |
+| Subclass 482（Skills in Demand） | 雇主担保，最长4年，2年后可转186 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190（Skilled Nominated） | 州提名加5分，永居 |
 | Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，5年转PR |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -135,8 +133,7 @@
 | PR友好度 | 很高（★★★★☆） |
 | PR难度 | 中等（★★★☆☆） |
 
-汽车技工是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+汽车技工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

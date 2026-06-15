@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中高（★★★★☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -19,20 +19,20 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Bachelor of Medical Radiation Science | 认可大学 | AHPRA注册基础学历 |
-| AHPRA Medical Radiation Practitioner Registration | AHPRA | 全国统一注册，无此注册不得操作放射设备 |
-| MRPAB评估（Medical Radiation Practice Accreditation） | MRPAB | 海外放射技师学历评估 |
-| PET/CT 或 MRI 专科资质 | AIR（Australian Institute of Radiography） | 核医学和专科影像方向进阶资质 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Bachelor of Medical Radiation Science | 认可大学 | 必备 | AHPRA注册基础学历 |
+| AHPRA Medical Radiation Practitioner Registration | AHPRA | 必备 | 全国统一注册，无此注册不得操作放射设备 |
+| MRPAB评估（Medical Radiation Practice Accreditation） | MRPAB | 可选 | 海外放射技师学历评估 |
+| PET/CT 或 MRI 专科资质 | AIR（Australian Institute of Radiography） | 可选 | 核医学和专科影像方向进阶资质 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：很高（★★★★☆）。** 全国从业人数约 16,000，JSA 预测放射技师至2035年就业增长约12%。CT/MRI检查量增加（慢性病筛查和癌症诊断）和人口老龄化是主要驱动力。
+**职位需求量：很高（★★★★☆）。** 全国从业人数约 16,000。JSA 预测放射技师至2035年就业增长约12%。CT/MRI检查量增加（慢性病筛查和癌症诊断）和人口老龄化是主要驱动力。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -40,10 +40,8 @@
 | Indeed | 350~750 个 | 含兼职和合同工 |
 | LinkedIn | 150~400 个 | 偏专科和管理岗 |
 
-**竞争度：较低（★★☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中等（★★★☆☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：较低（★★☆☆☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -61,7 +59,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★☆）。** AI辅助影像诊断快速发展（如乳腺癌AI筛查），但放射技师的设备操作和患者管理职能不受影响。PET/CT和介入放射治疗是薪资溢价最高的专科方向。
-**AI替代风险：中等（★★★☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：中等（★★★☆☆）。**
 
 主要增长方向：
 
@@ -75,17 +73,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：极高（★★★★★）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，放射技师为核心短缺岗位 |
+| Subclass 482（Skills in Demand） | 雇主担保，放射技师为核心短缺岗位 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，MLTSSL在列 |
 | Subclass 190（Skilled Nominated） | 州提名，农村放射技师享优先 |
 | Subclass 491（Skilled Work Regional） | 偏远地区医疗，提名加15分 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -132,8 +130,7 @@
 | PR友好度 | 极高（★★★★★） |
 | PR难度 | 中等（★★★☆☆） |
 
-放射技师是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+放射技师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

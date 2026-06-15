@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中高（★★★★☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,20 +20,20 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中等（★★★☆☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Bachelor of Computer Science / Software Engineering | 认可大学 | 行业通用基础学历，大多数雇主认可 |
-| ACS（Australian Computer Society）技能评估 | Australian Computer Society | 189/190/491签证技术移民必须，学历互认的官方机构 |
-| AWS/Azure/GCP Cloud Certification | Amazon/Microsoft/Google | 云认证显著提升薪资竞争力（$10k~$20k溢价） |
-| TOGAF / Software Architecture Certifications | The Open Group | 高级架构师晋升路径，提升薪资天花板 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Bachelor of Computer Science / Software Engineering | 认可大学 | 可选 | 行业通用基础学历，大多数雇主认可 |
+| ACS（Australian Computer Society）技能评估 | Australian Computer Society | 可选 | 189/190/491签证技术移民必须，学历互认的官方机构 |
+| AWS/Azure/GCP Cloud Certification | Amazon/Microsoft/Google | 可选 | 云认证显著提升薪资竞争力（$10k~$20k溢价） |
+| TOGAF / Software Architecture Certifications | The Open Group | 可选 | 高级架构师晋升路径，提升薪资天花板 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 160,000，JSA 预测软件工程师至2035年就业增长约25%。AI工具辅助开发提高生产率的同时，也推高了对高级工程师（系统架构、AI集成、安全）的需求。
+**职位需求量：极高（★★★★★）。** 全国从业人数约 160,000。JSA 预测软件工程师至2035年就业增长约25%。AI工具辅助开发提高生产率的同时，也推高了对高级工程师（系统架构、AI集成、安全）的需求。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -41,10 +41,8 @@
 | Indeed | 4,000~8,000 个 | 含合同工、FIFO和远程岗 |
 | LinkedIn | 5,000~10,000 个 | 科技公司直招和猎头岗比例高 |
 
-**竞争度：中等（★★★☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中等（★★★☆☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：中等（★★★☆☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -63,7 +61,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** AI辅助编程（GitHub Copilot/Cursor）正在重塑初级开发工作，但系统设计、代码审查和跨功能协作的需求持续增加。澳洲本地大科技公司（Atlassian、Canva、WiseTech）薪资与硅谷差距缩小。
-**AI替代风险：中等（★★★☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：中等（★★★☆☆）。**
 
 主要增长方向：
 
@@ -77,17 +75,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：很高（★★★★☆）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：很高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，IT为核心紧缺类别，处理速度快 |
+| Subclass 482（Skills in Demand） | 雇主担保，IT为核心紧缺类别，处理速度快 |
 | Subclass 186（ENS） | 雇主担保永居 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，ACS评估+EOI |
 | Subclass 190（Skilled Nominated） | 州提名，ACT/NSW/VIC科技移民通道 |
 | Subclass 491（Skilled Work Regional） | 偏远地区IT岗，加15分 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -135,8 +133,7 @@
 | PR友好度 | 很高（★★★★☆） |
 | PR难度 | 中等（★★★☆☆） |
 
-软件工程师是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+软件工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 

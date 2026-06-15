@@ -8,7 +8,7 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中高（★★★★☆）。** 需完成 Certificate III in Electrotechnology Electrician（UEE30820），通过正式学徒制（Apprenticeship）取得。
+**学习难度：中高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
@@ -20,21 +20,21 @@
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中高（★★★★☆）。** 澳大利亚电工必须持有各州/领地颁发的 Electrical Licence 才能合法执业，无证操作属违法。
+**考证难度：中高（★★★★☆）。**
 
-| 资质 | 发证机构 | 备注 |
-|---|---|---|
-| Certificate III in Electrotechnology Electrician (UEE30820) | TAFE / RTO | 全国统一课程，3826学时，执业基础资质 |
-| Electrical Worker Licence（A级） | 各州 Fair Trading / Energy Safety 部门 | 合法施工的强制持牌要求，无证操作违法 |
-| Electrical Contractor Licence | 各州独立颁发 | 独立承接合同必须，雇主电工可豁免 |
-| Restricted Licence（如 Solar Grid Connect） | Clean Energy Council / 各州 | 太阳能安装、EV充电桩等专项工种额外资质 |
-| TRA Skills Assessment | Trades Recognition Australia (TRA) | 海外学历移民必须，国内学历豁免 |
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| Certificate III in Electrotechnology Electrician (UEE30820) | TAFE / RTO | 必备 | 全国统一课程，3826学时，执业基础资质 |
+| Electrical Worker Licence（A级） | 各州 Fair Trading / Energy Safety 部门 | 必备 | 合法施工的强制持牌要求，无证操作违法 |
+| Electrical Contractor Licence | 各州独立颁发 | 可选 | 独立承接合同必须，雇主电工可豁免 |
+| Restricted Licence（如 Solar Grid Connect） | Clean Energy Council / 各州 | 可选 | 太阳能安装、EV充电桩等专项工种额外资质 |
+| TRA Skills Assessment | Trades Recognition Australia (TRA) | 可选 | 海外学历移民必须，国内学历豁免 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 128,000，Jobs and Skills Australia 预计2025~2035年技工类（含电工）新增就业约195,800人（+9.8%）。技工类（Skill Level 3）岗位填补率仅54.3%，是全澳最难招聘的工种之一。
+**职位需求量：极高（★★★★★）。** 全国从业人数约 128,000。Jobs and Skills Australia 预计2025~2035年技工类（含电工）新增就业约195,800人（+9.8%）。技工类（Skill Level 3）岗位填补率仅54.3%，是全澳最难招聘的工种之一。
 
 | 平台 | 实时挂牌量（约） | 备注 |
 |---|---:|---|
@@ -42,10 +42,8 @@
 | Indeed | 1,500~2,500 个 | 含兼职、合同工，实际去重后略低 |
 | LinkedIn | 600~1,200 个 | 偏企业直招、工程管理类电工岗 |
 
-**竞争度：较低（★★☆☆☆）。** 供不应求，持牌电工找工作不难，尤其矿业和可再生能源方向。
-**工作强度：中高（★★★★☆）。** 体力劳动为主，高空作业、狭小空间、高温环境常见；矿业FIFO轮班强度较大。
-
-主要需求来自住宅建设、商业地产、数据中心、太阳能、储能系统、EV充电设施、矿业和基础设施升级。
+**竞争度：较低（★★☆☆☆）。**
+**工作强度：中高（★★★★☆）。**
 
 ---
 
@@ -65,7 +63,7 @@
 ## 5. 未来趋势 / AI替代概率
 
 **发展前景：极佳（★★★★★）。** 可再生能源转型（Solar、Battery Storage、EV Chargers）持续拉动需求，预计2030年前供需缺口进一步扩大。AI与自动化替代率极低，现场操作无法远程化。
-**AI替代风险：极低（★☆☆☆☆）。** 电工高度依赖现场判断、手工操作和安全规范执行，自动化替代率极低。
+**AI替代风险：极低（★☆☆☆☆）。**
 
 主要增长方向：
 
@@ -79,17 +77,17 @@
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：极高（★★★★★）。** Electrician（341111）长期在 Medium and Long-term Strategic Skills List（MLTSSL）上，适用多个签证类别。
+**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（TSS（Skills in Demand）） | 雇主担保，中期技能流最长4年，2年后可转186 |
+| Subclass 482（Skills in Demand） | 雇主担保，中期技能流最长4年，2年后可转186 |
 | Subclass 186（ENS） | 雇主担保永久居留，TRT流需持482满2年，直接流需3年相关工作经验 |
 | Subclass 189（SkillSelect Independent） | 无需雇主，邀请制，当前EOI分数线约65~75分（竞争激烈） |
 | Subclass 190（Skilled Nominated） | 州政府提名，加5分，永居，建议首选路线 |
 | Subclass 491（Skilled Work Regional） | 偏远地区提名加15分，临居5年转PR，适合189分数不够者 |
 
-**PR难度：中等（★★★☆☆）。** 主要障碍：TRA技能评估周期长（6~12个月）、各州持牌要求不统一、189邀请分数线高。建议优先走190或491州提名路线。
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
@@ -142,8 +140,7 @@
 | PR友好度 | 极高（★★★★★） |
 | PR难度 | 中等（★★★☆☆） |
 
-电工是澳大利亚技术移民性价比最高的职业之一，持续短缺、薪资合理、PR路径清晰。
-主要门槛在于 TRA 评估周期和各州持牌要求，建议提前规划至少 12~18 个月的准备时间。
+电工的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 
