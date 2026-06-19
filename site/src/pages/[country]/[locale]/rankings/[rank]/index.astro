@@ -1,0 +1,131 @@
+---
+import Base from '../../../../../layouts/Base.astro';
+import { COUNTRIES, LOCALES, strings, RANKING_ORDER, rankName, rankSub, rankWhy, rankingList,
+  name, catSlug, aiTag, starOf, seniorSalaryText, seniorMax, trainingMonths, clusterColor, sourcesBody, type Locale } from '../../../../../lib/data';
+
+export function getStaticPaths() {
+  const paths: any[] = [];
+  for (const country of COUNTRIES)
+    for (const locale of LOCALES)
+      for (const key of RANKING_ORDER)
+        paths.push({ params: { country, locale, rank: key.replace(/_/g, '-') }, props: { key } });
+  return paths;
+}
+const slugRank = (k: string) => k.replace(/_/g, '-');
+const { country, locale, rank } = Astro.params as { country: string; locale: Locale; rank: string };
+const { key } = Astro.props as { key: string };
+const t = strings(locale);
+const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/rankings/${rank}/` }));
+const items = rankingList(key, country);
+const stars = (n: number | null) => (n ? '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)) : '—');
+const related = RANKING_ORDER.filter((k) => k !== key);
+---
+<Base title={`${rankName(key, locale)} · ${t.rkHubTitle}`} description={rankSub(key, locale)} locale={locale} country={country} alternates={alternates}>
+  <section class="hero">
+    <h1>{rankName(key, locale)}</h1>
+    <p class="hero-value">{rankSub(key, locale)}</p>
+  </section>
+
+  <!-- 筛选器 -->
+  <section class="controls">
+    <div class="chips">
+      <button class="chip" data-filter="pr" type="button">{t.fPR}</button>
+      <button class="chip" data-filter="high" type="button">{t.fHigh}</button>
+      <button class="chip" data-filter="short" type="button">{t.fShort}</button>
+    </div>
+  </section>
+
+  <!-- 榜单解释 -->
+  <section>
+    <div class="card"><strong>{t.rkWhyHeader}</strong>
+      <p class="muted" style="margin:6px 0 0;font-size:14px">{rankWhy(key, locale)}</p></div>
+  </section>
+
+  <!-- 榜单列表 -->
+  <section>
+    <div class="rk-table-wrap">
+      <table class="rk-table">
+        <thead><tr>
+          <th>{t.rkRank}</th><th>{t.dimension}</th><th>{t.rkAiRisk}</th><th>{t.agMoat}</th>
+          <th>{t.rkGrowth}</th><th>{t.rkPay}</th><th>{t.rkPr}</th><th>{t.rkReason}</th>
+        </tr></thead>
+        <tbody id="rk-body">
+          {items.map((o, i) => {
+            const tag = aiTag(o, locale);
+            return (
+              <tr data-pr={o.is_migration ? 1 : 0} data-pay={seniorMax(o)} data-train={trainingMonths(o)}>
+                <td class="rk-no">{i + 1}</td>
+                <td><a href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}><strong>{name(o, locale)}</strong></a>
+                  <div class="muted" style="font-size:12px">{o.name_en}</div></td>
+                <td>{stars(starOf(o, 'ai_risk'))}</td>
+                <td>{o.ai?.human_moat != null ? `${o.ai.human_moat * 2}/10` : '—'}</td>
+                <td>{stars(starOf(o, 'future_prospect'))}</td>
+                <td class="amber">{seniorSalaryText(o) || '—'}</td>
+                <td>{stars(starOf(o, 'pr_friendliness'))}</td>
+                <td>{tag ? <span class="tag" style={`color:${clusterColor(o.ai!.cluster as string)};border-color:${clusterColor(o.ai!.cluster as string)}`}>{tag.text}</span> : '—'}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+      <p class="muted" id="rk-empty" style="display:none">{t.noResult}</p>
+    </div>
+  </section>
+
+  <!-- 相关榜单 -->
+  <section>
+    <h2>{t.rkRelated}</h2>
+    <div class="chips">
+      {related.map((k) => <a class="tag" href={`/${country}/${locale}/rankings/${slugRank(k)}/`}>{rankName(k, locale)}</a>)}
+    </div>
+  </section>
+
+  <!-- 数据来源与方法 -->
+  <section>
+    <h2>{t.rkSrcTitle}</h2>
+    <div class="card muted" style="font-size:13px">
+      <p style="margin:0">{t.rkMethod}</p>
+      <p style="margin:6px 0 0">{sourcesBody(country, locale)}</p>
+    </div>
+  </section>
+
+  <script is:inline define:vars={{ HIGH: 130000, SHORT: 12 }}>
+    const rows = Array.from(document.querySelectorAll('#rk-body tr'));
+    const chips = Array.from(document.querySelectorAll('.chip[data-filter]'));
+    const active = new Set();
+    const num = (el, k) => parseFloat(el.getAttribute(k)) || 0;
+    function apply() {
+      let shown = 0;
+      rows.forEach((r) => {
+        let ok = true;
+        for (const f of active) {
+          if (f === 'pr') ok = ok && num(r, 'data-pr') === 1;
+          else if (f === 'high') ok = ok && num(r, 'data-pay') >= HIGH;
+          else if (f === 'short') ok = ok && num(r, 'data-train') <= SHORT;
+        }
+        r.style.display = ok ? '' : 'none';
+        if (ok) shown++;
+      });
+      document.getElementById('rk-empty').style.display = shown ? 'none' : 'block';
+    }
+    chips.forEach((ch) => ch.addEventListener('click', () => {
+      const f = ch.getAttribute('data-filter');
+      active.has(f) ? active.delete(f) : active.add(f);
+      ch.classList.toggle('on', active.has(f));
+      apply();
+    }));
+  </script>
+
+  <style>
+    /* 本页筛选条不吸顶，让表头独占吸顶，避免两者重叠 */
+    .controls { position: static; }
+    .rk-table-wrap { overflow: visible; }
+    .rk-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    .rk-table th, .rk-table td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+    .rk-table thead th { position: sticky; top: 0; z-index: 3; background: var(--bg);
+      box-shadow: inset 0 -1px 0 var(--line); }
+    .rk-table th { color: var(--muted); font-weight: 600; white-space: nowrap; }
+    .rk-no { font-weight: 700; color: var(--muted); }
+    @media (max-width: 640px) { .rk-table-wrap { overflow-x: auto; } }
+  </style>
+</Base>

@@ -1,0 +1,74 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import RatingRadar from '../../../../components/RatingRadar.astro';
+import { COUNTRIES, LOCALES, COMPARE_PAIRS, pairKey, getBySlug, name, strings, dimLabel, dimDesc,
+  radarLabels, radarValues, DIM_ORDER, money, type Locale } from '../../../../lib/data';
+
+export function getStaticPaths() {
+  const paths: any[] = [];
+  // 精选对比对目前为 AU 专属，仅生成 AU 路径
+  for (const locale of LOCALES)
+    for (const [a, b] of COMPARE_PAIRS)
+      paths.push({ params: { country: 'AU', locale, pair: pairKey(a, b) }, props: { a, b } });
+  return paths;
+}
+const { country, locale, pair } = Astro.params as { country: string; locale: Locale; pair: string };
+const { a, b } = Astro.props as any;
+const oa = getBySlug(a)!, ob = getBySlug(b)!;
+const t = strings(locale);
+const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/compare/${pair}/` }));
+const series = [
+  { name: name(oa, locale), color: '#10b981', values: radarValues(oa) },
+  { name: name(ob, locale), color: '#f59e0b', values: radarValues(ob) },
+];
+const mid = (o: any) => { const s = o.salaries.filter((x: any) => x.min && x.max); if (!s.length) return null; const m = s[s.length - 1]; return [m.min, m.max]; };
+const ma = mid(oa), mb = mid(ob);
+const ratingOf = (o: any) => Object.fromEntries(o.ratings.map((r: any) => [r.dimension, r.stars ?? 0]));
+const ra = ratingOf(oa), rb = ratingOf(ob);
+const title = `${name(oa, locale)} ${t.vs} ${name(ob, locale)}`;
+const stars = (n: number) => '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n));
+---
+<Base title={`${title} · ${t.compareTitle} · ${t.siteTitle}`} description={`${title} ${t.compareTitle}`} locale={locale} country={country} alternates={alternates}>
+  <a class="muted" href={`/${country}/${locale}/`}>{t.backHome}</a>
+  <h1>{title}</h1>
+
+  <div class="grid" style="grid-template-columns:1fr 1fr;gap:12px">
+    {[oa, ob].map((o, idx) => (
+      <a class="card" href={`/${country}/${locale}/${(o.category || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/${o.slug}/`}>
+        <strong style={`color:${idx === 0 ? '#10b981' : '#f59e0b'}`}>{name(o, locale)}</strong>
+        <div class="muted" style="font-size:13px">{o.name_en}</div>
+        <div style="margin-top:6px">
+          {o.overall_score != null && <span class="amber">{t.overall} {o.overall_score}/10</span>}
+          {o.is_migration ? <span class="tag mig" style="margin-left:6px">PR</span> : <span class="tag" style="margin-left:6px">{t.nonMig}</span>}
+        </div>
+      </a>
+    ))}
+  </div>
+
+  <h2>{t.ratings}</h2>
+  <RatingRadar labels={radarLabels(locale)} series={series} />
+
+  <h2>{t.salary}</h2>
+  <table>
+    <thead><tr><th></th><th style="color:#10b981">{name(oa, locale)}</th><th style="color:#f59e0b">{name(ob, locale)}</th></tr></thead>
+    <tbody>
+      <tr><td class="muted">{t.overall}</td><td>{oa.overall_score ?? '—'}/10</td><td>{ob.overall_score ?? '—'}/10</td></tr>
+      <tr><td class="muted">{t.seniorPay}</td><td class="amber">{ma ? `${money(ma[0])}~${money(ma[1])}` : '—'}</td><td class="amber">{mb ? `${money(mb[0])}~${money(mb[1])}` : '—'}</td></tr>
+      <tr><td class="muted">{t.visa}</td><td>{oa.is_migration ? t.migOcc : t.nonMig}</td><td>{ob.is_migration ? t.migOcc : t.nonMig}</td></tr>
+    </tbody>
+  </table>
+
+  <h2>{t.byDim}</h2>
+  <table>
+    <thead><tr><th>{t.dimension}</th><th style="color:#10b981">{name(oa, locale)}</th><th style="color:#f59e0b">{name(ob, locale)}</th><th>{t.winner}</th></tr></thead>
+    <tbody>
+      {DIM_ORDER.map((d) => {
+        const va = ra[d] ?? 0, vb = rb[d] ?? 0;
+        const pos = !['ai_risk', 'competition', 'work_intensity', 'learning_difficulty', 'learning_duration', 'certification_difficulty', 'pr_difficulty'].includes(d);
+        const better = va === vb ? '—' : ((va > vb) === pos ? name(oa, locale) : name(ob, locale));
+        return (<tr><td>{dimLabel(d, locale)}<div class="muted" style="font-size:12px;font-weight:400">{dimDesc(d, locale)}</div></td><td class="amber">{stars(va)}</td><td class="amber">{stars(vb)}</td><td class="muted">{better}</td></tr>);
+      })}
+    </tbody>
+  </table>
+  <p class="muted" style="font-size:13px">{t.note}. {t.winnerNote}</p>
+</Base>

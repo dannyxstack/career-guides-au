@@ -1,0 +1,187 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import RatingRadar from '../../../../components/RatingRadar.astro';
+import { COUNTRIES, LOCALES, occupations, catSlug, name, summary, strings, dimLabel, tr,
+  radarLabels, radarValues, money, currencyOf, sourcesBody, getBySlug,
+  clusterField, clusterColor, type Locale } from '../../../../lib/data';
+
+export function getStaticPaths() {
+  const paths: any[] = [];
+  for (const country of COUNTRIES)
+    for (const locale of LOCALES)
+      for (const o of occupations.filter((x) => x.country === country))
+        paths.push({ params: { country, locale, category: catSlug(o.category), slug: o.slug }, props: { o } });
+  return paths;
+}
+const { country, locale, slug } = Astro.params as { country: string; locale: Locale; slug: string };
+const { o } = Astro.props as any;
+const t = strings(locale);
+const cur = o.currency || currencyOf(country);
+const z = o.i18n['zh-CN'] || {};
+const i = {
+  name: name(o, locale), summary: summary(o, locale),
+  forecast_note: tr(z.forecast_note, locale), trend_summary: tr(z.trend_summary, locale),
+};
+const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/${catSlug(o.category)}/${o.slug}/` }));
+const radar = [{ name: name(o, locale), color: '#10b981', values: radarValues(o) }];
+const stars = (n: number) => '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n));
+
+// ---- schema.org 结构化数据 ----
+const abs = (p: string) => (Astro.site ? new URL(p, Astro.site).href : p);
+const sal = o.salaries.filter((s: any) => s.min || s.max).map((s: any) => Number(s.max || s.min));
+const salMin = sal.length ? Math.min(...o.salaries.filter((s: any) => s.min).map((s: any) => Number(s.min))) : null;
+const salMax = sal.length ? Math.max(...sal) : null;
+const ld: any[] = [{
+  '@context': 'https://schema.org', '@type': 'Occupation',
+  name: name(o, locale), description: summary(o, locale),
+  occupationalCategory: o.anzsco_code ? `ANZSCO ${o.anzsco_code}` : undefined,
+  occupationLocation: { '@type': 'Country', name: 'Australia' },
+  ...(salMax ? { estimatedSalary: { '@type': 'MonetaryAmountDistribution', name: 'base', currency: 'AUD',
+    median: salMax && salMin ? Math.round((salMin + salMax) / 2) : salMax, percentile10: salMin, percentile90: salMax } } : {}),
+  educationRequirements: o.education.map((e: any) => tr(e.stage, locale)).filter(Boolean).join('; ') || undefined,
+  skills: (o.growth_areas || []).join(', ') || undefined,
+  url: abs(`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`),
+}, {
+  '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: t.siteTitle, item: abs(`/${country}/${locale}/`) },
+    { '@type': 'ListItem', position: 2, name: o.category, item: abs(`/${country}/${locale}/`) + `#cat-${catSlug(o.category)}` },
+    { '@type': 'ListItem', position: 3, name: name(o, locale), item: abs(`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`) },
+  ],
+}];
+if (o.faqs?.length) ld.push({
+  '@context': 'https://schema.org', '@type': 'FAQPage',
+  mainEntity: o.faqs.map((f: any) => ({ '@type': 'Question', name: tr(f.question, locale),
+    acceptedAnswer: { '@type': 'Answer', text: tr(f.answer, locale) } })),
+});
+---
+<Base title={`${name(o, locale)}（${o.name_en}）· ${t.siteTitle}`} description={summary(o, locale).slice(0, 150)} locale={locale} country={country} alternates={alternates} jsonLd={ld}>
+  <a class="muted" href={`/${country}/${locale}/`}>{t.backHome}</a>
+  <h1>{name(o, locale)} <span class="muted" style="font-size:18px">{o.name_en}</span></h1>
+  <p>
+    <span class="tag">{t.code}: {o.anzsco_code || '—'}（{o.occ_code_type}）</span>
+    {o.is_migration ? <span class="tag mig">{t.migOcc}</span> : <span class="tag">{t.nonMig}</span>}
+    {o.overall_score != null && <span class="tag amber">{t.overall} {o.overall_score}/10</span>}
+  </p>
+  <p>{summary(o, locale)}</p>
+
+  <h2>{t.ratings}{o.overall_score != null ? ` · ${t.overall} ${o.overall_score}/10` : ''}</h2>
+  <RatingRadar labels={radarLabels(locale)} series={radar} />
+
+  {o.ai && (
+    <section class="ai-block">
+      <h2>{t.aiTitle.replace('{name}', i.name)}</h2>
+      {/* 1. 结论 */}
+      <div class="card ai-verdict">
+        <span class={`tag ${o.ai.verdict_type === 'compressed' ? 'bad' : o.ai.verdict_type === 'amplified' ? 'mig' : 'warn'}`}>
+          {o.ai.verdict_type === 'compressed' ? t.vCompressed : o.ai.verdict_type === 'amplified' ? t.vAmplified : t.vMixed}
+        </span>
+        <p style="margin:8px 0 0">{tr(o.ai.verdict_zh, locale)}</p>
+      </div>
+      <div class="grid" style="grid-template-columns:1fr 1fr">
+        {/* 2. 替代 3. 增强 */}
+        <div class="card"><strong class="amber">⚠ {t.aiReplaced}</strong>
+          <ul>{o.ai.replaced_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
+        <div class="card"><strong style="color:var(--green)">↑ {t.aiAugmented}</strong>
+          <ul>{o.ai.augmented_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
+      </div>
+      {/* 4. 人类护城河 | 5. 未来技能（并排对称） */}
+      <div class="grid" style="grid-template-columns:1fr 1fr">
+        <div class="card"><strong style="color:#2563eb">🛡 {t.aiMoat}</strong>
+          <ul>{o.ai.moat_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
+        <div class="card"><strong>{t.aiSkills}</strong>
+          <ul>{o.ai.skills_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
+      </div>
+      {/* 6. 入门变窄 */}
+      <div class="card"><strong>{t.aiEntry}</strong>
+        <p class="muted" style="margin:6px 0 0;font-size:14px">{tr(o.ai.entry_narrowing_zh, locale)}</p></div>
+      {/* 7. AI 时代升级路线 */}
+      {o.ai.upgrade_path_zh && (
+        <div class="card"><strong style="color:var(--green)">🚀 {t.aiUpgrade}</strong>
+          <p style="margin:6px 0 0;font-size:14px">{tr(o.ai.upgrade_path_zh, locale)}</p></div>
+      )}
+      {/* 8. 你在 AI 图谱中的位置 */}
+      {o.ai.cluster && (
+        <div class="card" style={`border-left:4px solid ${clusterColor(o.ai.cluster)}`}>
+          <strong>🧭 {t.agMyPos.replace('{name}', i.name)}</strong>
+          <p style="margin:6px 0 8px"><span class="tag" style={`color:${clusterColor(o.ai.cluster)};border-color:${clusterColor(o.ai.cluster)}`}>{clusterField(o.ai.cluster, 'name', locale)}</span></p>
+          <div class="ai-scores">
+            {[[t.agAuto, o.ai.automation_exposure], [t.agMoat, o.ai.human_moat], [t.agEntry, o.ai.entry_risk], [t.agUpside, o.ai.ai_upside]].map(([lbl, v]) => (
+              <div class="scorerow"><span class="scorelbl">{lbl}</span>
+                <span class="scorebar"><span class="scorefill" style={`width:${((Number(v) || 0) / 5) * 100}%`}></span></span>
+                <span class="scoreval">{(Number(v) || 0) * 2}/10</span></div>
+            ))}
+          </div>
+          <p style="margin:10px 0 0;font-size:13px"><a href={`/${country}/${locale}/ai-graph/#${o.ai.cluster}`} style="color:var(--green);font-weight:600">{t.agViewGraph}</a></p>
+        </div>
+      )}
+      {/* 9. 相邻职业 */}
+      {o.ai.adjacent.length > 0 && (
+        <div class="card"><strong>{t.aiAdjacent}</strong>
+          <div class="chips" style="margin-top:8px">{o.ai.adjacent.map((j) => (
+            <a class="tag mig" href={`/${country}/${locale}/${catSlug(j.category)}/${j.slug}/`}>{name(getBySlug(j.slug, country) || ({} as any), locale) || j.name_en}</a>
+          ))}</div></div>
+      )}
+    </section>
+  )}
+
+  <h2>{t.salary}</h2>
+  <table>
+    <thead><tr><th>{t.experience}</th><th>{t.annual} ({cur})</th><th></th></tr></thead>
+    <tbody>{o.salaries.map((s: any) => (
+      <tr><td>{tr(s.label, locale)}</td><td class="amber">{money(s.min)} ~ {money(s.max)}</td><td class="muted">{tr(s.note, locale)}</td></tr>
+    ))}</tbody>
+  </table>
+
+  {o.education.length > 0 && (<>
+    <h2>{t.education}</h2>
+    <table><thead><tr><th>{t.stage}</th><th>{t.period}</th><th>{t.cost} ({cur})</th></tr></thead>
+      <tbody>{o.education.map((e: any) => (
+        <tr><td>{tr(e.stage, locale)}</td><td>{tr(e.duration, locale) || '—'}</td><td>{e.cost_min ? `${money(e.cost_min)}~${money(e.cost_max)}` : (tr(e.cost_note, locale) || '—')}</td></tr>
+      ))}</tbody></table>
+  </>)}
+
+  {o.qualifications.length > 0 && (<>
+    <h2>{t.qualifications}</h2>
+    <table><thead><tr><th>{t.qualification}</th><th>{t.issuer}</th><th></th></tr></thead>
+      <tbody>{o.qualifications.map((q: any) => (
+        <tr><td>{tr(q.name, locale)}</td><td class="muted">{tr(q.issuer, locale) || '—'}</td><td>{q.mandatory ? <span class="tag mig">{t.mandatory}</span> : <span class="tag">{t.optional}</span>}</td></tr>
+      ))}</tbody></table>
+  </>)}
+
+  <h2>{t.visa}</h2>
+  {o.is_migration ? (
+    <table><thead><tr><th>{t.visaCol}</th><th>{t.descCol}</th></tr></thead>
+      <tbody>{o.visa.map((v: any) => (
+        <tr><td><strong>{v.subclass}</strong> {tr(v.name, locale)}</td><td class="muted">{tr(v.desc, locale)}{v.min_score ? ` · ${t.inviteCutoff.replace('{n}', String(v.min_score)).replace('{asof}', v.score_asof || '')}` : ''}</td></tr>
+      ))}</tbody></table>
+  ) : (
+    <p class="card muted">{t.nonMig}. {t.nonMigVisa}</p>
+  )}
+
+  <h2>{t.suitability}</h2>
+  <div class="grid" style="grid-template-columns:1fr 1fr">
+    <div class="card"><strong class="amber" style="color:var(--green)">✓ {t.fit}</strong>
+      <ul>{o.suitability.fit.map((x: string) => <li>{tr(x, locale)}</li>)}</ul></div>
+    <div class="card"><strong class="amber">✗ {t.unfit}</strong>
+      <ul>{o.suitability.unfit.map((x: string) => <li>{tr(x, locale)}</li>)}</ul></div>
+  </div>
+
+  {(i.trend_summary || i.forecast_note || o.growth_areas.length > 0) && (<>
+    <h2>{t.growth}</h2>
+    {i.trend_summary && <p>{i.trend_summary}</p>}
+    {i.forecast_note && <p class="muted">{i.forecast_note}</p>}
+    {o.growth_areas.length > 0 && (
+      <p><span class="muted" style="font-size:13px">{t.growthKw}：</span><br />
+        {o.growth_areas.map((g: string) => <span class="tag" style="margin:6px 6px 0 0;display:inline-block">{g}</span>)}</p>
+    )}
+  </>)}
+
+  {o.faqs.length > 0 && (<>
+    <h2>{t.faq}</h2>
+    {o.faqs.map((f: any) => (<div style="margin-bottom:12px"><strong>{tr(f.question, locale)}</strong><div class="muted">{tr(f.answer, locale)}</div></div>))}
+  </>)}
+
+  <h2>{t.sources}</h2>
+  <p class="card muted" style="font-size:13px">{sourcesBody(country, locale)}</p>
+</Base>

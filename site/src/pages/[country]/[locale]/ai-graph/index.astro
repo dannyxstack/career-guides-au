@@ -1,0 +1,121 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import { COUNTRIES, LOCALES, strings, name, catSlug, AI_CLUSTER_ORDER, AI_CLUSTERS,
+  clusterField, clusterColor, occByCluster, graphOccs, type Locale } from '../../../../lib/data';
+
+export function getStaticPaths() {
+  return COUNTRIES.flatMap((country) => LOCALES.map((locale) => ({ params: { country, locale } })));
+}
+const { country, locale } = Astro.params as { country: string; locale: Locale };
+const t = strings(locale);
+const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/ai-graph/` }));
+
+const dots = graphOccs(country);
+// 矩阵几何：x=automation_exposure(1-5) y=human_moat(1-5)
+const W = 620, H = 460, mL = 56, mR = 24, mT = 24, mB = 56;
+const px = (v: number) => mL + ((v - 1) / 4) * (W - mL - mR);
+const py = (v: number) => H - mB - ((v - 1) / 4) * (H - mT - mB);
+// 同分职业抖动避免重叠（确定性）
+const jit = (i: number) => ((i * 53) % 7 - 3) * 7;
+---
+<Base title={`${t.agTitle}`} description={t.agSubtitle} locale={locale} country={country} alternates={alternates}>
+  <section class="hero">
+    <h1>{t.agTitle}</h1>
+    <p class="hero-value">{t.agSubtitle}</p>
+  </section>
+
+  <!-- 6 类总览卡片 -->
+  <section>
+    <div class="grid grid-cards">
+      {AI_CLUSTER_ORDER.map((key) => {
+        const c = AI_CLUSTERS[key];
+        const reps = occByCluster(country, key).slice(0, 5);
+        return (
+          <a class="card cl-card" href={`#${key}`} style={`border-left:4px solid ${c.color}`}>
+            <div class="cl-head">
+              <strong>{clusterField(key, 'name', locale)}</strong>
+              <span class={`tag ${c.risk === 'high' ? 'bad' : c.risk === 'med' ? 'warn' : 'mig'}`}>{clusterField(key, 'riskLabel', locale)}</span>
+            </div>
+            <p class="muted" style="font-size:13px;margin:6px 0">{clusterField(key, 'meaning', locale)}</p>
+            <p style="font-size:13px;margin:6px 0"><strong>{t.agRepJobs}：</strong>{reps.map((o) => name(o, locale)).join('、') || '—'}</p>
+            <p style="font-size:13px;margin:6px 0 0;color:var(--green)">→ {clusterField(key, 'actionIn', locale)}</p>
+          </a>
+        );
+      })}
+    </div>
+  </section>
+
+  <!-- 二维矩阵 -->
+  <section>
+    <h2>{t.agMatrix}</h2>
+    <div class="matrix-wrap">
+      <svg viewBox={`0 0 ${W} ${H}`} class="matrix" role="img" aria-label={t.agMatrix}>
+        <rect x={mL} y={mT} width={W - mL - mR} height={H - mT - mB} fill="none" stroke="var(--line)" />
+        <line x1={px(3)} y1={mT} x2={px(3)} y2={H - mB} stroke="var(--line)" stroke-dasharray="4 4" />
+        <line x1={mL} y1={py(3)} x2={W - mR} y2={py(3)} stroke="var(--line)" stroke-dasharray="4 4" />
+        <text x={mL + 8} y={mT + 16} class="quad">{t.agQuadTL}</text>
+        <text x={W - mR - 8} y={mT + 16} class="quad" text-anchor="end">{t.agQuadTR}</text>
+        <text x={mL + 8} y={H - mB - 8} class="quad">{t.agQuadBL}</text>
+        <text x={W - mR - 8} y={H - mB - 8} class="quad" text-anchor="end">{t.agQuadBR}</text>
+        <text x={(mL + W - mR) / 2} y={H - 16} class="axis" text-anchor="middle">{t.agAxisX}</text>
+        <text x={16} y={(mT + H - mB) / 2} class="axis" text-anchor="middle" transform={`rotate(-90 16 ${(mT + H - mB) / 2})`}>{t.agAxisY}</text>
+        {dots.map((o, i) => {
+          const cx = px(o.ai!.automation_exposure as number) + jit(i);
+          const cy = py(o.ai!.human_moat as number) + jit(i + 3);
+          return (
+            <a href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>
+              <circle cx={cx} cy={cy} r="6" fill={clusterColor(o.ai!.cluster as string)} fill-opacity="0.85" stroke="#fff" stroke-width="1" />
+              <title>{name(o, locale)}</title>
+            </a>
+          );
+        })}
+      </svg>
+    </div>
+  </section>
+
+  <!-- 分类详情 -->
+  {AI_CLUSTER_ORDER.map((key) => {
+    const c = AI_CLUSTERS[key];
+    const reps = occByCluster(country, key);
+    return (
+      <section id={key} class="cl-detail">
+        <h2><span class="cl-dot" style={`background:${c.color}`}></span>{clusterField(key, 'name', locale)}
+          <span class={`tag ${c.risk === 'high' ? 'bad' : c.risk === 'med' ? 'warn' : 'mig'}`} style="margin-left:8px">{clusterField(key, 'riskLabel', locale)}</span>
+        </h2>
+        <div class="card"><strong>{t.agWhy}</strong><p class="muted" style="margin:6px 0 0;font-size:14px">{clusterField(key, 'why', locale)}</p></div>
+        <div class="grid" style="grid-template-columns:1fr 1fr">
+          <div class="card"><strong class="amber">⚠ {t.aiReplaced}</strong><ul>{clusterField(key, 'replaced', locale).map((x: string) => <li>{x}</li>)}</ul></div>
+          <div class="card"><strong style="color:#2563eb">🛡 {t.aiMoat}</strong><ul>{clusterField(key, 'moat', locale).map((x: string) => <li>{x}</li>)}</ul></div>
+        </div>
+        <div class="grid" style="grid-template-columns:1fr 1fr">
+          <div class="card"><strong style="color:var(--green)">✓ {t.agFit}</strong><ul>{clusterField(key, 'fit', locale).map((x: string) => <li>{x}</li>)}</ul></div>
+          <div class="card"><strong>✗ {t.agUnfit}</strong><ul>{clusterField(key, 'unfit', locale).map((x: string) => <li>{x}</li>)}</ul></div>
+        </div>
+        <div class="card"><strong>{t.agActionIn}</strong><p style="margin:6px 0 0;font-size:14px">{clusterField(key, 'actionIn', locale)}</p></div>
+        <div class="card"><strong>{t.agActionOut}</strong><p class="muted" style="margin:6px 0 0;font-size:14px">{clusterField(key, 'actionOut', locale)}</p></div>
+        <div class="card" style={`border-left:4px solid ${c.color}`}><strong>{t.agPivot}</strong><p style="margin:6px 0 0;font-size:14px">{clusterField(key, 'pivot', locale)}</p></div>
+        {reps.length > 0 && (
+          <div class="card"><strong>{t.agRepJobs}</strong>
+            <div class="chips" style="margin-top:8px">{reps.map((o) => (
+              <a class="tag" href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>{name(o, locale)}</a>
+            ))}</div></div>
+        )}
+      </section>
+    );
+  })}
+
+  <style>
+    .cl-card { transition: transform .1s; }
+    .cl-card:hover { transform: translateY(-2px); }
+    .cl-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+    .matrix-wrap { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 8px; }
+    .matrix { width: 100%; height: auto; }
+    .matrix .quad { fill: var(--muted); font-size: 13px; font-weight: 600; opacity: .7; }
+    .matrix .axis { fill: var(--muted); font-size: 12px; }
+    .cl-detail { display: flex; flex-direction: column; gap: 14px; margin-top: 28px; padding-top: 8px; }
+    .cl-detail .grid { gap: 14px; }
+    .cl-dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px; vertical-align: middle; }
+    .cl-detail .card ul { margin: 8px 0 0; padding-left: 18px; }
+    .cl-detail .card li { margin: 4px 0; }
+  </style>
+</Base>

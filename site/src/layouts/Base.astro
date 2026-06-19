@@ -1,0 +1,185 @@
+---
+import { strings, COUNTRIES, countryName, type Locale } from '../lib/data';
+interface Alt { locale: string; href: string }
+interface Props { title: string; description?: string; locale: Locale; country: string; alternates?: Alt[]; jsonLd?: any }
+const { title, description = '', locale, country, alternates = [], jsonLd } = Astro.props as Props;
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.pathname;
+const ldBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
+const t = strings(locale);
+const LANG_ATTR: Record<string, string> = { 'zh-CN': 'zh-Hans', 'zh-Hant': 'zh-Hant', en: 'en', es: 'es', pt: 'pt', vi: 'vi', th: 'th', ms: 'ms', id: 'id', ja: 'ja' };
+const LANG_LABEL: Record<string, string> = { 'zh-CN': '简', 'zh-Hant': '繁', en: 'EN', es: 'ES', pt: 'PT', vi: 'VI', th: 'TH', ms: 'MS', id: 'ID', ja: 'JA' };
+const langAttr = LANG_ATTR[locale] || 'en';
+---
+<!doctype html>
+<html lang={langAttr}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonical} />
+    {alternates.map((a) => <link rel="alternate" hreflang={a.locale === 'zh-CN' ? 'zh-Hans' : a.locale} href={Astro.site ? new URL(a.href, Astro.site).href : a.href} />)}
+    {ldBlocks.map((b) => <script type="application/ld+json" set:html={JSON.stringify(b)} />)}
+    <slot name="head" />
+    <script is:inline>
+      (function () {
+        try {
+          var s = localStorage.getItem('theme');
+          var sys = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          document.documentElement.setAttribute('data-theme', s || sys || 'light');
+        } catch (e) { document.documentElement.setAttribute('data-theme', 'light'); }
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="site-head">
+      <a class="brand" href={`/${country}/${locale}/`}>{t.siteTitle}</a>
+      <nav>
+        <a class="navlink" href={`/${country}/${locale}/`}>{t.navHome}</a>
+        <a class="navlink" href={`/${country}/${locale}/ai-graph/`}>{t.navGraph}</a>
+        <a class="navlink" href={`/${country}/${locale}/rankings/`}>{t.navRank}</a>
+        <a class="navlink" href={`/${country}/${locale}/about/`}>{t.navAbout}</a>
+        <span class="country-switch">
+          {COUNTRIES.map((cc) => (
+            <a class={cc === country ? 'cty on' : 'cty'} href={`/${cc}/${locale}/`} title={countryName(cc, locale)}>{cc}</a>
+          ))}
+        </span>
+        <span class="nav-sep" aria-hidden="true">|</span>
+        {(alternates.length ? alternates : [{ locale, href: `/${country}/${locale}/` }]).map((a) => (
+          <a class={a.locale === locale ? 'lang on' : 'lang'} href={a.href}>{LANG_LABEL[a.locale] || a.locale}</a>
+        ))}
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="theme">🌙</button>
+      </nav>
+    </header>
+    <main class="wrap"><slot /></main>
+    <footer class="site-foot">{t.tagline} · {t.note}</footer>
+    <script is:inline>
+      (function () {
+        var btn = document.getElementById('theme-toggle');
+        if (!btn) return;
+        var set = function (th) {
+          document.documentElement.setAttribute('data-theme', th);
+          btn.textContent = th === 'dark' ? '☀️' : '🌙';
+          try { localStorage.setItem('theme', th); } catch (e) {}
+        };
+        set(document.documentElement.getAttribute('data-theme') || 'light');
+        btn.addEventListener('click', function () {
+          set(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+        });
+      })();
+    </script>
+    <style is:global>
+      :root, :root[data-theme="dark"] {
+        --bg: #0b1120; --card: #151c2c; --line: #26304a; --green: #10b981;
+        --amber: #f59e0b; --white: #e6ebf5; --muted: #8b97b0; --hero: #111a2e;
+      }
+      :root[data-theme="light"] {
+        --bg: #f6f8fc; --card: #ffffff; --line: #d9e0ee; --green: #059669;
+        --amber: #b45309; --white: #1a2236; --muted: #5b6577; --hero: #eef2fb;
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: var(--bg); color: var(--white);
+        font-family: system-ui, -apple-system, "Microsoft YaHei", sans-serif; line-height: 1.6; }
+      a { color: inherit; text-decoration: none; }
+      .wrap { max-width: 980px; margin: 0 auto; padding: 24px 18px 60px; }
+      .site-head { display: flex; justify-content: space-between; align-items: center;
+        padding: 14px 22px; border-bottom: 1px solid var(--line); }
+      .brand { font-weight: 700; font-size: 19px; }
+      .site-head nav a { margin-left: 12px; color: var(--muted); font-size: 14px; }
+      .site-head nav a:hover { color: var(--white); }
+      .site-head nav a.lang.on { color: var(--green); font-weight: 700; }
+      .site-head nav a.navlink { color: var(--green); font-weight: 700; }
+      .site-head nav a.cty { margin-left: 8px; font-weight: 600; }
+      .site-head nav a.cty.on { color: #2563eb; }
+      .site-head nav .nav-sep { margin-left: 12px; color: var(--line); }
+      .site-foot { text-align: center; color: var(--muted); font-size: 13px; padding: 24px; border-top: 1px solid var(--line); }
+      h1 { font-size: 28px; margin: 8px 0; }
+      h2 { font-size: 20px; margin: 28px 0 12px; padding-left: 10px; border-left: 4px solid var(--green); }
+      table { width: 100%; border-collapse: collapse; margin: 8px 0; }
+      th, td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: left; font-size: 14px; }
+      th { color: var(--muted); font-weight: 600; }
+      .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 16px; }
+      a.card { display: block; color: inherit; text-decoration: none; }
+      .ai-promo:hover { border-color: var(--green); }
+      .tag { display: inline-block; font-size: 12px; padding: 2px 8px; border-radius: 999px; border: 1px solid var(--line); color: var(--muted); }
+      .tag.mig { color: var(--green); border-color: var(--green); }
+      .tag.warn { color: var(--amber); border-color: var(--amber); }
+      .tag.bad { color: #ef4444; border-color: #ef4444; }
+      .tag.gov { color: #2563eb; border-color: #2563eb; }
+      .badge-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+      .amber { color: var(--amber); }
+      .muted { color: var(--muted); }
+      .grid { display: grid; gap: 14px; }
+      .ai-block { display: flex; flex-direction: column; gap: 18px; margin: 10px 0 28px; }
+      .ai-block .grid { gap: 18px; }
+      .ai-block .card ul { margin: 8px 0 0; padding-left: 18px; }
+      .ai-block .card li { margin: 4px 0; }
+      .ai-scores { display: flex; flex-direction: column; gap: 6px; }
+      .scorerow { display: flex; align-items: center; gap: 10px; font-size: 13px; }
+      .scorelbl { width: 96px; color: var(--muted); flex: none; }
+      .scorebar { flex: 1; height: 8px; background: var(--line); border-radius: 999px; overflow: hidden; }
+      .scorefill { display: block; height: 100%; background: var(--green); border-radius: 999px; }
+      .scoreval { width: 32px; text-align: right; color: var(--muted); flex: none; }
+      .grid-cards { grid-template-columns: repeat(3, 1fr); }
+      .occ-card { display: block; }
+      .theme-toggle { margin-left: 14px; background: none; border: 1px solid var(--line);
+        border-radius: 999px; color: var(--muted); cursor: pointer; padding: 2px 8px; font-size: 14px; line-height: 1.4; }
+      .theme-toggle:hover { color: var(--white); }
+
+      /* Hero */
+      .hero { background: var(--hero); border: 1px solid var(--line); border-radius: 14px;
+        padding: 28px 24px; margin: 8px 0 18px; }
+      .hero h1 { margin: 0 0 8px; }
+      .hero-value { font-size: 17px; color: var(--muted); max-width: 720px; margin: 0 0 16px; }
+      .stat-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-bottom: 18px; }
+      .stat { background: var(--card); border: 1px solid var(--line); border-radius: 10px;
+        padding: 12px; font-size: 14px; font-weight: 600; text-align: center; }
+      .cta-row { display: flex; gap: 12px; flex-wrap: wrap; }
+      .btn { display: inline-block; padding: 10px 18px; border-radius: 8px; border: 1px solid var(--line);
+        color: var(--white); font-weight: 600; }
+      .btn:hover { border-color: var(--green); }
+      .btn.primary { background: var(--green); border-color: var(--green); color: #fff; }
+
+      /* Controls */
+      .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 12px;
+        position: sticky; top: 0; z-index: 5; background: var(--bg); padding: 10px 0; margin-bottom: 8px; }
+      .ac-wrap { position: relative; flex: 1 1 220px; min-width: 180px; }
+      #q { width: 100%; padding: 10px 12px; border-radius: 8px;
+        border: 1px solid var(--line); background: var(--card); color: var(--white); font-size: 15px; }
+      .ac { position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 20;
+        background: var(--card); border: 1px solid var(--line); border-radius: 10px; overflow: hidden;
+        max-height: 360px; overflow-y: auto; box-shadow: 0 8px 24px rgba(0,0,0,.25); }
+      .ac-item { display: flex; justify-content: space-between; align-items: baseline; gap: 10px;
+        padding: 9px 12px; border-bottom: 1px solid var(--line); }
+      .ac-item:last-child { border-bottom: 0; }
+      .ac-item:hover { background: var(--hero); }
+      .ac-name { font-weight: 600; }
+      .ac-meta { color: var(--muted); font-size: 12px; white-space: nowrap; }
+      .ac-empty { padding: 12px; color: var(--muted); font-size: 14px; }
+      .chips { display: flex; flex-wrap: wrap; gap: 8px; }
+      .chip { font-size: 13px; padding: 5px 12px; border-radius: 999px; border: 1px solid var(--line);
+        background: var(--card); color: var(--muted); cursor: pointer; }
+      .chip:hover { color: var(--white); }
+      .chip.on { color: #fff; background: var(--green); border-color: var(--green); }
+      .sort select { padding: 8px 10px; border-radius: 8px; border: 1px solid var(--line);
+        background: var(--card); color: var(--white); font-size: 14px; }
+      .sort { color: var(--muted); font-size: 14px; }
+
+      /* Responsive */
+      @media (max-width: 900px) {
+        .grid-cards { grid-template-columns: repeat(2, 1fr); }
+        .stat-row { grid-template-columns: repeat(2, 1fr); }
+      }
+      @media (max-width: 560px) {
+        .wrap { padding: 16px 12px 48px; }
+        .site-head { padding: 12px 14px; }
+        .hero { padding: 20px 16px; }
+        .hero-value { font-size: 15px; }
+        h1 { font-size: 23px; }
+        .grid-cards { grid-template-columns: 1fr; }
+        .cta-row .btn { flex: 1 1 auto; text-align: center; }
+        .controls { position: static; }
+      }
+    </style>
+  </body>
+</html>

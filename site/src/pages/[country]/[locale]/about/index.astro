@@ -1,0 +1,72 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import { COUNTRIES, LOCALES, strings, sourcesBody, type Locale } from '../../../../lib/data';
+
+export function getStaticPaths() {
+  return COUNTRIES.flatMap((country) => LOCALES.map((locale) => ({ params: { country, locale } })));
+}
+const { country, locale } = Astro.params as { country: string; locale: Locale };
+const t = strings(locale);
+const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/about/` }));
+const zh = locale === 'zh-CN';
+
+const C = zh ? {
+  title: '关于本站',
+  lead: '一个数据驱动的「AI 时代职业图谱」——帮助你判断：哪些工作会被 AI 压缩，哪些会被放大，未来 5 年该补什么技能，以及可以转向哪些更稳的职业。',
+  s1h: '我们做什么',
+  s1: ['用公开数据为每个职业整理薪资区间、培训路径、职位需求、移民路径与「被 AI 替代风险」，不卖课、不带货，只讲数据。',
+       `目前覆盖澳大利亚、新西兰、加拿大三国共 250+ 个职业，提供 10 种语言版本，并按各国本币展示薪资。`],
+  s2h: '为什么强调 AI',
+  s2: ['AI 不会简单地「取代」一个职业，而是会重写它的任务结构：有些岗位被压缩，有些被放大，有些因为执照、现场操作、照护关系和公共责任而更稳。',
+       '我们把职业分成 6 大类（AI 高替代 / AI 增强 / 强执照 / 强现场 / 强人际信任 / 强监管），并为职业逐一标注：AI 会接管的任务、AI 会增强的任务、人类护城河、入门是否变窄、AI 时代升级路线，以及风险高时可转向的相邻职业。'],
+  s3h: 'AI 图谱与职业榜单',
+  s3: ['「AI 职业图谱」用二维矩阵（AI 自动化程度 × 人类责任/现场依赖）把职业分布可视化；「AI 时代职业榜单」按低 AI 替代、AI 增强、强执照、移民友好等 8 个维度给出多个榜单，而不是一个总榜。',
+       '所有榜单由公开的排序公式自动计算，可复现，不靠人工指定。'],
+  s4h: '数据与方法',
+  s4: ['薪资为综合公开招聘平台区间的估算；就业与需求预测引用各国官方统计与就业机构；移民信息以各国移民主管部门最新职业清单与规则为准。数据定期更新，仅供参考。'],
+  s5h: '免责声明',
+  s5: ['本站内容为信息参考，不构成职业、移民、财务或法律建议。具体决策请以官方最新发布与专业意见为准。'],
+  srch: '数据来源',
+} : {
+  title: 'About',
+  lead: 'A data-driven “AI-era career map” — helping you judge which jobs get compressed by AI, which get amplified, what to build over the next 5 years, and which more durable roles you can pivot to.',
+  s1h: 'What we do',
+  s1: ['We compile salary ranges, training paths, job demand, migration pathways and AI-replacement risk for each occupation from public data — no courses, no upselling, just data.',
+       'We currently cover 250+ occupations across Australia, New Zealand and Canada, in 10 languages, with salaries shown in each country’s currency.'],
+  s2h: 'Why we focus on AI',
+  s2: ['AI rarely just “replaces” a job — it rewrites the task structure: some roles get compressed, some amplified, and some stay resilient thanks to licensing, on-site work, care relationships and public responsibility.',
+       'We group occupations into 6 clusters and annotate each one: tasks AI will take over, tasks AI will augment, the human moat, whether entry-level narrows, an AI-era upgrade path, and adjacent careers to pivot to if risk is high.'],
+  s3h: 'AI map & rankings',
+  s3: ['The AI Career Map visualises occupations on a 2D matrix (automation exposure × human accountability/on-site). The AI-era rankings give several lists — lowest AI replacement, AI-augmented, licensed moat, migration-friendly and more — rather than one master list.',
+       'All rankings are computed by transparent, reproducible formulas, not hand-picked.'],
+  s4h: 'Data & methodology',
+  s4: ['Salaries are estimates aggregated from public job platforms; employment and demand cite each country’s official statistics and employment agencies; migration details follow the latest official occupation lists and rules. Data is updated periodically and indicative only.'],
+  s5h: 'Disclaimer',
+  s5: ['This site is for information only and is not career, migration, financial or legal advice. Always rely on the latest official sources and professional guidance for your decisions.'],
+  srch: 'Data sources',
+};
+---
+<Base title={`${C.title} · ${t.siteTitle}`} description={C.lead} locale={locale} country={country} alternates={alternates}>
+  <section class="hero">
+    <h1>{C.title}</h1>
+    <p class="hero-value">{C.lead}</p>
+  </section>
+
+  <section class="about">
+    {[[C.s1h, C.s1], [C.s2h, C.s2], [C.s3h, C.s3], [C.s4h, C.s4], [C.s5h, C.s5]].map(([h, paras]) => (
+      <div>
+        <h2>{h}</h2>
+        {(paras as string[]).map((p) => <p>{p}</p>)}
+      </div>
+    ))}
+    <div>
+      <h2>{C.srch}</h2>
+      <p class="muted" style="font-size:13px">{sourcesBody(country, locale)}</p>
+    </div>
+  </section>
+
+  <style>
+    .about { display: flex; flex-direction: column; gap: 10px; max-width: 760px; }
+    .about p { line-height: 1.7; margin: 8px 0; }
+  </style>
+</Base>
