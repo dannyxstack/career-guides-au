@@ -18,6 +18,10 @@ export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
 };
 export const countryName = (cc: string, locale: Locale) =>
   COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
+// 标题/SEO 用的简称（中文用习惯简称「澳洲」；其余语言用全称）
+const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大' };
+export const countryTitleName = (cc: string, locale: Locale) =>
+  locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
 export const currencyOf = (country: string) => CURRENCY[country] || 'AUD';
 
 // 翻译记忆解析：中文母本 → 目标语言（回退 en → 原文）
@@ -119,7 +123,9 @@ export const dimDesc = (dim: string, locale: Locale) =>
 // UI 文案（仅 zh-CN/en 为母本；其余语言经 strings() 回退到 en）
 export const UI: Record<string, Record<string, string>> = {
   'zh-CN': {
-    siteTitle: '澳洲职业百科', tagline: '数据驱动的职业介绍 · 不卖课只讲数据',
+    siteTitle: 'AI Career Graph', tagline: 'AI 时代职业图谱与职业规划 · 不卖课只讲数据',
+    homeMetaDesc: 'AI Career Graph 用职业图谱分析 AI 时代的工作风险、薪资、移民路径、入门难度和未来技能，帮助你判断哪些职业会被压缩，哪些会被 AI 放大。',
+    agMetaDesc: '查看 AI 时代职业图谱：按自动化风险、人类护城河、执照责任、现场依赖和人际信任，把职业分成高替代、AI增强、强执照、强现场等类型。',
     salary: '薪资范围', ratings: '职业评分', overall: '综合评分', education: '教育路径',
     qualifications: '从业资质', visa: '移民路径', suitability: '适合 / 不适合', faq: '常见问题',
     compare: '职业对比', nonMig: '非技术移民职业（不在技术移民清单上）', fit: '适合', unfit: '不适合',
@@ -159,12 +165,15 @@ export const UI: Record<string, Record<string, string>> = {
     rkAll: '完整榜单', rkSrcTitle: '数据来源与方法',
     rkMethod: '榜单排名由各职业的评分维度（AI 替代风险、职位需求、PR 友好度等）与「AI 图谱」四项评分（自动化程度、人类护城河、入门压缩、AI 放大）按公开规则的排序公式自动计算，并非人工指定。评分与薪资为综合公开数据的估算，定期更新，仅供参考，具体以官方最新发布为准。',
     homeRkTitle: 'AI 时代职业榜单', homeRkBody: '怕被替代？想移民？想高薪？想快速入行？我们按不同维度给出 8 个榜单，帮你找到适合自己的方向。',
+    homeAgTitle: 'AI 时代职业图谱',
     homeAgBody: '不是所有职业都会被 AI 取代。更准确地说，AI 会重写每个职业的任务结构：有些岗位被压缩，有些被放大，有些因为执照、现场操作、照护关系和公共责任而更稳。我们把职业分成 6 类，帮你判断：现在的工作风险在哪里，未来 5 年该补什么技能，以及可以转向哪些更稳的职业。',
     vCompressed: '被自动化压缩', vAmplified: '被 AI 放大能力', vMixed: '喜忧参半',
     winnerNote: '"更优"按维度极性判断（负向维度如 AI 风险 / 竞争 / 难度越低越好）。',
   },
   en: {
-    siteTitle: 'AU Career Guides', tagline: 'Data-driven occupation guides',
+    siteTitle: 'AI Career Graph', tagline: 'AI-era career map & planning · data, not courses',
+    homeMetaDesc: 'AI Career Graph maps careers by automation risk, human moat, salary, migration pathways and future skills, helping you plan work in the AI era.',
+    agMetaDesc: 'Explore the AI-era career map: occupations grouped by automation risk, human moat, licensing accountability, on-site dependence and human trust — from high-replacement to AI-augmented, licensed and on-site clusters.',
     salary: 'Salary', ratings: 'Ratings', overall: 'Overall', education: 'Education Path',
     qualifications: 'Qualifications', visa: 'Migration', suitability: 'Who it fits', faq: 'FAQ',
     compare: 'Compare', nonMig: 'Not a skilled migration occupation', fit: 'Fits', unfit: 'Not for',
@@ -204,6 +213,7 @@ export const UI: Record<string, Record<string, string>> = {
     rkAll: 'Full ranking', rkSrcTitle: 'Data sources & methodology',
     rkMethod: 'Rankings are computed automatically by transparent formulas from each occupation’s rating dimensions (AI risk, demand, PR friendliness, etc.) and the four AI-map scores (automation exposure, human moat, entry compression, AI upside) — not hand-picked. Scores and salaries are estimates aggregated from public data, updated periodically and indicative only.',
     homeRkTitle: 'AI-era career rankings', homeRkBody: 'Afraid of replacement? Want migration, high pay, or fast entry? We offer 8 rankings across different dimensions to help you find your direction.',
+    homeAgTitle: 'The AI-era career map',
     homeAgBody: 'Not every job will be replaced by AI. More precisely, AI rewrites the task structure of every job: some roles get compressed, some amplified, and some stay resilient thanks to licensing, on-site work, care relationships and public responsibility. We group occupations into 6 clusters to help you judge where your job risk is, what to build in the next 5 years, and which more durable roles you can pivot to.',
     vCompressed: 'Compressed by automation', vAmplified: 'Amplified by AI', vMixed: 'Mixed',
     winnerNote: '"Higher" is judged by dimension polarity (for negative dimensions such as AI risk / competition / difficulty, lower is better).',
@@ -450,18 +460,19 @@ export function cardBadges(o: Occ, locale: Locale): { text: string; cls: string;
     title: zh ? '政府 / 公共部门岗位（联邦、州或地方政府、公共机构），类似国内的公务员 / 事业编 / 国企。'
              : 'A government or public-sector role (federal, state or local government, or a public agency).',
   });
+  // 阈值按 10 分制（原 5 分制阈值 ×2）
   const prd = dimStars(o, 'pr_difficulty');
-  if (o.is_migration && prd != null && prd <= 2) out.push({ text: zh ? '移民门槛低' : 'Easier PR', cls: 'mig' });
+  if (o.is_migration && prd != null && prd <= 4) out.push({ text: zh ? '移民门槛低' : 'Easier PR', cls: 'mig' });
   const dem = dimStars(o, 'job_demand');
-  if (dem != null && dem >= 4) out.push({ text: zh ? '需求大' : 'High demand', cls: 'mig' });
+  if (dem != null && dem >= 8) out.push({ text: zh ? '需求大' : 'High demand', cls: 'mig' });
   const ai = dimStars(o, 'ai_risk');
   if (ai != null) {
-    if (ai <= 2) out.push({ text: zh ? '低AI替代' : 'Low AI risk', cls: 'mig' });
-    else if (ai === 3) out.push({ text: zh ? '中AI替代' : 'Med AI risk', cls: 'warn' });
+    if (ai <= 4) out.push({ text: zh ? '低AI替代' : 'Low AI risk', cls: 'mig' });
+    else if (ai <= 6) out.push({ text: zh ? '中AI替代' : 'Med AI risk', cls: 'warn' });
     else out.push({ text: zh ? '高AI替代' : 'High AI risk', cls: 'bad' });
   }
   const comp = dimStars(o, 'competition');
-  if (comp != null && comp <= 2) out.push({ text: zh ? '竞争低' : 'Low competition', cls: 'mig' });
+  if (comp != null && comp <= 4) out.push({ text: zh ? '竞争低' : 'Low competition', cls: 'mig' });
   return out;
 }
 
@@ -526,14 +537,15 @@ export const RANKINGS: Record<string, { name: Bi; sub: Bi; why: Bi }> = {
 };
 const rstar = (o: Occ, dim: string) => dimStars(o, dim) ?? 0;
 const A = (o: Occ, k: 'automation_exposure' | 'human_moat' | 'entry_risk' | 'ai_upside') => (o.ai?.[k] as number) ?? 0;
+// 公式按 10 分制：反向常数 6→12、加成 +3→+6 / +2→+4（所有项与原 5 分制成 2× 等比，排序不变）
 const RANK_SCORE: Record<string, { filter: (o: Occ) => boolean; score: (o: Occ) => number }> = {
-  low_ai_replacement: { filter: (o) => !!o.ai?.cluster, score: (o) => A(o, 'human_moat') * 2 + (6 - A(o, 'automation_exposure')) + rstar(o, 'job_demand') },
+  low_ai_replacement: { filter: (o) => !!o.ai?.cluster, score: (o) => A(o, 'human_moat') * 2 + (12 - A(o, 'automation_exposure')) + rstar(o, 'job_demand') },
   ai_augmented_rank: { filter: (o) => !!o.ai?.cluster, score: (o) => A(o, 'ai_upside') * 2 + rstar(o, 'income_level') + rstar(o, 'future_prospect') },
-  licensed_moat: { filter: (o) => !!o.ai?.cluster, score: (o) => A(o, 'human_moat') + rstar(o, 'certification_difficulty') + (o.ai?.cluster === 'licensed_accountable' ? 3 : 0) },
-  physical_site: { filter: (o) => o.ai?.cluster === 'physical_site_based', score: (o) => A(o, 'human_moat') + (6 - A(o, 'automation_exposure')) },
+  licensed_moat: { filter: (o) => !!o.ai?.cluster, score: (o) => A(o, 'human_moat') + rstar(o, 'certification_difficulty') + (o.ai?.cluster === 'licensed_accountable' ? 6 : 0) },
+  physical_site: { filter: (o) => o.ai?.cluster === 'physical_site_based', score: (o) => A(o, 'human_moat') + (12 - A(o, 'automation_exposure')) },
   human_trust: { filter: (o) => o.ai?.cluster === 'human_trust_care', score: (o) => A(o, 'human_moat') + rstar(o, 'future_prospect') },
   high_growth: { filter: () => true, score: (o) => rstar(o, 'future_prospect') + rstar(o, 'job_demand') },
-  migration_friendly: { filter: (o) => o.is_migration, score: (o) => rstar(o, 'pr_friendliness') * 2 + (6 - rstar(o, 'pr_difficulty')) + (o.shortage_listed ? 2 : 0) },
+  migration_friendly: { filter: (o) => o.is_migration, score: (o) => rstar(o, 'pr_friendliness') * 2 + (12 - rstar(o, 'pr_difficulty')) + (o.shortage_listed ? 4 : 0) },
   cautious_newbie: { filter: (o) => !!o.ai?.cluster, score: (o) => A(o, 'entry_risk') * 2 + rstar(o, 'competition') + A(o, 'automation_exposure') },
 };
 export function rankingList(key: string, country: string, n?: number): Occ[] {
@@ -558,6 +570,14 @@ export function aiTag(o: Occ, locale: Locale): { text: string; low: boolean } | 
   return { text: pick(CLUSTER_TAG[c], locale), low };
 }
 export const starOf = (o: Occ, dim: string): number | null => o.ratings.find((r) => r.dimension === dim)?.stars ?? null;
+// 10 分制数值 → 5 颗星字符串（÷2 取最近半星，半星用 ½）
+export function renderStars(n10: number | null | undefined): string {
+  if (n10 == null) return '—';
+  const v = Math.max(0, Math.min(10, Number(n10))) / 2;     // 0..5
+  const r = Math.round(v * 2) / 2;                          // 取最近半星
+  const full = Math.floor(r), half = r - full === 0.5;
+  return '★'.repeat(full) + (half ? '½' : '') + '☆'.repeat(5 - full - (half ? 1 : 0));
+}
 export const rankName = (key: string, locale: Locale) => pick(RANKINGS[key]?.name, locale);
 export const rankSub = (key: string, locale: Locale) => pick(RANKINGS[key]?.sub, locale);
 export const rankWhy = (key: string, locale: Locale) => pick(RANKINGS[key]?.why, locale);

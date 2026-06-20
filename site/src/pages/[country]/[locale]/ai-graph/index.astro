@@ -11,14 +11,14 @@ const t = strings(locale);
 const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/ai-graph/` }));
 
 const dots = graphOccs(country);
-// 矩阵几何：x=automation_exposure(1-5) y=human_moat(1-5)
+// 矩阵几何：x=automation_exposure(1-10) y=human_moat(1-10)
 const W = 620, H = 460, mL = 56, mR = 24, mT = 24, mB = 56;
-const px = (v: number) => mL + ((v - 1) / 4) * (W - mL - mR);
-const py = (v: number) => H - mB - ((v - 1) / 4) * (H - mT - mB);
+const px = (v: number) => mL + ((v - 1) / 9) * (W - mL - mR);
+const py = (v: number) => H - mB - ((v - 1) / 9) * (H - mT - mB);
 // 同分职业抖动避免重叠（确定性）
 const jit = (i: number) => ((i * 53) % 7 - 3) * 7;
 ---
-<Base title={`${t.agTitle}`} description={t.agSubtitle} locale={locale} country={country} alternates={alternates}>
+<Base title={`${t.agTitle}｜AI Career Graph`} description={t.agMetaDesc} locale={locale} country={country} alternates={alternates}>
   <section class="hero">
     <h1>{t.agTitle}</h1>
     <p class="hero-value">{t.agSubtitle}</p>
@@ -51,8 +51,8 @@ const jit = (i: number) => ((i * 53) % 7 - 3) * 7;
     <div class="matrix-wrap">
       <svg viewBox={`0 0 ${W} ${H}`} class="matrix" role="img" aria-label={t.agMatrix}>
         <rect x={mL} y={mT} width={W - mL - mR} height={H - mT - mB} fill="none" stroke="var(--line)" />
-        <line x1={px(3)} y1={mT} x2={px(3)} y2={H - mB} stroke="var(--line)" stroke-dasharray="4 4" />
-        <line x1={mL} y1={py(3)} x2={W - mR} y2={py(3)} stroke="var(--line)" stroke-dasharray="4 4" />
+        <line x1={px(5.5)} y1={mT} x2={px(5.5)} y2={H - mB} stroke="var(--line)" stroke-dasharray="4 4" />
+        <line x1={mL} y1={py(5.5)} x2={W - mR} y2={py(5.5)} stroke="var(--line)" stroke-dasharray="4 4" />
         <text x={mL + 8} y={mT + 16} class="quad">{t.agQuadTL}</text>
         <text x={W - mR - 8} y={mT + 16} class="quad" text-anchor="end">{t.agQuadTR}</text>
         <text x={mL + 8} y={H - mB - 8} class="quad">{t.agQuadBL}</text>

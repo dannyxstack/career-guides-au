@@ -60,6 +60,28 @@
 
 ---
 
+## 一·补（2026-06-20 续）：品牌升级 + 评分 10 分制 + AI 字段铺全量
+
+### A. 品牌升级为 AI Career Graph（域名 aicareergraph.com）
+- `siteTitle` 全 10 语言统一 `AI Career Graph`（data.ts zh/en + 脚本批量改 ui_i18n.json 8 语言）；`tagline` 改新定位。
+- SEO 标题：根页/各国首页/职业页/AI图谱页按 locale 分支（zh / 其余→en）；新增 `countryTitleName`（zh 简称 澳洲/新西兰/加拿大）、`homeMetaDesc`/`agMetaDesc`。
+- `astro.config.mjs` site→`https://aicareergraph.com`；`Base.astro` 加 OG/Twitter。
+- 关于页重构 6 板块（我们是谁/解决什么/如何分析/数据与方法/不做什么/未来计划）。
+- nav：国家切换加内联 SVG 国旗（Windows 无 emoji 字形，故不用 🇦🇺）+ nav-sep；首页 AI 图谱板块补 `homeAgTitle`。
+
+### B. 评分全面改 10 分制（小数，≥1 位；仅展示星星时 ÷2 取半星）
+- 迁移 `scripts/migrate_score_scale_10.py`（**幂等**：max>5 视为已迁移跳过）：
+  - `occupation_ratings.stars/score` ×2；`occupation_ai` 4 列 TINYINT→**DECIMAL(3,1)** 且 ×2。
+  - `occupation_invitation_scores.min_score`(65-90) 非五分制，**不动**。
+- 计算同步：`export.overall_score`（`6-s`→`12-s`、去 `/5*10`）；`data.ts` RANK_SCORE 常数（`6-`→`12-`、`+3`→`+6`、`+2`→`+4`，`*2` 权重不变=2×等比排序不变）；`cardBadges` 阈值 ×2；ai-graph 矩阵 `(v-1)/4`→`(v-1)/9`、分隔线 `px(3)`→`px(5.5)`。
+- 展示：新增 `data.ts:renderStars(n10)`（÷2 半星 ½）；slug/compare/rankings 三页改用它；slug AI 分条 `/5`→`/10`、去 `×2`；RatingRadar 调用传 `max={10}`；`md_generator._stars` 同步半星。
+- `_i18n_fields` 把 AI 4 分转 float（避免 DECIMAL→字符串）。`seed_ai_graph` 原型分 ×2。
+- **新增/改评分数据务必产出 10 分制**（含未来新职业的 ratings seed——目前历史 seed 仍是 1-5，再用时需 ×2 或走迁移）。
+
+### C. AI 字段铺全量（todo#1 执行中）
+- `scripts/gen_ai_insights.py`：缺数据(verdict_zh|cluster 为空)的职业逐个调 `llm.complete_json`（DeepSeek，需 `$env:LLM_PROVIDER="deepseek"`），生成 cluster+4 分(10 分制)+全套文案；adjacent 由 LLM 从「同国职业清单」挑 occ_code 再校验存在才写。逐行 REPLACE，`--limit/--country/--redo`。
+- 跑完后链路：`collect_strings` → `translate_strings`（9 语言）→ `export_site_data` → `npm run build`。
+
 ## 二、关键运维 / 坑
 
 1. DB 远程 MySQL `192.168.194.135` **端口 13306**；连不上让用户启动那台机。配置全读 `.env`。
@@ -75,7 +97,7 @@
 ## 三、当前规模 / 自检
 
 - 职业 **250**（AU 246 + CA 2 + NZ 2）；公职 16；源串 **7801**，9 语言均 7801；构建 **2931 页**；11 分类。
-- 仅 **30 个职业有 ai_graph 数据**（cluster+4 分），仅 **2 个有完整 AI 文案**（532111/254422）→ 图谱/榜单/AI 板块目前只覆盖这些。
+- ~~仅 30 个职业有 ai_graph 数据~~ → **2026-06-20：全部 250 职业均有 cluster+4 分(10 分制)+完整 AI 文案**，已翻 10 语言。AI 图谱矩阵(AU 246 点)、8 个榜单(每榜 ~247 行)、各职业 AI 板块均自动填满（页面数据驱动，重新 export+build 即更新，无需改代码）。源串 7801→**13482**，10 语言均齐（es 曾差 389 已补）。
 
 ```powershell
 # 标准重建链（DB→JSON→build）
@@ -91,6 +113,9 @@ Set-Location E:\work\career-guides-au\site; npm run build   # dev: npm run dev -
 ## 四、待办 / 下一步（重点）
 
 1. **【重点】把 AI 字段铺到全部 250 职业**：用 LLM 按模板批量生成每职业的 `ai_graph`(cluster+4 分) + AI 文案(verdict/replaced/augmented/moat/entry/skills/upgrade/adjacent)，人工抽检；之后图谱/榜单自动填满。
+   - 实现方式（2026-06-19 已定）：新脚本 `scripts/gen_ai_insights.py`，查 `verdict_zh IS NULL OR cluster IS NULL` 的职业，逐个调 `video_pipeline/llm.py:complete_json`（DeepSeek，json_object）按 schema 生成全部字段，校验(cluster∈6类/分数1-5/verdict_type∈3类/列表非空) 后 upsert `occupation_ai`；再 export→translate(走 TM 全 10 语言，中文母本经 `collect_from_bundle` 自动产出 ai_verdict/ai_entry/ai_upgrade/ai_list)→build。
+   - **adjacent 生成（已定）：让 LLM 推荐职业名 → 反查同国 `occ_code` 校验，查不到的丢弃**（不走纯 DB 同分类）。
+   - 建议先试跑 5 个抽检文案语气后再跑全量 ~248（当前仅 30 有 cluster、2 有完整文案）。
 2. **189 获邀分采集**（按职业公布，技工 65 等）→ `occupation_invitation_scores`(visa_subclass='189')；190/491 待定时任务接入各州精确数据。
 3. 定时任务：更新获邀分（占位参考值 → 真实）。
 4. 可选：cluster editorial / rkMethod / About / AI 板块标题 等 UI 文案补全 10 语言（走 translate_ui 或 TM）。

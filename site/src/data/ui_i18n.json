@@ -1,7 +1,7 @@
 {
 "es": {
 "ui": {
-"siteTitle": "Guías de Carreras en AU",
+"siteTitle": "AI Career Graph",
 "tagline": "Guías de ocupación basadas en datos",
 "salary": "Salario",
 "ratings": "Valoraciones",
@@ -91,7 +91,7 @@
 },
 "pt": {
 "ui": {
-"siteTitle": "Guias de Carreira na AU",
+"siteTitle": "AI Career Graph",
 "tagline": "Guias de ocupação baseados em dados",
 "salary": "Salário",
 "ratings": "Avaliações",
@@ -181,7 +181,7 @@
 },
 "vi": {
 "ui": {
-"siteTitle": "Hướng dẫn Nghề nghiệp Úc",
+"siteTitle": "AI Career Graph",
 "tagline": "Hướng dẫn nghề nghiệp dựa trên dữ liệu",
 "salary": "Lương",
 "ratings": "Đánh giá",
@@ -271,7 +271,7 @@
 },
 "th": {
 "ui": {
-"siteTitle": "คู่มืออาชีพในออสเตรเลีย",
+"siteTitle": "AI Career Graph",
 "tagline": "คู่มืออาชีพที่ขับเคลื่อนด้วยข้อมูล",
 "salary": "เงินเดือน",
 "ratings": "คะแนน",
@@ -361,7 +361,7 @@
 },
 "ms": {
 "ui": {
-"siteTitle": "Panduan Kerjaya AU",
+"siteTitle": "AI Career Graph",
 "tagline": "Panduan pekerjaan berasaskan data",
 "salary": "Gaji",
 "ratings": "Penilaian",
@@ -451,7 +451,7 @@
 },
 "id": {
 "ui": {
-"siteTitle": "Panduan Karir AU",
+"siteTitle": "AI Career Graph",
 "tagline": "Panduan pekerjaan berbasis data",
 "salary": "Gaji",
 "ratings": "Peringkat",
@@ -541,7 +541,7 @@
 },
 "zh-Hant": {
 "ui": {
-"siteTitle": "澳洲職業指南",
+"siteTitle": "AI Career Graph",
 "tagline": "數據驅動的職業指南",
 "salary": "薪資",
 "ratings": "評分",
@@ -631,7 +631,7 @@
 },
 "ja": {
 "ui": {
-"siteTitle": "オーストラリアの職業ガイド",
+"siteTitle": "AI Career Graph",
 "tagline": "データに基づく職業ガイド",
 "salary": "給与",
 "ratings": "評価",

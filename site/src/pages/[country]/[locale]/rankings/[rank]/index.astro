@@ -1,7 +1,7 @@
 ---
 import Base from '../../../../../layouts/Base.astro';
 import { COUNTRIES, LOCALES, strings, RANKING_ORDER, rankName, rankSub, rankWhy, rankingList,
-  name, catSlug, aiTag, starOf, seniorSalaryText, seniorMax, trainingMonths, clusterColor, sourcesBody, type Locale } from '../../../../../lib/data';
+  name, catSlug, aiTag, starOf, seniorSalaryText, seniorMax, trainingMonths, clusterColor, sourcesBody, renderStars, type Locale } from '../../../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
@@ -17,7 +17,7 @@ const { key } = Astro.props as { key: string };
 const t = strings(locale);
 const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/rankings/${rank}/` }));
 const items = rankingList(key, country);
-const stars = (n: number | null) => (n ? '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n)) : '—');
+const stars = (n: number | null) => renderStars(n);
 const related = RANKING_ORDER.filter((k) => k !== key);
 ---
 <Base title={`${rankName(key, locale)} · ${t.rkHubTitle}`} description={rankSub(key, locale)} locale={locale} country={country} alternates={alternates}>

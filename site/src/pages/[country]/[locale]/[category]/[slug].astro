@@ -3,7 +3,7 @@ import Base from '../../../../layouts/Base.astro';
 import RatingRadar from '../../../../components/RatingRadar.astro';
 import { COUNTRIES, LOCALES, occupations, catSlug, name, summary, strings, dimLabel, tr,
   radarLabels, radarValues, money, currencyOf, sourcesBody, getBySlug,
-  clusterField, clusterColor, type Locale } from '../../../../lib/data';
+  clusterField, clusterColor, countryTitleName, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
@@ -24,7 +24,6 @@ const i = {
 };
 const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/${catSlug(o.category)}/${o.slug}/` }));
 const radar = [{ name: name(o, locale), color: '#10b981', values: radarValues(o) }];
-const stars = (n: number) => '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n));
 
 // ---- schema.org 结构化数据 ----
 const abs = (p: string) => (Astro.site ? new URL(p, Astro.site).href : p);
@@ -55,7 +54,10 @@ if (o.faqs?.length) ld.push({
     acceptedAnswer: { '@type': 'Answer', text: tr(f.answer, locale) } })),
 });
 ---
-<Base title={`${name(o, locale)}（${o.name_en}）· ${t.siteTitle}`} description={summary(o, locale).slice(0, 150)} locale={locale} country={country} alternates={alternates} jsonLd={ld}>
+<Base title={locale === 'zh-CN'
+    ? `${countryTitleName(country, locale)}${name(o, locale)}：AI替代风险、薪资、移民与未来技能｜AI Career Graph`
+    : `${o.name_en} in ${countryTitleName(country, locale)}: AI Risk, Salary, Migration & Career Path | AI Career Graph`}
+  description={summary(o, locale).slice(0, 150)} locale={locale} country={country} alternates={alternates} jsonLd={ld}>
   <a class="muted" href={`/${country}/${locale}/`}>{t.backHome}</a>
   <h1>{name(o, locale)} <span class="muted" style="font-size:18px">{o.name_en}</span></h1>
   <p>
@@ -66,7 +68,7 @@ if (o.faqs?.length) ld.push({
   <p>{summary(o, locale)}</p>
 
   <h2>{t.ratings}{o.overall_score != null ? ` · ${t.overall} ${o.overall_score}/10` : ''}</h2>
-  <RatingRadar labels={radarLabels(locale)} series={radar} />
+  <RatingRadar labels={radarLabels(locale)} series={radar} max={10} />
 
   {o.ai && (
     <section class="ai-block">
@@ -108,8 +110,8 @@ if (o.faqs?.length) ld.push({
           <div class="ai-scores">
             {[[t.agAuto, o.ai.automation_exposure], [t.agMoat, o.ai.human_moat], [t.agEntry, o.ai.entry_risk], [t.agUpside, o.ai.ai_upside]].map(([lbl, v]) => (
               <div class="scorerow"><span class="scorelbl">{lbl}</span>
-                <span class="scorebar"><span class="scorefill" style={`width:${((Number(v) || 0) / 5) * 100}%`}></span></span>
-                <span class="scoreval">{(Number(v) || 0) * 2}/10</span></div>
+                <span class="scorebar"><span class="scorefill" style={`width:${((Number(v) || 0) / 10) * 100}%`}></span></span>
+                <span class="scoreval">{(Number(v) || 0).toFixed(1)}/10</span></div>
             ))}
           </div>
           <p style="margin:10px 0 0;font-size:13px"><a href={`/${country}/${locale}/ai-graph/#${o.ai.cluster}`} style="color:var(--green);font-weight:600">{t.agViewGraph}</a></p>

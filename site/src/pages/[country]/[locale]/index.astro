@@ -2,7 +2,7 @@
 import Base from '../../../layouts/Base.astro';
 import OccCard from '../../../components/OccCard.astro';
 import { COUNTRIES, LOCALES, byCategory, occByCountry, categoriesFor, name, strings,
-  COMPARE_PAIRS, pairKey, getBySlug, bestMigration, bestIncome, fastestEntry, countryName, type Locale } from '../../../lib/data';
+  COMPARE_PAIRS, pairKey, getBySlug, bestMigration, bestIncome, fastestEntry, countryName, countryTitleName, type Locale } from '../../../lib/data';
 
 export function getStaticPaths() {
   return COUNTRIES.flatMap((country) => LOCALES.map((locale) => ({ params: { country, locale } })));
@@ -34,6 +34,10 @@ const SORTS = [
 const mig = bestMigration(6, country), inc = bestIncome(6, country), fast = fastestEntry(6, country);
 const showCompare = country === 'AU' && COMPARE_PAIRS.length > 0;
 
+const ctn = countryTitleName(country, locale);
+const metaTitle = locale === 'zh-CN'
+  ? `${ctn}AI职业图谱｜薪资、移民、AI替代风险与未来职业路径`
+  : `AI Career Map for ${ctn} | Salary, Migration, AI Risk & Future Routes`;
 const abs = (p: string) => (Astro.site ? new URL(p, Astro.site).href : p);
 const ld = [
   { '@context': 'https://schema.org', '@type': 'WebSite', name: t.siteTitle, description: t.heroValue,
@@ -41,7 +45,7 @@ const ld = [
   { '@context': 'https://schema.org', '@type': 'Organization', name: t.siteTitle, url: abs(`/${country}/${locale}/`) },
 ];
 ---
-<Base title={`${t.siteTitle} · ${country}`} description={t.heroValue} locale={locale} country={country} alternates={alternates} jsonLd={ld}>
+<Base title={metaTitle} description={t.homeMetaDesc} locale={locale} country={country} alternates={alternates} jsonLd={ld}>
   <!-- Hero -->
   <section class="hero">
     <h1>{t.siteTitle}</h1>
@@ -80,7 +84,7 @@ const ld = [
       <span style="color:var(--green);font-weight:700">{t.agViewGraph}</span>
     </a>
   </section>
-  <section>
+  <section style="margin-top:22px">
     <a class="card ai-promo" href={`/${country}/${locale}/rankings/`}>
       <h2 style="margin:0 0 6px">🏆 {t.homeRkTitle}</h2>
       <p class="muted" style="margin:0 0 8px;font-size:14px">{t.homeRkBody}</p>

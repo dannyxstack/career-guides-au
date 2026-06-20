@@ -2,7 +2,7 @@
 import Base from '../../../../layouts/Base.astro';
 import RatingRadar from '../../../../components/RatingRadar.astro';
 import { COUNTRIES, LOCALES, COMPARE_PAIRS, pairKey, getBySlug, name, strings, dimLabel, dimDesc,
-  radarLabels, radarValues, DIM_ORDER, money, type Locale } from '../../../../lib/data';
+  radarLabels, radarValues, DIM_ORDER, money, renderStars, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
@@ -26,7 +26,7 @@ const ma = mid(oa), mb = mid(ob);
 const ratingOf = (o: any) => Object.fromEntries(o.ratings.map((r: any) => [r.dimension, r.stars ?? 0]));
 const ra = ratingOf(oa), rb = ratingOf(ob);
 const title = `${name(oa, locale)} ${t.vs} ${name(ob, locale)}`;
-const stars = (n: number) => '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math.round(n));
+const stars = (n: number) => renderStars(n);
 ---
 <Base title={`${title} · ${t.compareTitle} · ${t.siteTitle}`} description={`${title} ${t.compareTitle}`} locale={locale} country={country} alternates={alternates}>
   <a class="muted" href={`/${country}/${locale}/`}>{t.backHome}</a>
@@ -46,7 +46,7 @@ const stars = (n: number) => '★'.repeat(Math.round(n)) + '☆'.repeat(5 - Math
   </div>
 
   <h2>{t.ratings}</h2>
-  <RatingRadar labels={radarLabels(locale)} series={series} />
+  <RatingRadar labels={radarLabels(locale)} series={series} max={10} />
 
   <h2>{t.salary}</h2>
   <table>
