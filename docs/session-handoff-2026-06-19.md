@@ -82,6 +82,15 @@
 - `scripts/gen_ai_insights.py`：缺数据(verdict_zh|cluster 为空)的职业逐个调 `llm.complete_json`（DeepSeek，需 `$env:LLM_PROVIDER="deepseek"`），生成 cluster+4 分(10 分制)+全套文案；adjacent 由 LLM 从「同国职业清单」挑 occ_code 再校验存在才写。逐行 REPLACE，`--limit/--country/--redo`。
 - 跑完后链路：`collect_strings` → `translate_strings`（9 语言）→ `export_site_data` → `npm run build`。
 
+### D. is_migration 升级为 0/1/2 枚举（2026-06-20）
+- 列注释更新：**0=非技术移民；1=可直接技术移民(189/190/491，也可雇主担保)；2=受限(仅雇主担保482/494或DAMA/劳务协议)**。
+- AU 分类核对：抓取官方 **CSOL PDF**(`immi.homeaffairs.gov.au/Documents/core-sol.pdf`，456 职业)实证核对；22 个 1→2、10 个 1→0、快递司机(732111)→0。AU 现 0=52 / 1=172 / 2=22。
+- **导出坑**：`export_site_data.py` 原把 is_migration `bool()` → 必须 `int()` 输出 0/1/2，否则前端 `===1/===2` 全失效。
+- 前端：`data.ts` Occ.is_migration 改 `number`；cardBadges 1=绿「可技术移民」/2=橙「雇主担保移民」(+hover)；`bestMigration`/`migration_friendly`/OccCard&rankings 的 `data-pr` 全改 `===1`；slug 顶部标签三态 + value2 移民板块加 `migRestrictedNote`；新增 UI 串 `migRestrictedOcc/migRestrictedNote/overallTip/visaCode`(zh/en)。
+- markdown：`md_generator` `_sec_visa(mig)` 三态 + head/tail 三态；受影响 33 个已 `generate_md.py` 重生成。
+- 关于页：新增 `AU_SOURCE_LINKS`（CSOL/Home Affairs 技术清单/DAMA/JSA/ABS ANZSCO），仅 AU 关于页渲染。
+- 评分标题加即时 CSS 信息提示 `.info`（Base.astro 全局）；移民板块顶部显示「提名职业代码」。
+
 ## 二、关键运维 / 坑
 
 1. DB 远程 MySQL `192.168.194.135` **端口 13306**；连不上让用户启动那台机。配置全读 `.env`。

@@ -130,6 +130,18 @@ const langAttr = LANG_ATTR[locale] || 'en';
       .badge-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
       .amber { color: var(--amber); }
       .muted { color: var(--muted); }
+      /* 即时悬浮信息提示（不用浏览器 title，反应灵敏） */
+      .info { position: relative; display: inline-flex; align-items: center; justify-content: center;
+        width: 16px; height: 16px; margin-left: 6px; border-radius: 50%; border: 1px solid var(--muted);
+        color: var(--muted); font-size: 11px; font-style: normal; font-weight: 700; line-height: 1;
+        cursor: help; vertical-align: middle; }
+      .info::after { content: attr(data-tip); position: absolute; bottom: 140%; left: 0;
+        width: max-content; max-width: 300px; background: var(--card); color: var(--white);
+        border: 1px solid var(--line); border-radius: 8px; padding: 8px 10px; font-size: 12px;
+        font-weight: 400; line-height: 1.55; text-align: left; white-space: normal;
+        box-shadow: 0 6px 20px rgba(0,0,0,.28); opacity: 0; visibility: hidden; transition: opacity .1s;
+        z-index: 30; pointer-events: none; }
+      .info:hover::after { opacity: 1; visibility: visible; }
       .grid { display: grid; gap: 14px; }
       .ai-block { display: flex; flex-direction: column; gap: 18px; margin: 10px 0 28px; }
       .ai-block .grid { gap: 18px; }

@@ -1,6 +1,6 @@
 ---
 import Base from '../../../../layouts/Base.astro';
-import { COUNTRIES, LOCALES, strings, sourcesBody, type Locale } from '../../../../lib/data';
+import { COUNTRIES, LOCALES, strings, sourcesBody, AU_SOURCE_LINKS, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
   return COUNTRIES.flatMap((country) => LOCALES.map((locale) => ({ params: { country, locale } })));
@@ -66,11 +66,21 @@ const C = zh ? {
     <div>
       <h2>{C.srch}</h2>
       <p class="muted" style="font-size:13px">{sourcesBody(country, locale)}</p>
+      {country === 'AU' && (
+        <ul class="src-links">
+          {AU_SOURCE_LINKS.map((s) => (
+            <li><a href={s.url} target="_blank" rel="noopener nofollow">{s.label[zh ? 'zh-CN' : 'en']}</a></li>
+          ))}
+        </ul>
+      )}
     </div>
   </section>
 
   <style>
     .about { display: flex; flex-direction: column; gap: 10px; max-width: 760px; }
     .about p { line-height: 1.7; margin: 8px 0; }
+    .src-links { margin: 8px 0 0; padding-left: 18px; font-size: 13px; }
+    .src-links li { margin: 4px 0; }
+    .src-links a { color: var(--green); text-decoration: underline; }
   </style>
 </Base>

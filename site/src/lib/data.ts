@@ -22,6 +22,20 @@ export const countryName = (cc: string, locale: Locale) =>
 const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大' };
 export const countryTitleName = (cc: string, locale: Locale) =>
   locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
+
+// 澳洲移民/职业数据的权威来源链接（用于「关于」页数据来源说明）
+export const AU_SOURCE_LINKS: { label: { 'zh-CN': string; en: string }; url: string }[] = [
+  { label: { 'zh-CN': '澳洲内政部 · 核心技能职业清单（CSOL，PDF）', en: 'Dept of Home Affairs · Core Skills Occupation List (CSOL, PDF)' },
+    url: 'https://immi.homeaffairs.gov.au/Documents/core-sol.pdf' },
+  { label: { 'zh-CN': '澳洲内政部 · 技术职业清单总览', en: 'Dept of Home Affairs · Skilled occupation lists' },
+    url: 'https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list' },
+  { label: { 'zh-CN': '澳洲内政部 · 偏远地区指定移民协议（DAMA）', en: 'Dept of Home Affairs · Designated Area Migration Agreements (DAMA)' },
+    url: 'https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/nominating-a-position/labour-agreements/designated-area-migration-agreements' },
+  { label: { 'zh-CN': 'Jobs and Skills Australia（就业与技能署）', en: 'Jobs and Skills Australia (JSA)' },
+    url: 'https://www.jobsandskills.gov.au/' },
+  { label: { 'zh-CN': '澳洲统计局 · ANZSCO 职业分类', en: 'ABS · ANZSCO occupation classification' },
+    url: 'https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations' },
+];
 export const currencyOf = (country: string) => CURRENCY[country] || 'AUD';
 
 // 翻译记忆解析：中文母本 → 目标语言（回退 en → 原文）
@@ -35,7 +49,7 @@ export function tr(s: string | null | undefined, locale: Locale): string {
 
 export interface Occ {
   id: number; country: string; occ_code: string; occ_code_type: string;
-  anzsco_code: string; category: string; currency?: string; is_migration: boolean; is_public_servant?: boolean; shortage_listed: boolean;
+  anzsco_code: string; category: string; currency?: string; is_migration: number; is_public_servant?: boolean; shortage_listed: boolean;
   workforce_size: number | null; slug: string; name_en: string; growth_areas: string[];
   training_zh: string;
   i18n: Record<string, { name: string; summary: string; forecast_note: string; trend_summary: string }>;
@@ -127,6 +141,8 @@ export const UI: Record<string, Record<string, string>> = {
     homeMetaDesc: 'AI Career Graph 用职业图谱分析 AI 时代的工作风险、薪资、移民路径、入门难度和未来技能，帮助你判断哪些职业会被压缩，哪些会被 AI 放大。',
     agMetaDesc: '查看 AI 时代职业图谱：按自动化风险、人类护城河、执照责任、现场依赖和人际信任，把职业分成高替代、AI增强、强执照、强现场等类型。',
     salary: '薪资范围', ratings: '职业评分', overall: '综合评分', education: '教育路径',
+    overallTip: '综合评分 = 各评分维度的平均分（10 分制）；负向维度（AI 替代风险、竞争、学习难度等）按反向计入，分数越高代表整体越好。评分为综合公开来源的估算，定期更新，仅供参考。',
+    visaCode: '提名职业代码',
     qualifications: '从业资质', visa: '移民路径', suitability: '适合 / 不适合', faq: '常见问题',
     compare: '职业对比', nonMig: '非技术移民职业（不在技术移民清单上）', fit: '适合', unfit: '不适合',
     experience: '经验阶段', annual: '年薪', cost: '费用', code: '职业代码', backHome: '← 全部职业',
@@ -139,7 +155,9 @@ export const UI: Record<string, Record<string, string>> = {
     fPR: '可技术移民', fHigh: '高薪', fShort: '短培训', noResult: '没有匹配的职业',
     sortOverall: '综合评分', sortPay: '资深薪资', sortTrain: '培训时长', sortPR: 'PR 友好度',
     secMigration: '最适合移民', secIncome: '高收入职业', secFast: '最快入行', secCats: '职业大类',
-    migOcc: '技术移民职业', byDim: '逐项对比', dimension: '维度',
+    migOcc: '技术移民职业', migRestrictedOcc: '受限移民职业（仅雇主担保/DAMA）',
+    migRestrictedNote: '本职业不在独立技术移民清单（189/190/491）上，无法直接申请普通技术移民；但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议等通道移民——通道与名额受限，以 Department of Home Affairs 最新规定及 CSOL 清单为准。',
+    byDim: '逐项对比', dimension: '维度',
     stage: '阶段', period: '周期', qualification: '资质', issuer: '发证机构',
     mandatory: '必备', optional: '可选', visaCol: '签证', descCol: '说明',
     nonMigVisa: '签证路径需按具体职责匹配对应 ANZSCO，以 Department of Home Affairs 最新职业清单及相关评估机构结果为准。',
@@ -175,6 +193,8 @@ export const UI: Record<string, Record<string, string>> = {
     homeMetaDesc: 'AI Career Graph maps careers by automation risk, human moat, salary, migration pathways and future skills, helping you plan work in the AI era.',
     agMetaDesc: 'Explore the AI-era career map: occupations grouped by automation risk, human moat, licensing accountability, on-site dependence and human trust — from high-replacement to AI-augmented, licensed and on-site clusters.',
     salary: 'Salary', ratings: 'Ratings', overall: 'Overall', education: 'Education Path',
+    overallTip: 'Overall score = the average of all rating dimensions (out of 10); negative dimensions (AI risk, competition, learning difficulty, etc.) are counted inversely, so a higher score means better overall. Scores are estimates aggregated from public sources, updated periodically and indicative only.',
+    visaCode: 'Nominated occupation code',
     qualifications: 'Qualifications', visa: 'Migration', suitability: 'Who it fits', faq: 'FAQ',
     compare: 'Compare', nonMig: 'Not a skilled migration occupation', fit: 'Fits', unfit: 'Not for',
     experience: 'Experience', annual: 'Annual', cost: 'Cost', code: 'Occupation code', backHome: '← All occupations',
@@ -187,7 +207,9 @@ export const UI: Record<string, Record<string, string>> = {
     fPR: 'PR pathway', fHigh: 'High salary', fShort: 'Short training', noResult: 'No matching occupations',
     sortOverall: 'Overall score', sortPay: 'Senior pay', sortTrain: 'Training time', sortPR: 'PR friendly',
     secMigration: 'Best for migration', secIncome: 'Best high-income careers', secFast: 'Fastest entry careers', secCats: 'Categories',
-    migOcc: 'Skilled migration occupation', byDim: 'By dimension', dimension: 'Dimension',
+    migOcc: 'Skilled migration occupation', migRestrictedOcc: 'Restricted migration (employer-sponsored / DAMA only)',
+    migRestrictedNote: 'This occupation is not on the independent skilled migration lists (189/190/491), so standard points-tested migration is not available; however migration is possible via employer sponsorship (482/494), Designated Area Migration Agreements (DAMA) or labour agreements — pathways and places are limited. Refer to the latest Department of Home Affairs rules and the CSOL.',
+    byDim: 'By dimension', dimension: 'Dimension',
     stage: 'Stage', period: 'Duration', qualification: 'Qualification', issuer: 'Issuer',
     mandatory: 'Required', optional: 'Optional', visaCol: 'Visa', descCol: 'Details',
     nonMigVisa: 'Visa pathways depend on matching the specific duties to the correct ANZSCO; refer to the latest Department of Home Affairs occupation lists and the relevant assessing authorities.',
@@ -450,10 +472,15 @@ function dimStars(o: Occ, dim: string): number | null {
 export function cardBadges(o: Occ, locale: Locale): { text: string; cls: string; title?: string }[] {
   const zh = locale === 'zh-CN';
   const out: { text: string; cls: string; title?: string }[] = [];
-  if (o.is_migration) out.push({
+  if (o.is_migration === 1) out.push({
     text: zh ? '可技术移民' : 'PR pathway', cls: 'mig',
-    title: zh ? '该职业在澳洲技术移民职业清单上，可作为提名职业申请技术移民；与你当前签证身份无关，也不代表「只有 PR 才能从事」。'
-             : 'This occupation is on the Australian skilled migration list and can be nominated for skilled migration — a pathway, not a requirement to already hold PR.',
+    title: zh ? '该职业在澳洲技术移民职业清单上，可作为提名职业申请技术移民（189/190/491）；与你当前签证身份无关，也不代表「只有 PR 才能从事」。'
+             : 'This occupation is on the Australian skilled migration list and can be nominated for skilled migration (189/190/491) — a pathway, not a requirement to already hold PR.',
+  });
+  if (o.is_migration === 2) out.push({
+    text: zh ? '雇主担保移民' : 'Employer-sponsored', cls: 'warn',
+    title: zh ? '该职业不在独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。'
+             : 'Not on the independent skilled migration list (189/190), but migration is possible via employer sponsorship (482/494), Designated Area Migration Agreements (DAMA) or labour agreements — a restricted pathway.',
   });
   if (o.is_public_servant) out.push({
     text: zh ? '公职' : 'Public sector', cls: 'gov',
@@ -462,7 +489,7 @@ export function cardBadges(o: Occ, locale: Locale): { text: string; cls: string;
   });
   // 阈值按 10 分制（原 5 分制阈值 ×2）
   const prd = dimStars(o, 'pr_difficulty');
-  if (o.is_migration && prd != null && prd <= 4) out.push({ text: zh ? '移民门槛低' : 'Easier PR', cls: 'mig' });
+  if (o.is_migration === 1 && prd != null && prd <= 4) out.push({ text: zh ? '移民门槛低' : 'Easier PR', cls: 'mig' });
   const dem = dimStars(o, 'job_demand');
   if (dem != null && dem >= 8) out.push({ text: zh ? '需求大' : 'High demand', cls: 'mig' });
   const ai = dimStars(o, 'ai_risk');
@@ -478,7 +505,7 @@ export function cardBadges(o: Occ, locale: Locale): { text: string; cls: string;
 
 // 精选板块（各取前 N，按国家过滤）
 export function bestMigration(n = 6, country?: string) {
-  return occByCountry(country).filter((o) => o.is_migration)
+  return occByCountry(country).filter((o) => o.is_migration === 1)
     .sort((a, b) => prScore(b) - prScore(a) || (b.overall_score ?? 0) - (a.overall_score ?? 0)).slice(0, n);
 }
 export function bestIncome(n = 6, country?: string) {
@@ -545,7 +572,7 @@ const RANK_SCORE: Record<string, { filter: (o: Occ) => boolean; score: (o: Occ) 
   physical_site: { filter: (o) => o.ai?.cluster === 'physical_site_based', score: (o) => A(o, 'human_moat') + (12 - A(o, 'automation_exposure')) },
   human_trust: { filter: (o) => o.ai?.cluster === 'human_trust_care', score: (o) => A(o, 'human_moat') + rstar(o, 'future_prospect') },
   high_growth: { filter: () => true, score: (o) => rstar(o, 'future_prospect') + rstar(o, 'job_demand') },
-  migration_friendly: { filter: (o) => o.is_migration, score: (o) => rstar(o, 'pr_friendliness') * 2 + (12 - rstar(o, 'pr_difficulty')) + (o.shortage_listed ? 4 : 0) },
+  migration_friendly: { filter: (o) => o.is_migration === 1, score: (o) => rstar(o, 'pr_friendliness') * 2 + (12 - rstar(o, 'pr_difficulty')) + (o.shortage_listed ? 4 : 0) },
   cautious_newbie: { filter: (o) => !!o.ai?.cluster, score: (o) => A(o, 'entry_risk') * 2 + rstar(o, 'competition') + A(o, 'automation_exposure') },
 };
 export function rankingList(key: string, country: string, n?: number): Occ[] {

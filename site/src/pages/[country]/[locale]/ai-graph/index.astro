@@ -17,6 +17,10 @@ const px = (v: number) => mL + ((v - 1) / 9) * (W - mL - mR);
 const py = (v: number) => H - mB - ((v - 1) / 9) * (H - mT - mB);
 // 同分职业抖动避免重叠（确定性）
 const jit = (i: number) => ((i * 53) % 7 - 3) * 7;
+// 把圆点夹在边框内（圆半径 6，留 8px 余量），避免抖动把点推出边框
+const DOT_R = 6, PAD = 8;
+const clampX = (v: number) => Math.max(mL + PAD, Math.min(W - mR - PAD, v));
+const clampY = (v: number) => Math.max(mT + PAD, Math.min(H - mB - PAD, v));
 ---
 <Base title={`${t.agTitle}｜AI Career Graph`} description={t.agMetaDesc} locale={locale} country={country} alternates={alternates}>
   <section class="hero">
@@ -49,6 +53,7 @@ const jit = (i: number) => ((i * 53) % 7 - 3) * 7;
   <section>
     <h2>{t.agMatrix}</h2>
     <div class="matrix-wrap">
+      <div class="matrix-tip" hidden></div>
       <svg viewBox={`0 0 ${W} ${H}`} class="matrix" role="img" aria-label={t.agMatrix}>
         <rect x={mL} y={mT} width={W - mL - mR} height={H - mT - mB} fill="none" stroke="var(--line)" />
         <line x1={px(5.5)} y1={mT} x2={px(5.5)} y2={H - mB} stroke="var(--line)" stroke-dasharray="4 4" />
@@ -60,17 +65,41 @@ const jit = (i: number) => ((i * 53) % 7 - 3) * 7;
         <text x={(mL + W - mR) / 2} y={H - 16} class="axis" text-anchor="middle">{t.agAxisX}</text>
         <text x={16} y={(mT + H - mB) / 2} class="axis" text-anchor="middle" transform={`rotate(-90 16 ${(mT + H - mB) / 2})`}>{t.agAxisY}</text>
         {dots.map((o, i) => {
-          const cx = px(o.ai!.automation_exposure as number) + jit(i);
-          const cy = py(o.ai!.human_moat as number) + jit(i + 3);
+          const cx = clampX(px(o.ai!.automation_exposure as number) + jit(i));
+          const cy = clampY(py(o.ai!.human_moat as number) + jit(i + 3));
+          const col = clusterColor(o.ai!.cluster as string);
           return (
             <a href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>
-              <circle cx={cx} cy={cy} r="6" fill={clusterColor(o.ai!.cluster as string)} fill-opacity="0.85" stroke="#fff" stroke-width="1" />
-              <title>{name(o, locale)}</title>
+              <circle class="dot" cx={cx} cy={cy} r={DOT_R} fill={col} fill-opacity="0.85" stroke="#fff" stroke-width="1"
+                data-name={name(o, locale)} data-color={col} />
             </a>
           );
         })}
       </svg>
     </div>
+    <script is:inline>
+      (function () {
+        var wrap = document.currentScript.closest('section').querySelector('.matrix-wrap');
+        if (!wrap) return;
+        var tip = wrap.querySelector('.matrix-tip');
+        var dots = wrap.querySelectorAll('circle.dot');
+        function show(c) {
+          var wr = wrap.getBoundingClientRect();
+          var r = c.getBoundingClientRect();
+          tip.textContent = c.getAttribute('data-name');
+          tip.style.color = c.getAttribute('data-color');
+          tip.hidden = false;
+          var x = r.left - wr.left + r.width / 2;
+          var y = r.top - wr.top;
+          tip.style.left = x + 'px';
+          tip.style.top = (y - 6) + 'px';
+        }
+        dots.forEach(function (c) {
+          c.addEventListener('mouseenter', function () { show(c); });
+          c.addEventListener('mouseleave', function () { tip.hidden = true; });
+        });
+      })();
+    </script>
   </section>
 
   <!-- 分类详情 -->
@@ -108,8 +137,14 @@ const jit = (i: number) => ((i * 53) % 7 - 3) * 7;
     .cl-card { transition: transform .1s; }
     .cl-card:hover { transform: translateY(-2px); }
     .cl-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
-    .matrix-wrap { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 8px; }
+    .matrix-wrap { position: relative; background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 8px; }
     .matrix { width: 100%; height: auto; }
+    .matrix .dot { cursor: pointer; transition: r .08s; }
+    .matrix .dot:hover { r: 8; fill-opacity: 1; }
+    .matrix-tip { position: absolute; transform: translate(-50%, -100%); pointer-events: none;
+      background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 3px 8px;
+      font-size: 13px; font-weight: 700; white-space: nowrap; z-index: 10;
+      box-shadow: 0 4px 14px rgba(0,0,0,.25); }
     .matrix .quad { fill: var(--muted); font-size: 13px; font-weight: 600; opacity: .7; }
     .matrix .axis { fill: var(--muted); font-size: 12px; }
     .cl-detail { display: flex; flex-direction: column; gap: 14px; margin-top: 28px; padding-top: 8px; }

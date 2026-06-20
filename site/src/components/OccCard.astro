@@ -10,7 +10,7 @@ const search = `${name(o, locale)} ${name(o, 'en')} ${o.name_en} ${o.occ_code} $
    href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}
    data-search={search}
    data-cat={o.category}
-   data-pr={o.is_migration ? 1 : 0}
+   data-pr={o.is_migration === 1 ? 1 : 0}
    data-prscore={prScore(o)}
    data-pay={seniorMax(o)}
    data-train={trainingMonths(o)}

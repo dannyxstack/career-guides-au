@@ -62,12 +62,14 @@ if (o.faqs?.length) ld.push({
   <h1>{name(o, locale)} <span class="muted" style="font-size:18px">{o.name_en}</span></h1>
   <p>
     <span class="tag">{t.code}: {o.anzsco_code || '—'}（{o.occ_code_type}）</span>
-    {o.is_migration ? <span class="tag mig">{t.migOcc}</span> : <span class="tag">{t.nonMig}</span>}
+    {o.is_migration === 1 ? <span class="tag mig">{t.migOcc}</span>
+      : o.is_migration === 2 ? <span class="tag warn">{t.migRestrictedOcc}</span>
+      : <span class="tag">{t.nonMig}</span>}
     {o.overall_score != null && <span class="tag amber">{t.overall} {o.overall_score}/10</span>}
   </p>
   <p>{summary(o, locale)}</p>
 
-  <h2>{t.ratings}{o.overall_score != null ? ` · ${t.overall} ${o.overall_score}/10` : ''}</h2>
+  <h2>{t.ratings}{o.overall_score != null ? ` · ${t.overall} ${o.overall_score}/10` : ''}<span class="info" data-tip={t.overallTip}>i</span></h2>
   <RatingRadar labels={radarLabels(locale)} series={radar} max={10} />
 
   {o.ai && (
@@ -153,10 +155,14 @@ if (o.faqs?.length) ld.push({
 
   <h2>{t.visa}</h2>
   {o.is_migration ? (
+    <>
+    <p class="muted" style="font-size:13px;margin:0 0 8px">{t.visaCode}: <strong>{o.anzsco_code || o.occ_code}</strong>（{o.occ_code_type}）</p>
+    {o.is_migration === 2 && <p class="card muted" style="font-size:13px;margin:0 0 10px">⚠ {t.migRestrictedNote}</p>}
     <table><thead><tr><th>{t.visaCol}</th><th>{t.descCol}</th></tr></thead>
       <tbody>{o.visa.map((v: any) => (
         <tr><td><strong>{v.subclass}</strong> {tr(v.name, locale)}</td><td class="muted">{tr(v.desc, locale)}{v.min_score ? ` · ${t.inviteCutoff.replace('{n}', String(v.min_score)).replace('{asof}', v.score_asof || '')}` : ''}</td></tr>
       ))}</tbody></table>
+    </>
   ) : (
     <p class="card muted">{t.nonMig}. {t.nonMigVisa}</p>
   )}

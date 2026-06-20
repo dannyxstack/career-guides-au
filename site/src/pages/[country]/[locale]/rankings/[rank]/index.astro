@@ -53,7 +53,7 @@ const related = RANKING_ORDER.filter((k) => k !== key);
           {items.map((o, i) => {
             const tag = aiTag(o, locale);
             return (
-              <tr data-pr={o.is_migration ? 1 : 0} data-pay={seniorMax(o)} data-train={trainingMonths(o)}>
+              <tr data-pr={o.is_migration === 1 ? 1 : 0} data-pay={seniorMax(o)} data-train={trainingMonths(o)}>
                 <td class="rk-no">{i + 1}</td>
                 <td><a href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}><strong>{name(o, locale)}</strong></a>
                   <div class="muted" style="font-size:12px">{o.name_en}</div></td>
