@@ -1,6 +1,13 @@
 ---
 import Base from '../../../../layouts/Base.astro';
-import { COUNTRIES, LOCALES, strings, sourcesBody, AU_SOURCE_LINKS, type Locale } from '../../../../lib/data';
+import { COUNTRIES, LOCALES, strings, sourcesBody, AU_SOURCE_LINKS, dimLabel, dimDesc, type Locale } from '../../../../lib/data';
+
+// 11 个评分维度的展示顺序：正向（越高越好）在前，负向（越低越好）在后
+const DIM_ORDER = [
+  'income_level', 'job_demand', 'future_prospect', 'pr_friendliness',
+  'ai_risk', 'competition', 'work_intensity',
+  'learning_difficulty', 'learning_duration', 'certification_difficulty', 'pr_difficulty',
+];
 
 export function getStaticPaths() {
   return COUNTRIES.flatMap((country) => LOCALES.map((locale) => ({ params: { country, locale } })));
@@ -21,6 +28,8 @@ const C = zh ? {
   s3h: '我们如何分析职业',
   s3: ['每个职业按多个维度评分：AI 自动化风险、人类护城河、入门岗位变窄、AI 增强空间、薪资、需求、执照、移民友好度。',
        '「AI 职业图谱」用二维矩阵（AI 自动化程度 × 人类责任/现场依赖）把职业分布可视化；「AI 时代职业榜单」按这些维度给出多个榜单，由公开排序公式自动计算、可复现，不靠人工指定。'],
+  s7h: '11 个评分维度怎么看',
+  s7lead: '每个职业按以下 11 个维度打分（10 分制，详情页展示为星级）。维度分正向与负向两类：正向越高越好，负向越低越好。综合评分会把负向维度反向后再取平均。',
   s4h: '数据来源与方法',
   s4: ['我们综合使用公开数据：招聘平台薪资区间、各国官方职业分类（如 ANZSCO / NOC）、移民主管部门职业清单与就业机构的需求预测，并据此建立职业评分模型。',
        '所有薪资、评分与移民信息均为估算与参考，定期更新，具体以官方最新发布为准。'],
@@ -40,6 +49,8 @@ const C = zh ? {
   s3h: 'How we analyse occupations',
   s3: ['Each occupation is scored across several dimensions: AI automation risk, human moat, entry-level narrowing, AI-augmentation upside, salary, demand, licensing and migration friendliness.',
        'The AI Career Map visualises occupations on a 2D matrix (automation exposure × human accountability/on-site). The AI-era rankings give several lists across these dimensions, computed by transparent, reproducible formulas — not hand-picked.'],
+  s7h: 'The 11 rating dimensions',
+  s7lead: 'Each occupation is scored across the following 11 dimensions (10-point scale, shown as stars on detail pages). Dimensions are either positive or negative: for positive ones higher is better, for negative ones lower is better. The overall score averages them after inverting the negative dimensions.',
   s4h: 'Data sources & methodology',
   s4: ['We aggregate public data: job-platform salary ranges, official occupation classifications (e.g. ANZSCO / NOC), migration authorities’ occupation lists and employment agencies’ demand forecasts, and build a scoring model on top.',
        'All salaries, scores and migration details are estimates and indicative only, updated periodically — always rely on the latest official sources.'],
@@ -57,7 +68,27 @@ const C = zh ? {
   </section>
 
   <section class="about">
-    {[[C.s1h, C.s1], [C.s2h, C.s2], [C.s3h, C.s3], [C.s4h, C.s4], [C.s5h, C.s5], [C.s6h, C.s6]].map(([h, paras]) => (
+    {[[C.s1h, C.s1], [C.s2h, C.s2], [C.s3h, C.s3]].map(([h, paras]) => (
+      <div>
+        <h2>{h}</h2>
+        {(paras as string[]).map((p) => <p>{p}</p>)}
+      </div>
+    ))}
+
+    <div>
+      <h2>{C.s7h}</h2>
+      <p>{C.s7lead}</p>
+      <dl class="dims">
+        {DIM_ORDER.map((dim) => (
+          <div class="dim-row">
+            <dt>{dimLabel(dim, locale)}</dt>
+            <dd>{dimDesc(dim, locale)}</dd>
+          </div>
+        ))}
+      </dl>
+    </div>
+
+    {[[C.s4h, C.s4], [C.s5h, C.s5], [C.s6h, C.s6]].map(([h, paras]) => (
       <div>
         <h2>{h}</h2>
         {(paras as string[]).map((p) => <p>{p}</p>)}
@@ -82,5 +113,10 @@ const C = zh ? {
     .src-links { margin: 8px 0 0; padding-left: 18px; font-size: 13px; }
     .src-links li { margin: 4px 0; }
     .src-links a { color: var(--green); text-decoration: underline; }
+    .dims { margin: 10px 0 0; display: flex; flex-direction: column; gap: 6px; }
+    .dim-row { display: grid; grid-template-columns: 130px 1fr; gap: 12px; align-items: baseline; padding: 6px 0; border-bottom: 1px solid var(--border, #2a2a2a); }
+    .dim-row dt { font-weight: 600; }
+    .dim-row dd { margin: 0; color: var(--muted, #9aa0a6); line-height: 1.6; }
+    @media (max-width: 560px) { .dim-row { grid-template-columns: 1fr; gap: 2px; } }
   </style>
 </Base>

@@ -3,7 +3,7 @@ import Base from '../../../../layouts/Base.astro';
 import RatingRadar from '../../../../components/RatingRadar.astro';
 import { COUNTRIES, LOCALES, occupations, catSlug, name, summary, strings, dimLabel, tr,
   radarLabels, radarValues, money, currencyOf, sourcesBody, getBySlug,
-  clusterField, clusterColor, countryTitleName, type Locale } from '../../../../lib/data';
+  clusterField, clusterColor, countryTitleName, disType, disLevel, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
@@ -69,44 +69,69 @@ if (o.faqs?.length) ld.push({
   </p>
   <p>{summary(o, locale)}</p>
 
-  <h2>{t.ratings}{o.overall_score != null ? ` · ${t.overall} ${o.overall_score}/10` : ''}<span class="info" data-tip={t.overallTip}>i</span></h2>
-  <RatingRadar labels={radarLabels(locale)} series={radar} max={10} />
+  <section data-section="ratings">
+    <h2>{t.ratings}{o.overall_score != null ? ` · ${t.overall} ${o.overall_score}/10` : ''}<span class="info" data-tip={t.overallTip}>i</span></h2>
+    <RatingRadar labels={radarLabels(locale)} series={radar} max={10} />
+  </section>
 
   {o.ai && (
-    <section class="ai-block">
-      <h2>{t.aiTitle.replace('{name}', i.name)}</h2>
+    <section class="ai-block" data-section="ai">
+      <h2 data-section="ai-title">{t.aiTitle.replace('{name}', i.name)}</h2>
       {/* 1. 结论 */}
-      <div class="card ai-verdict">
+      <div class="card ai-verdict" data-section="ai-verdict">
         <span class={`tag ${o.ai.verdict_type === 'compressed' ? 'bad' : o.ai.verdict_type === 'amplified' ? 'mig' : 'warn'}`}>
           {o.ai.verdict_type === 'compressed' ? t.vCompressed : o.ai.verdict_type === 'amplified' ? t.vAmplified : t.vMixed}
         </span>
         <p style="margin:8px 0 0">{tr(o.ai.verdict_zh, locale)}</p>
       </div>
+      {/* 1.5 已经在替代该职业的 AI 工具/产品/研究/新闻 */}
+      {o.ai.disruptors && o.ai.disruptors.length > 0 && (
+        <div class="card" data-section="ai-disruptors">
+          <strong class="amber">🤖 {t.aiDisrupt}</strong>
+          <ul class="disruptors">
+            {o.ai.disruptors.map((d: any) => (
+              <li class="dis-item">
+                <div class="dis-head">
+                  {d.url
+                    ? <a class="dis-name" href={d.url} target="_blank" rel="noopener nofollow">{d.name}</a>
+                    : <span class="dis-name">{d.name}</span>}
+                  <span class="tag dis-type">{disType(d.type, locale)}</span>
+                  <span class={`tag dis-lvl lvl-${d.level}`}>{disLevel(d.level, locale)}</span>
+                  {d.year && <span class="dis-year">{d.year}</span>}
+                </div>
+                {d.scope_zh && <p class="dis-scope">{tr(d.scope_zh, locale)}</p>}
+                {/* 「也影响」跨职业链接暂不展示（数据保留在 d.also，后续 AI 工具栈功能用） */}
+                {d.evidence_url && <a class="dis-src" href={d.evidence_url} target="_blank" rel="noopener nofollow">↗ {t.sources}</a>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
       <div class="grid" style="grid-template-columns:1fr 1fr">
         {/* 2. 替代 3. 增强 */}
-        <div class="card"><strong class="amber">⚠ {t.aiReplaced}</strong>
+        <div class="card" data-section="ai-replaced"><strong class="amber">⚠ {t.aiReplaced}</strong>
           <ul>{o.ai.replaced_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
-        <div class="card"><strong style="color:var(--green)">↑ {t.aiAugmented}</strong>
+        <div class="card" data-section="ai-augmented"><strong style="color:var(--green)">↑ {t.aiAugmented}</strong>
           <ul>{o.ai.augmented_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
       </div>
       {/* 4. 人类护城河 | 5. 未来技能（并排对称） */}
       <div class="grid" style="grid-template-columns:1fr 1fr">
-        <div class="card"><strong style="color:#2563eb">🛡 {t.aiMoat}</strong>
+        <div class="card" data-section="ai-moat"><strong style="color:#2563eb">🛡 {t.aiMoat}</strong>
           <ul>{o.ai.moat_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
-        <div class="card"><strong>{t.aiSkills}</strong>
+        <div class="card" data-section="ai-skills"><strong>{t.aiSkills}</strong>
           <ul>{o.ai.skills_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
       </div>
       {/* 6. 入门变窄 */}
-      <div class="card"><strong>{t.aiEntry}</strong>
+      <div class="card" data-section="ai-entry"><strong>{t.aiEntry}</strong>
         <p class="muted" style="margin:6px 0 0;font-size:14px">{tr(o.ai.entry_narrowing_zh, locale)}</p></div>
       {/* 7. AI 时代升级路线 */}
       {o.ai.upgrade_path_zh && (
-        <div class="card"><strong style="color:var(--green)">🚀 {t.aiUpgrade}</strong>
+        <div class="card" data-section="ai-upgrade"><strong style="color:var(--green)">🚀 {t.aiUpgrade}</strong>
           <p style="margin:6px 0 0;font-size:14px">{tr(o.ai.upgrade_path_zh, locale)}</p></div>
       )}
       {/* 8. 你在 AI 图谱中的位置 */}
       {o.ai.cluster && (
-        <div class="card" style={`border-left:4px solid ${clusterColor(o.ai.cluster)}`}>
+        <div class="card" data-section="ai-position" style={`display:none;border-left:4px solid ${clusterColor(o.ai.cluster)}`}>
           <strong>🧭 {t.agMyPos.replace('{name}', i.name)}</strong>
           <p style="margin:6px 0 8px"><span class="tag" style={`color:${clusterColor(o.ai.cluster)};border-color:${clusterColor(o.ai.cluster)}`}>{clusterField(o.ai.cluster, 'name', locale)}</span></p>
           <div class="ai-scores">
@@ -121,7 +146,7 @@ if (o.faqs?.length) ld.push({
       )}
       {/* 9. 相邻职业 */}
       {o.ai.adjacent.length > 0 && (
-        <div class="card"><strong>{t.aiAdjacent}</strong>
+        <div class="card" data-section="ai-adjacent"><strong>{t.aiAdjacent}</strong>
           <div class="chips" style="margin-top:8px">{o.ai.adjacent.map((j) => (
             <a class="tag mig" href={`/${country}/${locale}/${catSlug(j.category)}/${j.slug}/`}>{name(getBySlug(j.slug, country) || ({} as any), locale) || j.name_en}</a>
           ))}</div></div>
@@ -129,6 +154,7 @@ if (o.faqs?.length) ld.push({
     </section>
   )}
 
+  <section data-section="salary">
   <h2>{t.salary}</h2>
   <table>
     <thead><tr><th>{t.experience}</th><th>{t.annual} ({cur})</th><th></th></tr></thead>
@@ -136,23 +162,25 @@ if (o.faqs?.length) ld.push({
       <tr><td>{tr(s.label, locale)}</td><td class="amber">{money(s.min)} ~ {money(s.max)}</td><td class="muted">{tr(s.note, locale)}</td></tr>
     ))}</tbody>
   </table>
+  </section>
 
-  {o.education.length > 0 && (<>
+  {o.education.length > 0 && (<section data-section="education">
     <h2>{t.education}</h2>
     <table><thead><tr><th>{t.stage}</th><th>{t.period}</th><th>{t.cost} ({cur})</th></tr></thead>
       <tbody>{o.education.map((e: any) => (
         <tr><td>{tr(e.stage, locale)}</td><td>{tr(e.duration, locale) || '—'}</td><td>{e.cost_min ? `${money(e.cost_min)}~${money(e.cost_max)}` : (tr(e.cost_note, locale) || '—')}</td></tr>
       ))}</tbody></table>
-  </>)}
+  </section>)}
 
-  {o.qualifications.length > 0 && (<>
+  {o.qualifications.length > 0 && (<section data-section="qualifications">
     <h2>{t.qualifications}</h2>
     <table><thead><tr><th>{t.qualification}</th><th>{t.issuer}</th><th></th></tr></thead>
       <tbody>{o.qualifications.map((q: any) => (
         <tr><td>{tr(q.name, locale)}</td><td class="muted">{tr(q.issuer, locale) || '—'}</td><td>{q.mandatory ? <span class="tag mig">{t.mandatory}</span> : <span class="tag">{t.optional}</span>}</td></tr>
       ))}</tbody></table>
-  </>)}
+  </section>)}
 
+  <section data-section="visa">
   <h2>{t.visa}</h2>
   {o.is_migration ? (
     <>
@@ -166,16 +194,19 @@ if (o.faqs?.length) ld.push({
   ) : (
     <p class="card muted">{t.nonMig}. {t.nonMigVisa}</p>
   )}
+  </section>
 
+  <section data-section="suitability">
   <h2>{t.suitability}</h2>
   <div class="grid" style="grid-template-columns:1fr 1fr">
-    <div class="card"><strong class="amber" style="color:var(--green)">✓ {t.fit}</strong>
+    <div class="card" data-section="suitability-fit"><strong class="amber" style="color:var(--green)">✓ {t.fit}</strong>
       <ul>{o.suitability.fit.map((x: string) => <li>{tr(x, locale)}</li>)}</ul></div>
-    <div class="card"><strong class="amber">✗ {t.unfit}</strong>
+    <div class="card" data-section="suitability-unfit"><strong class="amber">✗ {t.unfit}</strong>
       <ul>{o.suitability.unfit.map((x: string) => <li>{tr(x, locale)}</li>)}</ul></div>
   </div>
+  </section>
 
-  {(i.trend_summary || i.forecast_note || o.growth_areas.length > 0) && (<>
+  {(i.trend_summary || i.forecast_note || o.growth_areas.length > 0) && (<section data-section="growth">
     <h2>{t.growth}</h2>
     {i.trend_summary && <p>{i.trend_summary}</p>}
     {i.forecast_note && <p class="muted">{i.forecast_note}</p>}
@@ -183,13 +214,32 @@ if (o.faqs?.length) ld.push({
       <p><span class="muted" style="font-size:13px">{t.growthKw}：</span><br />
         {o.growth_areas.map((g: string) => <span class="tag" style="margin:6px 6px 0 0;display:inline-block">{g}</span>)}</p>
     )}
-  </>)}
+  </section>)}
 
-  {o.faqs.length > 0 && (<>
+  {o.faqs.length > 0 && (<section data-section="faq">
     <h2>{t.faq}</h2>
     {o.faqs.map((f: any) => (<div style="margin-bottom:12px"><strong>{tr(f.question, locale)}</strong><div class="muted">{tr(f.answer, locale)}</div></div>))}
-  </>)}
+  </section>)}
 
+  <section data-section="sources">
   <h2>{t.sources}</h2>
   <p class="card muted" style="font-size:13px">{sourcesBody(country, locale)}</p>
+  </section>
+
+  <style>
+    .disruptors { list-style: none; margin: 10px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+    .dis-item { padding: 10px 12px; border: 1px solid var(--border, #2a2a2a); border-radius: 8px; }
+    .dis-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+    .dis-name { font-weight: 700; color: var(--green); text-decoration: none; }
+    .dis-name:hover { text-decoration: underline; }
+    .dis-type { font-size: 12px; }
+    .dis-lvl { font-size: 12px; }
+    .dis-lvl.lvl-partial { color: #d97706; border-color: #d97706; }
+    .dis-lvl.lvl-major { color: #ea580c; border-color: #ea580c; }
+    .dis-lvl.lvl-full { color: #dc2626; border-color: #dc2626; }
+    .dis-year { font-size: 12px; color: var(--muted, #9aa0a6); margin-left: auto; }
+    .dis-scope { margin: 6px 0 0; font-size: 14px; line-height: 1.6; }
+    .dis-also { margin: 8px 0 0; font-size: 13px; color: var(--muted, #9aa0a6); display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+    .dis-src { display: inline-block; margin: 8px 0 0; font-size: 12px; color: var(--muted, #9aa0a6); }
+  </style>
 </Base>

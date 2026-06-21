@@ -113,6 +113,23 @@ export const DIM_LABEL: Record<string, Partial<Record<Locale, string>>> = {
   pr_friendliness: { 'zh-CN': '移民友好度', en: 'PR Friendly' },
   pr_difficulty: { 'zh-CN': '移民难度', en: 'PR Difficulty' },
 };
+// AI 替代工具：类型 / 替代程度 标签（仅 zh-CN/en 母本，其余回退 en）
+const DIS_TYPE: Record<string, Partial<Record<Locale, string>>> = {
+  tool: { 'zh-CN': '工具', en: 'Tool' },
+  platform: { 'zh-CN': '平台', en: 'Platform' },
+  product: { 'zh-CN': '产品', en: 'Product' },
+  model: { 'zh-CN': '模型', en: 'Model' },
+  research: { 'zh-CN': '研究', en: 'Research' },
+  news: { 'zh-CN': '新闻', en: 'News' },
+};
+const DIS_LEVEL: Record<string, Partial<Record<Locale, string>>> = {
+  partial: { 'zh-CN': '部分替代', en: 'Partial' },
+  major: { 'zh-CN': '大幅替代', en: 'Major' },
+  full: { 'zh-CN': '几乎完全替代', en: 'Near-full' },
+};
+export const disType = (k: string, locale: Locale) => DIS_TYPE[k]?.[locale] || DIS_TYPE[k]?.['en'] || k;
+export const disLevel = (k: string, locale: Locale) => DIS_LEVEL[k]?.[locale] || DIS_LEVEL[k]?.['en'] || k;
+
 const UI_I18N = uiI18n as Record<string, { ui?: Record<string, string>; dim?: Record<string, string>; dimdesc?: Record<string, string> }>;
 export const dimLabel = (dim: string, locale: Locale) =>
   DIM_LABEL[dim]?.[locale] || UI_I18N[locale]?.dim?.[dim] || DIM_LABEL[dim]?.['en'] || dim;
@@ -166,6 +183,7 @@ export const UI: Record<string, Record<string, string>> = {
     aiReplaced: 'AI 会接管/替代/消除的任务', aiAugmented: 'AI 会增强的任务', aiMoat: '人类护城河',
     aiEntry: '入门岗位是否变窄', aiSkills: '未来 5 年建议补的技能',
     aiUpgrade: 'AI 时代升级路线', aiAdjacent: '风险高时可考虑的相邻职业',
+    aiDisrupt: '已经在替代这个职业的 AI（工具 / 产品 / 研究 / 新闻）', aiDisruptAlso: '也影响：',
     navHome: '首页', navAbout: '关于', navGraph: 'AI 图谱',
     agTitle: 'AI 职业图谱：哪些工作会被压缩，哪些会被放大？',
     agSubtitle: '我们按任务可自动化程度、执照责任、现场操作、人际信任和监管责任，把职业分成 6 类。',
@@ -218,6 +236,7 @@ export const UI: Record<string, Record<string, string>> = {
     aiReplaced: 'Tasks AI will take over or replace', aiAugmented: 'Tasks AI will augment', aiMoat: 'Human moat',
     aiEntry: 'Entry-level outlook', aiSkills: 'Skills to build (next 5 years)',
     aiUpgrade: 'How to level up in the AI era', aiAdjacent: 'Adjacent careers if risk is high',
+    aiDisrupt: 'AI already replacing this job (tools / products / research / news)', aiDisruptAlso: 'Also affects:',
     navHome: 'Home', navAbout: 'About', navGraph: 'AI map',
     agTitle: 'AI Career Map: which jobs get compressed, which get amplified?',
     agSubtitle: 'We group occupations into 6 clusters by automation exposure, licensing/accountability, on-site work, human trust and regulatory responsibility.',
