@@ -388,6 +388,24 @@ FAQ 为第9部分，固定标题为 `## 9. FAQ 常见问题`，包含 6~10 个�
 钩子标题、关键数字、每天做什么、30 天行动清单、搜索热词、ANZSCO 风险提示这些 DB 没有的内容，
 由 LLM 生成并入库（`platform_contents`，`platform='ppt'`）。schema 见 `prompts.PPT_BRIEF_SCHEMA`。
 
+## 站点前端规则（site/ Astro）
+
+### 国旗渲染规则
+
+所有国旗**必须使用内联 SVG 或静态图片渲染，禁止使用 emoji 国旗**（🇦🇺/🇨🇦/🇳🇿 等区域指示符在 Windows 等平台无字形、不显示）。
+
+- 全站国旗统一来源：`site/src/lib/data.ts` 的 `COUNTRY_FLAG`（`Record<国家码, SVG字符串>`）。新增页面需要国旗时 `import { COUNTRY_FLAG }` 复用，**不要在各页内联重复定义**。
+- 每个国旗 SVG 必须带 `xmlns="http://www.w3.org/2000/svg"`（否则经 `set:html` 注入后在部分场景不渲染），并带 `class="flagsvg"` 供 CSS 控制尺寸。
+- 用法：`<span class="..."><span set:html={COUNTRY_FLAG[cc]} /></span>`，外层用 CSS 设定 `svg { width; height }`。
+
+### 板块标识规则（data-section）
+
+所有页面的 `<section>` 板块、以及 card 级板块（`.card` / 卡片网格中的条目），**必须在 DOM 上加 `data-section="<名字>"` 属性**，便于按名字定位要修改的板块。
+
+- 命名用小写短横线 kebab-case，语义化：大板块如 `hero`、`search`、`countries`、`rankings`、`methodology`；卡片用 `<父板块>-<子名>`，如 `ai-replaced`、`suitability-fit`、`country-card`、`cap-rankings`。
+- 同一板块在循环中重复出现时，可用稳定 key 拼接（如 `rank-low-ai-replacement`、`country-card-au`）。
+- 新增/修改任何页面板块时同步补 `data-section`，保持全站可定位。
+
 ## 输出检查清单
 
 生成最终 Markdown 前检查：

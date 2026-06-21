@@ -47,7 +47,7 @@ const ld = [
 ---
 <Base title={metaTitle} description={t.homeMetaDesc} locale={locale} country={country} alternates={alternates} jsonLd={ld}>
   <!-- Hero -->
-  <section class="hero">
+  <section class="hero" data-section="hero">
     <h1>{t.siteTitle}</h1>
     <p class="hero-value">{t.heroValue}</p>
     <div class="stat-row">
@@ -60,7 +60,7 @@ const ld = [
   </section>
 
   <!-- Search / filters / sort -->
-  <section class="controls" id="controls">
+  <section class="controls" id="controls" data-section="controls">
     <div class="ac-wrap">
       <input id="q" type="search" placeholder={t.searchPh} autocomplete="off" aria-expanded="false" data-noresult={t.noResult} />
       <div id="ac" class="ac" hidden></div>
@@ -77,14 +77,14 @@ const ld = [
   </section>
 
   <!-- AI 职业图谱入口 -->
-  <section>
+  <section data-section="ai-graph-promo">
     <a class="card ai-promo" href={`/${country}/${locale}/ai-graph/`}>
       <h2 style="margin:0 0 6px">🧭 {t.homeAgTitle}</h2>
       <p class="muted" style="margin:0 0 8px;font-size:14px">{t.homeAgBody}</p>
       <span style="color:var(--green);font-weight:700">{t.agViewGraph}</span>
     </a>
   </section>
-  <section style="margin-top:22px">
+  <section style="margin-top:22px" data-section="rankings-promo">
     <a class="card ai-promo" href={`/${country}/${locale}/rankings/`}>
       <h2 style="margin:0 0 6px">🏆 {t.homeRkTitle}</h2>
       <p class="muted" style="margin:0 0 8px;font-size:14px">{t.homeRkBody}</p>
@@ -94,7 +94,7 @@ const ld = [
 
   <!-- Featured comparisons -->
   {showCompare && (
-    <section id="compare">
+    <section id="compare" data-section="compare">
       <h2>{t.compare}</h2>
       <div class="grid grid-cards">
         {COMPARE_PAIRS.map(([a, b]) => {
@@ -110,21 +110,21 @@ const ld = [
   )}
 
   <!-- Curated sections -->
-  <section>
+  <section data-section="best-migration">
     <h2>{t.secMigration}</h2>
     <div class="grid grid-cards">{mig.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
   </section>
-  <section>
+  <section data-section="best-income">
     <h2>{t.secIncome}</h2>
     <div class="grid grid-cards">{inc.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
   </section>
-  <section>
+  <section data-section="fastest-entry">
     <h2>{t.secFast}</h2>
     <div class="grid grid-cards">{fast.map((o) => <OccCard o={o} country={country} locale={locale} />)}</div>
   </section>
 
   <!-- Categories quick-nav -->
-  <section>
+  <section data-section="categories">
     <h2>{t.secCats}</h2>
     <div class="chips">
       {cats.map((c) => (
@@ -134,7 +134,7 @@ const ld = [
   </section>
 
   <!-- All careers (filter/sort target) -->
-  <section id="all-careers">
+  <section id="all-careers" data-section="all-careers">
     <h2>{t.allCareers} <span class="muted" id="count" style="font-size:14px"></span></h2>
     <div class="grid grid-cards" id="all-grid">
       {occs.map((o) => <OccCard o={o} country={country} locale={locale} />)}

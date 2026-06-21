@@ -1,31 +1,27 @@
 ---
-import Base from '../../../../layouts/Base.astro';
-import { COUNTRIES, LOCALES, strings, name, catSlug, AI_CLUSTER_ORDER, AI_CLUSTERS,
-  clusterField, clusterColor, occByCluster, graphOccs, type Locale } from '../../../../lib/data';
+// 全球英文 AI 职业图谱（/en/ai-graph/）：跨国合并所有职业，cluster 框架通用，每点/项标注国家。
+import Base from '../../../layouts/Base.astro';
+import { strings, name, catSlug, AI_CLUSTER_ORDER, AI_CLUSTERS,
+  clusterField, clusterColor, occByClusterGlobal, graphOccsGlobal } from '../../../lib/data';
 
-export function getStaticPaths() {
-  return COUNTRIES.flatMap((country) => LOCALES.map((locale) => ({ params: { country, locale } })));
-}
-const { country, locale } = Astro.params as { country: string; locale: Locale };
+const locale = 'en' as const;
 const t = strings(locale);
-const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/ai-graph/` }));
+const dots = graphOccsGlobal();
 
-const dots = graphOccs(country);
-// 矩阵几何：x=automation_exposure(1-10) y=human_moat(1-10)
 const W = 620, H = 460, mL = 56, mR = 24, mT = 24, mB = 56;
 const px = (v: number) => mL + ((v - 1) / 9) * (W - mL - mR);
 const py = (v: number) => H - mB - ((v - 1) / 9) * (H - mT - mB);
-// 同分职业抖动避免重叠（确定性）
 const jit = (i: number) => ((i * 53) % 7 - 3) * 7;
-// 把圆点夹在边框内（圆半径 6，留 8px 余量），避免抖动把点推出边框
 const DOT_R = 6, PAD = 8;
 const clampX = (v: number) => Math.max(mL + PAD, Math.min(W - mR - PAD, v));
 const clampY = (v: number) => Math.max(mT + PAD, Math.min(H - mB - PAD, v));
+const repName = (o: any) => `${name(o, locale)} · ${o.country}`;
 ---
-<Base title={`${t.agTitle}｜AI Career Graph`} description={t.agMetaDesc} locale={locale} country={country} alternates={alternates}>
+<Base title={`${t.agTitle}｜AI Career Graph`} description={t.agMetaDesc} locale={locale} country="" global={true}>
   <section class="hero" data-section="hero">
     <h1>{t.agTitle}</h1>
     <p class="hero-value">{t.agSubtitle}</p>
+    <p class="muted" style="font-size:13px;margin:6px 0 0">Global view across all countries — each occupation is tagged with its country (AU / CA / NZ).</p>
   </section>
 
   <!-- 6 类总览卡片 -->
@@ -33,7 +29,7 @@ const clampY = (v: number) => Math.max(mT + PAD, Math.min(H - mB - PAD, v));
     <div class="grid grid-cards">
       {AI_CLUSTER_ORDER.map((key) => {
         const c = AI_CLUSTERS[key];
-        const reps = occByCluster(country, key).slice(0, 5);
+        const reps = occByClusterGlobal(key).slice(0, 5);
         return (
           <a class="card cl-card" data-section={`cluster-card-${key}`} href={`#${key}`} style={`border-left:4px solid ${c.color}`}>
             <div class="cl-head">
@@ -69,9 +65,9 @@ const clampY = (v: number) => Math.max(mT + PAD, Math.min(H - mB - PAD, v));
           const cy = clampY(py(o.ai!.human_moat as number) + jit(i + 3));
           const col = clusterColor(o.ai!.cluster as string);
           return (
-            <a href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>
+            <a href={`/${o.country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>
               <circle class="dot" cx={cx} cy={cy} r={DOT_R} fill={col} fill-opacity="0.85" stroke="#fff" stroke-width="1"
-                data-name={name(o, locale)} data-color={col} />
+                data-name={repName(o)} data-color={col} />
             </a>
           );
         })}
@@ -105,7 +101,7 @@ const clampY = (v: number) => Math.max(mT + PAD, Math.min(H - mB - PAD, v));
   <!-- 分类详情 -->
   {AI_CLUSTER_ORDER.map((key) => {
     const c = AI_CLUSTERS[key];
-    const reps = occByCluster(country, key);
+    const reps = occByClusterGlobal(key);
     return (
       <section id={key} class="cl-detail" data-section={`cluster-${key}`}>
         <h2><span class="cl-dot" style={`background:${c.color}`}></span>{clusterField(key, 'name', locale)}
@@ -126,7 +122,7 @@ const clampY = (v: number) => Math.max(mT + PAD, Math.min(H - mB - PAD, v));
         {reps.length > 0 && (
           <div class="card" data-section={`${key}-reps`}><strong>{t.agRepJobs}</strong>
             <div class="chips" style="margin-top:8px">{reps.map((o) => (
-              <a class="tag" href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>{name(o, locale)}</a>
+              <a class="tag" href={`/${o.country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>{repName(o)}</a>
             ))}</div></div>
         )}
       </section>

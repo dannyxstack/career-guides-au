@@ -12,13 +12,13 @@ const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/rank
 const lists = RANKING_ORDER.map((key) => ({ key, items: rankingList(key, country, 6) })).filter((x) => x.items.length > 0);
 ---
 <Base title={t.rkHubTitle} description={t.rkHubSub} locale={locale} country={country} alternates={alternates}>
-  <section class="hero">
+  <section class="hero" data-section="hero">
     <h1>{t.rkHubTitle}</h1>
     <p class="hero-value">{t.rkHubSub}</p>
   </section>
 
   {lists.map(({ key, items }) => (
-    <section>
+    <section data-section={`rank-${key.replace(/_/g, '-')}`}>
       <div class="rk-head">
         <div>
           <h2 style="margin:0">{rankName(key, locale)}</h2>
@@ -32,7 +32,7 @@ const lists = RANKING_ORDER.map((key) => ({ key, items: rankingList(key, country
     </section>
   ))}
 
-  <section>
+  <section data-section="sources">
     <h2>{t.rkSrcTitle}</h2>
     <div class="card muted" style="font-size:13px">
       <p style="margin:0">{t.rkMethod}</p>

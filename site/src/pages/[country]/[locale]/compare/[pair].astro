@@ -32,9 +32,9 @@ const stars = (n: number) => renderStars(n);
   <a class="muted" href={`/${country}/${locale}/`}>{t.backHome}</a>
   <h1>{title}</h1>
 
-  <div class="grid" style="grid-template-columns:1fr 1fr;gap:12px">
+  <section class="grid" data-section="compare-cards" style="grid-template-columns:1fr 1fr;gap:12px">
     {[oa, ob].map((o, idx) => (
-      <a class="card" href={`/${country}/${locale}/${(o.category || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/${o.slug}/`}>
+      <a class="card" data-section={`compare-card-${idx === 0 ? 'a' : 'b'}`} href={`/${country}/${locale}/${(o.category || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/${o.slug}/`}>
         <strong style={`color:${idx === 0 ? '#10b981' : '#f59e0b'}`}>{name(o, locale)}</strong>
         <div class="muted" style="font-size:13px">{o.name_en}</div>
         <div style="margin-top:6px">
@@ -43,11 +43,14 @@ const stars = (n: number) => renderStars(n);
         </div>
       </a>
     ))}
-  </div>
+  </section>
 
+  <section data-section="ratings">
   <h2>{t.ratings}</h2>
   <RatingRadar labels={radarLabels(locale)} series={series} max={10} />
+  </section>
 
+  <section data-section="salary">
   <h2>{t.salary}</h2>
   <table>
     <thead><tr><th></th><th style="color:#10b981">{name(oa, locale)}</th><th style="color:#f59e0b">{name(ob, locale)}</th></tr></thead>
@@ -57,7 +60,9 @@ const stars = (n: number) => renderStars(n);
       <tr><td class="muted">{t.visa}</td><td>{oa.is_migration ? t.migOcc : t.nonMig}</td><td>{ob.is_migration ? t.migOcc : t.nonMig}</td></tr>
     </tbody>
   </table>
+  </section>
 
+  <section data-section="by-dimension">
   <h2>{t.byDim}</h2>
   <table>
     <thead><tr><th>{t.dimension}</th><th style="color:#10b981">{name(oa, locale)}</th><th style="color:#f59e0b">{name(ob, locale)}</th><th>{t.winner}</th></tr></thead>
@@ -71,4 +76,5 @@ const stars = (n: number) => renderStars(n);
     </tbody>
   </table>
   <p class="muted" style="font-size:13px">{t.note}. {t.winnerNote}</p>
+  </section>
 </Base>

@@ -62,20 +62,20 @@ const C = zh ? {
 };
 ---
 <Base title={`${C.title}｜${t.siteTitle}`} description={C.lead} locale={locale} country={country} alternates={alternates}>
-  <section class="hero">
+  <section class="hero" data-section="hero">
     <h1>{C.title}</h1>
     <p class="hero-value">{C.lead}</p>
   </section>
 
-  <section class="about">
-    {[[C.s1h, C.s1], [C.s2h, C.s2], [C.s3h, C.s3]].map(([h, paras]) => (
-      <div>
+  <section class="about" data-section="about">
+    {[[C.s1h, C.s1, 'who-we-are'], [C.s2h, C.s2, 'problem'], [C.s3h, C.s3, 'how-we-analyse']].map(([h, paras, key]) => (
+      <div data-section={key}>
         <h2>{h}</h2>
         {(paras as string[]).map((p) => <p>{p}</p>)}
       </div>
     ))}
 
-    <div>
+    <div data-section="dimensions">
       <h2>{C.s7h}</h2>
       <p>{C.s7lead}</p>
       <dl class="dims">
@@ -88,13 +88,13 @@ const C = zh ? {
       </dl>
     </div>
 
-    {[[C.s4h, C.s4], [C.s5h, C.s5], [C.s6h, C.s6]].map(([h, paras]) => (
-      <div>
+    {[[C.s4h, C.s4, 'sources-methodology'], [C.s5h, C.s5, 'what-we-dont-do'], [C.s6h, C.s6, 'whats-next']].map(([h, paras, key]) => (
+      <div data-section={key}>
         <h2>{h}</h2>
         {(paras as string[]).map((p) => <p>{p}</p>)}
       </div>
     ))}
-    <div>
+    <div data-section="sources">
       <h2>{C.srch}</h2>
       <p class="muted" style="font-size:13px">{sourcesBody(country, locale)}</p>
       {country === 'AU' && (

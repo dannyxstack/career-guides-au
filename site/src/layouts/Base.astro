@@ -1,20 +1,13 @@
 ---
-import { strings, COUNTRIES, countryName, type Locale } from '../lib/data';
+import { strings, COUNTRIES, countryName, COUNTRY_FLAG, type Locale } from '../lib/data';
 interface Alt { locale: string; href: string }
-interface Props { title: string; description?: string; locale: Locale; country: string; alternates?: Alt[]; jsonLd?: any }
-const { title, description = '', locale, country, alternates = [], jsonLd } = Astro.props as Props;
+interface Props { title: string; description?: string; locale: Locale; country: string; alternates?: Alt[]; jsonLd?: any; global?: boolean }
+const { title, description = '', locale, country, alternates = [], jsonLd, global = false } = Astro.props as Props;
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.pathname;
 const ldBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const t = strings(locale);
 const LANG_ATTR: Record<string, string> = { 'zh-CN': 'zh-Hans', 'zh-Hant': 'zh-Hant', en: 'en', es: 'es', pt: 'pt', vi: 'vi', th: 'th', ms: 'ms', id: 'id', ja: 'ja' };
 const LANG_LABEL: Record<string, string> = { 'zh-CN': '简', 'zh-Hant': '繁', en: 'EN', es: 'ES', pt: 'PT', vi: 'VI', th: 'TH', ms: 'MS', id: 'ID', ja: 'JA' };
-// 内联 SVG 国旗（Windows 等无区域指示符 emoji 字形，故不用 🇦🇺）
-const UNION_JACK = `<g clip-path="url(#__cl)"><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#CF142B" stroke-width="3"/><rect x="25" width="10" height="30" fill="#fff"/><rect y="10" width="60" height="10" fill="#fff"/><rect x="27" width="6" height="30" fill="#CF142B"/><rect y="12" width="60" height="6" fill="#CF142B"/></g>`;
-const COUNTRY_FLAG: Record<string, string> = {
-  AU: `<svg class="flagsvg" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="60" fill="#00247D"/><defs><clipPath id="auc"><rect width="60" height="30"/></clipPath></defs>${UNION_JACK.replace('__cl', 'auc')}<circle cx="30" cy="46" r="4.5" fill="#fff"/><circle cx="95" cy="13" r="2.6" fill="#fff"/><circle cx="106" cy="26" r="2.6" fill="#fff"/><circle cx="90" cy="36" r="2.6" fill="#fff"/><circle cx="101" cy="46" r="2.6" fill="#fff"/><circle cx="86" cy="49" r="1.7" fill="#fff"/></svg>`,
-  NZ: `<svg class="flagsvg" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="60" fill="#00247D"/><defs><clipPath id="nzc"><rect width="60" height="30"/></clipPath></defs>${UNION_JACK.replace('__cl', 'nzc')}<circle cx="100" cy="13" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="108" cy="31" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="91" cy="35" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="100" cy="49" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/></svg>`,
-  CA: `<svg class="flagsvg" viewBox="0 0 120 60" xmlns="http://www.w3.org/2000/svg"><rect width="120" height="60" fill="#fff"/><rect width="30" height="60" fill="#D52B1E"/><rect x="90" width="30" height="60" fill="#D52B1E"/><path d="M60,11 l4,9 9,-2 -4,8 5,3 -8,4 1,6 -8,-2 -8,2 1,-6 -8,-4 5,-3 -4,-8 9,2 z" fill="#D52B1E"/></svg>`,
-};
 const langAttr = LANG_ATTR[locale] || 'en';
 ---
 <!doctype html>
@@ -51,24 +44,40 @@ const langAttr = LANG_ATTR[locale] || 'en';
   </head>
   <body>
     <header class="site-head">
-      <a class="brand" href={`/${country}/${locale}/`}>{t.siteTitle}</a>
-      <nav>
-        <a class="navlink" href={`/${country}/${locale}/`}>{t.navHome}</a>
-        <a class="navlink" href={`/${country}/${locale}/ai-graph/`}>{t.navGraph}</a>
-        <a class="navlink" href={`/${country}/${locale}/rankings/`}>{t.navRank}</a>
-        <a class="navlink" href={`/${country}/${locale}/about/`}>{t.navAbout}</a>
-        <span class="nav-sep" aria-hidden="true">|</span>
-        <span class="country-switch">
-          {COUNTRIES.map((cc) => (
-            <a class={cc === country ? 'cty on' : 'cty'} href={`/${cc}/${locale}/`} title={countryName(cc, locale)}><span class="flag" aria-hidden="true" set:html={COUNTRY_FLAG[cc]} />{cc}</a>
+      <a class="brand" href="/">{t.siteTitle}</a>
+      {global ? (
+        <nav>
+          <a class="navlink" href="/">{t.navHome}</a>
+          <a class="navlink" href="/en/ai-graph/">{t.navGraph}</a>
+          <a class="navlink" href="/en/rankings/">{t.navRank}</a>
+          <a class="navlink" href="/en/about/">{t.navAbout}</a>
+          <span class="nav-sep" aria-hidden="true">|</span>
+          <span class="country-switch">
+            {COUNTRIES.map((cc) => (
+              <a class="cty" href={`/${cc}/en/`} title={countryName(cc, 'en')}><span class="flag" aria-hidden="true" set:html={COUNTRY_FLAG[cc]} />{cc}</a>
+            ))}
+          </span>
+          <button id="theme-toggle" class="theme-toggle" type="button" aria-label="theme">🌙</button>
+        </nav>
+      ) : (
+        <nav>
+          <a class="navlink" href={`/${country}/${locale}/`}>{t.navHome}</a>
+          <a class="navlink" href={`/${country}/${locale}/ai-graph/`}>{t.navGraph}</a>
+          <a class="navlink" href={`/${country}/${locale}/rankings/`}>{t.navRank}</a>
+          <a class="navlink" href={`/${country}/${locale}/about/`}>{t.navAbout}</a>
+          <span class="nav-sep" aria-hidden="true">|</span>
+          <span class="country-switch">
+            {COUNTRIES.map((cc) => (
+              <a class={cc === country ? 'cty on' : 'cty'} href={`/${cc}/${locale}/`} title={countryName(cc, locale)}><span class="flag" aria-hidden="true" set:html={COUNTRY_FLAG[cc]} />{cc}</a>
+            ))}
+          </span>
+          <span class="nav-sep" aria-hidden="true">|</span>
+          {(alternates.length ? alternates : [{ locale, href: `/${country}/${locale}/` }]).map((a) => (
+            <a class={a.locale === locale ? 'lang on' : 'lang'} href={a.href}>{LANG_LABEL[a.locale] || a.locale}</a>
           ))}
-        </span>
-        <span class="nav-sep" aria-hidden="true">|</span>
-        {(alternates.length ? alternates : [{ locale, href: `/${country}/${locale}/` }]).map((a) => (
-          <a class={a.locale === locale ? 'lang on' : 'lang'} href={a.href}>{LANG_LABEL[a.locale] || a.locale}</a>
-        ))}
-        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="theme">🌙</button>
-      </nav>
+          <button id="theme-toggle" class="theme-toggle" type="button" aria-label="theme">🌙</button>
+        </nav>
+      )}
     </header>
     <main class="wrap"><slot /></main>
     <footer class="site-foot">{t.tagline} · {t.note}</footer>

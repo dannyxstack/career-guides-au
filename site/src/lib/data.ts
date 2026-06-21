@@ -18,6 +18,14 @@ export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
 };
 export const countryName = (cc: string, locale: Locale) =>
   COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
+
+// 国旗：全站唯一来源，统一用内联 SVG（带 xmlns，含 class="flagsvg" 供 CSS 控制尺寸）。
+// 规则：所有国旗必须用 SVG 或静态图片渲染，禁止使用 emoji 国旗（Windows 等平台无区域指示符字形）。
+export const COUNTRY_FLAG: Record<string, string> = {
+  AU: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#00247D"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#CF142B" stroke-width="3"/><rect x="25" width="10" height="30" fill="#fff"/><rect y="10" width="60" height="10" fill="#fff"/><rect x="27" width="6" height="30" fill="#CF142B"/><rect y="12" width="60" height="6" fill="#CF142B"/><circle cx="30" cy="46" r="4.5" fill="#fff"/><circle cx="95" cy="13" r="2.6" fill="#fff"/><circle cx="106" cy="26" r="2.6" fill="#fff"/><circle cx="90" cy="36" r="2.6" fill="#fff"/><circle cx="101" cy="46" r="2.6" fill="#fff"/><circle cx="86" cy="49" r="1.7" fill="#fff"/></svg>',
+  CA: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><rect width="30" height="60" fill="#D52B1E"/><rect x="90" width="30" height="60" fill="#D52B1E"/><path d="M60,11 l4,9 9,-2 -4,8 5,3 -8,4 1,6 -8,-2 -8,2 1,-6 -8,-4 5,-3 -4,-8 9,2 z" fill="#D52B1E"/></svg>',
+  NZ: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#00247D"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#CF142B" stroke-width="3"/><rect x="25" width="10" height="30" fill="#fff"/><rect y="10" width="60" height="10" fill="#fff"/><rect x="27" width="6" height="30" fill="#CF142B"/><rect y="12" width="60" height="6" fill="#CF142B"/><circle cx="100" cy="13" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="108" cy="31" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="91" cy="35" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="100" cy="49" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/></svg>',
+};
 // 标题/SEO 用的简称（中文用习惯简称「澳洲」；其余语言用全称）
 const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大' };
 export const countryTitleName = (cc: string, locale: Locale) =>
@@ -389,6 +397,10 @@ export const occByCluster = (country: string, cluster: string) =>
   occByCountry(country).filter((o) => o.ai?.cluster === cluster);
 export const graphOccs = (country: string) =>
   occByCountry(country).filter((o) => o.ai?.cluster && o.ai?.automation_exposure != null && o.ai?.human_moat != null);
+// 全球（跨国合并）变体：用于无国家区分的全球 AI 图谱页
+export const graphOccsGlobal = () => graphOccs(undefined as any);
+export const occByClusterGlobal = (cluster: string) =>
+  occupations.filter((o) => o.ai?.cluster === cluster);
 
 export function sourcesBody(country: string, locale: Locale): string {
   const v = SOURCES_BODY[country];
@@ -538,6 +550,11 @@ export function fastestEntry(n = 6, country?: string) {
 export const RANKING_ORDER = [
   'low_ai_replacement', 'ai_augmented_rank', 'licensed_moat', 'physical_site',
   'human_trust', 'high_growth', 'migration_friendly', 'cautious_newbie',
+] as const;
+// 全球（跨国）榜单：仅含与国家地域无强耦合的 AI 相关榜（货币/移民榜留在各国页）
+export const GLOBAL_RANKING_ORDER = [
+  'low_ai_replacement', 'ai_augmented_rank', 'licensed_moat', 'physical_site',
+  'human_trust', 'cautious_newbie',
 ] as const;
 export const RANKINGS: Record<string, { name: Bi; sub: Bi; why: Bi }> = {
   low_ai_replacement: {

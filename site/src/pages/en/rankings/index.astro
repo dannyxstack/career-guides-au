@@ -1,0 +1,78 @@
+---
+// 全球英文 AI 榜单 hub（/en/rankings/）：仅含与国家无强耦合的 AI 相关榜（跨国合并）。
+// 货币/移民/本地需求等地域耦合榜保留在各国 /{cc}/en/rankings/。
+import Base from '../../../layouts/Base.astro';
+import OccCard from '../../../components/OccCard.astro';
+import { strings, GLOBAL_RANKING_ORDER, RANKING_ORDER, rankName, rankSub, rankingList, COUNTRIES, COUNTRY_NAME, COUNTRY_FLAG } from '../../../lib/data';
+
+const locale = 'en' as const;
+const t = strings(locale);
+const lists = GLOBAL_RANKING_ORDER.map((key) => ({ key, items: rankingList(key, undefined as any, 8) })).filter((x) => x.items.length > 0);
+// 地域强耦合榜单（货币/移民/本地需求）：不混排，给国家选择器进各国榜
+const geoKeys = RANKING_ORDER.filter((k) => !GLOBAL_RANKING_ORDER.includes(k as any));
+const flag = COUNTRY_FLAG;
+---
+<Base title={`Global AI Career Rankings｜AI Career Graph`} description="Cross-country rankings of careers by AI replacement risk, AI-augmentation, licensing moat, on-site work and human trust." locale={locale} country="" global={true}>
+  <section class="hero" data-section="hero">
+    <h1>Global AI Career Rankings</h1>
+    <p class="hero-value">How careers compare on AI impact — across all countries. Each card is tagged with its country.</p>
+    <p class="muted" style="font-size:13px;margin:8px 0 0">Salary, migration-friendliness and local-demand rankings depend on each country’s rules and currency, so they live under each country guide:
+      {COUNTRIES.map((cc, i) => <span>{i > 0 ? ' · ' : ' '}<a href={`/${cc}/en/rankings/`} style="color:var(--green)">{cc} rankings →</a></span>)}
+    </p>
+  </section>
+
+  {lists.map(({ key, items }) => (
+    <section data-section={`rank-${key.replace(/_/g, '-')}`}>
+      <div class="rk-head">
+        <div>
+          <h2 style="margin:0">{rankName(key, locale)}</h2>
+          <p class="muted" style="margin:4px 0 0;font-size:14px">{rankSub(key, locale)}</p>
+        </div>
+        <a class="btn" href={`/en/rankings/${key.replace(/_/g, '-')}/`}>{t.rkViewFull}</a>
+      </div>
+      <div class="grid grid-cards">
+        {items.map((o) => <OccCard o={o} country={o.country} locale={locale} showCountry={true} />)}
+      </div>
+    </section>
+  ))}
+
+  <!-- 地域强耦合榜单：与 AI 榜同级，内容为国家选择器（货币/移民/本地需求按国家分开看） -->
+  {geoKeys.map((key) => (
+    <section data-section={`geo-${key.replace(/_/g, '-')}`}>
+      <div class="rk-head">
+        <div>
+          <h2 style="margin:0">{rankName(key, locale)}</h2>
+          <p class="muted" style="margin:4px 0 0;font-size:14px">{rankSub(key, locale)} <span style="opacity:.8">· pick a country</span></p>
+        </div>
+      </div>
+      <div class="geo-countries">
+        {COUNTRIES.map((cc) => (
+          <a class="geo-cty" href={`/${cc}/${locale}/rankings/${key.replace(/_/g, '-')}/`} title={COUNTRY_NAME[cc]?.en || cc}>
+            <span class="geo-flag" set:html={flag[cc]} />{COUNTRY_NAME[cc]?.en || cc} →
+          </a>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <section data-section="sources">
+    <h2>{t.rkSrcTitle}</h2>
+    <div class="card muted" style="font-size:13px">
+      <p style="margin:0">{t.rkMethod}</p>
+      <p style="margin:6px 0 0">Rankings combine AI automation exposure, human moat, entry-risk and AI-upside scores with demand and growth ratings. Estimates only — always check official sources.</p>
+    </div>
+  </section>
+
+  <style>
+    .rk-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 12px; margin: 18px 0 10px; flex-wrap: wrap; }
+    .geo-row { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap;
+      background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; margin-bottom: 10px; }
+    .geo-info { flex: 1 1 240px; }
+    .geo-countries { display: flex; flex-wrap: wrap; gap: 8px; }
+    .geo-cty { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; font-weight: 600;
+      padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); color: var(--white); }
+    .geo-cty:hover { border-color: var(--green); color: var(--green); }
+    .geo-flag { display: inline-flex; }
+    .geo-flag svg { width: 18px; height: 12px; border-radius: 2px; display: block; box-shadow: 0 0 0 1px var(--line); }
+  </style>
+</Base>

@@ -1,7 +1,7 @@
 ---
 import { name, catSlug, seniorSalaryText, seniorMax, trainingMonths, prScore, cardBadges, tr, strings, type Occ, type Locale } from '../lib/data';
-interface Props { o: Occ; country: string; locale: Locale }
-const { o, country, locale } = Astro.props as Props;
+interface Props { o: Occ; country: string; locale: Locale; showCountry?: boolean }
+const { o, country, locale, showCountry = false } = Astro.props as Props;
 const t = strings(locale);
 const pay = seniorSalaryText(o), train = tr(o.training_zh, locale), badges = cardBadges(o, locale);
 const search = `${name(o, locale)} ${name(o, 'en')} ${o.name_en} ${o.occ_code} ${o.anzsco_code}`.toLowerCase();
@@ -19,6 +19,7 @@ const search = `${name(o, locale)} ${name(o, 'en')} ${o.name_en} ${o.occ_code} $
   <strong>{name(o, locale)}</strong>
   <div class="muted" style="font-size:13px">{o.name_en}</div>
   <div class="badge-row">
+    {showCountry && <span class="tag gov">{o.country}</span>}
     {badges.map((b) => <span class={`tag ${b.cls}`} title={b.title}>{b.text}</span>)}
   </div>
   {pay && <div style="margin-top:6px"><span class="amber">{t.seniorPay} {pay}</span></div>}

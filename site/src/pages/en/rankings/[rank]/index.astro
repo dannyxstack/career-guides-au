@@ -1,0 +1,129 @@
+---
+// 全球英文 AI 榜单全量页（/en/rankings/[rank]/）。仅 GLOBAL_RANKING_ORDER；跨国合并、标注国家。
+// 去掉跨币种薪资/移民筛选与列（那些属国家耦合，留在 /{cc}/en/rankings/）。
+import Base from '../../../../layouts/Base.astro';
+import { strings, GLOBAL_RANKING_ORDER, rankName, rankSub, rankWhy, rankingList,
+  name, catSlug, aiTag, starOf, clusterColor, COUNTRIES, COUNTRY_FLAG, renderStars } from '../../../../lib/data';
+
+export function getStaticPaths() {
+  return GLOBAL_RANKING_ORDER.map((key) => ({ params: { rank: key.replace(/_/g, '-') }, props: { key } }));
+}
+const slugRank = (k: string) => k.replace(/_/g, '-');
+const locale = 'en' as const;
+const { rank } = Astro.params as { rank: string };
+const { key } = Astro.props as { key: string };
+const t = strings(locale);
+const raw = rankingList(key, undefined as any);
+// 合并多国同名职业为一行（按英文名），country 列汇总各国；指标取排名最高（首现）那条
+const seen = new Map<string, { rep: any; countries: any[] }>();
+const merged: { rep: any; countries: any[] }[] = [];
+for (const o of raw) {
+  const k = o.name_en.trim().toLowerCase();
+  const hit = seen.get(k);
+  if (hit) hit.countries.push(o);
+  else { const row = { rep: o, countries: [o] }; seen.set(k, row); merged.push(row); }
+}
+const slug2 = (k: string) => k.replace(/_/g, '-');
+const stars = (n: number | null) => renderStars(n);
+const related = GLOBAL_RANKING_ORDER.filter((k) => k !== key);
+---
+<Base title={`${rankName(key, locale)} · Global｜AI Career Graph`} description={rankSub(key, locale)} locale={locale} country="" global={true}>
+  <section class="hero" data-section="hero">
+    <h1>{rankName(key, locale)}</h1>
+    <p class="hero-value">{rankSub(key, locale)}</p>
+    <p class="muted" style="margin:8px 0 0;font-size:14px">{rankWhy(key, locale)}</p>
+    <p class="muted" style="font-size:13px;margin:6px 0 0">Global ranking across all countries.</p>
+  </section>
+
+  <!-- 国家筛选（默认全选） -->
+  <section class="controls" data-section="filter">
+    <span class="filter-label">Countries:</span>
+    {COUNTRIES.map((cc) => (
+      <label class="ck"><input type="checkbox" class="cty-filter" value={cc} checked />
+        <span class="ck-flag" set:html={COUNTRY_FLAG[cc]} />{cc}</label>
+    ))}
+  </section>
+
+  <section data-section="ranking-table">
+    <div class="rk-table-wrap">
+      <table class="rk-table">
+        <thead><tr>
+          <th>{t.rkRank}</th><th>{t.dimension}</th><th>Country</th><th>{t.rkAiRisk}</th>
+          <th>{t.agMoat}</th><th>{t.rkGrowth}</th><th>{t.rkReason}</th>
+        </tr></thead>
+        <tbody id="rk-body">
+          {merged.map((row, i) => {
+            const o = row.rep;
+            const tag = aiTag(o, locale);
+            return (
+              <tr data-countries={row.countries.map((c) => c.country).join(',')}>
+                <td class="rk-no">{i + 1}</td>
+                <td><a href={`/${o.country}/${locale}/${catSlug(o.category)}/${o.slug}/`}><strong>{name(o, locale)}</strong></a>
+                  <div class="muted" style="font-size:12px">{o.name_en}</div></td>
+                <td><span class="cty-tags">{row.countries.map((c) => (
+                  <a class="tag gov cty-link" href={`/${c.country}/${locale}/rankings/${slug2(key)}/`} title={`${c.country} ranking`}>{c.country}</a>
+                ))}</span></td>
+                <td>{stars(starOf(o, 'ai_risk'))}</td>
+                <td>{o.ai?.human_moat != null ? `${o.ai.human_moat * 2}/10` : '—'}</td>
+                <td>{stars(starOf(o, 'future_prospect'))}</td>
+                <td>{tag ? <span class="tag" style={`color:${clusterColor(o.ai!.cluster as string)};border-color:${clusterColor(o.ai!.cluster as string)}`}>{tag.text}</span> : '—'}</td>
+              </tr>
+            );
+          })}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <section data-section="related">
+    <h2>{t.rkRelated}</h2>
+    <div class="chips">
+      {related.map((k) => <a class="tag" href={`/en/rankings/${slugRank(k)}/`}>{rankName(k, locale)}</a>)}
+    </div>
+  </section>
+
+  <section data-section="sources">
+    <h2>{t.rkSrcTitle}</h2>
+    <div class="card muted" style="font-size:13px">
+      <p style="margin:0">{t.rkMethod}</p>
+      <p style="margin:6px 0 0">Rankings combine AI automation exposure, human moat, entry-risk and AI-upside with demand and growth ratings. Estimates only — always check official sources.</p>
+    </div>
+  </section>
+
+  <script is:inline>
+    (function () {
+      var boxes = Array.prototype.slice.call(document.querySelectorAll('.cty-filter'));
+      var rows = Array.prototype.slice.call(document.querySelectorAll('#rk-body tr'));
+      function apply() {
+        var sel = {};
+        boxes.forEach(function (b) { if (b.checked) sel[b.value] = 1; });
+        var n = 0;
+        rows.forEach(function (r) {
+          var ccs = (r.getAttribute('data-countries') || '').split(',');
+          var show = ccs.some(function (c) { return sel[c]; });
+          r.style.display = show ? '' : 'none';
+          if (show) { n++; var no = r.querySelector('.rk-no'); if (no) no.textContent = n; }
+        });
+      }
+      boxes.forEach(function (b) { b.addEventListener('change', apply); });
+    })();
+  </script>
+
+  <style>
+    .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin: 8px 0 4px; }
+    .filter-label { color: var(--muted); font-size: 14px; font-weight: 600; }
+    .ck { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; cursor: pointer; }
+    .ck input { cursor: pointer; }
+    .ck-flag svg { width: 18px; height: 12px; border-radius: 2px; display: block; box-shadow: 0 0 0 1px var(--line); }
+    .rk-table-wrap { overflow: visible; }
+    .rk-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+    .rk-table th, .rk-table td { padding: 8px 10px; border-bottom: 1px solid var(--line); text-align: left; vertical-align: top; }
+    .rk-table thead th { position: sticky; top: 0; z-index: 3; background: var(--bg); box-shadow: inset 0 -1px 0 var(--line); }
+    .rk-table th { color: var(--muted); font-weight: 600; white-space: nowrap; }
+    .rk-no { font-weight: 700; color: var(--muted); }
+    .cty-tags { display: inline-flex; flex-wrap: wrap; gap: 4px; }
+    .cty-link { cursor: pointer; }
+    .cty-link:hover { color: var(--green); border-color: var(--green); }
+    @media (max-width: 640px) { .rk-table-wrap { overflow-x: auto; } }
+  </style>
+</Base>
