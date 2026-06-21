@@ -110,7 +110,7 @@ const related = GLOBAL_RANKING_ORDER.filter((k) => k !== key);
   </script>
 
   <style>
-    .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin: 8px 0 4px; }
+    .controls { display: flex; flex-wrap: wrap; align-items: center; gap: 14px; margin: 8px 0 4px; position: static; }
     .filter-label { color: var(--muted); font-size: 14px; font-weight: 600; }
     .ck { display: inline-flex; align-items: center; gap: 6px; font-size: 14px; cursor: pointer; }
     .ck input { cursor: pointer; }
@@ -124,6 +124,7 @@ const related = GLOBAL_RANKING_ORDER.filter((k) => k !== key);
     .cty-tags { display: inline-flex; flex-wrap: wrap; gap: 4px; }
     .cty-link { cursor: pointer; }
     .cty-link:hover { color: var(--green); border-color: var(--green); }
-    @media (max-width: 640px) { .rk-table-wrap { overflow-x: auto; } }
+    /* 窄屏让表头换行而非给 wrap 加 overflow（overflow 会破坏 thead 吸顶）*/
+    @media (max-width: 640px) { .rk-table th { white-space: normal; } }
   </style>
 </Base>

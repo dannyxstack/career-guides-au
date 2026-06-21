@@ -126,6 +126,7 @@ const related = RANKING_ORDER.filter((k) => k !== key);
       box-shadow: inset 0 -1px 0 var(--line); }
     .rk-table th { color: var(--muted); font-weight: 600; white-space: nowrap; }
     .rk-no { font-weight: 700; color: var(--muted); }
-    @media (max-width: 640px) { .rk-table-wrap { overflow-x: auto; } }
+    /* 窄屏让表头换行而非给 wrap 加 overflow（overflow 会破坏 thead 吸顶）*/
+    @media (max-width: 640px) { .rk-table th { white-space: normal; } }
   </style>
 </Base>
