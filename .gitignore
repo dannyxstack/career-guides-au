@@ -1,0 +1,20 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# logs & run artifacts
+*.log
+*.err
+.codex_tmp/
+
+# local agent config
+.claude/
+
+# node
+node_modules/
+site/dist/
+site/node_modules/

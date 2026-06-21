@@ -1,0 +1,22 @@
+{
+  "name": "career-video-remotion",
+  "version": "0.1.0",
+  "private": true,
+  "description": "数据驱动的职业介绍视频渲染（Remotion）",
+  "scripts": {
+    "studio": "remotion studio",
+    "render:short": "remotion render src/index.ts Short out/preview-short.mp4",
+    "upgrade": "remotion upgrade"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.475",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "remotion": "4.0.475",
+    "zod": "3.23.8"
+  },
+  "devDependencies": {
+    "@types/react": "19.0.0",
+    "typescript": "5.5.4"
+  }
+}

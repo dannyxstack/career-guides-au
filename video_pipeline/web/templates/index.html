@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="card">
+  <form method="get" style="display:flex;gap:10px;align-items:center;">
+    <span class="muted">按类别筛选：</span>
+    <select name="category" onchange="this.form.submit()">
+      <option value="">全部</option>
+      {% for c in categories %}
+        <option value="{{ c }}" {% if c == current_category %}selected{% endif %}>{{ c }}</option>
+      {% endfor %}
+    </select>
+    <span class="muted">共 {{ occupations|length }} 个职业</span>
+  </form>
+</div>
+
+<div class="card">
+  <table>
+    <thead>
+      <tr><th>职业</th><th>ANZSCO</th><th>类别</th><th>已有内容</th><th>生成大纲 / PPT</th></tr>
+    </thead>
+    <tbody>
+      {% for o in occupations %}
+      <tr>
+        <td><strong>{{ o.name_zh or o.name_en }}</strong>
+            <div class="muted">{{ o.name_en }}</div></td>
+        <td class="muted">{{ o.anzsco_code }}</td>
+        <td class="muted">{{ o.category }}</td>
+        <td>
+          {% for c in content_index.get(o.id, []) %}
+            <a href="/outline/{{ c.id }}">
+              <span class="tag {{ c.status }}">{{ platform_labels.get(c.platform, c.platform) }} · {{ c.status }}</span>
+            </a>
+          {% else %}
+            <span class="muted">—</span>
+          {% endfor %}
+        </td>
+        <td>
+          <div style="display:flex;gap:6px;align-items:center;">
+            <form method="post" action="/generate" style="display:flex;gap:6px;">
+              <input type="hidden" name="occupation_id" value="{{ o.id }}">
+              <select name="platform">
+                <option value="tiktok_short">竖屏短视频</option>
+                <option value="youtube_long">横屏长视频</option>
+              </select>
+              <button class="btn" type="submit">生成大纲</button>
+            </form>
+            <a class="btn" href="/ppt/{{ o.id }}" title="生成并下载该职业 PPTX（约十几秒）">生成 PPT</a>
+          </div>
+        </td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

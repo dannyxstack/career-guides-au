@@ -1,0 +1,11 @@
+# 视频流水线依赖（在仓库已有 pymysql / python-dotenv 之外新增）
+anthropic>=0.40.0
+openai>=1.40.0          # OpenAI + DeepSeek（OpenAI 兼容接口）
+azure-cognitiveservices-speech>=1.40.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+jinja2>=3.1.0
+python-multipart>=0.0.9
+python-pptx>=1.0.0      # 职业 PPT 生成（occupation-ppt skill）
+pillow>=10.0.0          # PPT 图片处理
+requests>=2.31.0        # Pexels 图片检索

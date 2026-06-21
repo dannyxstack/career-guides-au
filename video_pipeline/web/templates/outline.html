@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% block title %}大纲预览 · {{ outline.title if outline else content.id }}{% endblock %}
+{% block content %}
+
+<div class="card">
+  <div style="display:flex;justify-content:space-between;align-items:center;">
+    <div>
+      <h2 style="margin:0 0 4px;">{{ outline.title if outline else '（无标题）' }}</h2>
+      <span class="muted">
+        {{ platform_labels.get(content.platform, content.platform) }} ·
+        预计 {{ outline.est_duration_sec if outline else '?' }} 秒 ·
+      </span>
+      <span class="tag {{ content.status }}">{{ content.status }}</span>
+    </div>
+    <div style="display:flex;gap:8px;">
+      {% if content.status != 'approved' and content.status != 'published' %}
+        <form method="post" action="/outline/{{ content.id }}/approve">
+          <button class="btn green" type="submit">✓ 审批通过</button>
+        </form>
+      {% endif %}
+      {% if content.status == 'approved' %}
+        <form method="post" action="/outline/{{ content.id }}/render"
+              onsubmit="this.querySelector('button').textContent='渲染中…';">
+          <button class="btn amber" type="submit">▶ 渲染视频</button>
+        </form>
+      {% endif %}
+    </div>
+  </div>
+  {% if outline and outline.hook %}
+    <p style="margin-top:12px;"><span class="muted">Hook：</span>{{ outline.hook }}</p>
+  {% endif %}
+</div>
+
+{% if job %}
+<div class="card">
+  <strong>最近渲染任务 #{{ job.id }}</strong>
+  <span class="tag {{ 'approved' if job.status=='done' else 'reviewing' }}">{{ job.status }}</span>
+  {% if job.status == 'done' and job.output_url %}
+    <div style="margin-top:10px;">
+      <video src="/out/{{ job.output_url.split('\\')[-1].split('/')[-1] }}"
+             controls style="max-height:480px;border-radius:8px;"></video>
+      <div><a class="btn ghost" href="/out/{{ job.output_url.split('\\')[-1].split('/')[-1] }}" download>下载 mp4</a></div>
+    </div>
+  {% elif job.status == 'failed' %}
+    <pre class="err" style="white-space:pre-wrap;">{{ job.error_msg }}</pre>
+  {% endif %}
+</div>
+{% endif %}
+
+<div class="card">
+  <h3 style="margin-top:0;">分场景大纲</h3>
+  {% for s in (outline.scenes if outline else []) %}
+    <div class="scene">
+      <div class="meta">#{{ loop.index }} · [{{ s.id }}] {{ s.name }} · {{ s.duration_sec }}s
+        {% if s.broll_hint %}· 🎞 {{ s.broll_hint }}{% endif %}</div>
+      <div>{{ s.narration }}</div>
+    </div>
+  {% endfor %}
+</div>
+
+<div class="card">
+  <details>
+    <summary class="muted" style="cursor:pointer;">编辑大纲 JSON（高级）</summary>
+    <form method="post" action="/outline/{{ content.id }}/save" style="margin-top:12px;">
+      <textarea name="body">{{ outline_json }}</textarea>
+      <div style="margin-top:10px;"><button class="btn" type="submit">保存修改</button></div>
+    </form>
+  </details>
+</div>
+{% endblock %}
