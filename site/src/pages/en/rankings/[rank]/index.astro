@@ -23,7 +23,6 @@ for (const o of raw) {
   if (hit) hit.countries.push(o);
   else { const row = { rep: o, countries: [o] }; seen.set(k, row); merged.push(row); }
 }
-const slug2 = (k: string) => k.replace(/_/g, '-');
 const stars = (n: number | null) => renderStars(n);
 const related = GLOBAL_RANKING_ORDER.filter((k) => k !== key);
 ---
@@ -61,7 +60,7 @@ const related = GLOBAL_RANKING_ORDER.filter((k) => k !== key);
                 <td><a href={`/${o.country}/${locale}/${catSlug(o.category)}/${o.slug}/`}><strong>{name(o, locale)}</strong></a>
                   <div class="muted" style="font-size:12px">{o.name_en}</div></td>
                 <td><span class="cty-tags">{row.countries.map((c) => (
-                  <a class="tag gov cty-link" href={`/${c.country}/${locale}/rankings/${slug2(key)}/`} title={`${c.country} ranking`}>{c.country}</a>
+                  <span class="tag gov" title={c.country}>{c.country}</span>
                 ))}</span></td>
                 <td>{stars(starOf(o, 'ai_risk'))}</td>
                 <td>{o.ai?.human_moat != null ? `${o.ai.human_moat * 2}/10` : '—'}</td>
@@ -122,8 +121,6 @@ const related = GLOBAL_RANKING_ORDER.filter((k) => k !== key);
     .rk-table th { color: var(--muted); font-weight: 600; white-space: nowrap; }
     .rk-no { font-weight: 700; color: var(--muted); }
     .cty-tags { display: inline-flex; flex-wrap: wrap; gap: 4px; }
-    .cty-link { cursor: pointer; }
-    .cty-link:hover { color: var(--green); border-color: var(--green); }
     /* 窄屏让表头换行而非给 wrap 加 overflow（overflow 会破坏 thead 吸顶）*/
     @media (max-width: 640px) { .rk-table th { white-space: normal; } }
   </style>

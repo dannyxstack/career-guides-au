@@ -1,0 +1,130 @@
+# Precision Metal Trades Worker（Precision Metal Trades Worker）职业分析 · 新西兰
+
+**职业代码：323214 – Precision Metal Trades Worker。**
+
+Precision Metal Trades Workers (CNC Machinists) are in steady demand in Auckland and Waikato manufacturing, eligible for Skilled Migrant Category and Green List, requiring median wage or certification.
+
+---
+
+## 1. 教育路径 / 周期 / 费用
+
+**学习难度：中等偏难（★★★½☆）。**
+
+| 阶段 | 周期 | 费用（AUD） |
+|---|---|---:|
+| 证书（Level 4） | 1年 | $8,000~$12,000（公立理工学院，如Toi Ohomai，含材料费） |
+| 大专（Level 5-6） | 2年 | $20,000~$35,000（Unitec或WelTec，国际生学费） |
+| 学徒制 | 3-4年 | —（雇主资助，期间带薪，仅教材费） |
+
+---
+
+## 2. 考证难度 / 从业资质
+
+**考证难度：中等（★★½☆☆）。**
+
+| 资质 | 发证机构 | 是否必备 | 备注 |
+|---|---|---|---|
+| 新西兰国家证书（Level 4）精密金属加工 | NZQA / 培训机构 | 必备 | 通常必修，涵盖CNC操作、编程 |
+| CNC编程认证（Mastercam/Fusion 360） | Autodesk / 认证中心 | 可选 | 非强制，但雇主优先 |
+| 工地安全卡（Site Safe） | Site Safe NZ | 可选 | 若在建筑工地工作必备 |
+
+---
+
+## 3. 职位需求量 / 竞争度 / 工作强度
+
+**职位需求量：较高（★★★★☆）。** 全国从业人数约 4,500。新西兰制造业回迁和国防订单带动数控技工需求，奥克兰/基督城机会多。2024-2028年岗位增速约2%-3%，但面临AI自动化替代风险。薪酬中位数约6万纽币。
+
+**竞争度：中等（★★½☆☆）。**
+**工作强度：较高（★★★½☆）。**
+
+---
+
+## 4. 收入范围（学徒 / 中级 / 资深）
+
+| 经验水平 | 年薪（NZD） | 备注 |
+|---|---:|---|
+| 初级（0-3年） | $48,000~$55,000 | 大部分为学徒或刚毕业 |
+| 中级（3-6年） | $58,000~$70,000 | 能独立编程操作 |
+| 高级（6年以上） | $75,000~$95,000 | 多轴编程、精密模具 |
+
+---
+
+## 5. 未来趋势 / AI替代概率
+
+**发展前景：稳定（★★★☆☆）。** 初级操作员→编程员→高级技师/主管→生产经理。也可转型模具设计或质量控制，或成立合同制造公司。薪资随CNC多轴编程能力提升。
+**AI替代风险：中高（★★★★☆）。**
+
+主要增长方向：
+
+- Green List Tier 2
+- Skilled Migrant Category
+- AEWV
+- Manufacturing
+
+---
+
+## 6. 移民路径 / PR难度
+
+**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+
+| 签证类别 | 说明 |
+|---|---|
+| Subclass Green List T2（Work to Residence - Green List） | 符合绿色清单二级职业，工作2年后可申请居留，年薪需达中位数（约6万纽币） |
+| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，学历、工作经验得分，需有雇主offer且薪资达标 |
+| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适合非紧缺岗位，最长3年，可续签 |
+
+**PR难度：中等（★★½☆☆）。**
+
+---
+
+## 7. 适合人群 / 不适合人群
+
+**谁适合学Precision Metal Trades Worker？**
+- 喜欢动手操作、对机械加工有耐心的人
+- 希望走技术移民、愿意从学徒做起的新移民
+- 善于编程和精密测量，有量化思维的人
+
+**谁不适合学Precision Metal Trades Worker？**
+- 追求高薪暴富、厌恶重复性流水线工作的人
+- 无法适应车间噪音、油污环境的人
+
+---
+
+## 8. 数据来源
+
+| 来源 | 内容 |
+|---|---|
+| careers.govt.nz | ANZSCO 薪资与需求 |
+
+---
+
+## 快速结论
+
+| 维度 | 评级 |
+|---|---|
+| 学习周期 | 中（1-2年）（★★½☆☆） |
+| 学习难度 | 中等偏难（★★★½☆） |
+| 考证难度 | 中等（★★½☆☆） |
+| 职位需求量 | 较高（★★★★☆） |
+| 竞争度 | 中等（★★½☆☆） |
+| 收入水平 | 中低（★★☆☆☆） |
+| 工作强度 | 较高（★★★½☆） |
+| 发展前景 | 稳定（★★★☆☆） |
+| AI替代风险 | 中高（★★★★☆） |
+| PR友好度 | 高（★★★★☆） |
+| PR难度 | 中等（★★½☆☆） |
+
+Precision Metal Trades Worker的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+
+---
+
+## 9. FAQ 常见问题
+
+**问：What is the salary for CNC machinists in NZ?**
+答：Entry-level: NZ$48,000-55,000; mid: $58,000-70,000; senior: $75,000-95,000. Overtime and shift allowances common.
+
+**问：Is CNC machinist a good pathway to NZ residency?**
+答：Yes, it's Green List Tier 2 (work 2 years then residence) or SMC 6-points. Requires employer support and median wage (~NZ$60,000).
+
+**问：What qualifications are needed to work as a CNC machinist in NZ?**
+答：Typically NZ National Certificate in Precision Metal Trades (Level 4). Some employers require CNC programming certification (e.g., Mastercam) and Site Safety card.

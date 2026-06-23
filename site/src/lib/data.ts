@@ -551,10 +551,10 @@ export const RANKING_ORDER = [
   'low_ai_replacement', 'ai_augmented_rank', 'licensed_moat', 'physical_site',
   'human_trust', 'high_growth', 'migration_friendly', 'cautious_newbie',
 ] as const;
-// 全球（跨国）榜单：仅含与国家地域无强耦合的 AI 相关榜（货币/移民榜留在各国页）
+// 全球（跨国）榜单：全部榜单均跨国合并、按国家标签呈现（不再保留各国独立榜单页）
 export const GLOBAL_RANKING_ORDER = [
   'low_ai_replacement', 'ai_augmented_rank', 'licensed_moat', 'physical_site',
-  'human_trust', 'cautious_newbie',
+  'human_trust', 'high_growth', 'migration_friendly', 'cautious_newbie',
 ] as const;
 export const RANKINGS: Record<string, { name: Bi; sub: Bi; why: Bi }> = {
   low_ai_replacement: {

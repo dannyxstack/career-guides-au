@@ -10,7 +10,7 @@
 CREATE TABLE IF NOT EXISTS occupations (
   id               INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
   anzsco_code      VARCHAR(20)  NOT NULL UNIQUE COMMENT 'ANZSCO 职业代码，如 341111',
-  anzsco_title     VARCHAR(100) NOT NULL        COMMENT '英文职业标准名',
+  anzsco_title     VARCHAR(150) NOT NULL        COMMENT '英文职业标准名',
   category         VARCHAR(50)                  COMMENT '职业大类：技工 / 医疗 / IT / 教育',
   workforce_size   INT                          COMMENT '全国从业人数估算',
   shortage_listed  TINYINT(1)   DEFAULT 0       COMMENT '是否在短缺清单 1=是',
@@ -27,7 +27,7 @@ CREATE TABLE IF NOT EXISTS occupations_i18n (
   id              INT UNSIGNED AUTO_INCREMENT PRIMARY KEY,
   occupation_id   INT UNSIGNED NOT NULL         COMMENT '关联 occupations.id',
   locale          VARCHAR(10)  NOT NULL          COMMENT 'zh-CN / en / ko',
-  name            VARCHAR(100) NOT NULL          COMMENT '职业名称',
+  name            VARCHAR(150) NOT NULL          COMMENT '职业名称',
   summary         TEXT                           COMMENT '标题下1~2行简介',
   forecast_note   VARCHAR(500)                   COMMENT '需求缺口预测描述',
   trend_summary   TEXT                           COMMENT '未来趋势描述',
