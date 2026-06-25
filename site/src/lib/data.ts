@@ -5,7 +5,7 @@ import translations from '../data/translations.json';
 import uiI18n from '../data/ui_i18n.json';
 
 export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja';
-export const COUNTRIES = ['AU', 'NZ', 'CA'] as const;
+export const COUNTRIES = ['AU', 'NZ', 'CA', 'US'] as const;
 export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja'];
 export const DEFAULT = { country: 'AU', locale: 'zh-CN' as Locale };
 // 国家 -> 本币代码（薪资/费用展示用）
@@ -15,6 +15,7 @@ export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   AU: { 'zh-CN': '澳大利亚', en: 'Australia' },
   NZ: { 'zh-CN': '新西兰', en: 'New Zealand' },
   CA: { 'zh-CN': '加拿大', en: 'Canada' },
+  US: { 'zh-CN': '美国', en: 'United States' },
 };
 export const countryName = (cc: string, locale: Locale) =>
   COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
@@ -25,9 +26,10 @@ export const COUNTRY_FLAG: Record<string, string> = {
   AU: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#00247D"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#CF142B" stroke-width="3"/><rect x="25" width="10" height="30" fill="#fff"/><rect y="10" width="60" height="10" fill="#fff"/><rect x="27" width="6" height="30" fill="#CF142B"/><rect y="12" width="60" height="6" fill="#CF142B"/><circle cx="30" cy="46" r="4.5" fill="#fff"/><circle cx="95" cy="13" r="2.6" fill="#fff"/><circle cx="106" cy="26" r="2.6" fill="#fff"/><circle cx="90" cy="36" r="2.6" fill="#fff"/><circle cx="101" cy="46" r="2.6" fill="#fff"/><circle cx="86" cy="49" r="1.7" fill="#fff"/></svg>',
   CA: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><rect width="30" height="60" fill="#D52B1E"/><rect x="90" width="30" height="60" fill="#D52B1E"/><path d="M60,11 l4,9 9,-2 -4,8 5,3 -8,4 1,6 -8,-2 -8,2 1,-6 -8,-4 5,-3 -4,-8 9,2 z" fill="#D52B1E"/></svg>',
   NZ: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#00247D"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#CF142B" stroke-width="3"/><rect x="25" width="10" height="30" fill="#fff"/><rect y="10" width="60" height="10" fill="#fff"/><rect x="27" width="6" height="30" fill="#CF142B"/><rect y="12" width="60" height="6" fill="#CF142B"/><circle cx="100" cy="13" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="108" cy="31" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="91" cy="35" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="100" cy="49" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/></svg>',
+  US: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><g fill="#B22234"><rect width="120" height="4.62"/><rect y="9.23" width="120" height="4.62"/><rect y="18.46" width="120" height="4.62"/><rect y="27.69" width="120" height="4.62"/><rect y="36.92" width="120" height="4.62"/><rect y="46.15" width="120" height="4.62"/><rect y="55.38" width="120" height="4.62"/></g><rect width="48" height="32.31" fill="#3C3B6E"/><g fill="#fff"><circle cx="6" cy="5" r="1.4"/><circle cx="16" cy="5" r="1.4"/><circle cx="26" cy="5" r="1.4"/><circle cx="36" cy="5" r="1.4"/><circle cx="11" cy="11" r="1.4"/><circle cx="21" cy="11" r="1.4"/><circle cx="31" cy="11" r="1.4"/><circle cx="41" cy="11" r="1.4"/><circle cx="6" cy="17" r="1.4"/><circle cx="16" cy="17" r="1.4"/><circle cx="26" cy="17" r="1.4"/><circle cx="36" cy="17" r="1.4"/><circle cx="11" cy="23" r="1.4"/><circle cx="21" cy="23" r="1.4"/><circle cx="31" cy="23" r="1.4"/><circle cx="41" cy="23" r="1.4"/><circle cx="6" cy="29" r="1.4"/><circle cx="16" cy="29" r="1.4"/><circle cx="26" cy="29" r="1.4"/><circle cx="36" cy="29" r="1.4"/></g></svg>',
 };
 // 标题/SEO 用的简称（中文用习惯简称「澳洲」；其余语言用全称）
-const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大' };
+const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国' };
 export const countryTitleName = (cc: string, locale: Locale) =>
   locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
 
@@ -167,14 +169,14 @@ export const UI: Record<string, Record<string, string>> = {
     agMetaDesc: '查看 AI 时代职业图谱：按自动化风险、人类护城河、执照责任、现场依赖和人际信任，把职业分成高替代、AI增强、强执照、强现场等类型。',
     salary: '薪资范围', ratings: '职业评分', overall: '综合评分', education: '教育路径',
     overallTip: '综合评分 = 各评分维度的平均分（10 分制）；负向维度（AI 替代风险、竞争、学习难度等）按反向计入，分数越高代表整体越好。评分为综合公开来源的估算，定期更新，仅供参考。',
-    visaCode: '提名职业代码',
+    visaCode: '职业分类代码',
     qualifications: '从业资质', visa: '移民路径', suitability: '适合 / 不适合', faq: '常见问题',
     compare: '职业对比', nonMig: '非技术移民职业（不在技术移民清单上）', fit: '适合', unfit: '不适合',
     experience: '经验阶段', annual: '年薪', cost: '费用', code: '职业代码', backHome: '← 全部职业',
     growth: '职业前景', growthKw: '增长方向 / 热词', compareTitle: '对比', vs: 'vs', winner: '更优', note: '估算数据，仅供参考',
     sources: '数据来源', sourcesBody: '本页薪资为综合 Seek、Indeed、Glassdoor、ERI SalaryExpert 等招聘平台公开区间的估算；就业与需求预测引用 Jobs and Skills Australia（JSA）及澳洲统计局（ABS）；签证与移民信息以澳大利亚内政部（Department of Home Affairs）最新职业清单及相关评估机构为准。数据仅供参考，请以官方最新发布为准。',
     seniorPay: '资深薪资', training: '培训周期',
-    heroValue: '按薪资、PR 移民路径、培训时长、职位需求与「被 AI 替代风险」来探索澳洲职业。',
+    heroValue: '按薪资、PR 移民路径、培训时长、职位需求与「被 AI 替代风险」来探索职业。',
     ctaBrowse: '浏览全部职业', ctaCompare: '对比两个职业',
     searchPh: '搜索职业…', sortBy: '排序', allCareers: '全部职业',
     fPR: '可技术移民', fHigh: '高薪', fShort: '短培训', noResult: '没有匹配的职业',
@@ -220,14 +222,14 @@ export const UI: Record<string, Record<string, string>> = {
     agMetaDesc: 'Explore the AI-era career map: occupations grouped by automation risk, human moat, licensing accountability, on-site dependence and human trust — from high-replacement to AI-augmented, licensed and on-site clusters.',
     salary: 'Salary', ratings: 'Ratings', overall: 'Overall', education: 'Education Path',
     overallTip: 'Overall score = the average of all rating dimensions (out of 10); negative dimensions (AI risk, competition, learning difficulty, etc.) are counted inversely, so a higher score means better overall. Scores are estimates aggregated from public sources, updated periodically and indicative only.',
-    visaCode: 'Nominated occupation code',
+    visaCode: 'Occupation classification code',
     qualifications: 'Qualifications', visa: 'Migration', suitability: 'Who it fits', faq: 'FAQ',
     compare: 'Compare', nonMig: 'Not a skilled migration occupation', fit: 'Fits', unfit: 'Not for',
     experience: 'Experience', annual: 'Annual', cost: 'Cost', code: 'Occupation code', backHome: '← All occupations',
     growth: 'Career outlook', growthKw: 'Growth areas', compareTitle: 'Compare', vs: 'vs', winner: 'Higher', note: 'Estimated data, indicative only',
     sources: 'Data sources', sourcesBody: 'Salary ranges are estimates aggregated from public listings on Seek, Indeed, Glassdoor and ERI SalaryExpert; employment and demand forecasts cite Jobs and Skills Australia (JSA) and the Australian Bureau of Statistics (ABS); visa and migration details follow the latest occupation lists from the Department of Home Affairs and the relevant assessing authorities. Figures are indicative only — always refer to the latest official sources.',
     seniorPay: 'Senior pay', training: 'Training',
-    heroValue: 'Explore Australian careers by salary, PR pathway, training time, job demand, and AI replacement risk.',
+    heroValue: 'Explore careers by salary, PR pathway, training time, job demand, and AI replacement risk.',
     ctaBrowse: 'Browse careers', ctaCompare: 'Compare two careers',
     searchPh: 'Search occupation…', sortBy: 'Sort', allCareers: 'All careers',
     fPR: 'PR pathway', fHigh: 'High salary', fShort: 'Short training', noResult: 'No matching occupations',
@@ -283,6 +285,48 @@ const SOURCES_BODY: Record<string, { 'zh-CN': string; en: string }> = {
   NZ: {
     'zh-CN': '本页薪资为综合 Seek NZ、Trade Me Jobs、Glassdoor、PayScale 等公开区间的估算；就业与需求预测引用新西兰统计局（Stats NZ）及商业、创新与就业部（MBIE）；移民信息以新西兰移民局（Immigration New Zealand）的 Green List 及技术移民（SMC / AEWV）最新规则为准。数据仅供参考，请以官方最新发布为准。',
     en: 'Salary ranges are estimates aggregated from public listings on Seek NZ, Trade Me Jobs, Glassdoor and PayScale; employment and demand outlook cite Stats NZ and MBIE; immigration details follow the latest Immigration New Zealand Green List and skilled migration (SMC / AEWV) rules. Figures are indicative only — always refer to the latest official sources.',
+  },
+  US: {
+    'zh-CN': '本页薪资为综合 Indeed、Glassdoor、ERI SalaryExpert 及美国劳工统计局（BLS OEWS）等公开区间的估算；就业与需求预测引用美国劳工统计局（BLS Occupational Outlook）及 O*NET；签证与移民信息以美国公民及移民服务局（USCIS）的工作签证（H-1B / O-1 / L-1）与职业移民绿卡（EB-2 / EB-3，含劳工部 PERM 劳工证）最新规则为准。数据仅供参考，请以官方最新发布为准。',
+    en: 'Salary ranges are estimates aggregated from public listings on Indeed, Glassdoor, ERI SalaryExpert and the U.S. Bureau of Labor Statistics (BLS OEWS); employment and demand outlook cite the BLS Occupational Outlook and O*NET; visa and migration details follow the latest USCIS work-visa (H-1B / O-1 / L-1) and employment-based green-card (EB-2 / EB-3, incl. DOL PERM labor certification) rules. Figures are indicative only — always refer to the latest official sources.',
+  },
+};
+// 移民/签证文案：按国家区分（AU 走 UI 字典的 10 语言；US/NZ/CA 给 zh/en，其余语言经 tr() 回退 en）。
+// 各国签证类别为公开事实；不在此杜撰个案资格，仅指明通道与主管部门。
+interface MigText { restrictedOcc: Bi; mig1Tip: Bi; mig2Tip: Bi; restrictedNote: Bi; nonMigVisa: Bi; }
+const MIG_TEXT: Record<string, MigText> = {
+  US: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（仅雇主担保）', en: 'Restricted migration (employer-sponsored only)' },
+    mig1Tip: { 'zh-CN': '该职业通常支持美国「工作签证→职业移民绿卡」通道（H-1B 工签，后续 EB-2 / EB-3 绿卡）；这是一条移民路径，并非保证，也不代表「只有绿卡才能从事」。以 USCIS 最新规定为准。',
+               en: 'This occupation commonly supports US work-to-green-card pathways (H-1B, then EB-2 / EB-3) — a pathway, not a guarantee, and not a requirement to already hold a green card. Refer to USCIS.' },
+    mig2Tip: { 'zh-CN': '该职业较难走常规职业移民，但可通过雇主担保（H-1B 工签后申请 EB-3 绿卡，含 PERM 劳工证）移民——名额与配额紧张。以 USCIS 最新规定为准。',
+               en: 'Standard employment-based migration is harder for this occupation, but it is possible via employer sponsorship (H-1B then EB-3, incl. PERM labor certification) — caps and quotas are tight. Refer to USCIS.' },
+    restrictedNote: { 'zh-CN': '本职业不在常见的快速职业移民通道上，无法直接积分移民；但可通过雇主担保（H-1B 工签 + EB-3 绿卡，含劳工部 PERM 劳工证）移民——名额与配额受限，以 USCIS 最新规定为准。',
+                      en: 'This occupation is not on a fast employment-based track and has no points-tested route; however migration is possible via employer sponsorship (H-1B + EB-3, incl. DOL PERM labor certification) — caps and quotas are limited. Refer to the latest USCIS rules.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配相应申请类别，以美国公民及移民服务局（USCIS）最新规定及对应申请类别结果为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the right petition category; refer to the latest USCIS rules and the relevant category.' },
+  },
+  NZ: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（仅雇主担保 / AEWV）', en: 'Restricted migration (employer-sponsored / AEWV only)' },
+    mig1Tip: { 'zh-CN': '该职业在新西兰移民局（INZ）的 Green List 或技术移民（SMC）通道上，是一条居留路径；与你当前签证身份无关，也不代表「只有居民才能从事」。以 INZ 最新规定为准。',
+               en: "This occupation is on Immigration New Zealand's Green List or skilled migration (SMC) pathway — a residence pathway, not a requirement to already hold residence. Refer to INZ." },
+    mig2Tip: { 'zh-CN': '该职业不在 Green List 直接居留通道上，但可通过认证雇主工签（AEWV）等通道，后续申请居留——通道受限。以 INZ 最新规定为准。',
+               en: 'Not on the Green List straight-to-residence track, but migration is possible via an accredited-employer work visa (AEWV) then residence — a restricted pathway. Refer to INZ.' },
+    restrictedNote: { 'zh-CN': '本职业不在 Green List 直接居留通道上，无法直接技术移民；但可通过认证雇主工签（AEWV）等通道后续申请居留——通道与名额受限，以新西兰移民局（INZ）最新规定为准。',
+                      en: 'This occupation is not on the Green List straight-to-residence track, so direct skilled migration is unavailable; however migration is possible via an accredited-employer work visa (AEWV) then residence — pathways and places are limited. Refer to the latest Immigration New Zealand rules.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 ANZSCO，以新西兰移民局（Immigration New Zealand）最新职业清单及相关规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct ANZSCO; refer to the latest Immigration New Zealand occupation lists and rules.' },
+  },
+  CA: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（仅雇主担保 / LMIA）', en: 'Restricted migration (employer-sponsored / LMIA only)' },
+    mig1Tip: { 'zh-CN': '该职业支持加拿大技术移民（快速通道 Express Entry / 省提名 PNP），是一条移民路径；与你当前签证身份无关，也不代表「只有 PR 才能从事」。以 IRCC 最新规定为准。',
+               en: 'This occupation supports Canadian skilled migration (Express Entry / Provincial Nominee Program) — a pathway, not a requirement to already hold PR. Refer to IRCC.' },
+    mig2Tip: { 'zh-CN': '该职业较难直接走快速通道，但可通过雇主担保（LMIA 工签）或省提名（PNP）通道移民——通道受限。以 IRCC 最新规定为准。',
+               en: 'Direct Express Entry may be harder, but migration is possible via employer sponsorship (LMIA work permit) or a Provincial Nominee Program (PNP) — a restricted pathway. Refer to IRCC.' },
+    restrictedNote: { 'zh-CN': '本职业较难直接走快速通道（Express Entry），但可通过雇主担保（LMIA 工签）或省提名（PNP）通道移民——通道与名额受限，以加拿大移民部（IRCC）最新规定为准。',
+                      en: 'Direct Express Entry may be unavailable for this occupation, but migration is possible via employer sponsorship (LMIA work permit) or a Provincial Nominee Program (PNP) — pathways and places are limited. Refer to the latest IRCC rules.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 NOC，以加拿大移民部（IRCC）最新规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct NOC; refer to the latest IRCC rules.' },
   },
 };
 // ───────────────────────── AI 职业图谱：6 大类 ─────────────────────────
@@ -409,6 +453,21 @@ export function sourcesBody(country: string, locale: Locale): string {
   return strings(locale).sourcesBody; // AU：走 UI 字典的多语言文案
 }
 
+// 移民/签证文案取值：US/NZ/CA 走 MIG_TEXT（zh-CN 母本经 tr() 解析其余语言），AU/其它回退 UI 字典 10 语言。
+function migText(country: string | undefined, key: keyof MigText, locale: Locale): string {
+  const v = country ? MIG_TEXT[country]?.[key] : undefined;
+  if (v) return locale === 'zh-CN' ? v['zh-CN'] : (TM[v['zh-CN']] ? tr(v['zh-CN'], locale) : v.en);
+  // AU/默认：复用 UI 字典里对应的澳洲文案键
+  const fallback: Record<keyof MigText, keyof ReturnType<typeof strings>> = {
+    restrictedOcc: 'migRestrictedOcc', restrictedNote: 'migRestrictedNote', nonMigVisa: 'nonMigVisa',
+    mig1Tip: 'migRestrictedNote', mig2Tip: 'migRestrictedNote', // tip 仅 cardBadges 用，AU 用其内联文案，不会走到此分支
+  };
+  return strings(locale)[fallback[key]] as string;
+}
+export const migRestrictedOccOf = (country: string, locale: Locale) => migText(country, 'restrictedOcc', locale);
+export const migRestrictedNoteOf = (country: string, locale: Locale) => migText(country, 'restrictedNote', locale);
+export const nonMigVisaOf = (country: string, locale: Locale) => migText(country, 'nonMigVisa', locale);
+
 // 精选对比配对（同类高价值），仅保留两端都存在的
 const RAW_PAIRS: [string, string][] = [
   ['web-developer', 'software-engineer'],
@@ -503,14 +562,17 @@ function dimStars(o: Occ, dim: string): number | null {
 export function cardBadges(o: Occ, locale: Locale): { text: string; cls: string; title?: string }[] {
   const zh = locale === 'zh-CN';
   const out: { text: string; cls: string; title?: string }[] = [];
+  const migTip = MIG_TEXT[o.country];
   if (o.is_migration === 1) out.push({
     text: zh ? '可技术移民' : 'PR pathway', cls: 'mig',
-    title: zh ? '该职业在澳洲技术移民职业清单上，可作为提名职业申请技术移民（189/190/491）；与你当前签证身份无关，也不代表「只有 PR 才能从事」。'
+    title: migTip ? (zh ? migTip.mig1Tip['zh-CN'] : migTip.mig1Tip.en)
+         : zh ? '该职业在澳洲技术移民职业清单上，可作为提名职业申请技术移民（189/190/491）；与你当前签证身份无关，也不代表「只有 PR 才能从事」。'
              : 'This occupation is on the Australian skilled migration list and can be nominated for skilled migration (189/190/491) — a pathway, not a requirement to already hold PR.',
   });
   if (o.is_migration === 2) out.push({
     text: zh ? '雇主担保移民' : 'Employer-sponsored', cls: 'warn',
-    title: zh ? '该职业不在独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。'
+    title: migTip ? (zh ? migTip.mig2Tip['zh-CN'] : migTip.mig2Tip.en)
+         : zh ? '该职业不在独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。'
              : 'Not on the independent skilled migration list (189/190), but migration is possible via employer sponsorship (482/494), Designated Area Migration Agreements (DAMA) or labour agreements — a restricted pathway.',
   });
   if (o.is_public_servant) out.push({

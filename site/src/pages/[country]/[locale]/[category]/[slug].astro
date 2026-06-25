@@ -3,6 +3,7 @@ import Base from '../../../../layouts/Base.astro';
 import RatingRadar from '../../../../components/RatingRadar.astro';
 import { COUNTRIES, LOCALES, occupations, catSlug, name, summary, strings, dimLabel, tr,
   radarLabels, radarValues, money, currencyOf, sourcesBody, getBySlug,
+  migRestrictedOccOf, migRestrictedNoteOf, nonMigVisaOf,
   clusterField, clusterColor, countryTitleName, disType, disLevel, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
@@ -33,9 +34,9 @@ const salMax = sal.length ? Math.max(...sal) : null;
 const ld: any[] = [{
   '@context': 'https://schema.org', '@type': 'Occupation',
   name: name(o, locale), description: summary(o, locale),
-  occupationalCategory: o.anzsco_code ? `ANZSCO ${o.anzsco_code}` : undefined,
-  occupationLocation: { '@type': 'Country', name: 'Australia' },
-  ...(salMax ? { estimatedSalary: { '@type': 'MonetaryAmountDistribution', name: 'base', currency: 'AUD',
+  occupationalCategory: (o.anzsco_code || o.occ_code) ? `${o.occ_code_type} ${o.anzsco_code || o.occ_code}` : undefined,
+  occupationLocation: { '@type': 'Country', name: countryTitleName(country, 'en') },
+  ...(salMax ? { estimatedSalary: { '@type': 'MonetaryAmountDistribution', name: 'base', currency: currencyOf(country),
     median: salMax && salMin ? Math.round((salMin + salMax) / 2) : salMax, percentile10: salMin, percentile90: salMax } } : {}),
   educationRequirements: o.education.map((e: any) => tr(e.stage, locale)).filter(Boolean).join('; ') || undefined,
   skills: (o.growth_areas || []).join(', ') || undefined,
@@ -63,7 +64,7 @@ if (o.faqs?.length) ld.push({
   <p>
     <span class="tag">{t.code}: {o.anzsco_code || '—'}（{o.occ_code_type}）</span>
     {o.is_migration === 1 ? <span class="tag mig">{t.migOcc}</span>
-      : o.is_migration === 2 ? <span class="tag warn">{t.migRestrictedOcc}</span>
+      : o.is_migration === 2 ? <span class="tag warn">{migRestrictedOccOf(country, locale)}</span>
       : <span class="tag">{t.nonMig}</span>}
     {o.overall_score != null && <span class="tag amber">{t.overall} {o.overall_score}/10</span>}
   </p>
@@ -185,14 +186,14 @@ if (o.faqs?.length) ld.push({
   {o.is_migration ? (
     <>
     <p class="muted" style="font-size:13px;margin:0 0 8px">{t.visaCode}: <strong>{o.anzsco_code || o.occ_code}</strong>（{o.occ_code_type}）</p>
-    {o.is_migration === 2 && <p class="card muted" style="font-size:13px;margin:0 0 10px">⚠ {t.migRestrictedNote}</p>}
+    {o.is_migration === 2 && <p class="card muted" style="font-size:13px;margin:0 0 10px">⚠ {migRestrictedNoteOf(country, locale)}</p>}
     <table><thead><tr><th>{t.visaCol}</th><th>{t.descCol}</th></tr></thead>
       <tbody>{o.visa.map((v: any) => (
         <tr><td><strong>{v.subclass}</strong> {tr(v.name, locale)}</td><td class="muted">{tr(v.desc, locale)}{v.min_score ? ` · ${t.inviteCutoff.replace('{n}', String(v.min_score)).replace('{asof}', v.score_asof || '')}` : ''}</td></tr>
       ))}</tbody></table>
     </>
   ) : (
-    <p class="card muted">{t.nonMig}. {t.nonMigVisa}</p>
+    <p class="card muted">{t.nonMig}. {nonMigVisaOf(country, locale)}</p>
   )}
   </section>
 

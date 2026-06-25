@@ -199,7 +199,7 @@ const ld = [
 
       <!-- 7. Bottom CTA -->
       <section class="bottom-cta" data-section="bottom-cta">
-        <a class="btn primary" href="/AU/en/">Start with Australia</a>
+        <a class="btn primary" href="#countries">Choose your country</a>
         <a class="btn" href="/en/rankings/">Explore AI Career Rankings</a>
         <button class="btn" type="button" data-focus-search>Search your career</button>
       </section>
@@ -227,7 +227,7 @@ const ld = [
         // global search
         var DATA = [];
         try { DATA = JSON.parse(document.getElementById('search-data').textContent || '[]'); } catch (e) {}
-        var CN = { AU: 'Australia', CA: 'Canada', NZ: 'New Zealand' };
+        var CN = { AU: 'Australia', CA: 'Canada', NZ: 'New Zealand', US: 'United States' };
         var q = document.getElementById('q'), ac = document.getElementById('ac');
 
         // 同名职业跨国分组：key=小写名 -> 国家集合
