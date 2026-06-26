@@ -87,11 +87,14 @@ def _deepseek(system: str, prompt: str) -> dict:
     client = OpenAI(
         api_key=config.require("DEEPSEEK_API_KEY"),
         base_url=config.DEEPSEEK_BASE_URL,
+        timeout=120.0,      # 避免单个挂起连接无限阻塞（默认 600s）
+        max_retries=2,
     )
     # DeepSeek 仅支持 json_object 模式（prompt 里已含 JSON 结构说明，且出现 "json" 字样）
     resp = client.chat.completions.create(
         model=config.DEEPSEEK_MODEL,
         max_tokens=4000,
+        timeout=120.0,
         messages=[{"role": "system", "content": system},
                   {"role": "user", "content": prompt}],
         response_format={"type": "json_object"},
