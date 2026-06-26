@@ -1,4 +1,4 @@
-# 会话交接 · 2026-06-26（全量 AIOE 铺开完成、UK/DE 接入站点、AU/CA/NZ 补全广度、翻译待跑）
+# 会话交接 · 2026-06-26（全量 AIOE、UK/DE 接入、AU 520/CA 540/NZ 519 扩充、404 页、已合并 main；翻译因 DeepSeek 余额中断待续）
 
 > 接续 `docs/session-handoff-2026-06-25.md`。
 > DB = 远程 MySQL `192.168.194.135:13306`，配置读 `.env`（键名 **MYSQL_HOST/PORT/USER/PASSWORD/DATABASE**；表名是 `occupations` 非 `occupation`，国家列是 `country_code`）。
@@ -9,14 +9,16 @@
 
 ## ⚠️ 立即可续做（RESUME / 待办）
 
-### 1.【唯一大待办】统一 9 语言翻译（~110 万对，付费数十小时）
-- collect 后 `translation_src` 145,124 源串；未翻译 (src_hash×locale) 对 **≈1,105,719**（9 语言，含全部 3103 职业）。
-- 跑：`$env:LLM_PROVIDER="deepseek"; python -m scripts.translate_strings`（默认 batch 50 → ~2.2 万次调用）。幂等，只翻缺失对。
-- 完成后 `python scripts/export_site_data.py` + `npm --prefix site run build`。
-- 可先翻 en/zh-Hant/ja（~36 万对）让三大核心语言齐全，其余 6 语言后补。
-- **用户已明确：先导出构建上线（已完成），翻译以后再统一跑。**
+### 1.【唯一大待办】完成 9 语言翻译 — **因 DeepSeek 余额耗尽中断**
+- `translation_src` 现 156,038 源串（含 CA 540）。**已译完：en / es / pt（各 156,038，在 DB）**；vi 部分；**th/ms/id/zh-Hant/ja 未译**。
+- 中断原因：DeepSeek **402 Insufficient Balance**（充值后即可续）。**用并行器**，不要用单线程 translate_strings（会因无超时挂死）：
+  `$env:LLM_PROVIDER="deepseek"; python -m scripts.translate_parallel --workers 20 --batch 20`（幂等，自动只补未译对；线程池 20 并发；失败批二分重试）。
+- 跑完 `python scripts/export_site_data.py` + `npm --prefix site run build`。
+- **注意：en/es/pt 译文还在 DB，尚未 export 进 translations.json**，所以当前线上构建这 3 语言还未变化；充值跑完后统一 export 即生效。
 
-### 2. 大量未提交改动（见下）；线上 occupations.json 现含全部 6 国 3103 职业。
+### 2. 生产部署机制（重要）
+- 生产环境**每 5 分钟 `git pull`(main) + `npm run build`**。`site/dist/` 是 gitignore 的（仓库不收构建产物），生产从源码构建。
+- 本会话全部改动**已合并并推送到 `main`（HEAD `90828e44`）**，下个构建周期自动生效。
 
 ---
 
@@ -39,25 +41,34 @@
 - AU 257→**520**；gen_nz 镜像→NZ 258→**519**；gen_ca（LLM 分配 NOC 码）→CA 168→**262**。
 - ai-block：copy_ai_blocks 复制母体匹配；未匹配的用 `gen_ai_insights`/`gen_ai_disruptors`（**LLM_PROVIDER=deepseek**）补；现 AU/NZ/CA `no_ai=0`，仅极少数无 disruptor（真实"无有效工具"）。
 
-### 4. 导出 + 构建 — 完成
-- `export_site_data` → 3103 职业入 occupations.json。`npm run build` → **31,172 页 0 错误**（含 UK/DE）。
+### 4. CA 二次扩充（NOC 清单驱动）— 完成
+- 原 gen_ca 镜像 AU、由 LLM 反推 NOC 受碰撞限制只到 262。新建 **`scripts/gen_ca2_occupations.py`**（克隆 gen_au，CA/NOC/CAD/Express Entry·PNP·LMIA），用官方 NOC 2021 五位清单（516 个，`.codex_tmp/noc_target.json`，源自 `noc2016_2021.csv`）直接驱动。CA 262→**540**（仅中英）。AIOE 540/540。
+
+### 5. 导出 + 构建 — 完成
+- `export_site_data` → 3381 职业入 occupations.json。`npm run build` → **33,953 页 0 错误**（含 UK/DE + 404 页）。
+
+### 6. 自定义 404 页 — 完成
+- `site/src/pages/404.astro`（Astro 构建为 `dist/404.html`，主机未命中路径时返回）。用 Base 的 `global` 模式保留顶部菜单+底部说明，中英双语，按钮回首页/图谱/榜单。
+- 注：线上旧 404（如 US `medical-and-health-services-managers`）本质是**旧构建**，该职业(11-9111)当前数据存在，重新构建即恢复。
+
+### 7. 并行翻译器 + DeepSeek 超时 — 完成（基础设施）
+- `scripts/translate_parallel.py`：线程池并发翻译（替代会挂死的单线程 translate_strings）。`video_pipeline/llm._deepseek` 加 120s 超时+重试（原无超时，一个挂起连接阻塞全部）。
 
 ## 当前规模（DB & 站点）
-AU **520** + CA **540** + NZ **519** + UK **368** + DE **642** + US **792** = **3381**（构建 33,952 页 0 错误）。
-（CA 后续又用官方 NOC 2021 清单驱动 `scripts/gen_ca2_occupations.py` 从 262→**540**，仅中英；NOC 清单 `.codex_tmp/noc_target.json`/`noc2016_2021.csv`。AIOE 540/540。）
+AU **520** + CA **540** + NZ **519** + UK **368** + DE **642** + US **792** = **3381**（构建 33,953 页 0 错误，含 404 页）。
 
-## 未提交清单（git status，HEAD=ccd8a40b，全部未提交未推送）
-- 新脚本：`scripts/compute_aioe.py`、`scripts/gen_au_occupations.py`、`scripts/gen_uk_occupations.py`、`scripts/gen_de_occupations.py`。
-- 改：`scripts/_i18n_fields.py`(aioe 导出)、`site/src/lib/data.ts`(UK/DE 全套+Occ.ai aioe 类型)、`site/src/pages/.../[slug].astro`(AIOE 块+migration country-aware)、`site/src/pages/en/about`、`site/src/data/*.json`(导出产物)。
-- 改名：`scripts/copy_us_ai_blocks.py`→`scripts/copy_ai_blocks.py`。
-- 新数据目录：`career-contents/{uk,de,au,ca,nz}/` 增量 md。
-- `.codex_tmp/` 多个 crosswalk json（compute_aioe 依赖，建议保留/纳入）。
+## Git 状态（已全部合并推送）
+- 分支 `feat/aioe-ukde-breadth` 4 个 commit 已 **fast-forward 合并进 `main`，HEAD `90828e44`，已 push origin/main**。
+- commit：`70658d4` AIOE/UK·DE/AU·CA gen 脚本 → `e49de7e` 3381 职业数据+career-contents → `3bc2db9` 并行翻译器+deepseek超时 → `90828e4` 404 页。
+- `.codex_tmp/`(gitignore) 留有 crosswalk json（compute_aioe 依赖）；`site/dist/`(gitignore) 生产自行构建。
 
 ## 关键运维 / 坑（持续有效）
 1. AI 生成全部走 **LLM_PROVIDER=deepseek**（claude 无余额）。gen_ai_disruptors 必须 `--rest 0`（默认 1800）。各脚本幂等。
 2. compute_aioe 对**无 occupation_ai 行**的职业 UPDATE 是空操作——必须先 insights 建行再 compute_aioe。
 3. BLS 全站屏蔽下载；ISCO 桥走 O*NET ESCO。.xls 读取需 xlrd。
 4. 评分 10 分制存储展示÷2；is_migration 0/1/2；国旗内联 SVG 禁 emoji；URL 国家码大写（/UK/zh-CN/...）。
-5. 翻译链：`collect_strings`（采集源串）→ `translate_strings`（翻缺失）→ `export_site_data` → build。
+5. 翻译链：`collect_strings`（采集源串）→ **`translate_parallel`（并发，推荐）** → `export_site_data` → build。单线程 `translate_strings` 无超时易挂死，勿用于全量。
+6. 生产：每 5 分钟 `git pull`(main)+`npm run build`；`dist/` 不入库。改动须合并到 **main** 才会上线。
+7. 余额坑：DeepSeek 与 Anthropic 都可能余额耗尽（402/credit）——大批量任务前先确认余额；翻译已踩 DeepSeek 402。
 
 > 恢复任务直接说「读取 docs/session-handoff-2026-06-26.md 继续」。
