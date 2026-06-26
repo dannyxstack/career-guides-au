@@ -1,41 +1,39 @@
 # Photographer（Photographer）职业分析 · 新西兰
 
-**职业代码：211212 – Photographer。**
+**职业代码：211311 – Photographer。**
 
-Photographers provide commercial, news, wedding and art photography services for business, media and individual clients. Migration to New Zealand primarily relies on accredited employer work visas related to product and tourism photography; commercial photographers can apply through the Skilled Migrant Category, but local market entry is competitive.
+Photographers use professional cameras and lighting to capture people, landscapes, products, or events, creating artistic or commercial images. In New Zealand, photographers may apply for skilled migration via Skilled Migrant Category or AEWV, but it's not on the Green List, requiring a labor market test to prove shortage.
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★½☆☆）。**
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 职业教育证书 (NZQF Level 4-5) | 1年 | $10,000~$20,000（如新西兰理工学院摄影证书） |
-| 专科文凭 (NZQF Level 6) | 2年 | $20,000~$35,000（如摄影专科或数字媒体文凭） |
-| 本科学位 (NZQF Level 7) | 3年 | $40,000~$70,000（如梅西大学创意媒体学士（摄影方向）） |
+| 专业摄影证书或大专 | 1-2年 | $8,000~$20,000（如 NZ Certificate in Photography (Level 4)） |
+| 本科（视觉艺术/摄影） | 3年 | $30,000~$45,000（如 Bachelor of Fine Arts (Photography)） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：容易（★☆☆☆☆）。**
+**考证难度：低（★☆☆☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 摄影大专或本科学历 | 新西兰学历评估局 (NZQA) 认可院校 | 可选 | 虽然不是强制，但学历有助于技术移民加分 |
-| 雅思均分6.5或同等英语水平 | 雅思/托福/PTE | 可选 | 技术移民要求 |
-| 认证雇主工签 (AEWV) 相关职位 | 新西兰移民局 | 可选 | 需雇主担保，职位与摄影相关 |
+| 摄影相关学历或作品集 | NZQA认可院校 | 可选 | 学历非强制，但知名作品集可替代 |
+| 无强制注册或执照 | - | 可选 | 从业无需政府注册 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中等（★★½☆☆）。** 全国从业人数约 1,500。新西兰摄影行业受旅游和电商推动，商业摄影师需求稳定，但自由职业竞争激烈。基督城和皇后镇旅游摄影机会更多，奥克兰和惠灵顿商业摄影需求较旺。长期看，AI对基础修图影响大，高级创意摄影仍受欢迎。
+**职位需求量：中等（★★★☆☆）。** 全国从业人数约 4,300。新西兰摄影师就业前景稳定但竞争激烈，主要集中在奥克兰、惠灵顿等城市。商业摄影受电商和广告推动需求增长，而婚礼和肖像摄影市场饱和。兼职和自由职业比例高，全职岗位有限。
 
 **竞争度：较高（★★★½☆）。**
-**工作强度：中等（★★½☆☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -43,50 +41,49 @@ Photographers provide commercial, news, wedding and art photography services for
 
 | 经验水平 | 年薪（NZD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 多为助理或新晋自由摄影，收入不稳定 |
-| 中级（3-6年） | $50,000~$70,000 | 专业领域如婚庆、产品摄影，部分有固定合作 |
-| 高级（6年以上） | $70,000~$100,000 | 知名摄影师或工作室主理，商业合同更高 |
+| 初级（0-3年） | $42,000~$55,000 | 多为助理或兼职 |
+| 中级（3-6年） | $55,000~$75,000 | 专职或小型工作室 |
+| 高级（6年以上） | $75,000~$100,000 | 资深摄影师或工作室主理人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：中等偏下（★★☆☆☆）。** 摄影师可从助理做起，积累作品后转向专业领域（如电商产品、婚庆、旅行）。高级摄影师可开设工作室或成为摄影指导，部分转型为视频导演或数字内容创作者。持有新西兰认可学历或工作经验可加速晋升。
-**AI替代风险：较高（★★★½☆）。**
+**发展前景：中等（★★½☆☆）。** 初级摄影师多从助理或自由接单起步，积累作品后可晋升为资深摄影师或开设工作室。部分转向电影、电视或数字媒体领域，或兼营修图、视频拍摄等扩展收入来源。
+**AI替代风险：高（★★★½☆）。**
 
 主要增长方向：
 
 - AEWV
 - Skilled Migrant Category
-- Tourism Photography
-- Freelance Competition
+- Free-agent
+- Competitive
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作邀请，摄影师职位属于技能等级ANZSCO 3，通常需要学历或经验 |
-| Subclass SMC（Skilled Migrant Category） | 摄影师可申请，但要求工作经验且职位需为技能职位，当前6分制下需至少3年经验加学历匹配 |
-| Subclass Green List T2（Green List Tier 2） | 目前摄影师不在绿色清单上，但可能通过特定雇主担保适用 |
+| Subclass AEWV（Accredited Employer Work Visa） | 需获得认证雇主的工作offer，时薪达到中位数（2024年约$29.66/h），可申请居留但需满足条件 |
+| Subclass SMC（Skilled Migrant Category） | 基于6分制，需雇主offer、相关学历或工作经验，但摄影师非注册职业，加分有限 |
+| Subclass Other（Self-employed or Entrepreneur） | 自由职业者可考虑创业移民，但门槛较高 |
 
-**PR难度：较高（★★★½☆）。**
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Photographer？**
-- 拥有扎实摄影技术和创意天赋，能独立完成商业项目
-- 愿意并能够适应自由职业模式，积极拓展客户群
-- 具备视频拍摄和后期能力，以应对市场变化
+- 拥有独特艺术视角和扎实摄影技术的创意人士
+- 能适应自由职业模式、善于自我营销者
 
 **谁不适合学Photographer？**
-- 偏好稳定雇佣关系和固定收入
-- 不愿意持续学习新技术（如AI后期、无人机操作）
+- 追求稳定薪资和固定工作时间的人
+- 对AI技术和后期处理兴趣不大的人
 
 ---
 
@@ -103,16 +100,16 @@ Photographers provide commercial, news, wedding and art photography services for
 | 维度 | 评级 |
 |---|---|
 | 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 容易（★☆☆☆☆） |
-| 职位需求量 | 中等（★★½☆☆） |
+| 学习难度 | 中等（★★★☆☆） |
+| 考证难度 | 低（★☆☆☆☆） |
+| 职位需求量 | 中等（★★★☆☆） |
 | 竞争度 | 较高（★★★½☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等偏下（★★☆☆☆） |
-| AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 中等（★★½☆☆） |
-| PR难度 | 较高（★★★½☆） |
+| 收入水平 | 中等偏下（★★☆☆☆） |
+| 工作强度 | 中等（★★★☆☆） |
+| 发展前景 | 中等（★★½☆☆） |
+| AI替代风险 | 高（★★★½☆） |
+| PR友好度 | 较低（★★☆☆☆） |
+| PR难度 | 中等（★★★☆☆） |
 
 Photographer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
@@ -120,11 +117,11 @@ Photographer的移民路径与薪资见上表；建议结合自身背景与最�
 
 ## 9. FAQ 常见问题
 
-**问：What is the average salary for a photographer in New Zealand?**
-答：The average salary for a photographer in New Zealand is around NZD 50,000-60,000 per year, but freelancers have fluctuating income. Commercial photographers can earn over NZD 80,000.
+**问：What is the income level for photographers in New Zealand?**
+答：Photographer income varies widely; full-time annual salary ranges from NZD 42,000 to 100,000, with median around NZD 55,000, while freelancers face more instability.
 
-**问：How can a photographer immigrate to New Zealand?**
-答：Photographers typically immigrate via the Accredited Employer Work Visa (AEWV) or Skilled Migrant Category (SMC). Relevant qualifications or years of experience are needed, along with a job offer from an accredited employer. Photographers are not on the Green List.
+**问：Can photographers migrate to New Zealand via the Green List?**
+答：Photographers are not on the Green List. They must apply via Skilled Migrant Category or AEWV, but proving skill shortage is challenging.
 
-**问：Which regions in New Zealand have the highest demand for photographers?**
-答：Auckland and Wellington have strong commercial photography demand, while Christchurch and Queenstown offer tourism photography opportunities. Freelancers need to seek clients nationwide.
+**问：Is competition high for photography jobs in New Zealand?**
+答：Yes, especially in wedding and portrait segments. Specializing in commercial, product, or tourism photography can improve opportunities.

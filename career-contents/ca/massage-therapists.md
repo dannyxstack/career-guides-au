@@ -1,40 +1,39 @@
 # Massage therapists（Massage therapists）职业分析 · 加拿大
 
-**职业代码：32200 – Massage therapists。**
+**职业代码：32201 – Massage therapists。**
 
-Massage therapists are regulated health professionals in Canada, requiring formal education and provincial licensing. This occupation can lead to immigration through Provincial Nominee Programs (PNP) or Express Entry, contingent on employer sponsorship or meeting specific PNP criteria.
+Massage therapists use manual techniques to relieve muscle tension, improve circulation, and promote relaxation, requiring knowledge of anatomy, pathology, and various modalities.
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★★☆☆）。**
+**学习难度：低（★½☆☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 按摩治疗文凭 | 2年 | $15,000~$40,000（加拿大院校，如BC省认可学校） |
-| 学位课程（可选） | 4年 | $40,000~$80,000（如运动机能学本科学位） |
+| 大专文凭 | 2年 | $10,000~$30,000（公立学院学费约1-2万加元，私立学校可能更高。） |
+| 本科文凭 | 4年 | $25,000~$60,000（大学本科相关专业如运动按摩疗法。） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较高（★★★½☆）。**
+**考证难度：中（★★½☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 省级按摩治疗师执照 | 省级监管机构（如CMTBC） | 必备 | 必须通过执业考试 |
-| 英语语言测试 | 雅思/思培 | 必备 | 移民要求，CLB 7或以上 |
-| ECA学历认证 | WES/ICES等 | 必备 | 海外学历需认证 |
+| 注册按摩治疗师（RMT） | 省级监管机构 | 必备 | 多数省份要求完成认可课程并通过省级考试。 |
+| 急救与心肺复苏证书 | 加拿大红十字会等 | 必备 | 从业必备的基本生命安全认证。 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 35,000。加拿大对按摩治疗师需求稳定，尤其在不列颠哥伦比亚省、安大略省和阿尔伯塔省。随着人口老龄化和健康意识提升，就业前景良好，但竞争因地区而异。预计2023-2031年就业增长适中。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 32,000。加拿大按摩治疗师需求稳定，得益于健康意识提升和老龄化人口。就业机会主要集中在私人诊所、水疗中心、体育机构和康复中心，预计未来十年岗位增速中等。
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**竞争度：中（★★½☆☆）。**
+**工作强度：中（★★½☆☆）。**
 
 ---
 
@@ -42,50 +41,50 @@ Massage therapists are regulated health professionals in Canada, requiring forma
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 受雇于诊所或水疗中心 |
-| 中级（3-7年） | $50,000~$70,000 | 有稳定客户群或专长 |
-| 高级（7年以上） | $70,000~$100,000 | 自主创业或合伙经营 |
+| 初级（0-3年） | $35,000~$50,000 | 取决于工作地点和客户量。 |
+| 中级（3-7年） | $50,000~$70,000 | 经验丰富后收入提高。 |
+| 高级（7年以上） | $70,000~$90,000 | 资深治疗师或自主经营收入可达更高。 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★½☆）。** 初级按摩治疗师可积累经验后专攻运动按摩、康复或临床领域；也可自主创业开设诊所或与医疗团队合作。高级职位包括诊所经理或教育工作者，收入与技能和客户基础挂钩。
+**发展前景：高（★★★★☆）。** 初级按摩治疗师可在诊所或水疗中心就业，积累经验后可晋升为高级治疗师或主管，也可自主创业开设诊所，或转向体育按摩、康复按摩等专业领域。
 **AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
-- Provincial Nominee
-- Occupational demand
-- Aging population
-- Health awareness
+- wellness tourism
+- aging population
+- sports therapy
+- holistic health
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：中（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 需满足工作经验和语言要求，通过联邦技术移民或加拿大经验类移民申请 |
-| Subclass PNP（Provincial Nominee Program） | 如BC省PNP技术移民，需雇主offer或从事指定职业 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合有雇主offer的申请人 |
+| Subclass Express Entry（Federal Skilled Worker Program） | 需满足联邦技术移民条件，职业相关工作经验可加分。 |
+| Subclass PNP（Provincial Nominee Program） | 部分省份有健康护理类省提名，如安大略省、不列颠哥伦比亚省。 |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请劳动力市场影响评估，支持工作签证申请。 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：中（★★½☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Massage therapists？**
-- 具有良好沟通能力和同理心者
-- 愿意接受正规教育和执照考试者
-- 对健康行业有热情并适应体力工作者
+- 具备良好沟通能力和同理心的人
+- 对解剖学和身体健康感兴趣的人
+- 希望自主创业或灵活工作的人
 
 **谁不适合学Massage therapists？**
-- 无法承受长时间站立和重复性体力劳动者
-- 不喜欢与客户一对一频繁互动者
+- 体力较弱或无法长时间站立工作的人
+- 不喜欢与人身体接触或沟通的人
 
 ---
 
@@ -101,17 +100,17 @@ Massage therapists are regulated health professionals in Canada, requiring forma
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
+| 学习周期 | 低（★☆☆☆☆） |
+| 学习难度 | 低（★½☆☆☆） |
+| 考证难度 | 中（★★½☆☆） |
+| 职位需求量 | 高（★★★★☆） |
+| 竞争度 | 中（★★½☆☆） |
+| 收入水平 | 中（★★★☆☆） |
+| 工作强度 | 中（★★½☆☆） |
+| 发展前景 | 高（★★★★☆） |
 | AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
+| PR友好度 | 中（★★★☆☆） |
+| PR难度 | 中（★★½☆☆） |
 
 Massage therapists的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
@@ -119,11 +118,8 @@ Massage therapists的移民路径与薪资见上表；建议结合自身背景�
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary level for massage therapists in Canada?**
-答：Entry-level massage therapists earn about CAD 35,000 to 50,000 annually, intermediate CAD 50,000 to 70,000, and senior or self-employed practitioners CAD 70,000 to 100,000. Income varies by region, experience, and client volume.
+**问：What factors affect massage therapists' income?**
+答：Income depends on experience, client volume, workplace (clinic vs self-employed), and location. Larger cities and tourist areas have higher demand and earning potential.
 
-**问：How can a massage therapist immigrate to Canada?**
-答：Through Provincial Nominee Programs (e.g., BC PNP) or Express Entry. Key requirements: obtain ECA for foreign credentials, secure a provincial license, and have a job offer or meet PNP criteria.
-
-**问：How can foreign-trained massage therapists practice in Canada?**
-答：Obtain ECA for your credentials, then apply for licensure examination with the provincial regulatory body. Some provinces may require bridging courses or supervised practice.
+**问：What immigration pathways exist for massage therapists?**
+答：Massage therapists fall under NOC 32201 (TEER 2) and can apply via Express Entry (FSW/CEC) or PNP (e.g., Ontario, BC). Some provinces require provincial registration, so early assessment is advised.

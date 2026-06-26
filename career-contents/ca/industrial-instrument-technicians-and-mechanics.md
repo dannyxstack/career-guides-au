@@ -1,41 +1,41 @@
 # Industrial instrument technicians and mechanics（Industrial instrument technicians and mechanics）职业分析 · 加拿大
 
-**职业代码：22312 – Industrial instrument technicians and mechanics。**
+**职业代码：94213 – Industrial instrument technicians and mechanics。**
 
-Industrial instrument technicians install, calibrate, maintain, and repair process control and measurement instruments. Demand is stable in oil & gas, mining, and manufacturing. Often eligible for skilled immigration, but provincial certification may be required.
+The Canadian NOC 94213 corresponds to plastics and rubber production machine operators, typically manufacturing workers requiring a high school diploma. This occupation is not high-skilled for immigration, mainly via PNP or employer sponsorship, which is challenging.
+
+> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★½☆☆）。**
+**学习难度：较低（★½☆☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 学徒制或学院文凭 | 2-4年 | $10,000~$40,000（学费因省份和学校而异；带薪实习可降低净成本。） |
-| 相关本科工程学位 | 4年 | $60,000~$120,000（可增加晋升管理或工程岗位机会，并非必需。） |
+| 高中毕业 | 12年 | —（公立高中免费） |
+| 职业培训证书 | 1年 | $5,000~$15,000（社区学院或私立职业培训） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★½☆☆）。**
+**考证难度：低（★☆☆☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Red Seal 认证 | 加拿大学徒制系统 | 可选 | 跨省执业通行证；通过学徒制或经验评估获得。 |
-| 省际从业资格（如AB省） | 省级学徒与行业认证机构 | 必备 | 许多省份要求持证上岗。 |
-| ECA 学历认证 | WES/ICES等指定机构 | 可选 | 移民CRS加分必需，费用约200-300加元。 |
-| 英语语言测试（IELTS/CELPIP） | 雅思/思培 | 可选 | 移民要求，CLB 7以上可获较高CRS分数。 |
+| 高中文凭 | 各省教育部 | 必备 | 必需 |
+| 在职培训 | 雇主 | 可选 | 通常需数月在职培训 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。加拿大仪表技师就业前景良好，石油天然气、矿业、水处理等资源行业需求持续。阿尔伯塔省、萨斯喀彻温省、纽芬兰与拉布拉多省职位较多。预计未来十年增长平稳。
+**职位需求量：中等（★★★☆☆）。** 全国从业人数约 23,000。加拿大塑料和橡胶制造业就业前景稳定，但自动化趋势可能减少部分岗位。需求集中在安大略省、魁北克省和阿尔伯塔省。预计未来十年增长缓慢，新职位较少，竞争适中。
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**竞争度：中等（★★★☆☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -43,50 +43,50 @@ Industrial instrument technicians install, calibrate, maintain, and repair proce
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$70,000 | 学徒期或辅助岗位薪资较低。 |
-| 中级（3-7年） | $70,000~$90,000 | 持证技师薪资中位数约$80,000。 |
-| 高级（7年以上） | $90,000~$120,000 | 主管或偏远地区薪资可超$110,000。 |
+| 初级（0-3年） | $32,000~$42,000 | 时薪约16-21加元 |
+| 中级（3-6年） | $42,000~$52,000 | 时薪约21-26加元 |
+| 高级（6年以上） | $52,000~$65,000 | 时薪约26-33加元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★½☆）。** 从初级技工到高级技师或主管，可晋升为仪表工程师或项目经理。获得Red Seal认证后可跨省流动，或转向过程控制系统集成、工业自动化咨询。
-**AI替代风险：低（★☆☆☆☆）。**
+**发展前景：稳定（★★½☆☆）。** 入门级操作员可晋升为高级操作员或班组长，部分有机会转岗至质量控制或维修等领域。需在职培训或短期课程提升技能。长期发展依赖行业经验和技术更新。
+**AI替代风险：中等（★★½☆☆）。**
 
 主要增长方向：
 
-- Oil & Gas
-- Mining
-- Industrial Automation
-- Express Entry
+- Manufacturing
+- Provincial Nominee
+- Employer-Specific
+- Non-STEM
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
+**PR友好度：难（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 适合已有1年加拿大经验（CEC）或海外经验（FSW）的申请人；CRS分数需高，配合省提名可获额外600分。 |
-| Subclass PNP（Provincial Nominee Program） | 阿尔伯塔省、萨省、纽芬兰省等有定期职业优先邀请；需符合省里工作要求。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，若找到匹配雇主可快速移民。 |
+| Subclass PNP（Provincial Nominee Program） | 通过省提名项目，部分省份允许制造业工人申请，但需雇主offer和较低语言要求。 |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主需申请LMIA证明无法招到本地人，获得后支持工签转永居。 |
 
-**PR难度：中等（★★½☆☆）。**
+**PR难度：高（★★★★☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Industrial instrument technicians and mechanics？**
-- 喜欢动手操作、擅长故障排除的人
-- 愿意在工矿现场或偏远地区工作的人
-- 具备物理、数学基础且乐于学习自动化系统的人
+- 愿意从事制造业蓝领工作的人
+- 能接受轮班和体力劳动的人
+- 计划通过雇主担保移民加拿大的人
 
 **谁不适合学Industrial instrument technicians and mechanics？**
-- 不耐劳或偏好纯办公室工作的人
-- 不愿意频繁出差或轮班制的人
+- 追求高薪职业的人
+- 希望快速通过Express Entry移民的人
 
 ---
 
@@ -102,29 +102,29 @@ Industrial instrument technicians install, calibrate, maintain, and repair proce
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 较高（★★★½☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★½☆☆） |
+| 学习周期 | 较短（★☆☆☆☆） |
+| 学习难度 | 较低（★½☆☆☆） |
+| 考证难度 | 低（★☆☆☆☆） |
+| 职位需求量 | 中等（★★★☆☆） |
+| 竞争度 | 中等（★★★☆☆） |
+| 收入水平 | 较低（★½☆☆☆） |
+| 工作强度 | 中等（★★★☆☆） |
+| 发展前景 | 稳定（★★½☆☆） |
+| AI替代风险 | 中等（★★½☆☆） |
+| PR友好度 | 难（★½☆☆☆） |
+| PR难度 | 高（★★★★☆） |
 
-Industrial instrument technicians and mechanics的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Industrial instrument technicians and mechanics为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary of instrumentation technicians in Canada?**
-答：Entry-level: CAD 55,000-70,000; Mid-level: 70,000-90,000; Senior: 90,000-120,000. Remote mining sites or high-cost cities offer higher pay.
+**问：What is the average salary for plastics and rubber production machine operators in Canada?**
+答：Entry-level: CAD 32,000-42,000; mid-level: CAD 42,000-52,000; senior: CAD 52,000-65,000 per year. Hourly wage CAD 16-33.
 
-**问：Is it easy for instrumentation technicians to immigrate to Canada?**
-答：Yes, it is a skilled trade eligible for Express Entry and PNPs. Requires ECA, language test, and ideally employer offer or Canadian experience. Some provinces like Alberta prioritize this trade.
+**问：Can I immigrate to Canada as a plastics and rubber production machine operator through Express Entry?**
+答：This occupation is NOC TEER 4, typically not eligible for Express Entry. More viable routes are through Provincial Nominee Program (PNP) or employer sponsorship (LMIA).
 
-**问：Can foreign experience directly qualify for Canadian certification?**
-答：Yes, but typically requires assessment by a provincial authority, possible additional courses or exams. Red Seal certification facilitates interprovincial mobility.
+**问：Do I need Canadian certification to work in this occupation?**
+答：Generally no provincial certification is required, though safety training certificates may be needed in some provinces. Most employers provide on-the-job training.

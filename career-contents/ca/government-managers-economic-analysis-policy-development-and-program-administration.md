@@ -1,8 +1,10 @@
 # Government managers - economic analysis, policy development and program administration（Government managers - economic analysis, policy development and program administration）职业分析 · 加拿大
 
-**职业代码：41403 – Government managers - economic analysis, policy development and program administration。**
+**职业代码：40011 – Government managers - economic analysis, policy development and program administration。**
 
-Local council officers in Canada correspond to government managers handling policy implementation, program administration, and coordination. Immigration is feasible via Canadian Experience Class (CEC) or Provincial Nominee Programs (PNP), but requires local experience.
+Manage development, analysis, and implementation of economic policies and government programs; oversee public sector teams to ensure effective delivery and regulatory compliance.
+
+> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
 ---
 
@@ -12,29 +14,31 @@ Local council officers in Canada correspond to government managers handling poli
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 本科 | 4年 | $20,000~$60,000（加拿大本地学费，国际生更高） |
-| 硕士（公共管理/政策） | 2年 | $30,000~$80,000（名校如卡尔顿、渥太华大学学费较高） |
+| 本科 | 4年 | $20,000~$60,000（加拿大大学学费范围） |
+| 硕士 | 1-2年 | $15,000~$50,000（公共政策或经济学硕士） |
+| 博士 | 4-6年 | $5,000~$20,000（研究型职位可能需要） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：简单（★½☆☆☆）。**
+**考证难度：中等（★★½☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 教育证书评估(ECA) | WES、IQAS等 | 可选 | 海外学历需做ECA以用于移民 |
-| 雅思/思培 | IELTS/CELPIP | 必备 | CLB 7以上（移民门槛） |
-| 公共管理认证（可选） | 加拿大公共管理学院 | 可选 | 提升竞争力，非强制 |
+| 公共政策或经济学学士学位 | 认可大学 | 必备 | 基本入职要求 |
+| 认证公共管理师 (CPM) | 加拿大公共管理协会 | 可选 | 非强制但有利于晋升 |
+| 省级公务员资格 | 相关省政府 | 可选 | 部分省份要求 |
+| 项目管理专业认证 (PMP) | PMI | 可选 | 对项目管理岗位有帮助 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 280,000。加拿大各级政府（市、省、联邦）持续需要管理人员来推动公共服务和基础设施项目。预计未来5年就业增长稳定，但竞争集中在拥有公共管理或相关领域学历的候选人中。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。加拿大各级政府持续需要此类管理人才，以应对经济复苏、公共财政管理和数字化转型等挑战，未来十年岗位增长稳定。
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★½☆☆）。**
+**竞争度：中高（★★★½☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -42,50 +46,52 @@ Local council officers in Canada correspond to government managers handling poli
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$70,000 | 市级政府助理或初级官员 |
-| 中级（3-7年） | $70,000~$95,000 | 项目经理或政策分析师 |
-| 高级（7年以上） | $95,000~$130,000 | 部门主管或高级管理者 |
+| 初级（0-3年） | $60,000~$80,000 | 助理政策经理或初级管理岗 |
+| 中级（3-7年） | $80,000~$110,000 | 政策经理或项目经理 |
+| 高级（7年以上） | $110,000~$150,000 | 高级经理、总监或副部长 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★½☆）。** 职业路径可从项目官员、政策分析师晋升至高级经理或局长。长期可转向非营利组织、咨询公司或联邦职位。晋升通常需要公共管理硕士(MPA)或相关认证。
+**发展前景：增长良好（★★★★☆）。** 通常从政策分析师或项目官员晋升至经理、总监，进而可担任副部长等高级管理职务；跨部门流动常见。
 **AI替代风险：低（★½☆☆☆）。**
 
 主要增长方向：
 
-- Provincial Nominee
-- Canadian Experience Class
-- Public Sector
 - Policy Development
+- Economic Analysis
+- Public Administration
+- Digital Government
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：有限（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
+**PR友好度：中等（★★½☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 通过各省提名（如安省、BC省、阿省）的公共部门相关类别申请，需获得省内雇主offer或符合紧缺职业清单 |
-| Subclass CEC（Canadian Experience Class） | 在加拿大积累1年相关工作经验后申请，适合持工签过渡的申请人 |
-| Subclass FSW（Federal Skilled Worker Program） | 满足联邦技术移民打分，但需有当地工作经验或雇主offer才具竞争力 |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地人，获得LMIA后可申请工签并移民 |
+| Subclass PNP（Provincial Nominee Program） | 部分省份针对公共管理人才有省提名通道 |
+| Subclass Express Entry（Express Entry (FSW/CEC)） | 满足条件可走联邦快速通道，但需有加拿大工作经验或高学历 |
+| Subclass Global Talent Stream（Global Talent Stream） | 针对高级管理人才，加快工签处理 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：中等（★★½☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Government managers - economic analysis, policy development and program administration？**
-- 拥有公共管理、政治学或相关领域学历的人士
-- 有加拿大本地教育或工作经验，且英语达到CLB 7+的申请者
-- 愿意在中小城市或偏远地区定居以利用PNP机会
+- 具有经济学、公共政策或相关社科背景的分析型人才
+- 擅长团队管理和跨部门协调的领导者
+- 对政府事务和公共服务有长期职业规划的人
 
 **谁不适合学Government managers - economic analysis, policy development and program administration？**
-- 无加拿大本地工作经验且不愿先留学或通过LMIA工签过渡的申请人
-- 追求高薪且快速移民的人（该职业薪资中等，移民周期较长）
+- 不喜欢行政事务和官僚流程的人
+- 追求快速晋升和高薪的私营企业导向者
 
 ---
 
@@ -101,29 +107,29 @@ Local council officers in Canada correspond to government managers handling poli
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★½☆☆） |
+| 学习周期 | 中等（★★★☆☆） |
 | 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 简单（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 良好（★★★½☆） |
+| 考证难度 | 中等（★★½☆☆） |
+| 职位需求量 | 高（★★★★☆） |
+| 竞争度 | 中高（★★★½☆） |
+| 收入水平 | 中高（★★★½☆） |
+| 工作强度 | 中等（★★★☆☆） |
+| 发展前景 | 增长良好（★★★★☆） |
 | AI替代风险 | 低（★½☆☆☆） |
-| PR友好度 | 有限（★★½☆☆） |
-| PR难度 | 中等（★★★☆☆） |
+| PR友好度 | 中等（★★½☆☆） |
+| PR难度 | 中等（★★½☆☆） |
 
-Government managers - economic analysis, policy development and program administration的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Government managers - economic analysis, policy development and program administration为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary range for local council officers in Canada?**
-答：Entry-level CAD 50,000-70,000, mid-level CAD 70,000-95,000, senior CAD 95,000-130,000. Salaries vary by province and city size.
+**问：What is the salary range for this occupation?**
+答：Entry-level CAD 60,000-80,000; mid-level CAD 80,000-110,000; senior CAD 110,000-150,000 or more.
 
-**问：How can a local council officer immigrate to Canada?**
-答：Main pathways: study in Canada for a degree, get a PGWP, accumulate 1 year of local experience, then apply under CEC or PNP. Direct FSW requires high CRS score and NOC 41403 match.
+**问：Is it easy to immigrate to Canada for this occupation?**
+答：Moderate to high difficulty; typically requires LMIA or PNP; Canadian education or experience helps.
 
-**问：Which provinces need government managers in Canada?**
-答：Ontario, British Columbia, Alberta, and Quebec have the highest demand. Atlantic provinces like NS and NB also have PNP streams.
+**问：What certifications are required?**
+答：Relevant bachelor's degree required; master's preferred. Some positions require provincial civil service eligibility or PMP.

@@ -1,40 +1,40 @@
-# Civil Engineers（Civil Engineers）职业分析 · 加拿大
+# Civil engineers（Civil engineers）职业分析 · 加拿大
 
-**职业代码：21300 – Civil Engineers。**
+**职业代码：21331 – Civil engineers。**
 
-Civil engineers in Canada plan, design, build, and maintain infrastructure such as roads, bridges, and dams. Driven by federal and provincial infrastructure investments, demand is strong. This occupation is eligible for Express Entry (STEM draws) and PNPs, offering good migration prospects.
+Geotechnical engineers in Canada work as civil engineers, specializing in foundation, slope, and tunnel design. This occupation qualifies for Express Entry and PNP immigration with steady demand.
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★☆☆☆）。**
+**学习难度：中等（★★½☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 本科 | 4年 | $60,000~$120,000（国际生学费，含书本等，每年约1.5-3万加元） |
-| 硕士 | 2年 | $40,000~$80,000（研究生学费，每年约2-4万加元） |
+| 本科 | 4年 | $20,000~$50,000（加拿大本科国际生学费，不包括生活费） |
+| 硕士 | 2年 | $25,000~$60,000（研究型硕士可能提供资助） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★☆☆☆）。**
+**考证难度：较高（★★★½☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 移民必须，验证海外学历等同于加拿大本科 |
-| 专业工程师执照(P.Eng.) | 各省工程师协会 | 可选 | 需通过CEAB认证学历或同等经验，考试合格后获得；并非移民必需但雇主偏好 |
-| 雅思或思培 | IELTS/CELPIP | 必备 | 移民语言要求，CLB7以上 |
+| ECA学历认证 | WES/ICES/CES等 | 必备 | 用于移民申请，认证等同加拿大本科/硕士 |
+| P.Eng.执照 | 各省工程师协会 | 可选 | 需要至少4年经验并通过专业考试 |
+| 英语/法语语言考试 | IELTS/TEF | 必备 | 移民要求CLB 7以上 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。加拿大政府长期投资交通、水利和绿色基础设施，未来十年土木工程师岗位预计增长约8%。阿尔伯塔、安大略、BC省需求最大，但竞争也集中；偏远地区招聘难度较高，移民友好。
+**职位需求量：较高（★★★★☆）。** 全国从业人数约 65,000。加拿大基础设施建设持续投入，岩土工程人才需求稳定。BC省和安省工程项目较多，但竞争中等，需具备当地注册工程师资质。
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**竞争度：中等（★★★☆☆）。**
+**工作强度：中等（★★½☆☆）。**
 
 ---
 
@@ -42,35 +42,35 @@ Civil engineers in Canada plan, design, build, and maintain infrastructure such 
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $55,000~$75,000 | 取决于省份和公司规模 |
-| 中级（4-8年） | $75,000~$100,000 | 持有P.Eng.通常更高 |
-| 高级（9年以上） | $100,000~$140,000 | 项目经理或首席工程师可达15万以上 |
+| 初级（0-3年） | $60,000~$80,000 | 助理岩土工程师或EIT |
+| 中级（4-9年） | $80,000~$110,000 | 注册岩土工程师 |
+| 高级（10年以上） | $110,000~$150,000 | 项目经理或技术总监 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★★☆）。** 初级土木工程师通常从设计或现场监督起步，积累经验后可晋升为项目经理、高级工程师或部门主管。考取专业工程师（P.Eng.）执照是晋升关键，也可转向可持续基础设施或项目管理等细分领域。
-**AI替代风险：低（★☆☆☆☆）。**
+**发展前景：较高（★★★★☆）。** 可从初级岩土工程师晋升为高级工程师或项目经理，需积累设计经验并取得专业工程师（P.Eng.）执照。部分人转向咨询公司或政府机构。
+**AI替代风险：低（★½☆☆☆）。**
 
 主要增长方向：
 
 - Express Entry STEM
 - Provincial Nominee
 - Infrastructure Investment
-- Green Building
+- Engineering Consulting
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass EE（Express Entry (STEM Draw)） | 联邦快速通道，STEM定向邀请，需满足FST或CEC条件，雅思至少CLB7 |
-| Subclass PNP（Provincial Nominee Program） | 各省提名，如安省、BC省、阿省都有土木工程优先通道，通常需要雇主offer |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，门槛较低，适合有工作offer的申请人 |
+| Subclass EE（Express Entry (FSW/CEC)） | 适合年龄较轻、英语好、学历高的申请人，通过CRS评分邀请 |
+| Subclass PNP（Provincial Nominee Program） | 各省有针对性提名，如安省、BC省、阿尔伯塔省，需有雇主offer或相关经验 |
+| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，要求较低 |
 
 **PR难度：中等（★★½☆☆）。**
 
@@ -78,14 +78,14 @@ Civil engineers in Canada plan, design, build, and maintain infrastructure such 
 
 ## 7. 适合人群 / 不适合人群
 
-**谁适合学Civil Engineers？**
-- 工程或土木相关本科及以上学历者
-- 有3年以上设计或施工管理经验者
-- 英语水平较好（雅思6.5+）且愿意考取执照者
+**谁适合学Civil engineers？**
+- 工程专业背景，持有土木或岩土工程学位
+- 愿意考取P.Eng.执照并长期在加拿大发展
+- 适应现场工作与办公室设计结合
 
-**谁不适合学Civil Engineers？**
-- 没有工科背景或不愿通过学历认证
-- 不接受在偏远地区工作以获取经验
+**谁不适合学Civil engineers？**
+- 不擅长数学或力学分析
+- 仅想短期工作，不愿投入执照认证
 
 ---
 
@@ -101,26 +101,29 @@ Civil engineers in Canada plan, design, build, and maintain infrastructure such 
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 3-4年（★½☆☆☆） |
-| 学习难度 | 中等（★★☆☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
+| 学习周期 | 中等（★★½☆☆） |
+| 学习难度 | 中等（★★½☆☆） |
+| 考证难度 | 较高（★★★½☆） |
+| 职位需求量 | 较高（★★★★☆） |
+| 竞争度 | 中等（★★★☆☆） |
+| 收入水平 | 较高（★★★½☆） |
+| 工作强度 | 中等（★★½☆☆） |
+| 发展前景 | 较高（★★★★☆） |
+| AI替代风险 | 低（★½☆☆☆） |
+| PR友好度 | 较高（★★★★☆） |
 | PR难度 | 中等（★★½☆☆） |
 
-Civil Engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Civil engineers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the average salary for civil engineers in Canada?**
-答：According to Canada Job Bank, the average annual salary for civil engineers is around CAD 80,000, with entry-level at CAD 55,000-75,000 and senior roles reaching CAD 100,000-140,000. Obtaining a P.Eng. license significantly boosts salary.
+**问：What is the salary range for geotechnical engineers in Canada?**
+答：Entry-level CAD 60k-80k, mid-level CAD 80k-110k, senior CAD 110k-150k. P.Eng. license and experience boost earnings.
 
-**问：Is it easy for civil engineers to migrate via Express Entry?**
-答：Relatively easy. Civil engineering is a STEM-targeted occupation, often receiving low-score invitations. Requirements: CLB7 language, work experience, and ECA. With IELTS 8777 and 3 years experience, CRS score can reach 470+; recent STEM draws typically at 480, offering good success rate.
+**问：What are the main immigration pathways for geotechnical engineers to Canada?**
+答：Main pathways are Express Entry (FSW/CEC) and PNP (e.g., Ontario, BC). Need ECA and language test.
+
+**问：Do I need a P.Eng. license in Canada?**
+答：Required for regulated engineering work; otherwise optional. Having it improves competitiveness and salary.

@@ -1,40 +1,41 @@
 # Translators, terminologists and interpreters（Translators, terminologists and interpreters）职业分析 · 加拿大
 
-**职业代码：51205 – Translators, terminologists and interpreters。**
+**职业代码：51114 – Translators, terminologists and interpreters。**
 
-Interpreters in Canada work in various settings; migration is possible through Express Entry or PNP, requiring certification (e.g., CITIC) and strong language skills.
+Translators, terminologists and interpreters convert written or spoken information from one language to another, ensuring accuracy and cultural appropriateness. They work in government, international organizations, healthcare, legal, and business sectors.
+
+> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★½☆☆）。**
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 本科 | 4年 | $40,000~$80,000（学费因院校和省份而异，含语言课程） |
-| 硕士 | 1-2年 | $10,000~$30,000（翻译硕士（M.A. in Translation/Interpretation）） |
-| 证书课程 | 1-2年 | $5,000~$15,000（社区学院或私立培训，可快速入职） |
+| 本科 | 4年 | $20,000~$60,000（学费因大学和省份而异） |
+| 研究生文凭 | 1-2年 | $10,000~$30,000（翻译或口译研究生证书） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较高（★★★½☆）。**
+**考证难度：中等（★★★☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| CITIC认证 | 加拿大翻译协会（CTINB/ATIO等） | 可选 | 通过考试获得，分为笔译和口译方向 |
-| 语言能力证明 | IELTS或CELPIP或TEF | 必备 | 英语或法语水平达到CLB 7以上 |
-| ECA学历认证 | WES或IQAS等 | 必备 | 评估海外学历等同加拿大标准 |
+| 认证翻译（CTTIC） | 加拿大翻译、术语学和口译委员会 | 必备 | 省级认证，需通过考试 |
+| 认证会议口译员（AIIC） | 国际会议口译员协会 | 可选 | 高级口译认证 |
+| 本科学位 | 认可大学 | 必备 | 通常需要翻译或相关领域学位 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 15,000。随着多元文化需求增长，加拿大对翻译口译员的需求在医疗、法律和政府领域稳步增加。但高级口译岗位竞争激烈，入门机会有限，远程技术带来新工作模式。
+**职位需求量：较高（★★★½☆）。** 全国从业人数约 22,000。加拿大对翻译和口译服务的需求稳定，受多元文化和国际贸易推动。尤其对稀有语言对（如中文、旁遮普语）和特定领域（医疗、法律）的需求较高。就业前景良好，但竞争激烈。
 
-**竞争度：中等（★★★☆☆）。**
+**竞争度：较高（★★★½☆）。**
 **工作强度：中等（★★½☆☆）。**
 
 ---
@@ -43,50 +44,51 @@ Interpreters in Canada work in various settings; migration is possible through E
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 多在语言服务公司或自由职业 |
-| 中级（3-6年） | $50,000~$70,000 | 在政府或医疗领域可获更高 |
-| 高级（6年以上） | $70,000~$100,000 | 会议口译或专职口译员上限可超120k |
+| 初级（0-3年） | $35,000~$50,000 | 全职或自由职业 |
+| 中级（3-7年） | $50,000~$75,000 | 拥有认证 |
+| 高级（7年以上） | $75,000~$100,000 | 专业领域或会议口译 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：中等（★★★☆☆）。** 初级口译员可积累经验转为专业领域（如医疗/法律）口译，或晋升为团队主管。持有CITIC认证者更易从事高端会议口译，亦可自主创业。
-**AI替代风险：较高（★★★★☆）。**
+**发展前景：良好（★★★★☆）。** 初级翻译或口译员可通过积累经验成为高级译员或项目经理。一些人专攻法律或医学口译，获得认证后可大幅提高薪资。自由职业者也可成立翻译公司。
+**AI替代风险：中等（★★★☆☆）。**
 
 主要增长方向：
 
-- Language Services
-- Multicultural Demand
+- Multilingual
+- AI-assisted Translation
 - Remote Interpretation
-- Government Procurement
+- Localization
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
+**PR友好度：较低（★½☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 通过德勤快速通道，需满足CLB 7和至少一年工作经验 |
-| Subclass PNP（Provincial Nominee Program） | 部分省份如安大略、BC省有语言服务类别 |
-| Subclass TFW（Temporary Foreign Worker） | 通过雇主担保工作签证积累经验，再转PR |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法找到本地员工 |
+| Subclass PNP（Provincial Nominee Program） | 部分省份（如安省、BC省）可提名翻译人才 |
+| Subclass Express Entry（Express Entry (FSW/CEC)） | 可能通过FSW或CEC移民，但需有加拿大工作经验或高语言能力 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：较高（★★★½☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Translators, terminologists and interpreters？**
-- 具备双语或多语能力，热爱跨文化沟通
-- 有翻译或语言学学历，能承受密集学习认证
-- 愿意在医疗、法律等专业领域深耕
+- 精通至少两种语言（包括英语或法语）
+- 对跨文化沟通有浓厚兴趣
+- 愿意不断学习新术语和领域知识
 
 **谁不适合学Translators, terminologists and interpreters？**
-- 对语言细节不敏感，情绪管理不佳
-- 无法接受自由职业不稳定收入
+- 不喜欢细节和准确性要求高的工作
+- 抗压能力差，无法应对紧急口译任务
 
 ---
 
@@ -102,29 +104,29 @@ Interpreters in Canada work in various settings; migration is possible through E
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
+| 学习周期 | 中等（★★★☆☆） |
+| 学习难度 | 中等（★★★☆☆） |
+| 考证难度 | 中等（★★★☆☆） |
+| 职位需求量 | 较高（★★★½☆） |
+| 竞争度 | 较高（★★★½☆） |
 | 收入水平 | 中等（★★★☆☆） |
 | 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 中等（★★★☆☆） |
-| AI替代风险 | 较高（★★★★☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
+| 发展前景 | 良好（★★★★☆） |
+| AI替代风险 | 中等（★★★☆☆） |
+| PR友好度 | 较低（★½☆☆☆） |
+| PR难度 | 较高（★★★½☆） |
 
-Translators, terminologists and interpreters的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Translators, terminologists and interpreters为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the average salary for interpreters in Canada?**
-答：Entry-level: CAD 35k-50k; mid-level: CAD 50k-70k; senior: up to CAD 100k+, depending on specialization and employer.
+**问：What is the average salary for translators and interpreters?**
+答：Entry-level translators earn around CAD 35,000-50,000 annually, mid-level CAD 50,000-75,000, and senior can exceed CAD 100,000. Freelancers have variable income.
 
-**问：How can interpreters immigrate to Canada?**
-答：Via Express Entry (min CLB 7) or PNP (e.g., Ontario HCP); ECA required; CITIC certification boosts profile.
+**问：Can translators and interpreters immigrate through skilled migration?**
+答：Yes, but it's challenging. Typically requires employer sponsorship (LMIA) or provincial nomination (PNP). Express Entry may apply for those with Canadian experience or high language scores.
 
-**问：Is CITIC certification mandatory for interpreters in Canada?**
-答：Not mandatory but strongly recommended for better opportunities, especially in medical/legal fields; issued by CTINB/ATIO.
+**问：What certifications are required in Canada?**
+答：Provincial certification (e.g., CTTIC) is mandatory. Senior interpreters may pursue AIIC certification.

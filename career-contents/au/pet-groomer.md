@@ -1,47 +1,42 @@
-# 宠物美容师（Pet Groomer）职业分析 · 澳大利亚
+# Pet Groomer（Pet Groomer）职业分析 · 澳大利亚
 
-**职业代码：361311 – Pet Groomer。**
+**职业代码：361113 – Pet Groomer。**
 
-宠物美容师是澳洲专业服务行业的重要职业，需求稳定，具备相关资质即可入行。澳洲专业服务行业持续扩张，为专业人员提供良好的职业发展机会。
+Pet groomers provide bathing, clipping, styling, and nail trimming for pets, working in pet shops, veterinary clinics, or self-employed. Requires animal care skills and customer service.
 
-> 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
+> 注：本职业为**非技术移民职业**，不在澳大利亚技术移民职业清单上，以下内容主要面向本地就业与职业了解。
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★★☆☆）。**
+**学习难度：较低（★☆☆☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| Relevant degree or certificate qualification | 1~4年 | $5,000~$50,000（视具体课程而定） |
-| Industry registration or licensing | 视情况 | $200~$2,000（行业注册费） |
+| 短期证书课程 | 6个月 | $3,000~$8,000（如TAFE Certificate III in Pet Grooming） |
+| 在职培训 | 1-2年 | —（通过实习积累经验，费用低） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。**
+**考证难度：低（★☆☆☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Relevant qualification for Pet Groomer | 认可机构 | 必备 | 入行基础 |
-| Professional membership / registration | 行业协会 | 可选 | 专业会员 |
+| Certificate III in Pet Grooming | TAFE或私立学院 | 可选 | 行业标准资格，部分雇主要求 |
+| 宠物美容师执照 | 地方政府 | 必备 | 部分州要求注册或执照，需安全卫生培训 |
+| 动物处理技能证书 | RSPCA等机构 | 可选 | 含动物行为和安全操作，非强制但有利就业 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 8,000。2025-2030年澳洲专业服务行业持续扩张，宠物美容师需求保持稳定增长，具备相关认证和经验者就业前景良好。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 8,000。随着澳洲宠物拥有率上升，宠物美容服务需求持续增长。行业预计未来五年稳步扩张，尤其在城市和偏远地区均有就业机会。
 
-| 平台 | 实时挂牌量（约） | 备注 |
-|---|---:|---|
-| Seek | 100~300 个 | 2025年均值 |
-| Indeed | 60~180 个 | 2025年均值 |
-| LinkedIn | 80~220 个 | 2025年均值 |
-
-**竞争度：中等（★★★☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**竞争度：中等（★★½☆☆）。**
+**工作强度：中等（★★½☆☆）。**
 
 ---
 
@@ -49,51 +44,48 @@
 
 | 经验水平 | 年薪（AUD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $58,000~$78,000 | Entry Level |
-| 中级（3-8年） | $80,000~$110,000 | Experienced |
-| 高级（8年+） | $112,000~$150,000 | Senior / Specialist |
+| 初级（0-2年） | $45,000~$55,000 | 宠物店雇员，时薪约$22-$26 |
+| 中级（2-5年） | $55,000~$70,000 | 有经验美容师或主管 |
+| 高级（5年以上/店主） | $70,000~$90,000 | 自营店或高端美容服务 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★☆☆）。** 数字化技术和专业认证要求持续提升，宠物美容师须不断更新专业技能以适应行业变化。
-**AI替代风险：中等（★★★☆☆）。**
+**发展前景：良好（★★★½☆）。** 初级宠物美容师可通过积累经验和获得认证晋升为主管或开设自己的美容店。部分美容师进一步学习兽医护理或宠物营养以拓展职业。
+**AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
-- Australia Wide Growth
-- Regional Demand
-- Digital Transformation
-- Ageing Population
+- Pet ownership rising
+- Premium grooming services
+- Mobile grooming vans
+- Small business growth
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**本职业为非技术移民职业。** 通常不在澳洲技术移民职业清单（MLTSSL / STSOL / CSOL）上，不能作为独立的技术移民或雇主担保提名职业。如以移民为目标，建议考虑清单上的相关职业，或通过学生、毕业生工作、家庭团聚等其他签证类别。具体以 Department of Home Affairs 最新规定为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保 |
-| Subclass 186（ENS） | 永居通道 |
-| Subclass 190（Skilled Nominated） | 州提名 |
-
-**PR难度：中等（★★★☆☆）。**
+| Subclass 482（Temporary Skill Shortage） | 需雇主担保，但该职业不在核心技能清单上，获批可能性低 |
+| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保，需证明劳动力短缺，极少数情况可用 |
+| Subclass DAMA（Designated Area Migration Agreement） | 部分DAMA地区可能包含宠物美容师，需具体协议 |
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
-**谁适合学宠物美容师？**
-- 对专业服务行业有热情者
-- 希望在澳洲稳定就业者
-- 具备相关学历背景者
+**谁适合学Pet Groomer？**
+- 喜爱动物，有耐心和爱心的人
+- 愿意动手操作，不介意毛发和脏活
+- 希望灵活工作或自主创业的人
 
-**谁不适合学宠物美容师？**
-- 不了解澳洲专业服务行业规范者
-- 不愿持续学习更新技能者
+**谁不适合学Pet Groomer？**
+- 对动物过敏或害怕的人
+- 追求高薪或快速移民的人
 
 ---
 
@@ -101,8 +93,7 @@
 
 | 来源 | 内容 |
 |---|---|
-| JSA | ANZSCO 361311 宠物美容师数据 |
-| Seek AU | 薪资及岗位量 |
+| Jobs and Skills Australia | ANZSCO 薪资与需求 |
 
 ---
 
@@ -110,26 +101,29 @@
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 稳定（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★☆☆） |
-| AI替代风险 | 中等（★★★☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
+| 学习周期 | 短（★☆☆☆☆） |
+| 学习难度 | 较低（★☆☆☆☆） |
+| 考证难度 | 低（★☆☆☆☆） |
+| 职位需求量 | 高（★★★★☆） |
+| 竞争度 | 中等（★★½☆☆） |
+| 收入水平 | 中等偏低（★★☆☆☆） |
+| 工作强度 | 中等（★★½☆☆） |
+| 发展前景 | 良好（★★★½☆） |
+| AI替代风险 | 低（★☆☆☆☆） |
+| PR友好度 | 低（★☆☆☆☆） |
+| PR难度 | 高（★★★★½） |
 
-宠物美容师为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
+Pet Groomer属于非技术移民职业，更多面向本地就业；如以移民为目标，建议优先考虑技术移民清单上的相关职业。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：宠物美容师在澳洲薪资如何？**
-答：初级约AUD 5.8万~7.8万，中级8万~11万，高级/专科11.2万~15万，具体因城市和雇主而异。
+**问：What is the salary level for pet groomers in Australia?**
+答：Entry-level earns $45,000-$55,000 AUD, experienced $55,000-$70,000, and self-employed $70,000-$90,000. Income varies by location and client base.
 
-**问：澳洲宠物美容师好找工作吗？**
-答：需求稳定，全澳各地均有职位，具备相关认证和经验者就业前景良好。
+**问：Can pet groomers migrate to Australia through skilled migration?**
+答：This occupation is not on the main skilled occupation lists, so migration pathways are very limited. Only a few regional DAMA or employer sponsorship may be possible, but highly difficult.
+
+**问：What career development opportunities are there for pet groomers?**
+答：Can advance from employee to supervisor or open own salon. Could specialize in high-end styling, show grooming, or combine with veterinary care or pet nutrition.

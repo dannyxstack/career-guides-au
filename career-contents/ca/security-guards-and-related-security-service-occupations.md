@@ -1,41 +1,40 @@
 # Security guards and related security service occupations（Security guards and related security service occupations）职业分析 · 加拿大
 
-**职业代码：62011 – Security guards and related security service occupations。**
+**职业代码：64410 – Security guards and related security service occupations。**
 
-In Canada, security officers protect people and property, monitor security systems, and respond to emergencies. This NOC TEER 3 occupation offers migration pathways via PNP or employer sponsorship.
+Protect property and people by patrolling, monitoring, and controlling access. Common in commercial buildings, residential complexes, airports, and public venues.
+
+> 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★½☆☆）。**
+**学习难度：低（★☆☆☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 高中毕业 | 12年基础教育 | —（加拿大高中通常免费；持海外高中文凭需ECA-学术（如WES）） |
-| 保安培训课程 | 1-3个月 | $300~$1,500（各省认证培训费用；如安省Security Guard Training约$300-$500） |
-| 大学学历（可选） | 2-4年 | $15,000~$40,000（刑事司法或安保管理学位；国际学历需ECA） |
+| 高中文凭 | 0年 | —（基本要求为高中学历） |
+| 保安培训课程 | 1-3个月 | $500~$2,000（各省强制或推荐的培训） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：低（★½☆☆☆）。**
+**考证难度：低（★☆☆☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 省安保执照（如安省保安许可） | 省公共服务厅（如Ministry of the Solicitor General） | 必备 | 完成培训并通过无犯罪记录检查；强制要求 |
-| 急救证书 | 加拿大红十字会或圣约翰救护机构 | 可选 | 推荐持有，部分地区要求 |
-| 语言成绩（CLB 5或以上） | IELTS/CELPIP/TEF | 必备 | 移民需CLB 5-7；部分雇主要求英语流利 |
-| ECA学历认证 | WES/IQAS/ICES | 必备 | 海外学历移民申请时必须提供 |
+| 省级安保执照 | 各省司法/公共安全部门 | 必备 | 所有省份要求保安持有效执照，需完成培训并通过考试 |
+| 急救证书 | 红十字会或圣约翰救护机构 | 可选 | 多数雇主要求有效的急救证书 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 120,000。加拿大安保行业需求稳定，尤其在商业、住宅和政府设施。2023年就业人数约12万，未来五年预计保持年均2%增长。持省牌照可提升竞争力。
+**职位需求量：中等（★★½☆☆）。** 全国从业人数约 105,000。加拿大对保安的需求稳定，随着公共安全关注度提升和私人安保服务扩展，岗位预计小幅增长。
 
-**竞争度：中等（★★★☆☆）。**
+**竞争度：中等（★★½☆☆）。**
 **工作强度：中等（★★½☆☆）。**
 
 ---
@@ -44,50 +43,50 @@ In Canada, security officers protect people and property, monitor security syste
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$36,000 | 城市内多数初级保安时薪$15-$19 |
-| 中级（3-7年） | $36,000~$50,000 | 持有额外认证或管理职责的安保队长等 |
-| 高级（7年以上） | $50,000~$70,000 | 企业安保经理或高级现场主管 |
+| 初级（0-3年） | $28,000~$36,000 | 时薪约$14-18 |
+| 中级（3-7年） | $36,000~$45,000 | 含部分加班和夜班补贴 |
+| 高级（7年以上/主管） | $45,000~$60,000 | 主管级年薪可达6万 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：稳定（★★★☆☆）。** 初级保安（0-3年）可晋升至高级保安或队长，再转入资产保护经理、企业安保主管等岗位。部分人考取私家侦探或警务证书拓宽发展。
-**AI替代风险：低替代风险（★☆☆☆☆）。**
+**发展前景：中等（★★½☆☆）。** 可从入门保安晋升为主管、安全经理或转入更专业的领域（如企业安全、调查）。需要经验积累和相关证书。
+**AI替代风险：中等（★★½☆☆）。**
 
 主要增长方向：
 
-- Provincial Nominee
-- Employer-Sponsored
-- In-Demand Skills
-- Retail & Commercial
+- Security
+- Public Safety
+- Surveillance
+- Access Control
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
+**PR友好度：低（★☆☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 如安省雇主担保-紧缺技能类别、曼省SWO等；需雇主offer与当地执照 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，要求1年工作经验及雇主Offer |
-| Subclass Employer-Sponsored（TFW / LMIA-based pathways） | 通过临时外工计划获得工签积累经验，再转省提名或联邦项目 |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主需证明无法招到本地人，申请LMIA后支持工签 |
+| Subclass PNP（Provincial Nominee Program） | 个别省份将保安纳入省提名，但机会有限 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：高（★★★★☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Security guards and related security service occupations？**
-- 有安保或执法背景、愿意从基层做起的新移民
-- 英语中等（CLB 5-6）、不想长时间学习考证的求职者
-- 愿意搬到偏远省份通过PNP移民的申请人
+- 喜欢稳定工作、注重安全的人
+- 具备良好观察力和沟通能力的人
+- 愿意轮班和从事体力活动的人
 
 **谁不适合学Security guards and related security service occupations？**
-- 期望高薪或快速晋升者
-- 有严重犯罪记录（无法通过无犯罪审查）
+- 追求高薪和快速晋升的人
+- 不喜欢重复性工作和夜班的人
 
 ---
 
@@ -103,29 +102,29 @@ In Canada, security officers protect people and property, monitor security syste
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 短期（1-3月）（★☆☆☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 偏低（★★☆☆☆） |
+| 学习周期 | 短（★☆☆☆☆） |
+| 学习难度 | 低（★☆☆☆☆） |
+| 考证难度 | 低（★☆☆☆☆） |
+| 职位需求量 | 中等（★★½☆☆） |
+| 竞争度 | 中等（★★½☆☆） |
+| 收入水平 | 低（★½☆☆☆） |
 | 工作强度 | 中等（★★½☆☆） |
-| 发展前景 | 稳定（★★★☆☆） |
-| AI替代风险 | 低替代风险（★☆☆☆☆） |
-| PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 中等（★★★☆☆） |
+| 发展前景 | 中等（★★½☆☆） |
+| AI替代风险 | 中等（★★½☆☆） |
+| PR友好度 | 低（★☆☆☆☆） |
+| PR难度 | 高（★★★★☆） |
 
-Security guards and related security service occupations的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Security guards and related security service occupations为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the average annual salary for a security officer in Canada?**
-答：Entry-level: C$28k-36k; mid-level: C$36k-50k; senior (management): up to C$70k. Varies by province.
+**问：What is the annual salary for security guards in Canada?**
+答：Entry-level security guards earn about CAD 28,000 to 36,000 per year; supervisors can earn CAD 45,000 to 60,000.
 
-**问：Can a security officer immigrate through Express Entry?**
-答：NOC 62011 is TEER 3, not eligible for Federal Express Entry (FSW/CEC), but available via Provincial Nominee Programs or Atlantic Immigration Program.
+**问：Can security guards immigrate to Canada through skilled migration?**
+答：Skilled migration (Express Entry) typically requires higher-skilled occupations; security guards are often low-skilled, relying mainly on LMIA work permits or rare provincial nominations.
 
-**问：What certifications are required for a security guard in Canada?**
-答：Provincial security guard license (training + criminal record check required). First Aid certificate recommended. Additional provincial requirements may apply.
+**问：What certification is needed to be a security guard?**
+答：A provincial security guard license is required, obtained after training and exam; first aid certification is often required by employers.

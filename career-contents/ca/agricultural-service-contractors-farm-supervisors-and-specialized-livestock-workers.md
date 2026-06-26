@@ -1,8 +1,8 @@
-# Agricultural service contractors, farm supervisors and specialized livestock workers（Agricultural service contractors, farm supervisors and specialized livestock workers）职业分析 · 加拿大
+# Agricultural Service Contractors, Farm Supervisors and Specialized Livestock Workers（Agricultural Service Contractors, Farm Supervisors and Specialized Livestock Workers）职业分析 · 加拿大
 
-**职业代码：82030 – Agricultural service contractors, farm supervisors and specialized livestock workers。**
+**职业代码：84120 – Agricultural Service Contractors, Farm Supervisors and Specialized Livestock Workers。**
 
-Viticulture workers manage vineyard planting, pruning, irrigation, and harvesting. In Canada, this role falls under farm supervisors or agricultural contractors, requiring agricultural experience. Provincial Nominee Programs with employer sponsorship are common immigration routes.
+In Canada, Beef Cattle Farm Workers correspond to NOC 84120, responsible for feeding, herding, and health maintenance of beef cattle. This occupation falls under trades and can lead to immigration via Provincial Nominee Programs (PNP) or the Agri-Food Immigration Pilot (AFIP), but usually requires employer sponsorship.
 
 > 注：本职业为**受限技术移民职业**，不在加拿大独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
@@ -10,12 +10,12 @@ Viticulture workers manage vineyard planting, pruning, irrigation, and harvestin
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：低（★½☆☆☆）。**
+**学习难度：较低（★½☆☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 高中文凭 | 4年 | —（公立学校免费） |
-| 农业相关大专/证书 | 1-2年 | $5,000~$15,000（社区学院学费） |
+| 高中文凭 | 3年 | —（加拿大公立高中免费，国际生约1.5万加元/年） |
+| 短期培训证书（兽医助手/农业技术） | 6个月 | $2,000~$5,000（社区学院或职业培训机构） |
 
 ---
 
@@ -25,18 +25,19 @@ Viticulture workers manage vineyard planting, pruning, irrigation, and harvestin
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 可选 | 非必需，但有助于移民 |
-| 语言考试（CLB 5） | IELTS/CELPIP | 可选 | 技术移民最低要求 |
-| 农场安全培训 | 省级农业部门 | 可选 | 部分地区要求 |
+| ECA学历认证（如海外学历） | WES或IQAS | 可选 | 用于移民申请，非强制但推荐 |
+| 加拿大语言基准CLB 4 | IELTS或CELPIP | 必备 | 联邦移民最低要求，省提名可能要求CLB 5-6 |
+| 牲畜处理安全证书 | 省级农业部门 | 可选 | 部分省份要求，如阿尔伯塔 |
+| 雇主提供的在职培训 | 雇主 | 必备 | 通常为期1-3个月 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 23,000。加拿大葡萄酒产业主要集中在安大略省、不列颠哥伦比亚省和魁北克省，就业前景稳定，但受季节性和区域限制。移民需求关注省提名项目，如安大略省和BC省的农业类提名。
+**职位需求量：一般（★★★☆☆）。** 全国从业人数约 4,500。加拿大肉牛养殖业主要集中在阿尔伯塔、萨斯喀彻温等省份，就业机会稳定但增长缓慢。受自动化影响有限，职位多依赖季节性需求，全国年均空缺约数百个。
 
-**竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**竞争度：高（★★★½☆）。**
+**工作强度：高（★★★★☆）。**
 
 ---
 
@@ -44,23 +45,23 @@ Viticulture workers manage vineyard planting, pruning, irrigation, and harvestin
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $28,000~$35,000 | 季节性工作，全年收入可能更低 |
-| 中级（3-7年） | $35,000~$45,000 | 含主管职位 |
-| 高级（7年以上） | $45,000~$60,000 | 农场经理或承包商 |
+| 初级（0-3年） | $28,000~$35,000 | 最低工资至略高于最低 |
+| 中级（3-6年） | $35,000~$45,000 | 有经验工人 |
+| 高级/主管（6年以上） | $45,000~$55,000 | 含主管或牧场经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：稳定（★★½☆☆）。** 从葡萄种植工人可晋升为农场主管、酿酒厂经理或自营农业承包商。积累经验后，可转向葡萄园管理或葡萄酒旅游相关岗位。
+**发展前景：一般（★★½☆☆）。** 初级工人可晋升为农场主管或牧场经理，也可转向肉品加工或农业设备操作。积累经验后，可申请永久居民身份并自主经营小型农场。
 **AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
-- Agriculture PNP
+- Agri-Food Immigration Pilot
+- Provincial Nominee
 - Seasonal Work
-- Okanagan Valley
-- Niagara Region
+- Regional Labour Shortage
 
 ---
 
@@ -71,24 +72,24 @@ Viticulture workers manage vineyard planting, pruning, irrigation, and harvestin
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 通过安大略省、BC省等农业类提名项目，需雇主offer |
-| Subclass TFWP（Temporary Foreign Worker Program） | 先获得工签，积累经验后转永居 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋省份农业移民试点，需雇主担保 |
+| Subclass AFIP（Agri-Food Immigration Pilot） | 针对农业食品行业，要求12个月全职工作经验、CLB 4、高中以上学历及雇主Offer，可转永居 |
+| Subclass PNP（Provincial Nominee Program） | 如阿尔伯塔、萨斯喀彻温省提名，需雇主担保，部分省份为低技能工人开放 |
+| Subclass TFWP（Temporary Foreign Worker Program） | 雇主获得LMIA后，可申请2年封闭工签，后续可转永居 |
 
-**PR难度：高（★★★½☆）。**
+**PR难度：高（★★★★☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
-**谁适合学Agricultural service contractors, farm supervisors and specialized livestock workers？**
-- 热爱户外体力劳动，适应季节性工作
-- 愿意居住在乡村地区，如尼亚加拉或奥肯那根
-- 有农业经验或愿意接受培训
+**谁适合学Agricultural Service Contractors, Farm Supervisors and Specialized Livestock Workers？**
+- 能吃苦耐劳、适应户外体力劳动的人
+- 愿意在乡村或偏远地区长期生活的人
+- 有意向通过农业项目移民加拿大的人
 
-**谁不适合学Agricultural service contractors, farm supervisors and specialized livestock workers？**
-- 偏好城市生活和稳定室内工作
-- 无法接受低薪和季节性失业
+**谁不适合学Agricultural Service Contractors, Farm Supervisors and Specialized Livestock Workers？**
+- 对农业或动物无兴趣的人
+- 希望高收入、高自由度职业的人
 
 ---
 
@@ -105,28 +106,28 @@ Viticulture workers manage vineyard planting, pruning, irrigation, and harvestin
 | 维度 | 评级 |
 |---|---|
 | 学习周期 | 短（★☆☆☆☆） |
-| 学习难度 | 低（★½☆☆☆） |
+| 学习难度 | 较低（★½☆☆☆） |
 | 考证难度 | 低（★☆☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
-| 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 低（★★☆☆☆） |
-| 工作强度 | 高（★★★½☆） |
-| 发展前景 | 稳定（★★½☆☆） |
+| 职位需求量 | 一般（★★★☆☆） |
+| 竞争度 | 高（★★★½☆） |
+| 收入水平 | 低（★½☆☆☆） |
+| 工作强度 | 高（★★★★☆） |
+| 发展前景 | 一般（★★½☆☆） |
 | AI替代风险 | 低（★☆☆☆☆） |
 | PR友好度 | 中等（★★★☆☆） |
-| PR难度 | 高（★★★½☆） |
+| PR难度 | 高（★★★★☆） |
 
-Agricultural service contractors, farm supervisors and specialized livestock workers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
+Agricultural Service Contractors, Farm Supervisors and Specialized Livestock Workers为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the average salary for viticulture workers in Canada?**
-答：Entry-level around CAD $28,000-$35,000, supervisors up to $45,000-$60,000, but income varies by season and region.
+**问：What is the average annual salary for beef cattle farm workers in Canada?**
+答：Entry-level workers earn about CAD 28,000-35,000, experienced workers up to CAD 45,000, and supervisors up to CAD 55,000. Paid hourly at CAD 15-25.
 
-**问：How can viticulture workers immigrate to Canada?**
-答：Primarily through Provincial Nominee Programs (e.g., Ontario or BC agriculture streams), requiring a job offer, with language CLB 5 or higher for some streams.
+**问：Can a beef cattle farm worker immigrate to Canada?**
+答：Yes, mainly through the Agri-Food Immigration Pilot (AFIP) or Provincial Nominee Programs (PNP). Requires employer sponsorship, with 12 months of work in Canada before applying for permanent residency.
 
-**问：Is there high demand for viticulture workers in Canada?**
-答：Demand is stable but not critical, with seasonal fluctuations. Opportunities are better in major regions like BC and Ontario, but positions are limited.
+**问：Is the job competition high?**
+答：Entry-level positions are competitive due to low barriers. Experienced workers face less competition, especially in remote areas.

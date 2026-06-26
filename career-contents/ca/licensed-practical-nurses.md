@@ -1,40 +1,40 @@
-# Licensed Practical Nurses（Licensed Practical Nurses）职业分析 · 加拿大
+# Licensed practical nurses（Licensed practical nurses）职业分析 · 加拿大
 
-**职业代码：33102 – Licensed Practical Nurses。**
+**职业代码：32101 – Licensed practical nurses。**
 
-In Canada, Enrolled Nurse corresponds to Licensed Practical Nurse, requiring provincial regulatory licensure. It is a high-demand occupation eligible for Express Entry and Provincial Nominee programs.
+Licensed Practical Nurses (LPNs) in Canada provide essential bedside care, assist registered nurses and physicians, monitor patients, administer medications, and perform wound care, forming a critical part of the healthcare team.
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★½☆☆）。**
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 大专文凭 | 2年 | $15,000~$35,000（加拿大公立学院LPN文凭课程学费） |
-| 本科（RN桥梁） | 4年 | $40,000~$80,000（从LPN升RN的学位课程） |
+| 文凭/证书 | 2年 | $10,000~$30,000（公立学院 LPN 课程学费） |
+| 大专文凭 | 2-3年 | $15,000~$40,000（部分省份要求更长时间课程） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较高（★★★½☆）。**
+**考证难度：中等（★★½☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 省实习护士执照 | 各省护理学院 | 必备 | 需通过国家资格考试（CPNRE）或替代考试 |
-| ECA学历认证 | WES/ICAS等 | 必备 | 海外学历需认证等效性 |
-| 英语考试 | IELTS/CELBAN | 必备 | 通常要求雅思6.5-7.0或CELBAN达标 |
+| LPN 执照 | 省级护理监管机构 | 必备 | 通过 NCLEX-PN 考试，并在所在省注册 |
+| CPR 认证 | 加拿大心脏与中风基金会 | 必备 | 基本生命支持（BLS）认证 |
+| LPN 文凭 | 认可的学院或CEGEP | 必备 | 完成批准的护理课程 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：很高（★★★★½）。** 全国从业人数约 95,000。加拿大人口老龄化推动医疗需求增长，LPN就业前景良好，预计2021-2031年岗位增长中等，尤其在偏远地区和长期护理领域需求旺盛。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 105,000。加拿大人口老龄化推动医疗需求持续增长，LPN 职位在各省均处于高需求状态，尤其偏远地区和长期护理机构。Job Bank 评为 3 星（良好）前景，预计未来十年就业机会充足。
 
-**竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★★☆）。**
+**竞争度：低至中等（★★☆☆☆）。**
+**工作强度：高（★★★★☆）。**
 
 ---
 
@@ -42,23 +42,23 @@ In Canada, Enrolled Nurse corresponds to Licensed Practical Nurse, requiring pro
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $48,000~$58,000 | 时薪约$23-$28 |
-| 中级（3-8年） | $58,000~$72,000 | 时薪约$28-$35 |
-| 高级（8年以上） | $72,000~$85,000 | 时薪约$35-$41，主管或专科可达更高 |
+| 初级（0-3年） | $48,000~$58,000 | 起薪约 $24-28/小时 |
+| 中级（3-7年） | $58,000~$70,000 | 中位年薪约 $63,000 |
+| 高级（7年以上） | $70,000~$85,000 | 高级或主管可达 $40/小时 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：好（★★★★☆）。** LPN可晋升为注册护士或护理主管，通过进修RN学位或专科认证提升职业天花板，部分省份提供雇主担保移民快速通道。
+**发展前景：好（★★★★☆）。** LPN 可积累经验后晋升为注册护士（RN）或进入专科护理领域；也可通过进修转向护理管理、社区健康或教育岗位。省级注册要求严格，但跨省流动相对灵活。
 **AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
-- Healthcare shortage
 - Aging population
-- Provincial Nominee
-- Rural demand
+- Healthcare expansion
+- Long-term care demand
+- Rural healthcare shortage
 
 ---
 
@@ -68,24 +68,24 @@ In Canada, Enrolled Nurse corresponds to Licensed Practical Nurse, requiring pro
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass EE（Express Entry (FSW/CEC)） | 符合NOC 33102可通过联邦快速通道移民，需满足CRS分数要求 |
-| Subclass PNP（Provincial Nominee Program） | 多数省份将LPN列为优先职业，如安省、BC省、阿省等，可获600分加分 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省雇主担保，适合有雇主offer的LPN申请人 |
+| Subclass Express Entry（Federal Skilled Worker Program） | LPN 属于 NOC TEER 2，符合 FSW 资格，需满足语言和工作经验要求。 |
+| Subclass PNP（Provincial Nominee Program） | 许多省份将 LPN 列为紧缺职业，可通过省提名快速获得永居。 |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主可申请 LMIA 支持工签，通常需证明无法招到本地员工。 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：低（★½☆☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
-**谁适合学Licensed Practical Nurses？**
-- 有护理背景或相关学历，愿意通过加拿大认证考试
-- 愿意在长期护理或偏远地区工作以获得更多机会
-- 计划通过雇主担保或省提名快速移民
+**谁适合学Licensed practical nurses？**
+- 耐心细致、富有同情心的人
+- 希望在医疗领域快速就业的人
+- 愿意在偏远地区或长期护理机构工作的人
 
-**谁不适合学Licensed Practical Nurses？**
-- 不愿再考取执照或通过语言考试的人
-- 期望高薪轻松工作，无法承受轮班和体力负担的人
+**谁不适合学Licensed practical nurses？**
+- 无法承受长时间站立和体力消耗的人
+- 厌恶轮班工作（包括夜班和周末）的人
 
 ---
 
@@ -102,25 +102,28 @@ In Canada, Enrolled Nurse corresponds to Licensed Practical Nurse, requiring pro
 | 维度 | 评级 |
 |---|---|
 | 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 很高（★★★★½） |
-| 竞争度 | 中等（★★★☆☆） |
+| 学习难度 | 中等（★★★☆☆） |
+| 考证难度 | 中等（★★½☆☆） |
+| 职位需求量 | 高（★★★★☆） |
+| 竞争度 | 低至中等（★★☆☆☆） |
 | 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★★☆） |
+| 工作强度 | 高（★★★★☆） |
 | 发展前景 | 好（★★★★☆） |
 | AI替代风险 | 低（★☆☆☆☆） |
 | PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
+| PR难度 | 低（★½☆☆☆） |
 
-Licensed Practical Nurses的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Licensed practical nurses的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary range for LPNs in Canada? How does it compare to RNs?**
-答：LPNs earn an average of CAD 50,000-70,000 annually, while RNs earn CAD 70,000-90,000. The gap is around CAD 20,000-30,000, but LPN work is less intensive.
+**问：What is the salary level for LPNs in Canada?**
+答：LPN median annual salary is around CAD $63,000, entry-level $48,000-$58,000, and experienced up to $85,000. Salaries vary by province and employer.
 
-**问：How can overseas nurses migrate as LPNs in Canada?**
-答：Complete ECA, achieve language proficiency, apply for provincial licensure. Some provinces like BC have priority healthcare PNP streams to fast-track immigration.
+**问：How can overseas LPNs immigrate to Canada?**
+答：Overseas LPNs can apply through Express Entry (FSW/CEC) or PNP, pass the NCLEX-PN exam, and obtain provincial licensure. LMIA work permits are also an option.
+
+**问：How long does it take to become an LPN?**
+答：It typically takes 2 years to complete an LPN diploma program, followed by passing the NCLEX-PN exam. Some provinces require 2-3 year programs.

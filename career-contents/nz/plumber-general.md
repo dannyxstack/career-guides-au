@@ -1,39 +1,41 @@
 # Plumber (General)（Plumber (General)）职业分析 · 新西兰
 
-**职业代码：334111 – Plumber (General)。**
+**职业代码：334116 – Plumber (General)。**
 
-Plumbers install, maintain, and repair water, drainage, gas, and fire protection systems. This occupation is in chronic shortage in New Zealand, offering a fast track to residency via the Green List Tier 1, with above-average wages for trades.
+Plumbers in New Zealand are in high demand, listed on the Green List, and can achieve skilled migration via direct residence or work-to-residence pathways. They install, repair, and maintain water, drainage, gas, and heating systems, ensuring compliance with building codes.
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等偏高（★★★☆☆）。**
+**学习难度：中等（★★½☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 学徒培训 | 4年 | —（通过雇主担保学徒（新学徒工补助可达$5000），部分培训免费） |
-| 大专文凭 | 1-2年 | $5,000~$15,000（新西兰理工学院（如Unitec）提供Certificate或Diploma课程） |
+| 学徒制 | 4年 | —（在职学徒，雇主承担大部分培训费用，个人花费主要为工具和教材） |
+| 预科证书 | 1年 | $5,000~$12,000（提供入门技能，非强制但有利于学徒申请） |
+| 国家证书（5级） | 4年（含学徒） | $10,000~$20,000（新西兰水管工、煤气工和排水工委员会（PGDB）要求的资格） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较难（★★★★☆）。**
+**考证难度：较高（★★★½☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 注册水管工（Licensed Plumber） | 新西兰水管工、煤气安装工及排水工委员会（Plimmerton） | 必备 | 必须通过理论和实践考试，并完成至少4年学徒，才能申请注册 |
-| 新西兰水管工学徒证书（NZ Certificate in Plumbing） | 行业培训组织（BCITO） | 必备 | 学徒期间完成，通常为Registrational Plumber前置条件 |
-| 安全工牌（Site Safe Passport） | Site Safe | 可选 | 施工现场基本安全要求，部分雇主或项目强制 |
+| 新西兰国家水管工证书（5级） | 新西兰水管工、煤气工和排水工委员会（PGDB） | 必备 | 注册成为持牌水管工的必要条件，需完成学徒并通过考试 |
+| 持牌水管工注册 | PGDB | 必备 | 所有从事水管工作的人员必须注册，分学徒、技工和持牌等级 |
+| 工人安全证书（Site Safe） | Site Safe New Zealand | 可选 | 工地安全培训，许多雇主强制要求 |
+| 英语能力（雅思6.5） | 移民局认可机构 | 可选 | 技术移民签证要求，若母语非英语需提供 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：非常高（★★★★★）。** 全国从业人数约 25,000。新西兰住房建设持续增长，加上老旧管道升级需求，水管工岗位预计保持高位。行业老龄化严重，年轻技工入行即有机会获得稳定工作，多地已列为优先移民职业。
+**职位需求量：很高（★★★★½）。** 全国从业人数约 25,000。新西兰建筑业持续增长，加上现有管道老化，水管工需求强劲。预计未来5年岗位增长率约10%，尤其在奥克兰、基督城等城市，持牌水管工供不应求。
 
-**竞争度：低（★☆☆☆☆）。**
+**竞争度：较低（★½☆☆☆）。**
 **工作强度：较高（★★★½☆）。**
 
 ---
@@ -42,15 +44,15 @@ Plumbers install, maintain, and repair water, drainage, gas, and fire protection
 
 | 经验水平 | 年薪（NZD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 学徒及未注册新手 |
-| 中级（3-6年） | $65,000~$85,000 | 已注册并有一定经验 |
-| 高级（6年以上） | $90,000~$120,000 | 持证高级工、主管或自雇 |
+| 初级（0-3年） | $55,000~$70,000 | 学徒期或刚获注册的新手 |
+| 中级（3-7年） | $75,000~$95,000 | 持牌技工，能独立工作 |
+| 高级（7年以上） | $100,000~$130,000 | 经验丰富或担任主管/自雇 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：非常好（★★★★½）。** 通常从水管工学徒起步，取得注册执照后可升任主管、项目经理或自雇承包。积累经验后还可转型建筑检查员、管道设计师或开办公司，收入弹性较大。
+**发展前景：好（★★★★☆）。** 通常从学徒起步，获得国家证书后成为持牌水管工。可晋升为高级技工、项目主管，或自营承包商。经验丰富者可进入建筑管理或专业技术领域。
 **AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
@@ -58,34 +60,35 @@ Plumbers install, maintain, and repair water, drainage, gas, and fire protection
 - Green List Tier 1
 - Skilled Migrant Category
 - Construction Boom
-- Chronic Shortage
+- Aging Infrastructure
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：非常友好（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：友好（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass Green List T1（Straight to Residence） | 符合绿色清单第一级职业，工作满24个月后直接申请居民签证，无薪资中位数要求（但需同行）。 |
-| Subclass SMC（Skilled Migrant Category） | 通过6分制打分：职业注册可算3分，加上工作经验和学历，满6分即可申请。 |
-| Subclass AEWV（Accredited Employer Work Visa） | 作为过渡工签，可为认证雇主工作3年，之后满足条件可转居留。 |
+| Subclass Green List T1（Straight to Residence Visa） | 符合绿色清单Tier1职业，可直接申请居留，无需先工作。需持PGDB注册且工资达到中位数。 |
+| Subclass Green List T2（Work to Residence Visa） | 工作2年后可申请居留。需持PGDB注册且工资达到中位数。 |
+| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，根据职业、学历、收入等打分。水管工属注册职业，可获额外加分。 |
+| Subclass AEWV（Accredited Employer Work Visa） | 若未达绿色清单标准，可通过认证雇主获得工签，工作3年后可申请居留。 |
 
-**PR难度：低（★☆☆☆☆）。**
+**PR难度：较低（★☆☆☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Plumber (General)？**
-- 动手能力强，喜欢户外及施工现场工作
-- 有意通过技术移民快速定居新西兰的人群
-- 能适应体力劳动和不定时加班
+- 动手能力强、喜欢户外体力工作的人
+- 有志通过职业技能移民新西兰的人
+- 能应对复杂技术规范和考取证照压力的人
 
 **谁不适合学Plumber (General)？**
-- 不喜体力劳动或恐高
-- 追求办公室白领工作或高度规律作息
+- 不喜欢身体劳累或恶劣天气者
+- 英语能力弱、难以通过注册考试者
 
 ---
 
@@ -101,17 +104,17 @@ Plumbers install, maintain, and repair water, drainage, gas, and fire protection
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 较长（4年）（★★★½☆） |
-| 学习难度 | 中等偏高（★★★☆☆） |
-| 考证难度 | 较难（★★★★☆） |
-| 职位需求量 | 非常高（★★★★★） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 中等偏上（★★★★☆） |
+| 学习周期 | 较长（★★★☆☆） |
+| 学习难度 | 中等（★★½☆☆） |
+| 考证难度 | 较高（★★★½☆） |
+| 职位需求量 | 很高（★★★★½） |
+| 竞争度 | 较低（★½☆☆☆） |
+| 收入水平 | 较高（★★★★☆） |
 | 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 非常好（★★★★½） |
+| 发展前景 | 好（★★★★☆） |
 | AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 非常友好（★★★★★） |
-| PR难度 | 低（★☆☆☆☆） |
+| PR友好度 | 友好（★★★★½） |
+| PR难度 | 较低（★☆☆☆☆） |
 
 Plumber (General)的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
@@ -119,11 +122,11 @@ Plumber (General)的移民路径与薪资见上表；建议结合自身背景与
 
 ## 9. FAQ 常见问题
 
-**问：What is the average annual salary for a plumber in New Zealand?**
-答：For licensed plumbers with experience, the salary ranges from NZD 65,000 to 85,000 per year, with senior plumbers earning up to NZD 120,000, well above the national median wage (approx. NZD 53,000).
+**问：What is the salary of a plumber in New Zealand?**
+答：Entry-level around NZD 55,000-70,000, mid-level NZD 75,000-95,000, senior NZD 100,000-130,000. Self-employed can earn over NZD 150,000.
 
-**问：How can a plumber migrate via the Green List?**
-答：Plumber is on Green List Tier 1 (Straight to Residence). After 24 months of work, you can directly apply for residence without meeting the median wage requirement, provided you hold a New Zealand plumber license and work for an accredited employer.
+**问：Is it easy for plumbers to immigrate to New Zealand?**
+答：Relatively easy. It's on Green List Tier 1, allowing direct residence if registered and meeting salary threshold. Immigration also recognizes apprenticeship experience.
 
-**问：What steps are required to become a licensed plumber in New Zealand?**
-答：Typically complete a 4-year apprenticeship, earn a NZ Certificate in Plumbing (Level 4), pass theory and practical exams, and register with the Plumbers, Gasfitters and Drainlayers Board. Overseas qualifications need assessment and may require bridging courses.
+**问：How to become a licensed plumber in New Zealand?**
+答：Complete a 4-year apprenticeship, obtain NZ National Certificate in Plumbing Level 5, and register with PGDB after exams. Overseas qualifications need assessment.

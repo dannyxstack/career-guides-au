@@ -1,8 +1,8 @@
 # Building Inspector（Building Inspector）职业分析 · 新西兰
 
-**职业代码：312116 – Building Inspector。**
+**职业代码：312113 – Building Inspector。**
 
-Building inspectors ensure construction complies with the New Zealand Building Code (NZBC) and local regulations. This occupation is on the Green List, offering a direct residence pathway, with clear immigration options.
+Building inspectors examine construction sites, residential and commercial buildings to ensure compliance with New Zealand building codes, regulations, and standards, identifying structural defects and safety risks, and issuing inspection reports. This occupation is eligible for direct residence via the Green List and skilled migration, suitable for construction professionals seeking New Zealand immigration.
 
 ---
 
@@ -12,8 +12,7 @@ Building inspectors ensure construction complies with the New Zealand Building C
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 建筑管理或相关大专文凭 | 2年 | $20,000~$35,000（新西兰理工学院，如Unitec或WelTec） |
-| 建筑学士学位（相关） | 3年 | $30,000~$50,000（大学如奥克兰大学或梅西大学） |
+| Diploma in Building Control Surveying or equivalent | 2年 | $12,000~$25,000（新西兰理工学院或私立培训机构，费用范围） |
 
 ---
 
@@ -23,16 +22,15 @@ Building inspectors ensure construction complies with the New Zealand Building C
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 新西兰建筑检查员认证 | 新西兰建筑知识协会（BOINZ | 必备 | 强制要求，需通过考试 |
-| 注册建筑设计师（非强制） | 新西兰注册建筑师委员会（NZRAB） | 可选 | 相关背景可加分 |
-| 工作场所安全证书（Site Safe） | Site Safe NZ | 必备 | 行业基本要求 |
-| 雇主提供的在职培训 | 雇主 | 可选 | 通常要求2-3年经验 |
+| 新西兰建筑从业资格（LBP） - 建筑检查员或建筑从业员 | 新西兰建筑从业资格委员会 | 必备 | 强制性注册，要求相关学历和经验，通过考试 |
+| 建筑检查相关文凭或学位 | Unitec, Otago Polytechnic, WelTec等 | 可选 | 常见路径，部分课程可豁免经验要求 |
+| 雅思6.5或同等英语水平 | 雅思/PTE/托福 | 必备 | 技术移民和注册要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 1,500。新西兰住宅建设持续增长，建筑检查员需求稳定。政府对建筑合规监管加强，持证检查员紧缺，尤其是奥克兰及快速发展的城市。预计未来五年就业增长约10%。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 3,500。新西兰建筑业持续增长，特别是奥克兰和基督城地区，建筑检查员需求稳定。预计未来五年就业增长强劲，受惠于住房建设和基础设施项目。高级检查员或持牌建筑专业人士（LBP）更易获得工作机会。
 
 **竞争度：中等（★★½☆☆）。**
 **工作强度：中等（★★½☆☆）。**
@@ -43,23 +41,23 @@ Building inspectors ensure construction complies with the New Zealand Building C
 
 | 经验水平 | 年薪（NZD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $65,000~$80,000 | 包含培训期，需积累经验 |
-| 中级（3-6年） | $80,000~$100,000 | 具备认证后薪资上升 |
-| 高级（6年以上） | $100,000~$130,000 | 包括团队领导或私人认证角色 |
+| 初级（0-3年） | $55,000~$70,000 | 起薪范围，通常需在资深指导下工作 |
+| 中级（3-6年） | $70,000~$95,000 | 持有LBP且经验丰富者可达上限 |
+| 高级（6年以上） | $95,000~$120,000 | 团队主管或技术专家，部分高级职位可达13万 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★★☆）。** 通常从建筑行业经验入手，如木工或施工监督，然后获得认证。可晋升为高级检查员、项目经理或成为私人认证机构合伙人。持证的注册检查员收入更高。
-**AI替代风险：低（★☆☆☆☆）。**
+**发展前景：良好（★★★★☆）。** 初级检查员可通过积累经验和考取新西兰建筑从业资格（LBP）晋升为高级检查员或首席检查员。还可向项目管理、建筑合规经理或建筑争议解决等方向发展，或成立自己的检查公司。
+**AI替代风险：低（★½☆☆☆）。**
 
 主要增长方向：
 
 - Green List Tier 1
+- Skilled Migrant Category
+- High Demand
 - Construction Boom
-- Regulatory Demand
-- Auckland Growth
 
 ---
 
@@ -69,24 +67,24 @@ Building inspectors ensure construction complies with the New Zealand Building C
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接居留签证，符合绿色清单一级职业要求，雅思6.5，时薪不低于$29.66（2024年标准） |
-| Subclass SMC（Skilled Migrant Category） | 技术移民类别，6分制，职业注册+学历等可获积分，满足160分即可 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于他人雇主担保，需认证雇主且工资中位数以上 |
+| Subclass Green List T1（Straight to Residence Visa） | 满足ANZSCO要求且工资不低于中位数（约29.66纽币/小时），可直接申请居留 |
+| Subclass SMC（Skilled Migrant Category） | 满足6分制积分要求（学历+工作经验），且工资达标，可申请居留 |
+| Subclass AEWV（Accredited Employer Work Visa） | 如未达直接居留条件，可通过认证雇主担保工作，积累经验后转居留 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：中等（★★½☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Building Inspector？**
-- 有建筑工地经验，熟悉施工流程的人员
-- 善于沟通、注重细节的合规型人才
-- 希望快速获得新西兰居留权的技术移民
+- 有建筑行业背景，关注细节，熟悉规范
+- 追求稳定职业和移民路径
+- 愿意在奥克兰或其他主要城市工作
 
 **谁不适合学Building Inspector？**
-- 不习惯户外、现场工作环境的人
-- 对法规和标准缺乏耐心的人
+- 不适应户外和工地环境
+- 希望完全避开口语和书面沟通（需与客户、承包商交流）
 
 ---
 
@@ -107,12 +105,12 @@ Building inspectors ensure construction complies with the New Zealand Building C
 | 考证难度 | 较高（★★★½☆） |
 | 职位需求量 | 高（★★★★☆） |
 | 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
+| 收入水平 | 中等偏高（★★★☆☆） |
 | 工作强度 | 中等（★★½☆☆） |
 | 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
+| AI替代风险 | 低（★½☆☆☆） |
 | PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
+| PR难度 | 中等（★★½☆☆） |
 
 Building Inspector的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
@@ -120,11 +118,11 @@ Building Inspector的移民路径与薪资见上表；建议结合自身背景�
 
 ## 9. FAQ 常见问题
 
-**问：What is the average salary for a building inspector in New Zealand?**
-答：Building inspectors typically earn NZD 75,000 to NZD 100,000 per annum. Experienced registered inspectors can earn over NZD 130,000. Salaries vary by location, with Auckland being higher.
+**问：What is the salary range for a building inspector in New Zealand?**
+答：Entry-level: NZD 55,000-70,000; Intermediate: NZD 70,000-95,000; Senior: NZD 95,000-120,000. Higher for LBP and experienced professionals.
 
-**问：Does a building inspector qualify for New Zealand skilled migration?**
-答：Yes, building inspectors are on the Green List Tier 1, eligible for Straight to Residence Visa. They can also apply under the Skilled Migrant Category (6-point system) if qualified.
+**问：Can building inspectors migrate through the Green List?**
+答：Yes. Building inspectors are on Green List Tier 1. Meeting median wage (approx. $29.66/hr) qualifies for direct residence.
 
-**问：What certification is required for building inspectors in New Zealand?**
-答：The main certification is from the Building Officials Institute of New Zealand (BOINZ), requiring exams and background checks. Site Safe certificate is also recommended. Experienced practitioners may get exemptions.
+**问：Do building inspectors need to be registered in New Zealand?**
+答：Yes, mandatory to hold a Licensed Building Practitioner (LBP) licence in building inspection or carpentry, or equivalent; otherwise cannot work independently.

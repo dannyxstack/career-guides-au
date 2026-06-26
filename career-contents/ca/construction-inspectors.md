@@ -1,8 +1,8 @@
-# Construction Inspectors（Construction Inspectors）职业分析 · 加拿大
+# Construction inspectors（Construction inspectors）职业分析 · 加拿大
 
-**职业代码：22212 – Construction Inspectors。**
+**职业代码：22233 – Construction inspectors。**
 
-Construction inspectors in Canada supervise building or renovation projects to ensure compliance with building codes, regulations, and contracts. This occupation is eligible for skilled immigration through provincial nominee programs like Ontario Skills Priority or Saskatchewan Trades, requiring provincial certification.
+Construction inspectors (NOC 22233) examine building sites, residential and commercial buildings to ensure compliance with codes and safety standards. This occupation offers stable demand and is eligible for Express Entry and PNP immigration.
 
 ---
 
@@ -12,29 +12,29 @@ Construction inspectors in Canada supervise building or renovation projects to e
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 社区学院文凭（建筑检查员或相关专业） | 2年 | $8,000~$20,000（学费因省份和学校而异，例如安大略省约10,000-15,000 CAD） |
-| 学徒制或行业经验 (成为持牌技工) | 3-4年 | $2,000~$5,000（学徒期间工作换取学费减免，考试费及材料费约2,000-5,000 CAD） |
+| 专科文凭 | 2年 | $10,000~$20,000（建筑技术或相关专业，年学费约5000-10000加元） |
+| 本科学位 | 4年 | $20,000~$40,000（土木工程、建筑科学等，年学费5000-10000加元） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较高（省级考试）（★★★½☆）。**
+**考证难度：中等（★★★☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 省级建筑检查员认证（如安大略省Building Code Identification Number, BCIN） | 省级政府部门或建筑规范委员会 | 必备 | 多数省份要求通过考试获得认证；持加拿大境外的相关认证（如澳洲）需通过学历评估（ECA）补修差异课程 |
-| Red Seal 技工认证 (可选) | 加拿大红印章计划 | 可选 | 适用于部分贸易背景的检查员，跨省认可度高 |
-| Workplace Hazardous Materials Information System (WHMIS) 认证 | 加拿大雇主联合 | 可选 | 建筑工地安全必备，多数雇主要求 |
+| 教育证书评估（ECA） | IQAS或WES | 必备 | 海外学历需评估为加拿大同等水平 |
+| 省级检查员认证 | 省级建筑管理机构 | 必备 | 多数省份要求取得认证如Ontario Building Official |
+| 英语/法语语言考试 | IELTS/TEF | 必备 | 移民需CLB 7及以上 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 13,000。加拿大建筑业持续增长，尤其住宅和基础设施项目，带动检查员需求。预计2024-2033年职位空缺约3,000-4,000个，受退休和绿色建筑转型影响，就业稳定。在安大略省和不列颠哥伦比亚省需求较高。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 28,000。加拿大建筑业持续增长，基础设施和住房需求强劲，建筑检查员岗位预计稳定增加。尤其安省、BC省和阿尔伯塔省需求旺盛，就业前景良好。
 
 **竞争度：中等（★★½☆☆）。**
-**工作强度：中等（★★★☆☆）。**
+**工作强度：中等（★★½☆☆）。**
 
 ---
 
@@ -42,51 +42,50 @@ Construction inspectors in Canada supervise building or renovation projects to e
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $40,000~$55,000 | 初级检查员，薪资取决于省份和雇主类型（政府或私营） |
-| 中级（3-8年） | $55,000~$75,000 | 持有省级认证，能够独立检查复杂项目 |
-| 高级（8年以上） | $75,000~$95,000 | 高级检查员或主管，具备红印章或工程技师认证，部分项目经理超过100,000 CAD |
+| 初级（0-3年） | $50,000~$65,000 | 年收入约5-6.5万加元 |
+| 中级（3-7年） | $65,000~$85,000 | 年收入约6.5-8.5万加元 |
+| 高级（7年以上） | $85,000~$110,000 | 年收入可达8.5-11万加元 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：较好（★★★★☆）。** 职业路径：初级检查员 (0-3年) → 中级检查员 (3-8年) → 高级/主管 (8+年) → 项目经理或自雇顾问。通过获得红印章认证 (Red Seal) 或省级土木工程技师认证可提升薪资和流动性，部分人转入城镇政府法规执行岗位。
+**发展前景：良好（★★★½☆）。** 初级检查员可积累经验后晋升为高级检查员、首席检查员或项目经理，也可转向建筑规范顾问或政府监管职位。持省级认证后职业发展空间更大。
 **AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
+- Construction boom
+- Infrastructure projects
+- Housing demand
 - Provincial Nominee
-- Trades and Apprenticeship
-- Green Building
-- Infrastructure
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass EE（Express Entry (Federal Skilled Worker / Canadian Experience Class)） | 通过建筑检查员NOC TEER 2职位申请，但需有加拿大雇主动工或相关工作经验（如国际学生或LMIA）；综合评分系统（CRS）需较高分数 |
-| Subclass PNP（Provincial Nominee Program (e.g., Ontario Skills Priority, Saskatchewan Trades)） | 适合有省级认证或工作offer的申请人；安大略省、萨斯喀彻温省等省提名快速通道 |
-| Subclass AIP（Atlantic Immigration Program） | 适用于大西洋四省的有雇主担保的检查员，资格包括1年工作经验及语言CLB 4 |
+| Subclass EE（Express Entry (FSW/CEC)） | 符合要求的申请人可通过联邦快速通道技术移民或经验类移民获得永居 |
+| Subclass PNP（Provincial Nominee Program） | 安省、BC省等省份有建筑类优先职业提名，省提名可加600分 |
+| Subclass AIP（Atlantic Immigration Program） | 大西洋四省指定雇主担保项目，适合有工作安排的申请人 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：中等（★★½☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
-**谁适合学Construction Inspectors？**
-- 持有建筑或工程背景的海外专业人士，愿意补充加拿大认证
-- 已持有澳洲建筑检查员资格，可通过学历评估转换
-- 注重稳定就业且能够适应户外工作及爬高爬低
-- 希望在加拿大安大略省、不列颠哥伦比亚省或草原省份定居的技术人才
+**谁适合学Construction inspectors？**
+- 有建筑或工程背景，注重细节
+- 具备良好沟通能力，喜欢现场工作
+- 愿通过省级认证提升竞争力
 
-**谁不适合学Construction Inspectors？**
-- 不喜欢户外或工地环境，无法处理文案和法规细节
-- 无法承受考试和认证周期（1-2年）或语言门槛（CLB 7以上）
+**谁不适合学Construction inspectors？**
+- 不喜户外或工地环境者
+- 不愿学习建筑规范或通过认证考试者
 
 ---
 
@@ -102,29 +101,29 @@ Construction inspectors in Canada supervise building or renovation projects to e
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（2-4年）（★★★☆☆） |
+| 学习周期 | 中等（★★½☆☆） |
 | 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较高（省级考试）（★★★½☆） |
+| 考证难度 | 中等（★★★☆☆） |
 | 职位需求量 | 高（★★★★☆） |
 | 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 较好（★★★★☆） |
+| 收入水平 | 中等偏上（★★★☆☆） |
+| 工作强度 | 中等（★★½☆☆） |
+| 发展前景 | 良好（★★★½☆） |
 | AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
+| PR友好度 | 高（★★★★☆） |
+| PR难度 | 中等（★★½☆☆） |
 
-Construction Inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Construction inspectors的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary range for construction inspectors in Canada?**
-答：Entry level: CAD 40,000-55,000; Mid-level: CAD 55,000-75,000; Senior: CAD 75,000-95,000; Manager/self-employed can exceed CAD 100,000. Government jobs are stable but lower; private sector or self-employment offers higher potential.
+**问：What is the actual salary of construction inspectors in Canada?**
+答：Entry-level: CAD 50k-65k; mid-level: CAD 65k-85k; senior: up to CAD 110k+, varies by province and certification.
 
-**问：How can a building inspector from China or Australia immigrate to Canada?**
-答：Via Express Entry (requires 1 year Canadian experience or LMIA) or provincial nomination (e.g., Ontario Skills Priority, Saskatchewan Trades). Steps: ECA, obtain provincial inspector certification (e.g., BCIN), language CLB 7+. Having a job offer or certification improves chances.
+**问：What are the main immigration pathways for construction inspectors?**
+答：Express Entry (FSW/CEC) and Provincial Nominee Programs (e.g., Ontario, BC). Provincial certification and work experience boost points.
 
-**问：Are Australian qualifications recognized in Canada?**
-答：You need an Educational Credential Assessment (ECA) from designated organizations (e.g., WES) to confirm equivalency. Then, you must pass provincial building code exams (e.g., BCIN in Ontario) and may need to complete bridging courses. Exemptions are determined by provincial regulators.
+**问：How to get foreign education recognized in Canada?**
+答：Obtain an ECA from WES or IQAS, and possibly take additional courses to meet provincial standards.

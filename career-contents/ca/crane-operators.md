@@ -1,8 +1,8 @@
 # Crane operators（Crane operators）职业分析 · 加拿大
 
-**职业代码：72501 – Crane operators。**
+**职业代码：72500 – Crane operators。**
 
-In Canada, crane operators handle tower cranes, mobile cranes, and other lifting equipment in construction, mining, and manufacturing. This skilled trade offers migration pathways via Provincial Nominee Programs (PNP) or Express Entry for eligible candidates, with steady demand driven by infrastructure projects and resource extraction.
+Operate mobile or stationary cranes to lift, move, and place heavy equipment and materials, widely used in construction, manufacturing, and transportation.
 
 ---
 
@@ -12,30 +12,29 @@ In Canada, crane operators handle tower cranes, mobile cranes, and other lifting
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 高中毕业 | 无固定年限 | —（通常要求高中文凭或同等学历） |
-| 学徒制（含在职培训） | 3-4年 | $500~$2,000（学徒期间学费低，部分省份提供补助） |
-| 职业培训证书 | 6-12个月 | $3,000~$10,000（部分私立学院提供短期课程，但需额外考证） |
+| 高中文凭 | 无 | —（通常要求高中毕业） |
+| 学徒培训 | 3-4年 | $5,000~$15,000（含课堂和在职培训） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。**
+**考证难度：中等（★★½☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 省级起重机操作员证书 | 各省劳工或安全机构（如Ontario Ministry of Labour, BCCSA） | 必备 | 必须持有操作特定类型起重机的证书，通常需通过理论和实操考试 |
-| 加拿大语言基准（CLB） | IRCC认可的语言测试（IELTS/CELPIP） | 可选 | 技术移民通常要求CLB 5（雅思听说读写各5.0）以上，但省份可能要求更高 |
-| 学历认证（ECA） | WES、IQAS等 | 可选 | 海外学历需ECA报告用于Express Entry，对高中学历非必须 |
+| 起重机操作员证书 | 省级安全机构 | 必备 | 多数省份要求认证 |
+| 驾驶执照 | 省级交通部门 | 必备 | 通常需持有有效的驾驶执照 |
+| 高空作业证书 | 省级安全机构 | 可选 | 部分省份要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 18,000。加拿大基建投资和矿业活动保持强劲，起重机操作员需求在安大略省、阿尔伯塔省、不列颠哥伦比亚省尤为突出。未来十年预计有大量退休人员，为新移民创造机会。但需注意经济周期影响，行业波动较大。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 14,000。加拿大建筑和资源行业持续增长，尤其是基础设施项目和矿业，推动对熟练起重机操作员的需求。预计未来几年就业前景良好。
 
 **竞争度：中等（★★½☆☆）。**
-**工作强度：高（★★★½☆）。**
+**工作强度：高（★★★★☆）。**
 
 ---
 
@@ -43,50 +42,50 @@ In Canada, crane operators handle tower cranes, mobile cranes, and other lifting
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$60,000 | 学徒或助理操作员薪资较低 |
-| 中级（3-8年） | $65,000~$85,000 | 持有证书并有经验的操作员，收入中位数水平 |
-| 高级（8年以上） | $90,000~$120,000 | 熟练操作多类型起重机，或负责大型项目 |
+| 初级（0-3年） | $45,000~$60,000 | 视省份和雇主而定 |
+| 中级（3-7年） | $60,000~$85,000 | 包含加班和奖金 |
+| 高级（7年以上） | $85,000~$110,000 | 资深操作员或主管 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★★☆）。** 初级操作员通常从学徒或助手做起，考取省级证书后晋升为独立操作员。积累经验后可转向大型项目（如高层建筑、矿山）或成为培训师、主管。部分人通过认证成为移动起重机专家或塔吊组长，薪资显著提升。
+**发展前景：良好（★★★★☆）。** 通常从学徒或设备操作员开始，积累经验后可晋升为高级操作员、主管或培训师，也可转向重型设备管理岗位。
 **AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
-- Infrastructure Investment
-- Resource Extraction
-- Provincial Nominee
-- Skilled Trades
+- Construction
+- Infrastructure
+- Oil & Gas
+- Mining
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 通过省提名项目移民，如安大略省技工类、阿尔伯塔省机遇类等，需雇主offer或本省工作经验 |
-| Subclass EE（Express Entry (Federal Skilled Trades)） | 联邦技工移民（FSTC）适用于符合NOC B类职业的技工，需语言CLB 5及加拿大雇主offer或证书 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省试点项目，适合有雇主offer的技工，流程较快 |
+| Subclass Express Entry（Federal Skilled Worker） | 适用于有相关工作经验且满足CRS打分要求的申请人 |
+| Subclass PNP（Provincial Nominee Program） | 部分省份（如阿尔伯塔、BC省）将起重机操作员列为紧缺职业，可提名 |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，需证明无法招到本地工人 |
 
-**PR难度：中等（★★½☆☆）。**
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Crane operators？**
-- 喜欢户外作业和有体力活动的人
-- 愿意通过学徒制积累经验，不怕高空作业
-- 希望在加拿大资源或基建行业长期发展的人
+- 喜欢户外和体力工作，不恐高
+- 注重安全，有责任心
+- 愿意接受培训和考取证书
 
 **谁不适合学Crane operators？**
-- 对高度恐惧或身体灵活性差的人
-- 不愿意接受严格安全培训和考证的人
+- 无法适应高空作业或恶劣天气
+- 缺乏耐心和精细操作能力
 
 ---
 
@@ -102,17 +101,17 @@ In Canada, crane operators handle tower cranes, mobile cranes, and other lifting
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 较长（★★★★☆） |
+| 学习周期 | 中等（★★★☆☆） |
 | 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★★☆☆） |
+| 考证难度 | 中等（★★½☆☆） |
 | 职位需求量 | 高（★★★★☆） |
 | 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中高（★★★★☆） |
-| 工作强度 | 高（★★★½☆） |
+| 收入水平 | 中等（★★★☆☆） |
+| 工作强度 | 高（★★★★☆） |
 | 发展前景 | 良好（★★★★☆） |
 | AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★½☆☆） |
+| PR友好度 | 中等（★★★☆☆） |
+| PR难度 | 中等（★★★☆☆） |
 
 Crane operators的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
@@ -120,11 +119,8 @@ Crane operators的移民路径与薪资见上表；建议结合自身背景与�
 
 ## 9. FAQ 常见问题
 
-**问：What is the average salary for crane operators in Canada?**
-答：According to Canada's Job Bank, the median hourly wage is about CAD 35, translating to a median annual salary of CAD 72,800. However, salaries vary by province, experience, and crane type; Alberta's mining projects can exceed CAD 100,000.
+**问：What is the salary range for crane operators?**
+答：Entry-level: CAD 45,000-60,000; experienced: CAD 60,000-85,000; senior: CAD 85,000-110,000, depending on location and experience.
 
-**问：How can overseas crane operators immigrate to Canada?**
-答：Common pathways: 1) Apply through Provincial Nominee Programs (PNP) with employer sponsorship in provinces like Ontario or Alberta; 2) Federal Skilled Trades Program (FSTC) requiring CLB 5 and a Canadian job offer or certificate; 3) Obtain a work permit first, then apply for permanent residence. It is recommended to obtain Canadian-recognized certifications beforehand.
-
-**问：Is there an age limit?**
-答：Immigration programs generally have no upper age limit, but Express Entry scores decrease for applicants over 45. Skilled trades immigration is more age-tolerant; some PNP programs have no age limit, though employers may prefer younger candidates for physical demands.
+**问：Can crane operators immigrate to Canada through skilled migration?**
+答：Yes, it is in demand in some provinces; PNP or LMIA work permits are options, as well as Express Entry if eligible.

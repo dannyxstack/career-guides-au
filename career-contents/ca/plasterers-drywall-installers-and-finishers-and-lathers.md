@@ -1,19 +1,19 @@
 # Plasterers, drywall installers and finishers and lathers（Plasterers, drywall installers and finishers and lathers）职业分析 · 加拿大
 
-**职业代码：73202 – Plasterers, drywall installers and finishers and lathers。**
+**职业代码：73102 – Plasterers, drywall installers and finishers and lathers。**
 
-Plasterers apply gypsum, mortar, and other materials to building interiors and exteriors. This skilled trade is in steady demand and can lead to immigration via PNP or employer sponsorship, often requiring provincial certification or apprenticeship.
+Plasterers, drywall installers and finishers and lathers install and finish interior walls and ceilings, including plastering, drywall installation, and lathing, essential in construction.
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★½☆☆）。**
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 高中文凭 | 无 | —（完成高中学业即可开始学徒） |
-| 学徒培训 | 3-4年 | $1,000~$5,000（包括课堂与在职培训，可能有学费补贴） |
+| 高中毕业 | 完成 | —（通常要求） |
+| 学徒制 | 2-4年 | $1,000~$5,000（含课堂培训，部分省份补贴） |
 
 ---
 
@@ -23,16 +23,15 @@ Plasterers apply gypsum, mortar, and other materials to building interiors and e
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Red Seal 认证 | 加拿大学徒制度 | 可选 | 跨省就业的全国标准，通常要求完成学徒考试 |
-| 省牌照/证书 | 各省行业管理局（如安省Skilled Trades Ontario） | 必备 | 部分省份要求持有证书才能工作 |
-| 语言成绩 | IELTS或CELPIP | 必备 | Express Entry需要CLB 5或更高 |
-| ECA学历认证 | WES等 | 可选 | 评估海外学历，用于移民打分 |
+| 学徒注册 | 省级学徒机构 | 必备 | 通常需高中毕业并找到雇主担保 |
+| 行业证书 | 省级资格认证机构 | 必备 | 通过考试后获发执业证书 |
+| 红印认证 | 加拿大红印项目 | 可选 | 跨省执业证明，非必需但有利 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 50,000。加拿大建筑行业持续增长，尤其是多伦多、温哥华等城市住宅翻新和商业项目，预计2024-2031年岗位增长平稳，退休人员补充带来机会。但竞争在热门地区中等。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 55,000。加拿大建筑业持续增长，新房建设及翻新需求旺盛，该职业就业前景良好，尤其在安大略省、不列颠哥伦比亚省和阿尔伯塔省。
 
 **竞争度：中等（★★½☆☆）。**
 **工作强度：高（★★★½☆）。**
@@ -43,23 +42,23 @@ Plasterers apply gypsum, mortar, and other materials to building interiors and e
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $36,000~$48,000 | 学徒期或初级技工，时薪约$18-$24 |
-| 中级（3-7年） | $48,000~$65,000 | 有经验技工，时薪$25-$33 |
-| 高级（7年以上） | $65,000~$86,000 | 领班或Red Seal认证，时薪$35-$45 |
+| 初级（0-3年） | $35,000~$45,000 | 学徒期收入较低 |
+| 中级（3-7年） | $50,000~$70,000 | 持证熟练工 |
+| 高级（7年以上） | $72,000~$90,000 | 领班或自雇 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★½☆）。** 从初级学徒开始，可晋升为高级技工、领班或独立承包商，也可通过Red Seal认证跨省工作。有些转向干墙检查员或施工监理。
+**发展前景：良好（★★★★☆）。** 学徒完成后可晋升为熟练工，经验丰富者可成为领班或自雇承包商，部分人员向建筑监理或项目经理发展。
 **AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
-- Construction labor shortage
-- Provincial Nominee
-- Red Seal trade
-- Skilled trades demand
+- residential construction
+- renovation projects
+- infrastructure spending
+- drywall
 
 ---
 
@@ -69,9 +68,9 @@ Plasterers apply gypsum, mortar, and other materials to building interiors and e
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass EE（Express Entry (Federal Skilled Trades Program)） | 符合联邦技工移民条件，需要1年加拿大工作经验或雇主offer，语言CLB 5 |
-| Subclass PNP（Provincial Nominee Program） | 多数省份有建筑技工类省提名，如安省、BC省、阿尔伯塔省，通常需要雇主担保 |
-| Subclass EMP（Employer-specific work permit (LMIA)） | 通过劳动力市场影响评估获得工签，积累经验后转永居 |
+| Subclass Express Entry（Federal Skilled Worker (FSW)） | 适用于有海外经验通过技能评估的申请人 |
+| Subclass PNP（Provincial Nominee Program） | 各省针对建筑技工的提名项目，如BC PNP Tech |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主担保工签，紧缺职业获批率高 |
 
 **PR难度：中等（★★½☆☆）。**
 
@@ -80,13 +79,13 @@ Plasterers apply gypsum, mortar, and other materials to building interiors and e
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Plasterers, drywall installers and finishers and lathers？**
-- 体力好且愿意从事户外/室内体力劳动的人士
-- 有相关施工经验或学徒背景的技术移民候选人
-- 愿意通过省提名或雇主担保路径的人
+- 注重细节、有耐心和体力的人
+- 喜欢动手操作、独立工作的人
+- 希望在建筑业长期发展者
 
 **谁不适合学Plasterers, drywall installers and finishers and lathers？**
-- 无法适应高空作业和粉尘环境的人
-- 寻求轻松或室内坐班工作的人
+- 不擅长体力劳动或高空作业的人
+- 不喜欢重复性工作或对粉尘过敏者
 
 ---
 
@@ -102,14 +101,14 @@ Plasterers apply gypsum, mortar, and other materials to building interiors and e
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★½☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
+| 学习周期 | 中等（★★★☆☆） |
+| 学习难度 | 中等（★★★☆☆） |
 | 考证难度 | 中等（★★★☆☆） |
 | 职位需求量 | 高（★★★★☆） |
 | 竞争度 | 中等（★★½☆☆） |
 | 收入水平 | 中等（★★★☆☆） |
 | 工作强度 | 高（★★★½☆） |
-| 发展前景 | 良好（★★★½☆） |
+| 发展前景 | 良好（★★★★☆） |
 | AI替代风险 | 低（★☆☆☆☆） |
 | PR友好度 | 高（★★★★☆） |
 | PR难度 | 中等（★★½☆☆） |
@@ -120,11 +119,11 @@ Plasterers, drywall installers and finishers and lathers的移民路径与薪资
 
 ## 9. FAQ 常见问题
 
-**问：What is the average annual salary of a plasterer in Canada?**
-答：According to Job Bank, plasterers earn $18-$45 per hour, with average annual salary between $48,000-$65,000; Red Seal certified workers earn more.
+**问：What is the annual salary for plasterers in Canada?**
+答：Entry-level CAD 35,000-45,000, mid-level CAD 50,000-70,000, senior CAD 72,000-90,000; self-employed may earn more.
 
-**问：Can a plasterer immigrate to Canada via Express Entry?**
-答：Yes, under the Federal Skilled Trades Program, requiring 1 year of Canadian experience or a job offer, and language CLB 5. PNP is often a better route.
+**问：What immigration pathways exist for plasterers to Canada?**
+答：Options include Federal Skilled Worker (FSW), Provincial Nominee Program (PNP), and LMIA employer sponsorship. In-demand experience aids PNP.
 
-**问：Do I need a Canadian license to work as a plasterer?**
-答：Most provinces require provincial certification or apprenticeship registration; Red Seal is optional but improves mobility. Ontario and BC mandate it.
+**问：What is the career outlook for plasterers?**
+答：Growing construction sector, retirement of older workers create demand; experienced workers can advance to supervisor or self-employed.

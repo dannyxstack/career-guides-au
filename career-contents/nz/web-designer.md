@@ -1,40 +1,39 @@
 # Web Designer（Web Designer）职业分析 · 新西兰
 
-**职业代码：232413 – Web Designer。**
+**职业代码：232414 – Web Designer。**
 
-Web designers focus on visual design, UX, and interactive prototypes for digital products. In New Zealand, e-commerce and digital transformation drive demand, with potential immigration via Green List Tier 2 or SMC.
+Web designers plan, design, and create user interfaces and visual experiences for websites, focusing on aesthetics and usability. This occupation is not on the Green List or long-term skill shortage list in New Zealand but can be eligible for Skilled Migrant Category (SMC) if meeting median wage or higher requirements with relevant qualifications or experience.
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：中等（★★½☆☆）。**
+**学习难度：中等偏低（★★☆☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| Diploma (Level 5-6) | 1-2年 | $15,000~$30,000（公立理工学院或私立院校） |
-| Bachelor's Degree (Level 7) | 3年 | $45,000~$80,000（如怀卡托大学、奥克兰理工大学） |
-| Postgraduate Diploma (Level 8) | 1-1.5年 | $30,000~$45,000（针对已有学位者，专注UX设计） |
+| 学士学位 | 3年 | $25,000~$40,000（新西兰大学设计类本科学费，国际学生年费） |
+| Diploma或证书 | 1-2年 | $15,000~$25,000（理工学院或私立院校的网页设计文凭课程） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★½☆☆）。**
+**考证难度：中等（★★☆☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 新西兰学历认证局(NZQA)评估 | NZQA | 必备 | 海外学历需评估，确认相当于Level 7以上 |
-| UX设计证书(如Google UX Design) | Coursera/Google | 可选 | 非强制但增强竞争力 |
-| 雅思6.5分或同等英语成绩 | IELTS等 | 必备 | 技术移民需满足英语要求 |
+| 雅思学术类成绩 | IDP或British Council | 可选 | 技术移民通常需总分6.5，各单项不低于6.0 |
+| NZQA评估 | New Zealand Qualifications Authority | 必备 | 海外学历需评估是否与新西兰学士学位等同 |
+| 作品集 | 无 | 可选 | 非强制但雇主通常要求提供过往设计作品 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 2,500。新西兰网页设计师需求稳定，惠灵顿和奥克兰机会较多。2023-2026年预计岗位增长约5-8%，数字营销和SaaS公司为主要雇主。掌握UX技能的候选人更具优势。
+**职位需求量：中等（★★★☆☆）。** 全国从业人数约 3,000。新西兰网页设计师就业前景稳定，随着数字化转型和电商发展，需求持续增长。但竞争中等，初级职位较多，高级设计师更受青睐。预计未来五年岗位增长率约为 5-10%，主要机会在奥克兰、惠灵顿等城市。
 
-**竞争度：中等（★★★☆☆）。**
+**竞争度：中等偏高（★★★½☆）。**
 **工作强度：中等（★★★☆☆）。**
 
 ---
@@ -43,35 +42,35 @@ Web designers focus on visual design, UX, and interactive prototypes for digital
 
 | 经验水平 | 年薪（NZD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $50,000~$65,000 | 通常要求Figma和基础HTML/CSS |
-| 中级（3-6年） | $65,000~$85,000 | 需UX研究能力，掌握响应式设计 |
-| 高级（6年以上） | $85,000~$110,000 | 领导设计团队，参与产品策略 |
+| 初级（0-3年） | $45,000~$55,000 | 起薪较低，经验积累后快速提升 |
+| 中级（3-5年） | $60,000~$80,000 | 达到新西兰工资中位数以上 |
+| 高级（5年以上） | $85,000~$100,000 | 资深设计师或艺术总监薪资更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★★☆）。** 从初级网页设计师晋升为高级设计师或UX/UI设计师，再发展为设计主管或产品设计师。积累全栈能力（前端+设计）可拓宽职业路径。
-**AI替代风险：中等偏上（★★★☆☆）。**
+**发展前景：良好（★★★½☆）。** 职业路径：从初级网页设计师晋升为中级设计师，再至艺术总监或用户体验（UX）经理。也可转向数字设计、交互设计或前端开发等方向。积累作品集和用户研究成果对晋升重要，持有多媒体或设计学历更有利。
+**AI替代风险：中等偏高（★★★☆☆）。**
 
 主要增长方向：
 
+- Skills Matter
 - Digital Transformation
-- E-commerce Growth
-- UX Demand
-- Tech Sector
+- E-commerce
+- UX Design
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：中等偏上（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 通过6分制打分，满足学历/技能要求，有Job offer可申请 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 从事ICT相关职业，工作2年后可申请居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，最长3年，可衔接后续移民 |
+| Subclass SMC（Skilled Migrant Category Resident Visa） | 需满足6分制（学历+经验），工资不低于中位数（2024年约29.66纽币/小时），有新西兰雇主offer。 |
+| Subclass AEWV（Accredited Employer Work Visa） | 适用于有雇主offer但未达居住条件的申请人，需雇主为认证雇主，工资不低于中位数。 |
+| Subclass Green List T2（Green List Tier 2 Work to Residence） | 网页设计师不在绿色清单上，此路径不适用。 |
 
 **PR难度：中等（★★★☆☆）。**
 
@@ -80,13 +79,13 @@ Web designers focus on visual design, UX, and interactive prototypes for digital
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Web Designer？**
-- 有视觉设计背景，擅长Figma和基础前端代码的人
-- 对用户体验和交互设计有热情，愿意学习UX研究方法
-- 适应远程工作，善于团队协作和沟通
+- 具备创意和审美能力，喜欢视觉设计的人
+- 有技术背景，愿意学习前端代码（HTML/CSS）的设计师
+- 能适应项目制工作，自我驱动力强
 
 **谁不适合学Web Designer？**
-- 厌倦反复修改设计，难以接受客户反馈的人
-- 只专注纯视觉设计，不愿拓展UX或前端技能
+- 对设计工具和软件无兴趣，不愿更新技能的人
+- 无法承受批评和反复修改压力的完美主义者
 
 ---
 
@@ -102,16 +101,16 @@ Web designers focus on visual design, UX, and interactive prototypes for digital
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等偏长（★★★☆☆） |
-| 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★★☆☆） |
+| 学习周期 | 1-3年（★★½☆☆） |
+| 学习难度 | 中等偏低（★★☆☆☆） |
+| 考证难度 | 中等（★★☆☆☆） |
+| 职位需求量 | 中等（★★★☆☆） |
+| 竞争度 | 中等偏高（★★★½☆） |
 | 收入水平 | 中等（★★★☆☆） |
 | 工作强度 | 中等（★★★☆☆） |
-| 发展前景 | 良好（★★★★☆） |
-| AI替代风险 | 中等偏上（★★★☆☆） |
-| PR友好度 | 中等偏上（★★★½☆） |
+| 发展前景 | 良好（★★★½☆） |
+| AI替代风险 | 中等偏高（★★★☆☆） |
+| PR友好度 | 中等（★★★☆☆） |
 | PR难度 | 中等（★★★☆☆） |
 
 Web Designer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
@@ -120,11 +119,11 @@ Web Designer的移民路径与薪资见上表；建议结合自身背景与最�
 
 ## 9. FAQ 常见问题
 
-**问：What is the average salary for a web designer in New Zealand?**
-答：The average salary for a web designer in NZ is NZD 70,000-90,000, with junior at NZD 50,000-65,000 and senior at NZD 85,000-110,000.
+**问：What is the salary range for web designers in New Zealand?**
+答：Entry-level: NZD 45,000-55,000; mid-level: NZD 60,000-80,000; senior: NZD 85,000-100,000+. Salaries vary by experience, skills, and location, with Auckland generally higher.
 
-**问：Can a web designer immigrate to New Zealand through skilled migration?**
-答：Yes. Web designer (ANZSCO 232411) qualifies for SMC 6-point system (requires bachelor's + relevant experience) or Green List Tier 2, needing a job offer from an accredited employer.
+**问：Can web designers migrate to New Zealand?**
+答：Yes, through the Skilled Migrant Category (SMC) under the 6-point system (qualifications + work experience), with salary at or above the median wage. It is not on the Green List, so no direct residence pathway, but an Accredited Employer Work Visa (AEWV) can be a stepping stone.
 
-**问：What key skills are needed for a web designer in New Zealand?**
-答：Core skills: Figma, Adobe XD, basic HTML/CSS, UX research, responsive design. English at IELTS 6.5 or equivalent.
+**问：Is the job market for web designers saturated in New Zealand?**
+答：Competition is moderate to high, with many entry-level roles but a shortage of senior talent. A strong portfolio and UX design skills enhance competitiveness. Local experience is valued by employers.

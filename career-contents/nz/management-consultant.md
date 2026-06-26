@@ -1,8 +1,8 @@
 # Management Consultant（Management Consultant）职业分析 · 新西兰
 
-**职业代码：224711 – Management Consultant。**
+**职业代码：224713 – Management Consultant。**
 
-Management consultants provide strategic, operational, and digital transformation advice to businesses. This high-paying profession in New Zealand is eligible for immigration via the Skilled Migrant Category and Green List Tier 2, requiring a positive VETASSESS assessment.
+Management consultants advise New Zealand businesses, government, and nonprofits on strategy, operations, finance, and HR to improve efficiency and performance. This occupation is on the Green List Tier 1, offering a direct residence pathway.
 
 ---
 
@@ -12,29 +12,29 @@ Management consultants provide strategic, operational, and digital transformatio
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 学士学位 | 3年 | $30,000~$40,000（新西兰本地大学学费，国际学生约$30,000-40,000/年） |
-| 硕士学位 | 1-2年 | $40,000~$60,000（MBA或管理硕士，国际学生总学费$40,000-60,000） |
+| 本科 | 3年 | $22,000~$35,000（新西兰大学商科学费） |
+| 硕士 | 1-2年 | $35,000~$50,000（管理/商业硕士学费） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★½☆☆）。**
+**考证难度：较低（★½☆☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 注册会计师 (CA) | NZICA | 可选 | 非必需，但有助于咨询财务方向 |
-| 项目管理专业人士 (PMP) | PMI | 可选 | 非必需，可提升项目管理技能 |
-| 雅思7.0 | IELTS | 可选 | 技术移民语言要求 |
+| 工商管理学士 | 奥克兰大学、惠灵顿维多利亚大学等 | 可选 | 常见相关学历 |
+| 注册管理咨询师 | 新西兰管理咨询协会 | 可选 | 非强制，但有助于职业发展 |
+| 项目管理专业认证 | 项目管理协会 | 可选 | 如PMP，非强制 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：高（★★★½☆）。** 全国从业人数约 4,500。新西兰管理咨询需求稳定，受益于企业数字化转型和运营优化需求。大型城市（奥克兰、惠灵顿）机会更多，但竞争激烈。预计未来5年就业增长中等，受经济周期影响。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 15,000。新西兰管理顾问需求稳定，随着企业寻求数字化转型和绩效提升，预计未来五年岗位增长约10%。奥克兰、惠灵顿和基督城机会较多。
 
-**竞争度：高（★★★½☆）。**
-**工作强度：高（★★★★☆）。**
+**竞争度：中等（★★★☆☆）。**
+**工作强度：较高（★★★½☆）。**
 
 ---
 
@@ -42,23 +42,23 @@ Management consultants provide strategic, operational, and digital transformatio
 
 | 经验水平 | 年薪（NZD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $70,000~$95,000 | 应届毕业生或初级顾问，需4年相关经验方可移民 |
-| 中级（3-7年） | $95,000~$130,000 | 有经验的顾问，常见薪资范围 |
-| 高级（7年以上） | $130,000~$200,000 | 高级经理/董事，顶尖可达$200k+ |
+| 初级（0-3年） | $55,000~$75,000 | 多为助理顾问 |
+| 中级（3-7年） | $80,000~$120,000 | 经验顾问 |
+| 高级（7年以上） | $130,000~$200,000 | 高级顾问/合伙人 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：好（★★★½☆）。** 初级顾问通常需3-5年升至项目经理或高级顾问，再3-5年可晋升董事或合伙人。也可转向企业战略、项目管理或自主创业，或考取MBA加速晋升。
+**发展前景：好（★★★★☆）。** 初级顾问可晋升为高级顾问、项目经理或合伙人。也可转向企业内部战略部门或自主创业。通常需5-10年经验达到管理层。
 **AI替代风险：中等（★★½☆☆）。**
 
 主要增长方向：
 
-- Green List Tier 2
+- Green List Tier 1
 - Skilled Migrant Category
 - Digital Transformation
-- Business Optimisation
+- Business Advisory
 
 ---
 
@@ -68,24 +68,24 @@ Management consultants provide strategic, operational, and digital transformatio
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，需满足学历、工作经验和高薪标准，需VETASSESS评估 |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 管理顾问在Green List Tier 2，需从事该职业满2年可申请居留 |
-| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保的工签，可通往居留 |
+| Subclass Green List T1（Green List Tier 1 Straight to Residence） | 直接居留签证，满足职业、薪资和资格要求即可申请 |
+| Subclass SMC（Skilled Migrant Category） | 6分制技术移民，可凭学历+工作经验加分 |
+| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，为雇主工作后可转居留 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：较低（★½☆☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Management Consultant？**
-- 具备出色分析、沟通和解决问题能力的人
-- 愿意频繁出差或适应快节奏项目环境的人
-- 有商业、管理或相关学历背景的人
+- 具备商业洞察力和解决问题能力者
+- 擅长沟通、分析和战略思维
+- 能适应出差和高压工作环境
 
 **谁不适合学Management Consultant？**
-- 喜欢稳定、低压力工作环境的人
-- 不擅长在不确定条件下做出决策或处理客户异议的人
+- 不喜欢频繁变动和不确定的工作节奏
+- 偏向稳定单一职能而非跨领域咨询
 
 ---
 
@@ -101,17 +101,17 @@ Management consultants provide strategic, operational, and digital transformatio
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★★☆☆） |
+| 学习周期 | 中等（★★½☆☆） |
 | 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 中等（★★½☆☆） |
-| 职位需求量 | 高（★★★½☆） |
-| 竞争度 | 高（★★★½☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★½☆） |
+| 考证难度 | 较低（★½☆☆☆） |
+| 职位需求量 | 高（★★★★☆） |
+| 竞争度 | 中等（★★★☆☆） |
+| 收入水平 | 较高（★★★★☆） |
+| 工作强度 | 较高（★★★½☆） |
+| 发展前景 | 好（★★★★☆） |
 | AI替代风险 | 中等（★★½☆☆） |
 | PR友好度 | 高（★★★★☆） |
-| PR难度 | 中等（★★★☆☆） |
+| PR难度 | 较低（★½☆☆☆） |
 
 Management Consultant的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
@@ -119,11 +119,8 @@ Management Consultant的移民路径与薪资见上表；建议结合自身背�
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary range for management consultants in New Zealand?**
-答：Entry-level consultants earn NZD 70,000-95,000, mid-level NZD 95,000-130,000, and senior NZD 130,000-200,000+. Varies by experience, firm size, and location.
+**问：What is the salary level for management consultants in New Zealand?**
+答：Entry-level consultants earn around NZD 55,000-75,000, mid-level NZD 80,000-120,000, and senior NZD 130,000-200,000. Salaries vary by firm size and location.
 
-**问：How can a management consultant migrate to New Zealand?**
-答：Options include Skilled Migrant Category (6-point system) or Green List Tier 2 (Work to Residence). Requires a positive VETASSESS assessment, 4+ years experience, IELTS 6.5, and a salary at or above the median wage.
-
-**问：What are the career prospects for management consultants in New Zealand?**
-答：Good prospects, especially in digital transformation and business optimisation. Clear path to senior manager or partner. However, competition is strong and continuous learning is required.
+**问：How can management consultants immigrate to New Zealand?**
+答：This occupation is on the Green List Tier 1, allowing direct residence. Requirements include a bachelor's degree or higher, salary above median, and a job offer. Alternatively, SMC 6-point or AEWV pathways apply.

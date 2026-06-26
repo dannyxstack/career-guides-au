@@ -1,8 +1,8 @@
 # Records Manager（Records Manager）职业分析 · 新西兰
 
-**职业代码：224311 – Records Manager。**
+**职业代码：224214 – Records Manager。**
 
-Records managers organize, store, and retrieve records for organizations, ensuring compliance and security. This occupation offers stable demand and migration pathways via Skilled Migrant Category or Green List in New Zealand.
+Records Managers design, implement and manage organizational record and information systems to ensure compliant, efficient and secure document storage and retrieval. This occupation is eligible for New Zealand skilled migration via Skilled Migrant Category or Green List, particularly for those with digital record management experience.
 
 ---
 
@@ -12,29 +12,28 @@ Records managers organize, store, and retrieve records for organizations, ensuri
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 本科 | 3年 | $24,000~$30,000（年学费（新西兰大学）） |
-| 硕士 | 1.5年 | $30,000~$40,000（年学费（相关学科）） |
+| 学士学位 | 3年 | $35,000~$60,000（如梅西大学信息管理学士，年均学费约$35,000-$60,000） |
+| 研究生文凭 | 1年 | $25,000~$40,000（如惠灵顿维多利亚大学信息研究PGDip，总学费约$25,000-$40,000） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较低（★½☆☆☆）。**
+**考证难度：中等（★★½☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 档案与信息管理文凭 | 新西兰开放理工学院 | 可选 | 常见入门资格 |
-| 注册档案管理员 (RMA) | 新西兰档案与记录协会 (ARANZ) | 可选 | 自愿认证，增强就业竞争力 |
-| 雅思6.5分 | IELTS | 必备 | 技术移民英语要求 |
+| 记录与信息管理专业认证（CRM） | 国际信息管理协会（iRMA） | 可选 | 非强制但雇主偏爱 |
+| 信息管理学士学位 | 新西兰认可大学 | 可选 | 常见入门要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：中等（★★★☆☆）。** 全国从业人数约 1,500。新西兰档案管理职位预计温和增长，主要受合规要求和数字化转型推动。公共部门和大型企业是主要雇主，奥克兰和惠灵顿机会较多。
+**职位需求量：较高（★★★½☆）。** 全国从业人数约 800。随着数据保护法规（如《隐私法》）和数字化转型的推进，新西兰对记录管理员需求稳定。政府、医疗、法律和金融行业为核心雇主，预计未来5年岗位增长10-15%，尤其在奥克兰和惠灵顿。
 
 **竞争度：中等（★★½☆☆）。**
-**工作强度：较低（★★☆☆☆）。**
+**工作强度：中等（★★½☆☆）。**
 
 ---
 
@@ -42,35 +41,35 @@ Records managers organize, store, and retrieve records for organizations, ensuri
 
 | 经验水平 | 年薪（NZD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $45,000~$55,000 | 年薪 |
-| 中级（3-7年） | $55,000~$70,000 | 年薪 |
-| 高级（7年以上） | $70,000~$90,000 | 年薪 |
+| 初级（0-3年） | $55,000~$70,000 | 记录助理或初级管理员 |
+| 中级（3-7年） | $75,000~$95,000 | 经验记录管理员 |
+| 高级（7年以上） | $100,000~$130,000 | 高级经理或信息治理专家 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★½☆）。** 初级档案管理员可晋升为高级档案管理员或档案主管，进一步发展为信息治理经理或首席档案官。数字化技能（如电子记录管理系统）将增加晋升机会。
-**AI替代风险：较低（★½☆☆☆）。**
+**发展前景：较好（★★★★☆）。** 初级记录助理→记录管理员→高级经理/信息治理专家。可向信息管理、数据治理或合规总监晋升，持有专业认证（如CRM）可加速发展。
+**AI替代风险：中等（★★½☆☆）。**
 
 主要增长方向：
 
-- Digital Transformation
-- Compliance
-- Public Sector
-- Records Management
+- Information Management
+- Data Governance
+- Green List T2 eligible
+- Skilled Migrant Category
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：较高（★★★½☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：良好（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass SMC（Skilled Migrant Category） | 技术移民，需满足6分制要求（学历+工作经验） |
-| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 工作转居留，需从事相关工作2年 |
-| Subclass AEWV（Accredited Employer Work Visa） | 认证雇主工签，适用于有雇主担保的申请人 |
+| Subclass SMC（Skilled Migrant Category） | 满足6分制（学历+工作经验）可申请技术移民，需ANZSCO 2级技能匹配。 |
+| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 在认证雇主工作2年后可申请居留，符合条件可获额外加分。 |
+| Subclass AEWV（Accredited Employer Work Visa） | 由认证雇主担保，最长3年，满足薪资要求可转居留路径。 |
 
 **PR难度：中等（★★½☆☆）。**
 
@@ -79,13 +78,13 @@ Records managers organize, store, and retrieve records for organizations, ensuri
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Records Manager？**
-- 注重细节、有组织和分类能力的人
-- 对信息管理和合规工作感兴趣的人
-- 寻求稳定办公室工作的专业背景人士
+- 具备组织与细节管理能力者
+- 对合规与信息治理感兴趣的人
+- 寻求稳定白领职业且愿意考取专业证书者
 
 **谁不适合学Records Manager？**
-- 不喜欢重复性文书工作的人
-- 缺乏耐心和条理性的人
+- 偏好快速晋升或高薪职业者
+- 不擅长法规遵循或结构化文件处理的人
 
 ---
 
@@ -101,16 +100,16 @@ Records managers organize, store, and retrieve records for organizations, ensuri
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★½☆☆） |
+| 学习周期 | 中等（3年本科+1年实习）（★★☆☆☆） |
 | 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 较低（★½☆☆☆） |
-| 职位需求量 | 中等（★★★☆☆） |
+| 考证难度 | 中等（★★½☆☆） |
+| 职位需求量 | 较高（★★★½☆） |
 | 竞争度 | 中等（★★½☆☆） |
-| 收入水平 | 中等（★★½☆☆） |
-| 工作强度 | 较低（★★☆☆☆） |
-| 发展前景 | 良好（★★★½☆） |
-| AI替代风险 | 较低（★½☆☆☆） |
-| PR友好度 | 较高（★★★½☆） |
+| 收入水平 | 中等偏下（★★★☆☆） |
+| 工作强度 | 中等（★★½☆☆） |
+| 发展前景 | 较好（★★★★☆） |
+| AI替代风险 | 中等（★★½☆☆） |
+| PR友好度 | 良好（★★★★☆） |
 | PR难度 | 中等（★★½☆☆） |
 
 Records Manager的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
@@ -119,11 +118,11 @@ Records Manager的移民路径与薪资见上表；建议结合自身背景与�
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary range for records managers in New Zealand?**
-答：Entry-level salary is around NZD 45,000-55,000, mid-level NZD 55,000-70,000, and senior can reach NZD 80,000-90,000 per year. Public sector often offers better benefits.
+**问：What is the average salary for a Records Manager in New Zealand?**
+答：Entry level NZD $55,000-$70,000, mid NZD $75,000-$95,000, senior NZD $100,000-$130,000.
 
-**问：Can records managers immigrate to New Zealand via Green List?**
-答：This occupation is on Green List Tier 2 (Work to Residence). You can apply for residence after working for an accredited employer for 2 years. Skilled Migrant Category (6-point system) is also an option.
+**问：Can Records Managers immigrate via the Green List?**
+答：Yes, under Green List Tier 2 (Work to Residence), requiring 2 years with an accredited employer and median wage.
 
-**问：What qualifications are required to become a records manager?**
-答：A bachelor's degree or diploma in records management, information management, or library science is typically required. Open Polytechnic of New Zealand offers recognized programs.
+**问：What qualifications are needed to become a Records Manager?**
+答：Typically a bachelor's in information management or related field, some employers accept equivalent experience plus professional certification (e.g., CRM).

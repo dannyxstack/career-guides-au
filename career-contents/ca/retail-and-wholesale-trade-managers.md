@@ -1,8 +1,8 @@
 # Retail and wholesale trade managers（Retail and wholesale trade managers）职业分析 · 加拿大
 
-**职业代码：60020 – Retail and wholesale trade managers。**
+**职业代码：62020 – Retail and wholesale trade managers。**
 
-Retail and wholesale trade managers oversee retail stores or wholesale operations, managing sales, inventory, staff, and financial performance. This occupation is eligible for PNP streams and some Express Entry category-based draws, requiring relevant managerial experience and language proficiency.
+In Canada, Retail Loss Prevention Officers are typically classified under Retail and Wholesale Trade Managers, overseeing theft and fraud prevention, managing security systems, and reducing shrinkage through compliance training. This occupation qualifies for skilled migration via Express Entry or PNP, subject to managerial duties.
 
 ---
 
@@ -12,31 +12,28 @@ Retail and wholesale trade managers oversee retail stores or wholesale operation
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 高中毕业 | 无硬性要求 | —（许多零售经理从基层晋升，高中毕业即可） |
-| 大专/本科（商科、管理相关） | 2-4年 | $15,000~$60,000（加拿大本地大专学费每年1.5-2万加元，本科2-6万加元） |
-| MBA | 1-2年 | $30,000~$100,000（MBA课程学费较高，但利于晋升高级管理职位） |
+| 高中毕业 | 无 | —（部分雇主只要求高中学历） |
+| 大学文凭（商业/安全） | 2年 | $15,000~$35,000（学院文凭费用） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：简单（★☆☆☆☆）。**
+**考证难度：中等（★★½☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| ECA学历认证 | WES/ICES等 | 必备 | 如海外学历需用于Express Entry或PNP，必须获得指定机构的ECA |
-| 语言考试（IELTS/CLB） | IELTS/CELPIP/TEF | 必备 | 技术移民最低CLB 7（雅思4个6），但经理职位建议CLB 8以上 |
-| 省级执照（如适用） | 各省酒类/烟草管理机构 | 可选 | 若零售店销售酒类或烟草，经理可能需要持证 |
-| 项目管理或零售管理证书 | 如加拿大零售协会 | 可选 | 非强制，但可提升竞争力 |
+| 加拿大学历认证（ECA） | WES/ICES等 | 必备 | 如需用海外学历移民，必须做ECA |
+| 零售防损证书 | Loss Prevention Foundation | 可选 | LPQ（防损资格认证）或LPC（防损认证） |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 165,000。加拿大零售业就业机会稳健，预计2023-2031年新增岗位约5万个，但受电商冲击部分实体店岗位减少。大温哥华、大多伦多等城市需求较高。
+**职位需求量：中等（★★★☆☆）。** 全国从业人数约 8,500。加拿大零售防损职业需求稳定，受电商增长影响，线下防损岗位略有下降，但大型零售商和连锁超市仍需要。大温哥华、多伦多等大都市机会较多。
 
 **竞争度：中等（★★★☆☆）。**
-**工作强度：较高（★★★½☆）。**
+**工作强度：中等（★★★☆☆）。**
 
 ---
 
@@ -44,35 +41,35 @@ Retail and wholesale trade managers oversee retail stores or wholesale operation
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$50,000 | 助理经理或小门店经理薪资 |
-| 中级（4-7年） | $50,000~$75,000 | 中等规模门店经理薪资 |
-| 高级（8年以上） | $75,000~$110,000 | 大型门店或区域经理薪资，含奖金 |
+| 初级（0-3年） | $35,000~$45,000 | 防损专员级别 |
+| 中级（3-7年） | $45,000~$60,000 | 防损主管/经理 |
+| 高级（7年以上） | $60,000~$80,000 | 区域防损经理 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：中等（★★★☆☆）。** 从部门经理可晋升至区域经理、运营总监；持有MBA或零售管理证书可加速晋升。也可自主创业开设特许加盟店。
+**发展前景：中等（★★½☆☆）。** 从防损专员晋升为防损经理，再发展为区域防损总监。也可转向供应链安全或企业风险管理。需持续学习新技术，如AI监控和数据分析技能。
 **AI替代风险：较高（★★★½☆）。**
 
 主要增长方向：
 
+- Retail sector
+- Security management
 - Provincial Nominee
-- Retail Management
-- E-commerce
-- Supply Chain
+- Job Bank
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass PNP（Provincial Nominee Program） | 多数省份将零售经理列入职业清单，如安省、BC省、阿省等，需满足当地工作经验及语言要求 |
-| Subclass EE-CEC（Express Entry Canadian Experience Class） | 在加拿大有1年以上零售经理经验（NOC 60020），且语言达标，可走CEC |
-| Subclass EE-FSW（Express Entry Federal Skilled Worker） | 海外零售经理若满足FSW六项打分及语言要求，可申请，但竞争激烈 |
+| Subclass EE（Express Entry (FSW/CEC)） | 适合有1年以上零售管理经验、雅思CLB 7以上的申请人 |
+| Subclass PNP（Provincial Nominee Program） | 如安大略省、BC省等有零售管理类别的省提名 |
+| Subclass LMIA（Labour Market Impact Assessment） | 部分雇主可申请LMIA，帮助获得工作签证并加分 |
 
 **PR难度：中等（★★½☆☆）。**
 
@@ -81,13 +78,13 @@ Retail and wholesale trade managers oversee retail stores or wholesale operation
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Retail and wholesale trade managers？**
-- 有零售或销售管理经验，善于领导和激励团队
-- 适应快节奏工作环境，能处理多任务并解决问题
-- 愿意在加拿大偏远省份或小城市工作以增加移民机会
+- 有零售或安全管理经验的人
+- 善于沟通和团队合作的人
+- 愿意在零售行业长期发展的人
 
 **谁不适合学Retail and wholesale trade managers？**
-- 不擅长与人沟通或处理顾客投诉
-- 对长时间站立、频繁加班有顾虑
+- 不适应倒班工作的人
+- 不喜欢应对冲突和盗窃情况的人
 
 ---
 
@@ -103,16 +100,16 @@ Retail and wholesale trade managers oversee retail stores or wholesale operation
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 较短（★½☆☆☆） |
+| 学习周期 | 中等（★★½☆☆） |
 | 学习难度 | 中等（★★½☆☆） |
-| 考证难度 | 简单（★☆☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
+| 考证难度 | 中等（★★½☆☆） |
+| 职位需求量 | 中等（★★★☆☆） |
 | 竞争度 | 中等（★★★☆☆） |
-| 收入水平 | 中等（★★★☆☆） |
-| 工作强度 | 较高（★★★½☆） |
-| 发展前景 | 中等（★★★☆☆） |
+| 收入水平 | 中等（★★½☆☆） |
+| 工作强度 | 中等（★★★☆☆） |
+| 发展前景 | 中等（★★½☆☆） |
 | AI替代风险 | 较高（★★★½☆） |
-| PR友好度 | 较高（★★★★☆） |
+| PR友好度 | 中等（★★★☆☆） |
 | PR难度 | 中等（★★½☆☆） |
 
 Retail and wholesale trade managers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
@@ -121,11 +118,11 @@ Retail and wholesale trade managers的移民路径与薪资见上表；建议结
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary range for retail managers in Canada?**
-答：The annual salary for retail managers in Canada ranges from CAD 35,000 to CAD 110,000, with a median around CAD 55,000. Entry-level roles are lower, while senior or large-store managers can earn over CAD 80,000, depending on location, store size, and company.
+**问：What is the salary range for Retail Loss Prevention Managers in Canada?**
+答：Entry-level CAD 35,000-45,000, mid-level CAD 45,000-60,000, senior CAD 60,000-80,000. Higher in major cities, but generally mid-income.
 
-**问：How can retail managers immigrate to Canada through skilled migration?**
-答：The primary route is Provincial Nominee Programs (PNPs). Many provinces like Ontario, BC, and Alberta list retail managers as eligible. Alternatively, Express Entry through CEC or FSW is possible, requiring CLB 7+ in English and at least one year of relevant work experience.
+**问：How can I immigrate to Canada as a Retail Loss Prevention Officer?**
+答：You need management-level duties to match NOC 62020. Options include Express Entry (FSW/CEC) or PNP, requiring IELTS and ECA. Non-managerial roles are challenging.
 
-**问：What are the career prospects for retail managers in Canada?**
-答：Retail managers can advance to regional manager (CAD 80k-120k), operations director (CAD 100k-150k), or senior management. An MBA or certifications help. Self-employment via franchise is also possible. However, e-commerce impacts some jobs.
+**问：What education is required?**
+答：High school diploma is often sufficient, but a college diploma in business is beneficial. Some employers require loss prevention certifications like LPQ.

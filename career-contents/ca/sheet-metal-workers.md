@@ -1,8 +1,8 @@
 # Sheet metal workers（Sheet metal workers）职业分析 · 加拿大
 
-**职业代码：72101 – Sheet metal workers。**
+**职业代码：72102 – Sheet metal workers。**
 
-In Canada, sheet metal workers fabricate, assemble, install, and repair sheet metal products such as ductwork, roofing, siding, and industrial equipment. This trade is eligible for immigration through Provincial Nominee Programs (PNP) or the Federal Skilled Trades Program under Express Entry, making it accessible for experienced foreign tradespeople.
+Sheet metal workers fabricate, install, and repair metal products like ductwork, roofing, and siding. This role requires precise measuring, cutting, and shaping skills, with demand in construction, manufacturing, and HVAC sectors.
 
 ---
 
@@ -12,30 +12,29 @@ In Canada, sheet metal workers fabricate, assemble, install, and repair sheet me
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 高中毕业或同等学历 | 12年 | —（公立高中免费） |
-| 学徒培训（含在职和课堂） | 4年 | $1,000~$5,000（省立学院学徒学费，部分由雇主资助） |
+| 高中文凭 | 4年 | —（公立高中免费） |
+| 学徒制（含在职培训） | 4-5年 | $500~$2,000（注册费及教材，在职培训期间有工资） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★☆☆☆）。**
+**考证难度：中等（★★½☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 红印技工资格证 | 加拿大各省学徒培训机构 | 必备 | 跨省承认，通过省际考试获得 |
-| 语言成绩（如IELTS） | IELTS等机构 | 必备 | 移民需CLB 5（听力4.0, 其他5.0）或更高 |
-| 省执照或证书 | 各省技工监管部门 | 必备 | 部分省要求额外考试或注册 |
-| 工作经验认证 | 加拿大移民部/第三方机构 | 可选 | 海外经验需通过ECA或技工评估 |
+| 省级钣金工认证（红印认证） | 各省学徒培训机构 | 必备 | 完成学徒制和考试后获得，允许跨省流动 |
+| OSSA 安全证书 | 省级安全机构 | 可选 | 部分雇主要求，强化工作场所安全意识 |
+| 高空作业证书 | 省级培训机构 | 可选 | 涉及屋顶或高层安装时需持有 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：较高（★★★½☆）。** 全国从业人数约 22,000。加拿大建筑业持续增长，特别是安大略、不列颠哥伦比亚和阿尔伯塔省的大型基建和住宅项目，带动钣金工需求。恶劣天气回潮促使屋顶和 siding 更换需求上升。预计未来十年就业前景良好，但竞争温和。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 22,000。加拿大建筑行业持续增长，绿色建筑和 HVAC 系统升级推动需求。Job Bank 预测该职业未来几年就业前景良好，尤其在阿尔伯塔和安大略省。
 
-**竞争度：中等（★★☆☆☆）。**
-**工作强度：较高（★★★☆☆）。**
+**竞争度：中等（★★★☆☆）。**
+**工作强度：高（★★★★☆）。**
 
 ---
 
@@ -43,50 +42,50 @@ In Canada, sheet metal workers fabricate, assemble, install, and repair sheet me
 
 | 经验水平 | 年薪（CAD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $35,000~$45,000 | 学徒工资逐渐递增 |
-| 中级（4-7年） | $50,000~$65,000 | 取得Red Seal后薪资提升 |
-| 高级（8年以上） | $70,000~$85,000 | 主管或自雇者可能更高 |
+| 初级（0-3年） | $38,000~$50,000 | 学徒期间薪资较低，随年限增长 |
+| 中级（3-6年） | $50,000~$70,000 | 熟练工水平，加班费常见 |
+| 高级（6年以上） | $70,000~$90,000 | 主管或承包收入更高 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：良好（★★★★☆）。** 初级钣金工可通过学徒制晋升为熟练技工，考取省红印证书（Red Seal）后可作为主管或自雇。有经验者可转向项目管理、估报价或培训岗位。部分人成立自己的钣金公司。
+**发展前景：良好（★★★★☆）。** 初级钣金工人可通过学徒制晋升为熟练工，进而成为主管或项目经理。部分经验丰富者可选择自雇或创办钣金承包公司。
 **AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
-- Red Seal trades
-- Construction boom
-- Green building
-- Immigration target
+- Green construction
+- HVAC modernization
+- Infrastructure renewal
+- Energy efficiency
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：较高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass EE-技工类（Federal Skilled Trades Program (FSTP)） | 适合有技工工作经验和英语能力的申请人，快速通道下审理，要求雇主信或省证书。 |
-| Subclass PNP（Provincial Nominee Program (e.g. Ontario, BC, Alberta)） | 各省技工类提名，通常有Employer Job Offer类别，获省提名后EE加600分。 |
-| Subclass AIP（Atlantic Immigration Program） | 大西洋四省试点转为永久项目，适合有当地雇主offer的技工。 |
+| Subclass Express Entry（Federal Skilled Worker (FSW)） | 需满足工作经验（NOC TEER 2）、语言及教育要求，可获永久居民身份 |
+| Subclass PNP（Provincial Nominee Program） | 各省针对技工类有优先提名，如安省技工类别、阿省快速通道等 |
+| Subclass LMIA（Labour Market Impact Assessment） | 雇主证明无法招到本地人后可担保工签，通常为临时工作路径 |
 
-**PR难度：低（★½☆☆☆）。**
+**PR难度：中等（★★★☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Sheet metal workers？**
-- 有机械维修或制造背景的技工
-- 愿意从事体力劳动和户外工作的人
-- 追求移民加拿大并愿意通过学徒制提升技能的人
+- 喜欢动手操作和户外工作的人
+- 具备数学和空间思维能力的人
+- 愿意从事建筑行业并持续学习新技能的人
 
 **谁不适合学Sheet metal workers？**
-- 对粉尘、噪音或高空作业敏感者
-- 不愿花时间考取省内红印证书者
+- 偏好办公室固定工作环境的人
+- 对体力要求高或高空作业有恐惧的人
 
 ---
 
@@ -102,17 +101,17 @@ In Canada, sheet metal workers fabricate, assemble, install, and repair sheet me
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（4年学徒）（★★½☆☆） |
+| 学习周期 | 中等（★★★☆☆） |
 | 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 中等（★★☆☆☆） |
-| 职位需求量 | 较高（★★★½☆） |
-| 竞争度 | 中等（★★☆☆☆） |
-| 收入水平 | 中等偏上（★★★☆☆） |
-| 工作强度 | 较高（★★★☆☆） |
+| 考证难度 | 中等（★★½☆☆） |
+| 职位需求量 | 高（★★★★☆） |
+| 竞争度 | 中等（★★★☆☆） |
+| 收入水平 | 中等偏上（★★★½☆） |
+| 工作强度 | 高（★★★★☆） |
 | 发展前景 | 良好（★★★★☆） |
 | AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 较高（★★★★☆） |
-| PR难度 | 低（★½☆☆☆） |
+| PR友好度 | 高（★★★★☆） |
+| PR难度 | 中等（★★★☆☆） |
 
 Sheet metal workers的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
@@ -120,11 +119,11 @@ Sheet metal workers的移民路径与薪资见上表；建议结合自身背景�
 
 ## 9. FAQ 常见问题
 
-**问：What is the average annual salary for sheet metal workers in Canada?**
-答：According to the Canadian Job Bank, the median salary is around CAD 55,000. Entry-level positions range from CAD 35,000 to 45,000, while experienced workers can earn over CAD 80,000. Overtime and remote area allowances may increase earnings.
+**问：What is the typical annual salary for sheet metal workers in Canada?**
+答：Entry-level ranges from CAD 38,000 to 50,000, mid-level CAD 50,000 to 70,000, and senior CAD 70,000 to 90,000. Overtime and self-employment can boost earnings.
 
-**问：How can an overseas sheet metal worker immigrate to Canada?**
-答：Applicants can use the Federal Skilled Trades Program (FSTP), Provincial Nominee Program (PNP), or Atlantic Immigration Program (AIP). Common requirements include a valid job offer from a Canadian employer, language test results (CLB 5 or higher), and a provincial trades certificate. Foreign experience must be assessed by a designated organization.
+**问：What immigration pathways are available for sheet metal workers to Canada?**
+答：Options include Express Entry (FSW/CEC) and Provincial Nominee Programs (PNP) for permanent residency, or LMIA work permit for temporary work leading to PR.
 
-**问：How long does it take to get the Red Seal certificate in Canada?**
-答：The standard apprenticeship is 4 years, combining on-the-job training and classroom instruction. After completion, passing the interprovincial exam grants the Red Seal. Experienced foreign tradespeople may qualify for a challenge exam, reducing the time, depending on provincial assessment.
+**问：What are the career advancement prospects for sheet metal workers?**
+答：Advancement from apprentice to journeyman, then to supervisor or project manager. Self-employment or business ownership is also common. Demand remains steady.

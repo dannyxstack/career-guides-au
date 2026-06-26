@@ -1,47 +1,39 @@
-# 岩土工程师（Geotechnical Engineer）职业分析 · 澳大利亚
+# Geotechnical Engineer（Geotechnical Engineer）职业分析 · 澳大利亚
 
-**职业代码：233215 – Geotechnical Engineer。**
+**职业代码：233212 – Geotechnical Engineer。**
 
-岩土工程师专注于土壤、岩石及地下工程分析，为建筑物基础、隧道、矿山边坡和海岸防护提供专业设计。澳洲矿业、基础设施建设及采矿业的持续投入使该职业长期处于紧缺状态，持证工程师（CPEng/RPEQ）薪资极具竞争力。
+Geotechnical engineers analyze soil, rock, and groundwater conditions to provide foundation design and construction recommendations for buildings, tunnels, dams, and slopes, ensuring structural safety and stability.
 
 ---
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：较难（★★★★☆）。**
+**学习难度：高（★★★★☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| Bachelor of Civil/Geotechnical Engineering | 4年 | $32,000~$55,000（国际生约$160k~$200k总费） |
-| Engineers Australia Competency Assessment | 2~5年工作经验 | $500~$2,000（MIEAust/CPEng申请） |
-| RPEQ / State Engineer Registration | 视州而定 | $500~$2,000（独立签章必备） |
+| 本科 | 4年 | $30,000~$45,000（学费每年约3-4.5万澳元（国际学生）） |
+| 硕士 | 1-2年 | $35,000~$50,000（学费每年约3.5-5万澳元（国际学生）） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：中等（★★★☆☆）。**
+**考证难度：中（★★★☆☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| Bachelor of Civil/Geotechnical Engineering | 认可大学 | 必备 | 入行基础 |
-| MIEAust / CPEng | Engineers Australia | 可选 | 专业会员/执业工程师 |
-| RPEQ (QLD) / REC | 各州工程师委员会 | 可选 | 独立签章执业 |
+| 工程学士（岩土工程或土木工程方向） | 澳大利亚工程师协会（Engineers Australia）认证课程 | 必备 | EA认证的本科学位是成为职业工程师的基础 |
+| 注册工程师（Chartered Professional Engineer） | 澳大利亚工程师协会（Engineers Australia） | 可选 | CPEng是高级职位的重要资质，通常需3-5年工作经验 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：旺盛（★★★★★）。** 全国从业人数约 8,000。澳洲地下基础设施项目（轨道交通、水坝、矿山）2025-2030年投资超$500亿，岩土工程师需求持续高涨。气候变化引发的滑坡与海岸侵蚀风险管理也推动专业需求增长。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 6,500。澳洲基础设施投资持续增长，矿业和能源项目活跃，岩土工程师需求强劲。未来五年就业预计稳步增长，尤其在西澳、昆州和新南威尔士州。
 
-| 平台 | 实时挂牌量（约） | 备注 |
-|---|---:|---|
-| Seek | 150~250 个 | 2025年均值 |
-| Indeed | 80~140 个 | 2025年均值 |
-| LinkedIn | 100~180 个 | 2025年均值 |
-
-**竞争度：较低（★★☆☆☆）。**
-**工作强度：中高（★★★☆☆）。**
+**竞争度：中（★★½☆☆）。**
+**工作强度：中（★★★☆☆）。**
 
 ---
 
@@ -49,50 +41,49 @@
 
 | 经验水平 | 年薪（AUD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $75,000~$95,000 | Graduate Engineer |
-| 中级（3-8年） | $100,000~$140,000 | Project Engineer |
-| 高级（8年+） | $145,000~$200,000 | Principal/CPEng |
+| 初级（0-3年） | $65,000~$85,000 | 常见起薪范围 |
+| 中级（3-8年） | $90,000~$120,000 | 随项目经验增长 |
+| 高级（8年以上） | $130,000~$180,000 | 含管理职责或专业咨询 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：极佳（★★★★★）。** GIS技术与三维地质建模普及，自动化监测设备减少现场工作量，但工程判断与签章责任仍需持证岩土工程师。地下工程与矿业岩土细分方向薪资溢价明显。
-**AI替代风险：低（★☆☆☆☆）。**
+**发展前景：非常好（★★★★½）。** 通常从项目工程师起步，积累经验后晋升为高级工程师、项目经理或技术主管；也可向岩土咨询、岩土数据分析或学术方向转型，或成为注册工程师（CPEng）。
+**AI替代风险：低（★½☆☆☆）。**
 
 主要增长方向：
 
-- Mining Infrastructure
-- Tunnelling & Underground Works
-- Coastal & Flood Management
-- Renewable Energy Foundations
+- Infrastructure boom
+- Mining & energy
+- Renewable energy projects
+- Geotechnical data analytics
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：高（★★★★☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（Skills in Demand） | 雇主担保，工程紧缺职业 |
-| Subclass 186（ENS） | 永居，工程紧缺 |
-| Subclass 190（Skilled Nominated） | 州提名，多州开放 |
+| Subclass 189（Skilled Independent Visa） | 技术独立签证，适用MLTSSL职业列表，可永久居留 |
+| Subclass 190（Skilled Nominated Visa） | 州担保技术移民，各州针对岩土工程有担保名额 |
+| Subclass 482（Skills in Demand Visa） | 雇主担保临时签证，满足条件后可转186永居 |
 
-**PR难度：较易（★★☆☆☆）。**
+**PR难度：中（★★★☆☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
-**谁适合学岩土工程师？**
-- 有岩土/土木工程背景者
-- 喜欢户外现场勘察与实验室结合工作者
-- 对矿业或基础设施建设感兴趣者
+**谁适合学Geotechnical Engineer？**
+- 喜欢户外和现场工作，动手能力强且注重安全
+- 数学和物理基础扎实，善于解决复杂工程问题
 
-**谁不适合学岩土工程师？**
-- 不耐受出差和野外作业者
-- 纯粹偏好办公室工作者
+**谁不适合学Geotechnical Engineer？**
+- 不喜欢频繁出差或工地环境
+- 对土壤、岩石等自然材料不感兴趣
 
 ---
 
@@ -100,8 +91,7 @@
 
 | 来源 | 内容 |
 |---|---|
-| JSA | ANZSCO 233215 岩土工程师数据 |
-| Seek AU | 薪资及岗位量 |
+| Jobs and Skills Australia | ANZSCO 薪资与需求 |
 
 ---
 
@@ -109,26 +99,29 @@
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 较长（★★★★☆） |
-| 学习难度 | 较难（★★★★☆） |
-| 考证难度 | 中等（★★★☆☆） |
-| 职位需求量 | 旺盛（★★★★★） |
-| 竞争度 | 较低（★★☆☆☆） |
-| 收入水平 | 高（★★★★★） |
-| 工作强度 | 中高（★★★☆☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 较易（★★☆☆☆） |
+| 学习周期 | 长（★★★★☆） |
+| 学习难度 | 高（★★★★☆） |
+| 考证难度 | 中（★★★☆☆） |
+| 职位需求量 | 高（★★★★☆） |
+| 竞争度 | 中（★★½☆☆） |
+| 收入水平 | 高（★★★★☆） |
+| 工作强度 | 中（★★★☆☆） |
+| 发展前景 | 非常好（★★★★½） |
+| AI替代风险 | 低（★½☆☆☆） |
+| PR友好度 | 高（★★★★☆） |
+| PR难度 | 中（★★★☆☆） |
 
-岩土工程师的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Geotechnical Engineer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：岩土工程师在澳洲薪资怎么样？**
-答：初级约AUD 7.5万~9.5万，中级10万~14万，持证高级工程师可达14.5万~20万。矿业项目薪资溢价明显。
+**问：What is the average salary for a geotechnical engineer in Australia?**
+答：Junior: AUD 65,000-85,000; mid-senior: AUD 130,000-180,000, with mining project allowances.
 
-**问：澳洲岩土工程师好找工作吗？**
-答：是长期紧缺职业，Seek常年有150~250个活跃职位，WA、QLD矿业地区和NSW/VIC基础设施项目需求最旺。
+**问：Is it easy for geotechnical engineers to migrate to Australia?**
+答：Yes, it's on the MLTSSL, eligible for 189/190/491 visas, with ongoing shortage, making migration relatively straightforward.
+
+**问：What are the long-term career prospects for geotechnical engineers?**
+答：Advance to project manager, technical director, or independent consultant; transition into civil engineering management or mining engineering.

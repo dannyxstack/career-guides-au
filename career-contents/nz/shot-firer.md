@@ -1,8 +1,10 @@
 # Shot Firer（Shot Firer）职业分析 · 新西兰
 
-**职业代码：712611 – Shot Firer。**
+**职业代码：712213 – Shot Firer。**
 
-Shot Firers in NZ perform drilling and blasting in mining, quarrying, and tunneling. They must hold a valid NZ Blasting Certificate. This is a Green List Tier 1 direct residence occupation with clear immigration pathways and labor shortage, with annual salaries around NZD 80,000-120,000.
+Shot firers conduct blasting operations in mining, quarrying, and construction sites. In New Zealand, demand is steady but migration pathways are limited, typically requiring accredited employer sponsorship.
+
+> 注：本职业为**受限技术移民职业**，不在新西兰独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
 ---
 
@@ -12,29 +14,29 @@ Shot Firers in NZ perform drilling and blasting in mining, quarrying, and tunnel
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| 爆破工证书课程 | 1-2年 | $5,000~$12,000（包括理论和实操培训） |
-| 爆破助手学徒 | 2-3年 | $1,000~$3,000（在职培训，公司可能资助考试费） |
+| 学徒制 | 3-4年 | $2,000~$5,000（在职学习，部分雇主承担费用） |
+| 资格认证课程 | 6个月 | $3,000~$6,000（公立理工学院或行业培训机构） |
 
 ---
 
 ## 2. 考证难度 / 从业资质
 
-**考证难度：较高（★★★½☆）。**
+**考证难度：较高（★★★★☆）。**
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| 新西兰爆破许可证 | 新西兰工作安全局 | 必备 | 分为A、B、C各级，需通过笔试和实操 |
-| 工地安全卡 | Site Safe | 必备 | 基础安全培训 |
-| 新西兰驾照Class 1或2 | NZ Transport Agency | 可选 | 多数雇主要求 |
+| 新西兰爆破员执照 | 新西兰劳动安全局 | 必备 | 必须持有，分A/B/C级 |
+| 新西兰国家证书（爆破操作） | 新西兰资格认证局 | 可选 | 推荐获得，提高就业机会 |
+| 工作场所安全证书 | 各培训机构 | 可选 | 如Site Safe证书，部分雇主要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：高（★★★★☆）。** 全国从业人数约 350。新西兰矿业和基建持续发展，现有爆破工无法满足需求，未来五年就业增长强劲。北岛金矿和南岛隧道项目为主要雇主，持证工人供不应求。
+**职位需求量：稳定（★★★☆☆）。** 全国从业人数约 600。新西兰爆破工需求受矿业和大型基建项目驱动，预计未来五年就业稳定。奥克兰和坎特伯雷是主要就业地区，但偏远矿区机会更多。
 
-**竞争度：低（★☆☆☆☆）。**
-**工作强度：高（★★★★☆）。**
+**竞争度：中等（★★½☆☆）。**
+**工作强度：较高（★★★½☆）。**
 
 ---
 
@@ -42,50 +44,51 @@ Shot Firers in NZ perform drilling and blasting in mining, quarrying, and tunnel
 
 | 经验水平 | 年薪（NZD） | 备注 |
 |---|---:|---|
-| 初级（0-3年） | $60,000~$80,000 | 通常为临时工或助手 |
-| 中级（3-6年） | $80,000~$100,000 | 持证独立操作 |
-| 高级（6年以上） | $100,000~$130,000 | 主管或高难度项目 |
+| 初级（0-3年） | $50,000~$65,000 | 常按小时计薪，$24-$31/小时 |
+| 中级（4-7年） | $65,000~$85,000 | $31-$41/小时 |
+| 高级（8年以上） | $85,000~$110,000 | 含主管或偏远地区补贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：好（★★★★☆）。** 一般从爆破助手做起，积累经验后考取爆破许可证成为独立爆破工；可晋升为爆破主管或安全顾问，年均收入可达12万新西兰元以上。
-**AI替代风险：低（★☆☆☆☆）。**
+**发展前景：稳定（★★★☆☆）。** 从初级爆破工起步，可晋升为高级爆破工或爆破主管，也可转向岩土工程或矿山规划。持新西兰爆破执照可提升竞争力。
+**AI替代风险：较低（★½☆☆☆）。**
 
 主要增长方向：
 
-- Green List Tier 1
-- Skilled Migrant Category
-- Immediate Skill Shortage
-- Infrastructure Growth
+- Infrastructure Projects
+- Mining Recovery
+- Quarrying Activity
+- AEWV Pathway
 
 ---
 
 ## 6. 移民路径 / PR难度
 
-**PR友好度：高（★★★★½）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
+**PR友好度：较低（★★☆☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass Green List T1（Straight to Residence Visa） | 直接申请居留，无需先工作，需获得认证雇主offer且满足资格要求 |
-| Subclass SMC（Skilled Migrant Category） | 6分制下，职业注册可加分，适合未直接满足T1条件的申请人 |
-| Subclass AEWV（Accredited Employer Work Visa） | 如未满足T1要求，可先持AEWV工作后转永居 |
+| Subclass AEWV（Accredited Employer Work Visa） | 最可能路径，需认证雇主担保，工作3年后可申请居留 |
+| Subclass SMC（Skilled Migrant Category） | 符合条件可申请，但爆破工ANZSCO级别为3，需高薪或工作经验加分 |
+| Subclass Green List T2（Green List Tier 2 (Work to Residence)） | 爆破工未列入绿色清单，此路径不适用，仅为示例 |
 
-**PR难度：低（★½☆☆☆）。**
+**PR难度：较高（★★★★☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
 **谁适合学Shot Firer？**
-- 体力充沛、适应户外和偏远地区工作的人
-- 愿意长期在矿山或基建现场工作
-- 能严格遵守安全规程的细心者
+- 适应户外和偏远工作环境，身体健康
+- 注重安全，谨慎细心
+- 有工程或矿业背景者优先
 
 **谁不适合学Shot Firer？**
-- 不喜粉尘、噪音和振动环境
-- 无法适应FIFO（飞入飞出）工作模式
+- 不适应危险工作环境者
+- 不喜欢偏远地区工作或出差者
 
 ---
 
@@ -101,29 +104,29 @@ Shot Firers in NZ perform drilling and blasting in mining, quarrying, and tunnel
 
 | 维度 | 评级 |
 |---|---|
-| 学习周期 | 中等（★★½☆☆） |
+| 学习周期 | 较长（★★★½☆） |
 | 学习难度 | 中等（★★★☆☆） |
-| 考证难度 | 较高（★★★½☆） |
-| 职位需求量 | 高（★★★★☆） |
-| 竞争度 | 低（★☆☆☆☆） |
-| 收入水平 | 高（★★★★☆） |
-| 工作强度 | 高（★★★★☆） |
-| 发展前景 | 好（★★★★☆） |
-| AI替代风险 | 低（★☆☆☆☆） |
-| PR友好度 | 高（★★★★½） |
-| PR难度 | 低（★½☆☆☆） |
+| 考证难度 | 较高（★★★★☆） |
+| 职位需求量 | 稳定（★★★☆☆） |
+| 竞争度 | 中等（★★½☆☆） |
+| 收入水平 | 中等（★★★☆☆） |
+| 工作强度 | 较高（★★★½☆） |
+| 发展前景 | 稳定（★★★☆☆） |
+| AI替代风险 | 较低（★½☆☆☆） |
+| PR友好度 | 较低（★★☆☆☆） |
+| PR难度 | 较高（★★★★☆） |
 
-Shot Firer的移民路径与薪资见上表；建议结合自身背景与最新职业清单，提前规划技能评估与签证方案。
+Shot Firer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：What is the salary level for Shot Firers in NZ?**
-答：Entry level: NZD 60k-80k, mid: 80k-100k, senior: 100k-130k, plus overtime and allowances.
+**问：What is the salary level for shot firers in New Zealand?**
+答：Entry-level salary is around NZD 50,000-65,000 per year, while experienced shot firers can earn NZD 85,000-110,000, with additional allowances for remote sites.
 
-**问：Is it easy for Shot Firers to migrate via Green List?**
-答：Yes, Tier 1 direct residence; with a job offer from accredited employer, NZQA assessment, and license, you can apply for permanent residence directly.
+**问：How can overseas shot firers immigrate to New Zealand?**
+答：Mainly through the Accredited Employer Work Visa (AEWV), working for 3 years then applying for residence. The Skilled Migrant Category is more competitive.
 
-**问：Can overseas blasting certificates be used directly?**
-答：No, you must pass NZ WorkSafe assessments to convert your license, often requiring supplementary courses.
+**问：What is the career progression for shot firers in New Zealand?**
+答：Progression from entry-level to senior shot firer, blasting supervisor, or into roles like geotechnical engineering and mine planning.

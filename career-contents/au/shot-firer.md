@@ -1,8 +1,8 @@
-# 爆破工（Shot Firer）职业分析 · 澳大利亚
+# Shot Firer（Shot Firer）职业分析 · 澳大利亚
 
-**职业代码：712611 – Shot Firer。**
+**职业代码：712213 – Shot Firer。**
 
-爆破工（Shot Firer/Blaster）持有爆破许可证，在矿山、采石场和隧道工程中执行钻孔爆破作业。澳洲爆破执照是严格监管的专业资质，持证爆破工极度稀缺，FIFO薪资在技工中排名最高之一。
+Shot firers carry out blasting operations in mining, quarrying and construction sites, including loading explosives, setting detonators, safe detonation and post-blast inspection. Work is often in remote mine sites with strict safety protocols.
 
 > 注：本职业为**受限技术移民职业**，不在澳大利亚独立技术移民清单（189/190）上，但可通过雇主担保（482/494）、偏远地区指定协议（DAMA）或劳务协议移民——移民通道受限。
 
@@ -10,12 +10,12 @@
 
 ## 1. 教育路径 / 周期 / 费用
 
-**学习难度：高（★★★★☆）。**
+**学习难度：中等（★★★☆☆）。**
 
 | 阶段 | 周期 | 费用（AUD） |
 |---|---|---:|
-| Certificate III in Extractive Technologies (Blasting) | 12~18个月 | $3,000~$8,000（含爆破执照考试费） |
-| 各州爆破工执照（Shotfirer Licence） | 已含在培训中 | $500~$2,000（各州矿监/安监局颁发） |
+| 职前培训与学徒制 | 2年 | $5,000~$15,000（Certificate II/III in Surface Extraction or Drilling and Blasting; 学徒制期间带薪） |
+| 短期爆破操作课程 | 2周 | $2,000~$5,000（针对已有矿业经验者，培训后考取爆破执照） |
 
 ---
 
@@ -25,23 +25,18 @@
 
 | 资质 | 发证机构 | 是否必备 | 备注 |
 |---|---|---|---|
-| State Shotfirer/Blaster Licence | 各州矿监/爆炸物监管机构 | 必备 | 法规强制，无证不得操作 |
-| Certificate III in Extractive Technologies | RTO | 必备 | 核心资质 |
-| EBS Electronic Blasting Certification | Orica/Dyno Nobel认可机构 | 可选 | 现代矿山必备 |
+| 爆破执照（Authorised Explosive User Permit） | 州/领地资源安全部门（如Resources Safety WA） | 必备 | 必须持有；需完成安全培训和实操评估 |
+| 证书III 表面开采操作（Certificate III in Surface Extraction Operations） | TAFE或注册培训机构 | 可选 | 非强制但行业高度重视 |
+| 白卡（White Card） | 各州建筑行业培训机构 | 必备 | 建筑工地作业必需 |
+| 重型车辆执照（HR/HA Licence） | 各州交通局 | 可选 | 非强制，但驾驶爆破车辆常见要求 |
 
 ---
 
 ## 3. 职位需求量 / 竞争度 / 工作强度
 
-**职位需求量：极高（★★★★★）。** 全国从业人数约 5,000。新矿山开发（关键矿产）和基础设施隧道（城市轨道/公路）双线驱动爆破工需求增长。现有执照持有者年龄偏大，退休缺口扩大。
+**职位需求量：高（★★★★☆）。** 全国从业人数约 1,400。澳洲矿业和基础设施建设持续推动爆破工需求。西澳、昆士兰和南澳资源项目活跃，未来五年就业前景稳定，但受大宗商品价格周期影响。新南威尔士州和维多利亚州的基础设施项目也提供机会。
 
-| 平台 | 实时挂牌量（约） | 备注 |
-|---|---:|---|
-| Seek | 100~250 个 | 全国，WA/QLD/NSW集中 |
-| Indeed | 50~130 个 | 矿山爆破专职 |
-| LinkedIn | 30~80 个 | Orica/Dyno Nobel等爆破服务公司 |
-
-**竞争度：极低（★☆☆☆☆）。**
+**竞争度：低（★½☆☆☆）。**
 **工作强度：高（★★★★☆）。**
 
 ---
@@ -50,50 +45,51 @@
 
 | 经验水平 | 年薪（AUD） | 备注 |
 |---|---:|---|
-| 初级爆破工（0~2年） | $100,000~$130,000 | 持证即高薪，无初级之分 |
-| 中级（2~6年）FIFO | $130,000~$180,000 | 矿山FIFO均值 |
-| 高级/首席爆破工（6年+） | $170,000~$250,000 | 大型矿山或承包商 |
+| 初级（1-3年） | $70,000~$90,000 | 固定工资，含偏远地区津贴 |
+| 中级（3-5年） | $90,000~$120,000 | 含加班和绩效奖金 |
+| 高级（5年以上） | $120,000~$160,000 | 含现场主管津贴 |
 
 ---
 
 ## 5. 未来趋势 / AI替代概率
 
-**发展前景：极佳（★★★★★）。** 电子爆破系统（EBS）逐步取代传统导爆索，要求爆破工持续更新技能。爆破工是澳洲薪资最高的技工之一，因执照门槛高而严重短缺。
-**AI替代风险：极低（★☆☆☆☆）。**
+**发展前景：稳定（★★★½☆）。** 新手爆破工通常从矿业或建筑行业助手做起，获发执照后独立作业。可晋升为高级爆破工、爆破主管，或转向爆破设计、安全顾问等岗位，也有机会进入矿业管理层。
+**AI替代风险：低（★☆☆☆☆）。**
 
 主要增长方向：
 
-- Mining Blast Operations
-- Quarrying & Civil Blasting
-- Tunnel Blasting (Infrastructure)
-- Critical Minerals New Mines
+- Mining
+- Infrastructure
+- Blasting
+- Remote Work
 
 ---
 
 ## 6. 移民路径 / PR难度
 
 **本职业为受限技术移民职业（仅雇主担保 / DAMA）。** 不在独立技术移民清单（189 / 190 / 491）上，无法直接申请普通技术移民；但可通过雇主担保（482 / 494）、偏远地区指定移民协议（DAMA）或劳务协议等通道移民——通道与名额受限，具体以 Department of Home Affairs 最新规定及 CSOL 清单为准。
-**PR友好度：极高（★★★★★）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
+**PR友好度：中等（★★★☆☆）。** 签证路径需按具体职责匹配对应 ANZSCO，并以 Department of Home Affairs 最新职业清单及相关评估机构评估结果为准。
 
 | 签证类别 | 说明 |
 |---|---|
-| Subclass 482（Skills in Demand） | 矿业雇主担保 |
-| Subclass 491（Skilled Work Regional） | 偏远矿区加15分 |
-| Subclass 186（ENS） | 永居 |
+| Subclass 494（Skilled Employer Sponsored Regional (Provisional)） | 偏远地区雇主担保临时签证，适合在指定偏远地区（如西澳矿山）工作，可转191永居 |
+| Subclass DAMA（Designated Area Migration Agreement） | 特定地区（如北领地、南澳）的DAMA项目可能涵盖爆破工，门槛较低 |
+| Subclass 482（Temporary Skill Shortage Visa） | 雇主担保临时签证，需雇主证明无法招到本地人，爆破工不在CSOL上，适用性有限 |
 
-**PR难度：中等（★★★☆☆）。**
+**PR难度：高（★★★★☆）。**
 
 ---
 
 ## 7. 适合人群 / 不适合人群
 
-**谁适合学爆破工？**
-- 有采矿背景，愿意进阶高薪爆破专业资质
-- 接受FIFO高危工作环境，追求矿业最高薪水平
+**谁适合学Shot Firer？**
+- 能适应偏远矿山倒班和恶劣环境的人
+- 动手能力强、注重安全细节的人
+- 希望快速获得高收入且不介意体力劳动的人
 
-**谁不适合学爆破工？**
-- 不接受高危工作环境和爆炸物操作
-- 不愿承担严格安全法规责任
+**谁不适合学Shot Firer？**
+- 无法接受野外及地下作业环境的人
+- 对爆炸物安全有心理障碍或不习惯严格安全纪律的人
 
 ---
 
@@ -101,8 +97,7 @@
 
 | 来源 | 内容 |
 |---|---|
-| JSA | ANZSCO 712611 数据 |
-| Seek AU | Shot Firer 薪资及岗位量 |
+| Jobs and Skills Australia | ANZSCO 薪资与需求 |
 
 ---
 
@@ -111,25 +106,28 @@
 | 维度 | 评级 |
 |---|---|
 | 学习周期 | 中等（★★★☆☆） |
-| 学习难度 | 高（★★★★☆） |
+| 学习难度 | 中等（★★★☆☆） |
 | 考证难度 | 高（★★★★☆） |
-| 职位需求量 | 极高（★★★★★） |
-| 竞争度 | 极低（★☆☆☆☆） |
-| 收入水平 | 极高（★★★★★） |
+| 职位需求量 | 高（★★★★☆） |
+| 竞争度 | 低（★½☆☆☆） |
+| 收入水平 | 中高（★★★½☆） |
 | 工作强度 | 高（★★★★☆） |
-| 发展前景 | 极佳（★★★★★） |
-| AI替代风险 | 极低（★☆☆☆☆） |
-| PR友好度 | 极高（★★★★★） |
-| PR难度 | 中等（★★★☆☆） |
+| 发展前景 | 稳定（★★★½☆） |
+| AI替代风险 | 低（★☆☆☆☆） |
+| PR友好度 | 中等（★★★☆☆） |
+| PR难度 | 高（★★★★☆） |
 
-爆破工为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
+Shot Firer为受限技术移民职业，普通技术移民通道不可用；如以移民为目标，需重点考察雇主担保（482/494）与 DAMA / 劳务协议，并结合最新 CSOL 清单评估可行性。
 
 ---
 
 ## 9. FAQ 常见问题
 
-**问：澳洲爆破工工资多少？**
-答：持证后即高薪，中级FIFO年薪约 $130,000~$180,000。高级/首席爆破工可达 $250,000+，是澳洲薪资最高的技工之一。
+**问：What is the salary range for shot firers?**
+答：Entry-level salary is about AUD 70,000-90,000, mid-level AUD 90,000-120,000, and senior AUD 120,000-160,000. Remote mine sites often offer additional allowances and free accommodation.
 
-**问：爆破工容易找工作吗？**
-答：极容易。持证爆破工是澳洲最稀缺职业之一，Orica/Dyno Nobel等公司常年大量招聘。
+**问：Are there skilled migration opportunities for shot firers?**
+答：Limited. The occupation is not on CSOL/MLTSSL, so direct 189/190/186 visas are not available. However, regional employer-sponsored 494 visa or specific DAMA programs may lead to permanent residency.
+
+**问：What training is required to become a shot firer?**
+答：Typically a Certificate III in Surface Extraction Operations (2 years) and a blasting permit. Those with mining experience can take a short blasting course (2 weeks) before obtaining a license. A White Card is also mandatory.
