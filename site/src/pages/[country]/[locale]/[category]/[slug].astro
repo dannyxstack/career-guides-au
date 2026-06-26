@@ -85,6 +85,26 @@ if (o.faqs?.length) ld.push({
         </span>
         <p style="margin:8px 0 0">{tr(o.ai.verdict_zh, locale)}</p>
       </div>
+      {/* 1.4 学术 AI Exposure 指数（AIOE · Felten 等），区别于上方大模型判断 */}
+      {o.ai.aioe_pct != null && (
+        <div class="card" data-section="ai-aioe" style="border-left:4px solid var(--green)">
+          <strong>{locale === 'zh-CN' ? 'AI 暴露指数（学术 · AIOE）' : 'AI Exposure Index (AIOE)'}</strong>
+          <div style="display:flex;align-items:center;gap:12px;margin:10px 0 6px">
+            <div style="font-size:30px;font-weight:700;line-height:1">{o.ai.aioe_pct}<span style="font-size:15px;font-weight:500;color:var(--muted)"> / 100</span></div>
+            <div style="flex:1">
+              <div style="height:10px;border-radius:6px;background:var(--border);overflow:hidden">
+                <div style={`height:100%;width:${o.ai.aioe_pct}%;background:linear-gradient(90deg,#22c55e,#f59e0b,#ef4444)`}></div>
+              </div>
+              <p class="muted" style="margin:6px 0 0;font-size:13px">{locale === 'zh-CN' ? `暴露程度高于约 ${o.ai.aioe_pct}% 的职业（百分位，越高越易受 AI 影响）` : `More exposed than about ${o.ai.aioe_pct}% of occupations (percentile; higher = more exposed to AI)`}</p>
+            </div>
+          </div>
+          <p class="muted" style="margin:6px 0 0;font-size:12px">
+            {locale === 'zh-CN'
+              ? `方法：Felten–Raj–Seamans AIOE（10 项 AI 能力 × O*NET 52 项职业能力加权）。${o.ai.aioe_method === 'crosswalk' ? `经 ISCO-08 ${String(o.ai.aioe_soc || '').replace('ISCO:', '')} 跨分类对应到美国 SOC（仅供参考）` : `直接对应美国 SOC ${o.ai.aioe_soc}`}。区别于上方基于大模型的风险判断。`
+              : `Method: Felten–Raj–Seamans AIOE (10 AI applications × 52 O*NET abilities, weighted). ${o.ai.aioe_method === 'crosswalk' ? `Mapped to U.S. SOC via ISCO-08 ${String(o.ai.aioe_soc || '').replace('ISCO:', '')} (indicative)` : `Direct match to U.S. SOC ${o.ai.aioe_soc}`}. Distinct from the LLM-based assessment above.`}
+          </p>
+        </div>
+      )}
       {/* 1.5 已经在替代该职业的 AI 工具/产品/研究/新闻 */}
       {o.ai.disruptors && o.ai.disruptors.length > 0 && (
         <div class="card" data-section="ai-disruptors">

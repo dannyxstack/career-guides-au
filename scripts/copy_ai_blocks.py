@@ -1,20 +1,20 @@
-"""US Phase 2 — ai-block 复用：把母体(AU/CA)的 occupation_ai + occupation_ai_disruptor
-复制到匹配的美国职业。
+"""Phase 2 — ai-block 复用：把母体(AU/CA/US 等)的 occupation_ai + occupation_ai_disruptor
+复制到匹配的目标国家职业（US / UK / …）。
 
-读 .codex_tmp/us_ai_match.json（{us_occ_id: {country, occ_code, src_occ_id}}），
-对每个有 src_occ_id 的 US 职业，从母体复制 ai-block（adjacent 置空，幂等覆盖）。
-未匹配 / 复制失败的 US 职业不在此处理，留给回退脚本：
-    python -m scripts.gen_ai_insights   --country US
-    python -m scripts.gen_ai_disruptors --country US
+读 .codex_tmp/{country}_ai_match.json（{occ_id: {country, occ_code, src_occ_id}}），
+对每个有 src_occ_id 的目标职业，从母体复制 ai-block（adjacent 置空，幂等覆盖）。
+未匹配 / 复制失败的职业不在此处理，留给回退脚本：
+    python -m scripts.gen_ai_insights   --country <CC>
+    python -m scripts.gen_ai_disruptors --country <CC>
 （两脚本自动跳过已有 occupation_ai / disruptor 的职业。）
 
-运行：python -m scripts.copy_us_ai_blocks [--redo]
+运行：python -m scripts.copy_ai_blocks --country UK [--redo]
 """
 import sys, os, json, argparse
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
 
-MATCH = os.path.join(os.path.dirname(__file__), "..", ".codex_tmp", "us_ai_match.json")
+TMP = os.path.join(os.path.dirname(__file__), "..", ".codex_tmp")
 
 
 def copy_ai_block(cur, src_id, dst_id):
@@ -49,21 +49,23 @@ def copy_ai_block(cur, src_id, dst_id):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--redo", action="store_true", help="对已有 occupation_ai 的 US 职业也重新复制")
+    ap.add_argument("--country", default="US", help="目标国家代码，如 US / UK")
+    ap.add_argument("--redo", action="store_true", help="对已有 occupation_ai 的目标职业也重新复制")
     a = ap.parse_args()
+    cc = a.country.strip().upper()
 
-    match = json.load(open(MATCH, encoding="utf-8"))
+    match = json.load(open(os.path.join(TMP, f"{cc.lower()}_ai_match.json"), encoding="utf-8"))
     # 跳过已有 occupation_ai 的（除非 --redo）
     if not a.redo:
         with get_cursor() as cur:
             cur.execute("SELECT a.occupation_id FROM occupation_ai a "
-                        "JOIN occupations o ON o.id=a.occupation_id WHERE o.country_code='US'")
+                        "JOIN occupations o ON o.id=a.occupation_id WHERE o.country_code=%s", (cc,))
             done = {str(r["occupation_id"]) for r in cur.fetchall()}
     else:
         done = set()
 
     todo = [(k, v) for k, v in match.items() if v.get("src_occ_id") and k not in done]
-    print(f"[us-ai-copy] 待复制 {len(todo)} 个（match {len(match)}，已有 {len(done)}）", flush=True)
+    print(f"[{cc.lower()}-ai-copy] 待复制 {len(todo)} 个（match {len(match)}，已有 {len(done)}）", flush=True)
 
     ok = no_src = fail = 0
     for i, (dst_id, v) in enumerate(todo, 1):
@@ -82,7 +84,7 @@ def main():
             print(f"  [{i}/{len(todo)}] dst={dst_id} src={src_id} 失败: {e}", flush=True)
 
     print(f"[OK] 复制完成：成功 {ok}，母体无ai-block {no_src}，失败 {fail}。"
-          f"剩余未匹配 US 职业请跑 gen_ai_insights/gen_ai_disruptors --country US 补齐。", flush=True)
+          f"剩余未匹配 {cc} 职业请跑 gen_ai_insights/gen_ai_disruptors --country {cc} 补齐。", flush=True)
 
 
 if __name__ == "__main__":

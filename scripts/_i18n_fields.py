@@ -154,6 +154,10 @@ def fetch_bundles(cur, country=None):
                   "human_moat": _f(air.get("human_moat")),
                   "entry_risk": _f(air.get("entry_risk")),
                   "ai_upside": _f(air.get("ai_upside")),
+                  "aioe_score": _f(air.get("aioe_score")),
+                  "aioe_pct": (int(air["aioe_pct"]) if air.get("aioe_pct") is not None else None),
+                  "aioe_soc": air.get("aioe_soc"),
+                  "aioe_method": air.get("aioe_method"),
                   "replaced_zh": _j(air["replaced_zh"]), "augmented_zh": _j(air["augmented_zh"]),
                   "moat_zh": _j(air["moat_zh"]), "skills_zh": _j(air["skills_zh"]),
                   "adjacent": _j(air["adjacent"])}

@@ -5,17 +5,19 @@ import translations from '../data/translations.json';
 import uiI18n from '../data/ui_i18n.json';
 
 export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja';
-export const COUNTRIES = ['AU', 'NZ', 'CA', 'US'] as const;
+export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE'] as const;
 export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja'];
 export const DEFAULT = { country: 'AU', locale: 'zh-CN' as Locale };
 // 国家 -> 本币代码（薪资/费用展示用）
-export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD' };
+export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR' };
 // 国家显示名（国家切换器用）
 export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   AU: { 'zh-CN': '澳大利亚', en: 'Australia' },
   NZ: { 'zh-CN': '新西兰', en: 'New Zealand' },
   CA: { 'zh-CN': '加拿大', en: 'Canada' },
   US: { 'zh-CN': '美国', en: 'United States' },
+  UK: { 'zh-CN': '英国', en: 'United Kingdom' },
+  DE: { 'zh-CN': '德国', en: 'Germany' },
 };
 export const countryName = (cc: string, locale: Locale) =>
   COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
@@ -27,9 +29,11 @@ export const COUNTRY_FLAG: Record<string, string> = {
   CA: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><rect width="30" height="60" fill="#D52B1E"/><rect x="90" width="30" height="60" fill="#D52B1E"/><path d="M60,11 l4,9 9,-2 -4,8 5,3 -8,4 1,6 -8,-2 -8,2 1,-6 -8,-4 5,-3 -4,-8 9,2 z" fill="#D52B1E"/></svg>',
   NZ: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#00247D"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#fff" stroke-width="6"/><path d="M0,0 L60,30 M60,0 L0,30" stroke="#CF142B" stroke-width="3"/><rect x="25" width="10" height="30" fill="#fff"/><rect y="10" width="60" height="10" fill="#fff"/><rect x="27" width="6" height="30" fill="#CF142B"/><rect y="12" width="60" height="6" fill="#CF142B"/><circle cx="100" cy="13" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="108" cy="31" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="91" cy="35" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/><circle cx="100" cy="49" r="3" fill="#CF142B" stroke="#fff" stroke-width="1"/></svg>',
   US: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><g fill="#B22234"><rect width="120" height="4.62"/><rect y="9.23" width="120" height="4.62"/><rect y="18.46" width="120" height="4.62"/><rect y="27.69" width="120" height="4.62"/><rect y="36.92" width="120" height="4.62"/><rect y="46.15" width="120" height="4.62"/><rect y="55.38" width="120" height="4.62"/></g><rect width="48" height="32.31" fill="#3C3B6E"/><g fill="#fff"><circle cx="6" cy="5" r="1.4"/><circle cx="16" cy="5" r="1.4"/><circle cx="26" cy="5" r="1.4"/><circle cx="36" cy="5" r="1.4"/><circle cx="11" cy="11" r="1.4"/><circle cx="21" cy="11" r="1.4"/><circle cx="31" cy="11" r="1.4"/><circle cx="41" cy="11" r="1.4"/><circle cx="6" cy="17" r="1.4"/><circle cx="16" cy="17" r="1.4"/><circle cx="26" cy="17" r="1.4"/><circle cx="36" cy="17" r="1.4"/><circle cx="11" cy="23" r="1.4"/><circle cx="21" cy="23" r="1.4"/><circle cx="31" cy="23" r="1.4"/><circle cx="41" cy="23" r="1.4"/><circle cx="6" cy="29" r="1.4"/><circle cx="16" cy="29" r="1.4"/><circle cx="26" cy="29" r="1.4"/><circle cx="36" cy="29" r="1.4"/></g></svg>',
+  UK: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><clipPath id="ukc"><rect width="120" height="60"/></clipPath><g clip-path="url(#ukc)"><rect width="120" height="60" fill="#012169"/><path d="M0,0 L120,60 M120,0 L0,60" stroke="#fff" stroke-width="12"/><path d="M0,0 L120,60 M120,0 L0,60" stroke="#C8102E" stroke-width="8" clip-path="url(#ukc)"/><rect x="50" width="20" height="60" fill="#fff"/><rect y="20" width="120" height="20" fill="#fff"/><rect x="54" width="12" height="60" fill="#C8102E"/><rect y="24" width="120" height="12" fill="#C8102E"/></g></svg>',
+  DE: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="20" fill="#000"/><rect y="20" width="120" height="20" fill="#DD0000"/><rect y="40" width="120" height="20" fill="#FFCE00"/></svg>',
 };
 // 标题/SEO 用的简称（中文用习惯简称「澳洲」；其余语言用全称）
-const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国' };
+const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国' };
 export const countryTitleName = (cc: string, locale: Locale) =>
   locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
 
@@ -80,6 +84,9 @@ export interface Occ {
     cluster?: string | null;
     automation_exposure?: number | null; human_moat?: number | null;
     entry_risk?: number | null; ai_upside?: number | null;
+    // 学术 AI Exposure 指数（Felten 等 AIOE）：aioe_pct=百分位(0-100，越高越暴露)，aioe_soc=映射到的美国SOC码，aioe_method=direct/crosswalk
+    aioe_score?: number | null; aioe_pct?: number | null;
+    aioe_soc?: string | null; aioe_method?: string | null;
   } | null;
 }
 
@@ -290,6 +297,14 @@ const SOURCES_BODY: Record<string, { 'zh-CN': string; en: string }> = {
     'zh-CN': '本页薪资为综合 Indeed、Glassdoor、ERI SalaryExpert 及美国劳工统计局（BLS OEWS）等公开区间的估算；就业与需求预测引用美国劳工统计局（BLS Occupational Outlook）及 O*NET；签证与移民信息以美国公民及移民服务局（USCIS）的工作签证（H-1B / O-1 / L-1）与职业移民绿卡（EB-2 / EB-3，含劳工部 PERM 劳工证）最新规则为准。数据仅供参考，请以官方最新发布为准。',
     en: 'Salary ranges are estimates aggregated from public listings on Indeed, Glassdoor, ERI SalaryExpert and the U.S. Bureau of Labor Statistics (BLS OEWS); employment and demand outlook cite the BLS Occupational Outlook and O*NET; visa and migration details follow the latest USCIS work-visa (H-1B / O-1 / L-1) and employment-based green-card (EB-2 / EB-3, incl. DOL PERM labor certification) rules. Figures are indicative only — always refer to the latest official sources.',
   },
+  UK: {
+    'zh-CN': '本页薪资为综合 Indeed、Glassdoor、Reed、ONS ASHE（年度工时与收入调查）等公开区间的估算；就业与需求预测引用英国国家统计局（ONS）及 HMRC PAYE 数据；签证与移民信息以英国签证与移民局（UKVI）的技术工作签证（Skilled Worker）、全球人才（Global Talent）、医疗与护理（Health and Care）及短缺职业清单（Immigration Salary List）最新规则为准。数据仅供参考，请以官方最新发布为准。',
+    en: 'Salary ranges are estimates aggregated from public listings on Indeed, Glassdoor, Reed and ONS ASHE (Annual Survey of Hours and Earnings); employment and demand outlook cite the Office for National Statistics (ONS) and HMRC PAYE data; visa and migration details follow the latest UK Visas and Immigration (UKVI) Skilled Worker, Global Talent, Health and Care, and Immigration Salary List rules. Figures are indicative only — always refer to the latest official sources.',
+  },
+  DE: {
+    'zh-CN': '本页薪资为综合 StepStone、Glassdoor、Gehalt.de 及德国联邦统计局（destatis）等公开区间的估算；就业与需求预测引用德国联邦劳工局（Bundesagentur für Arbeit）及 destatis；签证与移民信息以德国《技术移民法》（Fachkräfteeinwanderungsgesetz）下的欧盟蓝卡（EU Blue Card）、技术工人签证、求职机会卡（Chancenkarte）及学历认证（Anerkennung）最新规则为准。数据仅供参考，请以官方最新发布为准。',
+    en: 'Salary ranges are estimates aggregated from public listings on StepStone, Glassdoor, Gehalt.de and the Federal Statistical Office (destatis); employment and demand outlook cite the Federal Employment Agency (Bundesagentur für Arbeit) and destatis; visa and migration details follow the latest German Skilled Immigration Act (Fachkräfteeinwanderungsgesetz) rules covering the EU Blue Card, skilled-worker visa, Opportunity Card (Chancenkarte) and qualification recognition (Anerkennung). Figures are indicative only — always refer to the latest official sources.',
+  },
 };
 // 移民/签证文案：按国家区分（AU 走 UI 字典的 10 语言；US/NZ/CA 给 zh/en，其余语言经 tr() 回退 en）。
 // 各国签证类别为公开事实；不在此杜撰个案资格，仅指明通道与主管部门。
@@ -327,6 +342,28 @@ const MIG_TEXT: Record<string, MigText> = {
                       en: 'Direct Express Entry may be unavailable for this occupation, but migration is possible via employer sponsorship (LMIA work permit) or a Provincial Nominee Program (PNP) — pathways and places are limited. Refer to the latest IRCC rules.' },
     nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 NOC，以加拿大移民部（IRCC）最新规则为准。',
                   en: 'Visa pathways depend on matching the specific duties to the correct NOC; refer to the latest IRCC rules.' },
+  },
+  UK: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（仅雇主担保）', en: 'Restricted migration (employer-sponsored only)' },
+    mig1Tip: { 'zh-CN': '该职业通常可走英国「技术工作签证（Skilled Worker）→ 永居（ILR）」通道，部分高技能者亦可走全球人才签证（Global Talent）；这是一条移民路径，并非保证，也不代表「只有持永居才能从事」。以英国签证与移民局（UKVI）最新规定为准。',
+               en: 'This occupation commonly supports the UK Skilled Worker visa (then settlement / ILR), and high-skill talent may use Global Talent — a pathway, not a guarantee, and not a requirement to already hold settlement. Refer to UK Visas and Immigration (UKVI).' },
+    mig2Tip: { 'zh-CN': '该职业较难走常规技术签证，但仍可能通过持牌雇主担保（Skilled Worker）或医疗与护理签证（Health and Care）等通道移民——薪资门槛与名额受限。以 UKVI 最新规定为准。',
+               en: 'Standard skilled routes are harder for this occupation, but migration may still be possible via a licensed employer (Skilled Worker) or the Health and Care visa — salary thresholds and places are limited. Refer to UKVI.' },
+    restrictedNote: { 'zh-CN': '本职业不在常规技术移民通道上，无法直接积分移民；但可通过持牌雇主担保（Skilled Worker）等通道移民——是否满足薪资门槛与英语要求需个案评估，以英国签证与移民局（UKVI）最新规定为准。',
+                      en: 'This occupation is not on a standard skilled track and has no direct points route; however migration is possible via a licensed-employer Skilled Worker sponsorship — meeting salary thresholds and English requirements is assessed case by case. Refer to the latest UKVI rules.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 SOC 与薪资门槛，以英国签证与移民局（UKVI）最新规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct SOC and salary threshold; refer to the latest UKVI rules.' },
+  },
+  DE: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（需学历认证 / 雇主担保）', en: 'Restricted migration (qualification recognition / employer-sponsored)' },
+    mig1Tip: { 'zh-CN': '该职业通常可走德国《技术移民法》下的欧盟蓝卡（EU Blue Card）或技术工人签证，并可申请永久居留；这是一条移民路径，并非保证，通常需先完成学历认证（Anerkennung）。以德国主管机关最新规定为准。',
+               en: 'This occupation commonly supports the EU Blue Card or skilled-worker visa under the German Skilled Immigration Act (with a route to permanent residence) — a pathway, not a guarantee, usually requiring qualification recognition (Anerkennung). Refer to the German authorities.' },
+    mig2Tip: { 'zh-CN': '该职业较难直接走蓝卡，但可通过求职机会卡（Chancenkarte）或雇主担保的技术工人签证等通道移民——通常需学历认证且名额受限。以德国主管机关最新规定为准。',
+               en: 'The Blue Card route may be harder, but migration is possible via the Opportunity Card (Chancenkarte) or an employer-sponsored skilled-worker visa — usually needing qualification recognition, with limited places. Refer to the German authorities.' },
+    restrictedNote: { 'zh-CN': '本职业不在直接蓝卡通道上，无法直接技术移民；但可通过求职机会卡（Chancenkarte）或雇主担保的技术工人签证移民——通常需先完成学历认证（Anerkennung），通道与名额受限，以德国《技术移民法》及主管机关最新规定为准。',
+                      en: 'This occupation is not on the direct Blue Card track, so direct skilled migration is unavailable; however migration is possible via the Opportunity Card (Chancenkarte) or an employer-sponsored skilled-worker visa — usually requiring qualification recognition (Anerkennung), with limited pathways and places. Refer to the latest Skilled Immigration Act rules and German authorities.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 KldB 职业并完成学历认证，以德国主管机关（Make it in Germany / 联邦劳工局）最新规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct KldB occupation and on qualification recognition; refer to the latest German authorities (Make it in Germany / Federal Employment Agency).' },
   },
 };
 // ───────────────────────── AI 职业图谱：6 大类 ─────────────────────────
