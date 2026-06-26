@@ -1,0 +1,29 @@
+---
+// 全站通用 404 页：构建为 dist/404.html，主机在路径未命中时返回。
+// 用 Base 的 global 模式保留顶部菜单与底部说明；中英双语，提供回首页入口。
+import Base from '../layouts/Base.astro';
+---
+<Base title="404 · AI Career Graph" description="Page not found" locale="zh-CN" country="US" global={true}>
+  <section class="nf">
+    <div class="nf-code">404</div>
+    <h1 class="nf-title">页面不存在 · Page not found</h1>
+    <p class="nf-text">
+      你访问的页面可能已被移动、重命名，或从未存在。<br />
+      The page you’re looking for may have moved, been renamed, or never existed.
+    </p>
+    <div class="nf-cta">
+      <a class="btn primary" href="/">返回首页 · Back to home</a>
+      <a class="btn" href="/en/ai-graph/">AI 职业图谱 · AI Career Graph</a>
+      <a class="btn" href="/en/rankings/">职业榜单 · Rankings</a>
+    </div>
+  </section>
+</Base>
+
+<style>
+  .nf { text-align: center; padding: 56px 16px 72px; }
+  .nf-code { font-size: 84px; font-weight: 800; line-height: 1; color: var(--green); letter-spacing: 2px; }
+  .nf-title { font-size: 24px; margin: 14px 0 10px; }
+  .nf-text { color: var(--muted); font-size: 15px; max-width: 560px; margin: 0 auto 26px; }
+  .nf-cta { display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; }
+  @media (max-width: 560px) { .nf-code { font-size: 64px; } .nf-cta .btn { flex: 1 1 auto; text-align: center; } }
+</style>
