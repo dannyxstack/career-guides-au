@@ -56,7 +56,7 @@ const stars = (n: number) => renderStars(n);
     <thead><tr><th></th><th style="color:#10b981">{name(oa, locale)}</th><th style="color:#f59e0b">{name(ob, locale)}</th></tr></thead>
     <tbody>
       <tr><td class="muted">{t.overall}</td><td>{oa.overall_score ?? '—'}/10</td><td>{ob.overall_score ?? '—'}/10</td></tr>
-      <tr><td class="muted">{t.seniorPay}</td><td class="amber">{ma ? `${money(ma[0])}~${money(ma[1])}` : '—'}</td><td class="amber">{mb ? `${money(mb[0])}~${money(mb[1])}` : '—'}</td></tr>
+      <tr><td class="muted">{t.seniorPay}</td><td class="amber">{ma ? `${money(ma[0], oa.country)}~${money(ma[1], oa.country)}` : '—'}</td><td class="amber">{mb ? `${money(mb[0], ob.country)}~${money(mb[1], ob.country)}` : '—'}</td></tr>
       <tr><td class="muted">{t.visa}</td><td>{oa.is_migration ? t.migOcc : t.nonMig}</td><td>{ob.is_migration ? t.migOcc : t.nonMig}</td></tr>
     </tbody>
   </table>

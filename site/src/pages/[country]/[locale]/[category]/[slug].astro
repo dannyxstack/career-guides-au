@@ -3,7 +3,8 @@ import Base from '../../../../layouts/Base.astro';
 import RatingRadar from '../../../../components/RatingRadar.astro';
 import { COUNTRIES, LOCALES, occupations, catSlug, name, summary, strings, dimLabel, tr,
   radarLabels, radarValues, money, currencyOf, sourcesBody, getBySlug,
-  migRestrictedOccOf, migRestrictedNoteOf, nonMigVisaOf,
+  migRestrictedOccOf, migRestrictedNoteOf, nonMigVisaOf, sameOccAbroad,
+  countryName, COUNTRY_FLAG,
   clusterField, clusterColor, countryTitleName, disType, disLevel, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
@@ -24,6 +25,8 @@ const i = {
   forecast_note: tr(z.forecast_note, locale), trend_summary: tr(z.trend_summary, locale),
 };
 const alternates = LOCALES.map((l) => ({ locale: l, href: `/${country}/${l}/${catSlug(o.category)}/${o.slug}/` }));
+// 同名职业在其它国家的页面（移民到其它国家的入口）
+const abroad = sameOccAbroad(o);
 const radar = [{ name: name(o, locale), color: '#10b981', values: radarValues(o) }];
 
 // ---- schema.org 结构化数据 ----
@@ -180,7 +183,7 @@ if (o.faqs?.length) ld.push({
   <table>
     <thead><tr><th>{t.experience}</th><th>{t.annual} ({cur})</th><th></th></tr></thead>
     <tbody>{o.salaries.map((s: any) => (
-      <tr><td>{tr(s.label, locale)}</td><td class="amber">{money(s.min)} ~ {money(s.max)}</td><td class="muted">{tr(s.note, locale)}</td></tr>
+      <tr><td>{tr(s.label, locale)}</td><td class="amber">{money(s.min, country)} ~ {money(s.max, country)}</td><td class="muted">{tr(s.note, locale)}</td></tr>
     ))}</tbody>
   </table>
   </section>
@@ -189,7 +192,7 @@ if (o.faqs?.length) ld.push({
     <h2>{t.education}</h2>
     <table><thead><tr><th>{t.stage}</th><th>{t.period}</th><th>{t.cost} ({cur})</th></tr></thead>
       <tbody>{o.education.map((e: any) => (
-        <tr><td>{tr(e.stage, locale)}</td><td>{tr(e.duration, locale) || '—'}</td><td>{e.cost_min ? `${money(e.cost_min)}~${money(e.cost_max)}` : (tr(e.cost_note, locale) || '—')}</td></tr>
+        <tr><td>{tr(e.stage, locale)}</td><td>{tr(e.duration, locale) || '—'}</td><td>{e.cost_min ? `${money(e.cost_min, country)}~${money(e.cost_max, country)}` : (tr(e.cost_note, locale) || '—')}</td></tr>
       ))}</tbody></table>
   </section>)}
 
@@ -201,8 +204,8 @@ if (o.faqs?.length) ld.push({
       ))}</tbody></table>
   </section>)}
 
-  <section data-section="visa">
-  <h2>{t.visa}</h2>
+  <section id="migration" data-section="visa">
+  <h2>{t.visa}{t.visaToSuffix.replace('{c}', countryName(country, locale))}</h2>
   {o.is_migration ? (
     <>
     <p class="muted" style="font-size:13px;margin:0 0 8px">{t.visaCode}: <strong>{o.anzsco_code || o.occ_code}</strong>（{o.occ_code_type}）</p>
@@ -214,6 +217,14 @@ if (o.faqs?.length) ld.push({
     </>
   ) : (
     <p class="card muted">{t.nonMig}. {nonMigVisaOf(country, locale)}</p>
+  )}
+  {abroad.length > 0 && (
+    <p class="muted" style="font-size:13px;margin:12px 0 0">{t.migrateOther}：
+      {abroad.map((x: any) => (
+        <a class="tag" style="margin:6px 6px 0 0;display:inline-block" href={`/${x.country}/${locale}/${catSlug(x.category)}/${x.slug}/#migration`}>
+          <span set:html={COUNTRY_FLAG[x.country]} /> {countryName(x.country, locale)}</a>
+      ))}
+    </p>
   )}
   </section>
 

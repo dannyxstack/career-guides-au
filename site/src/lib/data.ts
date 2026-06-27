@@ -108,6 +108,22 @@ export const byCategory = (c: string, country?: string) =>
 export const getBySlug = (slug: string, country?: string) =>
   occByCountry(country).find((o) => o.slug === slug);
 
+// 跨国「同一职业」：按规范化英文名精确匹配其它国家的同名职业（安全、零误链）。
+// 各国职业分类体系不同（ANZSCO/NOC/SOC/KldB），仅同名才关联；无同名则不展示。
+// 用于在职业页「移民」板块给出「移民到其它国家」的入口（每国取一个）。
+const normName = (s: string) => s.trim().toLowerCase();
+export function sameOccAbroad(o: Occ): Occ[] {
+  const key = normName(o.name_en);
+  const seen = new Set<string>();
+  const out: Occ[] = [];
+  for (const x of occupations) {
+    if (x.country === o.country || normName(x.name_en) !== key || seen.has(x.country)) continue;
+    seen.add(x.country);
+    out.push(x);
+  }
+  return out;
+}
+
 export function name(o: Occ, locale: Locale) {
   const zh = o.i18n['zh-CN']?.name;
   return (zh ? tr(zh, locale) : '') || o.i18n['zh-CN']?.name || o.name_en;
@@ -177,7 +193,8 @@ export const UI: Record<string, Record<string, string>> = {
     salary: '薪资范围', ratings: '职业评分', overall: '综合评分', education: '教育路径',
     overallTip: '综合评分 = 各评分维度的平均分（10 分制）；负向维度（AI 替代风险、竞争、学习难度等）按反向计入，分数越高代表整体越好。评分为综合公开来源的估算，定期更新，仅供参考。',
     visaCode: '职业分类代码',
-    qualifications: '从业资质', visa: '移民路径', suitability: '适合 / 不适合', faq: '常见问题',
+    qualifications: '从业资质', visa: '移民路径', visaToSuffix: '（前往{c}）', migrateOther: '把这个职业移民到其它国家',
+    suitability: '适合 / 不适合', faq: '常见问题',
     compare: '职业对比', nonMig: '非技术移民职业（不在技术移民清单上）', fit: '适合', unfit: '不适合',
     experience: '经验阶段', annual: '年薪', cost: '费用', code: '职业代码', backHome: '← 全部职业',
     growth: '职业前景', growthKw: '增长方向 / 热词', compareTitle: '对比', vs: 'vs', winner: '更优', note: '估算数据，仅供参考',
@@ -230,7 +247,8 @@ export const UI: Record<string, Record<string, string>> = {
     salary: 'Salary', ratings: 'Ratings', overall: 'Overall', education: 'Education Path',
     overallTip: 'Overall score = the average of all rating dimensions (out of 10); negative dimensions (AI risk, competition, learning difficulty, etc.) are counted inversely, so a higher score means better overall. Scores are estimates aggregated from public sources, updated periodically and indicative only.',
     visaCode: 'Occupation classification code',
-    qualifications: 'Qualifications', visa: 'Migration', suitability: 'Who it fits', faq: 'FAQ',
+    qualifications: 'Qualifications', visa: 'Migration', visaToSuffix: ' (to {c})', migrateOther: 'Migrate this occupation to other countries',
+    suitability: 'Who it fits', faq: 'FAQ',
     compare: 'Compare', nonMig: 'Not a skilled migration occupation', fit: 'Fits', unfit: 'Not for',
     experience: 'Experience', annual: 'Annual', cost: 'Cost', code: 'Occupation code', backHome: '← All occupations',
     growth: 'Career outlook', growthKw: 'Growth areas', compareTitle: 'Compare', vs: 'vs', winner: 'Higher', note: 'Estimated data, indicative only',
@@ -528,7 +546,12 @@ export function radarValues(o: Occ) {
   const m = Object.fromEntries(o.ratings.map((r) => [r.dimension, r.stars ?? 0]));
   return DIM_ORDER.map((d) => (m[d] as number) ?? 0);
 }
-export function money(v: number | null) { return v ? '$' + Number(v).toLocaleString('en-US') : '—'; }
+// 货币符号：按国家区分。UK 用英镑 £、DE 用欧元 €，其余用 $。
+export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€' };
+export function money(v: number | null, country?: string) {
+  if (!v) return '—';
+  return ((country && CURRENCY_SYMBOL[country]) || '$') + Number(v).toLocaleString('en-US');
+}
 
 // 资深/高级阶段薪资：取首个含「资深/高级/senior」的档位，否则回退到最高（最后一档）
 export function seniorSalary(o: Occ) {
@@ -538,7 +561,7 @@ export function seniorSalary(o: Occ) {
 export function seniorSalaryText(o: Occ): string {
   const s = seniorSalary(o);
   if (!s || (s.min == null && s.max == null)) return '';
-  const lo = money(s.min as any), hi = money(s.max as any);
+  const lo = money(s.min as any, o.country), hi = money(s.max as any, o.country);
   return lo === hi || !s.max ? lo : `${lo}~${hi}`;
 }
 
