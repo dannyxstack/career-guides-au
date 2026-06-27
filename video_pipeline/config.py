@@ -55,6 +55,12 @@ AZURE_TTS_RATE = os.getenv("AZURE_TTS_RATE", "+6%")                  # 语速微
 AZURE_TTS_EMPHASIZE_NUMBERS = os.getenv("AZURE_TTS_EMPHASIZE_NUMBERS", "1") \
     in ("1", "true", "yes", "True")
 
+# ---- Azure Translator（专用机器翻译，多语言翻译用）----
+AZURE_TRANSLATOR_KEY = os.getenv("AZURE_TRANSLATOR_KEY", "")
+AZURE_TRANSLATOR_REGION = os.getenv("AZURE_TRANSLATOR_REGION", "")
+AZURE_TRANSLATOR_ENDPOINT = os.getenv(
+    "AZURE_TRANSLATOR_ENDPOINT", "https://api.cognitive.microsofttranslator.com")
+
 # ---- Pexels（B-roll，后期阶段）----
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY", "")
 

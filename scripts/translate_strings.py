@@ -7,7 +7,7 @@
 import sys, os, argparse, json
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
-from video_pipeline import config, llm
+from video_pipeline import config, llm, azure_translate
 
 LOCALES = ["en", "es", "pt", "vi", "th", "ms", "id", "zh-Hant", "ja"]
 LANG_NAME = {"en": "English", "es": "Spanish (español)", "pt": "Portuguese (português)",
@@ -52,6 +52,13 @@ def system_prompt(lang, loc=None):
 
 
 def translate_batch(texts, lang, loc=None):
+    # 优先 Azure Translator（专用 MT，便宜快）；配额耗尽则本进程禁用并回退到 LLM（DeepSeek）。
+    if azure_translate.enabled():
+        try:
+            return azure_translate.translate(texts, loc)
+        except azure_translate.AzureQuotaExhausted as e:
+            azure_translate.disable()
+            print(f"[azure] 配额耗尽，后续回退 DeepSeek：{e}", flush=True)
     prompt = "Translate these strings (JSON array) and return {\"t\": [...]} with the same length:\n" + \
         json.dumps(texts, ensure_ascii=False)
     out = llm.complete_json(system_prompt(lang, loc), prompt, SCHEMA)
