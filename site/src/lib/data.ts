@@ -14,11 +14,11 @@ import trJa from '../data/translations.ja.json';
 import uiI18n from '../data/ui_i18n.json';
 
 export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja';
-export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE'] as const;
+export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR'] as const;
 export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja'];
 export const DEFAULT = { country: 'AU', locale: 'zh-CN' as Locale };
 // 国家 -> 本币代码（薪资/费用展示用）
-export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR' };
+export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR' };
 // 国家显示名（国家切换器用）
 export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   AU: { 'zh-CN': '澳大利亚', en: 'Australia' },
@@ -27,6 +27,7 @@ export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   US: { 'zh-CN': '美国', en: 'United States' },
   UK: { 'zh-CN': '英国', en: 'United Kingdom' },
   DE: { 'zh-CN': '德国', en: 'Germany' },
+  FR: { 'zh-CN': '法国', en: 'France' },
 };
 export const countryName = (cc: string, locale: Locale) =>
   COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
@@ -40,9 +41,10 @@ export const COUNTRY_FLAG: Record<string, string> = {
   US: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><g fill="#B22234"><rect width="120" height="4.62"/><rect y="9.23" width="120" height="4.62"/><rect y="18.46" width="120" height="4.62"/><rect y="27.69" width="120" height="4.62"/><rect y="36.92" width="120" height="4.62"/><rect y="46.15" width="120" height="4.62"/><rect y="55.38" width="120" height="4.62"/></g><rect width="48" height="32.31" fill="#3C3B6E"/><g fill="#fff"><circle cx="6" cy="5" r="1.4"/><circle cx="16" cy="5" r="1.4"/><circle cx="26" cy="5" r="1.4"/><circle cx="36" cy="5" r="1.4"/><circle cx="11" cy="11" r="1.4"/><circle cx="21" cy="11" r="1.4"/><circle cx="31" cy="11" r="1.4"/><circle cx="41" cy="11" r="1.4"/><circle cx="6" cy="17" r="1.4"/><circle cx="16" cy="17" r="1.4"/><circle cx="26" cy="17" r="1.4"/><circle cx="36" cy="17" r="1.4"/><circle cx="11" cy="23" r="1.4"/><circle cx="21" cy="23" r="1.4"/><circle cx="31" cy="23" r="1.4"/><circle cx="41" cy="23" r="1.4"/><circle cx="6" cy="29" r="1.4"/><circle cx="16" cy="29" r="1.4"/><circle cx="26" cy="29" r="1.4"/><circle cx="36" cy="29" r="1.4"/></g></svg>',
   UK: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><clipPath id="ukc"><rect width="120" height="60"/></clipPath><g clip-path="url(#ukc)"><rect width="120" height="60" fill="#012169"/><path d="M0,0 L120,60 M120,0 L0,60" stroke="#fff" stroke-width="12"/><path d="M0,0 L120,60 M120,0 L0,60" stroke="#C8102E" stroke-width="8" clip-path="url(#ukc)"/><rect x="50" width="20" height="60" fill="#fff"/><rect y="20" width="120" height="20" fill="#fff"/><rect x="54" width="12" height="60" fill="#C8102E"/><rect y="24" width="120" height="12" fill="#C8102E"/></g></svg>',
   DE: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="20" fill="#000"/><rect y="20" width="120" height="20" fill="#DD0000"/><rect y="40" width="120" height="20" fill="#FFCE00"/></svg>',
+  FR: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#0055A4"/><rect x="40" width="40" height="60" fill="#fff"/><rect x="80" width="40" height="60" fill="#EF4135"/></svg>',
 };
 // 标题/SEO 用的简称（中文用习惯简称「澳洲」；其余语言用全称）
-const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国' };
+const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国', FR: '法国' };
 export const countryTitleName = (cc: string, locale: Locale) =>
   locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
 
@@ -340,6 +342,10 @@ const SOURCES_BODY: Record<string, { 'zh-CN': string; en: string }> = {
     'zh-CN': '本页薪资为综合 StepStone、Glassdoor、Gehalt.de 及德国联邦统计局（destatis）等公开区间的估算；就业与需求预测引用德国联邦劳工局（Bundesagentur für Arbeit）及 destatis；签证与移民信息以德国《技术移民法》（Fachkräfteeinwanderungsgesetz）下的欧盟蓝卡（EU Blue Card）、技术工人签证、求职机会卡（Chancenkarte）及学历认证（Anerkennung）最新规则为准。数据仅供参考，请以官方最新发布为准。',
     en: 'Salary ranges are estimates aggregated from public listings on StepStone, Glassdoor, Gehalt.de and the Federal Statistical Office (destatis); employment and demand outlook cite the Federal Employment Agency (Bundesagentur für Arbeit) and destatis; visa and migration details follow the latest German Skilled Immigration Act (Fachkräfteeinwanderungsgesetz) rules covering the EU Blue Card, skilled-worker visa, Opportunity Card (Chancenkarte) and qualification recognition (Anerkennung). Figures are indicative only — always refer to the latest official sources.',
   },
+  FR: {
+    'zh-CN': '本页薪资为综合 Indeed、Glassdoor、APEC、HelloWork 等公开区间的估算；就业与需求预测引用法国就业局（France Travail）、法国国家统计与经济研究所（INSEE）及劳动研究院（DARES）；签证与移民信息以法国《外国人入境与居留法》下的欧盟蓝卡（Carte bleue européenne）、人才护照（Passeport Talent）、受雇工作居留（Salarié）及受规管职业的资质认证（reconnaissance des qualifications）最新规则为准。数据仅供参考，请以官方最新发布为准。',
+    en: 'Salary ranges are estimates aggregated from public listings on Indeed, Glassdoor, APEC and HelloWork; employment and demand outlook cite France Travail, the National Institute of Statistics (INSEE) and DARES; visa and migration details follow the latest French rules covering the EU Blue Card (Carte bleue européenne), the Talent Passport (Passeport Talent), the Salarié work-residence permit and qualification recognition (reconnaissance des qualifications) for regulated professions. Figures are indicative only — always refer to the latest official sources.',
+  },
 };
 // 移民/签证文案：按国家区分（AU 走 UI 字典的 10 语言；US/NZ/CA 给 zh/en，其余语言经 tr() 回退 en）。
 // 各国签证类别为公开事实；不在此杜撰个案资格，仅指明通道与主管部门。
@@ -399,6 +405,17 @@ const MIG_TEXT: Record<string, MigText> = {
                       en: 'This occupation is not on the direct Blue Card track, so direct skilled migration is unavailable; however migration is possible via the Opportunity Card (Chancenkarte) or an employer-sponsored skilled-worker visa — usually requiring qualification recognition (Anerkennung), with limited pathways and places. Refer to the latest Skilled Immigration Act rules and German authorities.' },
     nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 KldB 职业并完成学历认证，以德国主管机关（Make it in Germany / 联邦劳工局）最新规则为准。',
                   en: 'Visa pathways depend on matching the specific duties to the correct KldB occupation and on qualification recognition; refer to the latest German authorities (Make it in Germany / Federal Employment Agency).' },
+  },
+  FR: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（需资质认证 / 雇主担保）', en: 'Restricted migration (qualification recognition / employer-sponsored)' },
+    mig1Tip: { 'zh-CN': '该职业通常可走法国欧盟蓝卡（Carte bleue européenne）或人才护照（Passeport Talent）／受雇工作居留（Salarié），并可申请长期居留；这是一条移民路径，并非保证，受规管职业通常需先完成资质认证（reconnaissance）。以法国主管机关最新规定为准。',
+               en: 'This occupation commonly supports the French EU Blue Card (Carte bleue européenne) or the Talent Passport (Passeport Talent) / Salarié permit, with a route to long-term residence — a pathway, not a guarantee, and regulated professions usually require qualification recognition (reconnaissance). Refer to the French authorities.' },
+    mig2Tip: { 'zh-CN': '该职业较难直接走蓝卡或人才护照，但可通过雇主担保的受雇工作居留（Salarié）或紧缺职业（métier en tension）通道移民——通常需资质认证且名额受限。以法国主管机关最新规定为准。',
+               en: 'The Blue Card or Talent Passport route may be harder, but migration is possible via an employer-sponsored Salarié permit or the shortage-occupation (métier en tension) route — usually needing qualification recognition, with limited places. Refer to the French authorities.' },
+    restrictedNote: { 'zh-CN': '本职业不在直接蓝卡／人才护照通道上，无法直接技术移民；但可通过雇主担保的受雇工作居留（Salarié）或紧缺职业通道移民——通常需先完成资质认证（reconnaissance），通道与名额受限，以法国主管机关最新规定为准。',
+                      en: 'This occupation is not on the direct Blue Card / Talent Passport track, so direct skilled migration is unavailable; however migration is possible via an employer-sponsored Salarié permit or the shortage-occupation route — usually requiring qualification recognition (reconnaissance), with limited pathways and places. Refer to the latest French authorities.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 ROME 职业，受规管职业需完成资质认证（reconnaissance），以法国主管机关（France Travail / 内政部）最新规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct ROME occupation, with qualification recognition (reconnaissance) for regulated professions; refer to the latest French authorities (France Travail / Ministry of the Interior).' },
   },
 };
 // ───────────────────────── AI 职业图谱：6 大类 ─────────────────────────
@@ -564,7 +581,7 @@ export function radarValues(o: Occ) {
   return DIM_ORDER.map((d) => (m[d] as number) ?? 0);
 }
 // 货币符号：按国家区分。UK 用英镑 £、DE 用欧元 €，其余用 $。
-export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€' };
+export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€', FR: '€' };
 export function money(v: number | null, country?: string) {
   if (!v) return '—';
   return ((country && CURRENCY_SYMBOL[country]) || '$') + Number(v).toLocaleString('en-US');
