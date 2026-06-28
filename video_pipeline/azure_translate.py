@@ -30,7 +30,8 @@ _lock = threading.Lock()
 
 
 class AzureQuotaExhausted(Exception):
-    """Azure 调用量/字符配额耗尽，应永久回退到其它后端。"""
+    """Azure 不可用（配额耗尽 403 或凭据无效/缺失 401），应永久回退到其它后端。
+    两者都属于本进程内重试无意义的永久性失败，统一触发 disable() + 回退。"""
 
 
 def enabled() -> bool:
@@ -81,16 +82,16 @@ def translate(texts, loc, src_lang=FROM_LANG):
                 raise ValueError(f"Azure 返回长度不匹配 expect {len(texts)} got {len(out)}")
             return out
 
-        # 403：配额/调用量耗尽 -> 永久回退
-        if resp.status_code == 403:
-            raise AzureQuotaExhausted(f"403 {resp.text[:200]}")
+        # 401（凭据无效/缺失）/ 403（配额耗尽）：本进程内重试无意义 -> 永久禁用并回退
+        if resp.status_code in (401, 403):
+            raise AzureQuotaExhausted(f"{resp.status_code} {resp.text[:200]}")
         # 429：限流 -> 退避重试
         if resp.status_code == 429:
             retry_after = float(resp.headers.get("Retry-After", 2 * (attempt + 1)))
             last_err = RuntimeError(f"429 限流: {resp.text[:120]}")
             time.sleep(retry_after)
             continue
-        # 其它错误：401/400 等。401 多为 key/region 配置错，直接抛配额异常以便回退避免整批卡死。
+        # 其它错误（如 400 请求格式）：抛普通异常，由上层拆批/跳过重跑。
         last_err = RuntimeError(f"Azure {resp.status_code}: {resp.text[:200]}")
         break
 
