@@ -115,14 +115,21 @@ def build():
     path = os.path.join(OUT, "occupations.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, default=str)
-    with open(os.path.join(OUT, "translations.json"), "w", encoding="utf-8") as f:
-        json.dump(tr, f, ensure_ascii=False, default=str)
+    # 翻译记忆按语言拆分导出：{src_text:{locale:text}} -> 每语言一个 translations.<locale>.json
+    # （单文件 9 语言达 ~195MB，超 GitHub 100MB 单文件上限，故按 locale 拆分，各约 20MB）
+    by_locale: dict = {}
+    for src, locs in tr.items():
+        for loc, text in locs.items():
+            by_locale.setdefault(loc, {})[src] = text
+    for loc, mp in by_locale.items():
+        with open(os.path.join(OUT, f"translations.{loc}.json"), "w", encoding="utf-8") as f:
+            json.dump(mp, f, ensure_ascii=False, default=str)
     # 分类清单
     cats = sorted({o["category"] for o in out if o["category"]})
     with open(os.path.join(OUT, "categories.json"), "w", encoding="utf-8") as f:
         json.dump({"category_slug": {c: slug(c) for c in cats}, "categories": cats}, f, ensure_ascii=False)
     print(f"[export] {len(out)} occupations -> {path}")
-    print(f"[export] {len(tr)} 源串带译文 -> translations.json")
+    print(f"[export] {len(tr)} 源串带译文 -> translations.<locale>.json × {len(by_locale)}")
     print(f"[export] {len(cats)} categories")
 
 

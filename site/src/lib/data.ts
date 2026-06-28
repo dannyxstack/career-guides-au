@@ -1,7 +1,16 @@
 // 站点数据层：消费 Python 导出的 occupations.json（DB 为唯一数据源）。
 import data from '../data/occupations.json';
 import cats from '../data/categories.json';
-import translations from '../data/translations.json';
+// 翻译记忆按语言拆分（单文件 9 语言 ~195MB，超 GitHub 100MB 上限）
+import trEn from '../data/translations.en.json';
+import trZhHant from '../data/translations.zh-Hant.json';
+import trEs from '../data/translations.es.json';
+import trPt from '../data/translations.pt.json';
+import trVi from '../data/translations.vi.json';
+import trTh from '../data/translations.th.json';
+import trMs from '../data/translations.ms.json';
+import trId from '../data/translations.id.json';
+import trJa from '../data/translations.ja.json';
 import uiI18n from '../data/ui_i18n.json';
 
 export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja';
@@ -52,14 +61,22 @@ export const AU_SOURCE_LINKS: { label: { 'zh-CN': string; en: string }; url: str
 ];
 export const currencyOf = (country: string) => CURRENCY[country] || 'AUD';
 
-// 翻译记忆解析：中文母本 → 目标语言（回退 en → 原文）
-const TM = translations as Record<string, Record<string, string>>;
+// 翻译记忆解析：中文母本 → 目标语言（回退 en → 原文）。按 locale 分文件加载。
+const TM_BY_LOCALE: Partial<Record<Locale, Record<string, string>>> = {
+  en: trEn as any, 'zh-Hant': trZhHant as any, es: trEs as any, pt: trPt as any,
+  vi: trVi as any, th: trTh as any, ms: trMs as any, id: trId as any, ja: trJa as any,
+};
 export function tr(s: string | null | undefined, locale: Locale): string {
   if (!s) return s || '';
   if (locale === 'zh-CN') return s;
-  const m = TM[s.trim()];
-  return (m && (m[locale] || m['en'])) || s;
+  const k = s.trim();
+  return TM_BY_LOCALE[locale]?.[k] || TM_BY_LOCALE['en']?.[k] || s;
 }
+// 是否存在该源串的译文（目标语言或 en 回退），用于决定走 tr() 还是回退到 curated 英文文案
+const hasTr = (s: string, locale: Locale): boolean => {
+  const k = s.trim();
+  return !!(TM_BY_LOCALE[locale]?.[k] || TM_BY_LOCALE['en']?.[k]);
+};
 
 export interface Occ {
   id: number; country: string; occ_code: string; occ_code_type: string;
@@ -504,14 +521,14 @@ export const occByClusterGlobal = (cluster: string) =>
 export function sourcesBody(country: string, locale: Locale): string {
   const v = SOURCES_BODY[country];
   // CA/NZ：中文母本经翻译记忆 tr() 解析到各语言（TM 缺失则回退 en 文案）
-  if (v) return locale === 'zh-CN' ? v['zh-CN'] : (TM[v['zh-CN']] ? tr(v['zh-CN'], locale) : v.en);
+  if (v) return locale === 'zh-CN' ? v['zh-CN'] : (hasTr(v['zh-CN'], locale) ? tr(v['zh-CN'], locale) : v.en);
   return strings(locale).sourcesBody; // AU：走 UI 字典的多语言文案
 }
 
 // 移民/签证文案取值：US/NZ/CA 走 MIG_TEXT（zh-CN 母本经 tr() 解析其余语言），AU/其它回退 UI 字典 10 语言。
 function migText(country: string | undefined, key: keyof MigText, locale: Locale): string {
   const v = country ? MIG_TEXT[country]?.[key] : undefined;
-  if (v) return locale === 'zh-CN' ? v['zh-CN'] : (TM[v['zh-CN']] ? tr(v['zh-CN'], locale) : v.en);
+  if (v) return locale === 'zh-CN' ? v['zh-CN'] : (hasTr(v['zh-CN'], locale) ? tr(v['zh-CN'], locale) : v.en);
   // AU/默认：复用 UI 字典里对应的澳洲文案键
   const fallback: Record<keyof MigText, keyof ReturnType<typeof strings>> = {
     restrictedOcc: 'migRestrictedOcc', restrictedNote: 'migRestrictedNote', nonMigVisa: 'nonMigVisa',
