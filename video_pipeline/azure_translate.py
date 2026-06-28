@@ -20,7 +20,7 @@ FROM_LANG = "zh-Hans"
 # 站点 locale -> Azure Translator 目标语言码
 LOCALE_TO_AZURE = {
     "en": "en", "es": "es", "pt": "pt", "vi": "vi", "th": "th",
-    "ms": "ms", "id": "id", "zh-Hant": "zh-Hant", "ja": "ja",
+    "ms": "ms", "id": "id", "zh-Hant": "zh-Hant", "ja": "ja", "de": "de",
 }
 
 MODEL_LABEL = "azure-translator"
