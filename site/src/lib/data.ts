@@ -11,11 +11,12 @@ import trTh from '../data/translations.th.json';
 import trMs from '../data/translations.ms.json';
 import trId from '../data/translations.id.json';
 import trJa from '../data/translations.ja.json';
+import trDe from '../data/translations.de.json';
 import uiI18n from '../data/ui_i18n.json';
 
-export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja';
+export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de';
 export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR'] as const;
-export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja'];
+export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de'];
 export const DEFAULT = { country: 'AU', locale: 'zh-CN' as Locale };
 // 国家 -> 本币代码（薪资/费用展示用）
 export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR' };
@@ -67,6 +68,7 @@ export const currencyOf = (country: string) => CURRENCY[country] || 'AUD';
 const TM_BY_LOCALE: Partial<Record<Locale, Record<string, string>>> = {
   en: trEn as any, 'zh-Hant': trZhHant as any, es: trEs as any, pt: trPt as any,
   vi: trVi as any, th: trTh as any, ms: trMs as any, id: trId as any, ja: trJa as any,
+  de: trDe as any,
 };
 export function tr(s: string | null | undefined, locale: Locale): string {
   if (!s) return s || '';
