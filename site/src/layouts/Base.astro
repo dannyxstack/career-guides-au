@@ -8,6 +8,7 @@ const ldBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const t = strings(locale);
 const LANG_ATTR: Record<string, string> = { 'zh-CN': 'zh-Hans', 'zh-Hant': 'zh-Hant', en: 'en', es: 'es', pt: 'pt', vi: 'vi', th: 'th', ms: 'ms', id: 'id', ja: 'ja' };
 const LANG_LABEL: Record<string, string> = { 'zh-CN': '简', 'zh-Hant': '繁', en: 'EN', es: 'ES', pt: 'PT', vi: 'VI', th: 'TH', ms: 'MS', id: 'ID', ja: 'JA', de: 'DE' };
+const LANG_NAME: Record<string, string> = { 'zh-CN': '简体中文', 'zh-Hant': '繁體中文', en: 'English', es: 'Español', pt: 'Português', vi: 'Tiếng Việt', th: 'ไทย', ms: 'Bahasa Melayu', id: 'Bahasa Indonesia', ja: '日本語', de: 'Deutsch' };
 const langAttr = LANG_ATTR[locale] || 'en';
 ---
 <!doctype html>
@@ -47,16 +48,26 @@ const langAttr = LANG_ATTR[locale] || 'en';
       <a class="brand" href="/">{t.siteTitle}</a>
       {global ? (
         <nav>
-          <a class="navlink" href="/">{t.navHome}</a>
-          <a class="navlink" href="/en/ai-graph/">{t.navGraph}</a>
-          <a class="navlink" href="/en/rankings/">{t.navRank}</a>
-          <a class="navlink" href="/en/about/">{t.navAbout}</a>
+          <a class="navlink" href={`/${locale}/`}>{t.navHome}</a>
+          <a class="navlink" href={`/${locale}/ai-graph/`}>{t.navGraph}</a>
+          <a class="navlink" href={`/${locale}/rankings/`}>{t.navRank}</a>
+          <a class="navlink" href={`/${locale}/about/`}>{t.navAbout}</a>
           <span class="nav-sep" aria-hidden="true">|</span>
           <span class="country-switch">
             {COUNTRIES.map((cc) => (
-              <a class="cty" href={`/${cc}/en/`} title={countryName(cc, 'en')}><span class="flag" aria-hidden="true" set:html={COUNTRY_FLAG[cc]} />{cc}</a>
+              <a class="cty" href={`/${cc}/${locale}/`} title={countryName(cc, locale)}><span class="flag" aria-hidden="true" set:html={COUNTRY_FLAG[cc]} />{cc}</a>
             ))}
           </span>
+          {alternates.length > 0 && (
+            <>
+              <span class="nav-sep" aria-hidden="true">|</span>
+              <select class="lang-select" aria-label="language" onchange="if(this.value)location.href=this.value">
+                {alternates.map((a) => (
+                  <option value={a.href} selected={a.locale === locale}>{LANG_NAME[a.locale] || LANG_LABEL[a.locale] || a.locale}</option>
+                ))}
+              </select>
+            </>
+          )}
           <button id="theme-toggle" class="theme-toggle" type="button" aria-label="theme">🌙</button>
         </nav>
       ) : (
@@ -72,9 +83,11 @@ const langAttr = LANG_ATTR[locale] || 'en';
             ))}
           </span>
           <span class="nav-sep" aria-hidden="true">|</span>
-          {(alternates.length ? alternates : [{ locale, href: `/${country}/${locale}/` }]).map((a) => (
-            <a class={a.locale === locale ? 'lang on' : 'lang'} href={a.href}>{LANG_LABEL[a.locale] || a.locale}</a>
-          ))}
+          <select class="lang-select" aria-label="language" onchange="if(this.value)location.href=this.value">
+            {(alternates.length ? alternates : [{ locale, href: `/${country}/${locale}/` }]).map((a) => (
+              <option value={a.href} selected={a.locale === locale}>{LANG_NAME[a.locale] || LANG_LABEL[a.locale] || a.locale}</option>
+            ))}
+          </select>
           <button id="theme-toggle" class="theme-toggle" type="button" aria-label="theme">🌙</button>
         </nav>
       )}
@@ -122,6 +135,9 @@ const langAttr = LANG_ATTR[locale] || 'en';
       .site-head nav a.cty .flag { display: inline-flex; vertical-align: middle; margin-right: 4px; }
       .site-head nav a.cty .flagsvg { width: 18px; height: 12px; border-radius: 2px; display: block; box-shadow: 0 0 0 1px var(--line); }
       .site-head nav .nav-sep { margin-left: 12px; color: var(--line); }
+      .site-head nav .lang-select { margin-left: 12px; padding: 4px 8px; border-radius: 8px;
+        border: 1px solid var(--line); background: var(--card); color: var(--white); font-size: 14px; cursor: pointer; }
+      .site-head nav .lang-select:hover { border-color: var(--green); }
       .site-foot { text-align: center; color: var(--muted); font-size: 13px; padding: 24px; border-top: 1px solid var(--line); }
       h1 { font-size: 28px; margin: 8px 0; }
       h2 { font-size: 20px; margin: 28px 0 12px; padding-left: 10px; border-left: 4px solid var(--green); }

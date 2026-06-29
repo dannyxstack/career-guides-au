@@ -1,11 +1,15 @@
 ---
-// 全球英文 AI 职业图谱（/en/ai-graph/）：跨国合并所有职业，cluster 框架通用，每点/项标注国家。
+// 全球 AI 职业图谱（/[locale]/ai-graph/）：跨国合并所有职业，cluster 框架通用，每点/项标注国家。
 import Base from '../../../layouts/Base.astro';
-import { strings, name, catSlug, AI_CLUSTER_ORDER, AI_CLUSTERS,
+import { strings, name, catSlug, AI_CLUSTER_ORDER, AI_CLUSTERS, LOCALES, type Locale,
   clusterField, clusterColor, occByClusterGlobal, graphOccsGlobal } from '../../../lib/data';
 
-const locale = 'en' as const;
+export function getStaticPaths() {
+  return LOCALES.map((locale) => ({ params: { locale } }));
+}
+const { locale } = Astro.params as { locale: Locale };
 const t = strings(locale);
+const alternates = LOCALES.map((l) => ({ locale: l, href: `/${l}/ai-graph/` }));
 const dots = graphOccsGlobal();
 
 const W = 620, H = 460, mL = 56, mR = 24, mT = 24, mB = 56;
@@ -17,11 +21,10 @@ const clampX = (v: number) => Math.max(mL + PAD, Math.min(W - mR - PAD, v));
 const clampY = (v: number) => Math.max(mT + PAD, Math.min(H - mB - PAD, v));
 const repName = (o: any) => `${name(o, locale)} · ${o.country}`;
 ---
-<Base title={`${t.agTitle}｜AI Career Graph`} description={t.agMetaDesc} locale={locale} country="" global={true}>
+<Base title={`${t.agTitle}｜AI Career Graph`} description={t.agMetaDesc} locale={locale} country="" global={true} alternates={alternates}>
   <section class="hero" data-section="hero">
     <h1>{t.agTitle}</h1>
     <p class="hero-value">{t.agSubtitle}</p>
-    <p class="muted" style="font-size:13px;margin:6px 0 0">Global view across all countries — each occupation is tagged with its country (AU / CA / NZ).</p>
   </section>
 
   <!-- 6 类总览卡片 -->

@@ -18,3 +18,4 @@ __pycache__/
 node_modules/
 site/dist/
 site/node_modules/
+scripts/_ui_src.json

@@ -1,17 +1,21 @@
 ---
-// 全球英文 AI 榜单 hub（/en/rankings/）：所有榜单均跨国合并、按国家标签呈现。
+// 全球 AI 榜单 hub（/[locale]/rankings/）：所有榜单均跨国合并、按国家标签呈现。
 import Base from '../../../layouts/Base.astro';
 import OccCard from '../../../components/OccCard.astro';
-import { strings, GLOBAL_RANKING_ORDER, rankName, rankSub, rankingList } from '../../../lib/data';
+import { strings, GLOBAL_RANKING_ORDER, rankName, rankSub, rankingList, LOCALES, type Locale } from '../../../lib/data';
 
-const locale = 'en' as const;
+export function getStaticPaths() {
+  return LOCALES.map((locale) => ({ params: { locale } }));
+}
+const { locale } = Astro.params as { locale: Locale };
 const t = strings(locale);
+const alternates = LOCALES.map((l) => ({ locale: l, href: `/${l}/rankings/` }));
 const lists = GLOBAL_RANKING_ORDER.map((key) => ({ key, items: rankingList(key, undefined as any, 8) })).filter((x) => x.items.length > 0);
 ---
-<Base title={`Global AI Career Rankings｜AI Career Graph`} description="Cross-country rankings of careers by AI replacement risk, AI-augmentation, licensing moat, on-site work and human trust." locale={locale} country="" global={true}>
+<Base title={`${t.rkHubTitle}｜AI Career Graph`} description={t.rkHubSub} locale={locale} country="" global={true} alternates={alternates}>
   <section class="hero" data-section="hero">
-    <h1>Global AI Career Rankings</h1>
-    <p class="hero-value">How careers compare on AI impact — across all countries. Each card is tagged with its country.</p>
+    <h1>{t.rkHubTitle}</h1>
+    <p class="hero-value">{t.rkHubSub}</p>
   </section>
 
   {lists.map(({ key, items }) => (
@@ -21,7 +25,7 @@ const lists = GLOBAL_RANKING_ORDER.map((key) => ({ key, items: rankingList(key, 
           <h2 style="margin:0">{rankName(key, locale)}</h2>
           <p class="muted" style="margin:4px 0 0;font-size:14px">{rankSub(key, locale)}</p>
         </div>
-        <a class="btn" href={`/en/rankings/${key.replace(/_/g, '-')}/`}>{t.rkViewFull}</a>
+        <a class="btn" href={`/${locale}/rankings/${key.replace(/_/g, '-')}/`}>{t.rkViewFull}</a>
       </div>
       <div class="grid grid-cards">
         {items.map((o) => <OccCard o={o} country={o.country} locale={locale} showCountry={true} />)}
@@ -33,7 +37,6 @@ const lists = GLOBAL_RANKING_ORDER.map((key) => ({ key, items: rankingList(key, 
     <h2>{t.rkSrcTitle}</h2>
     <div class="card muted" style="font-size:13px">
       <p style="margin:0">{t.rkMethod}</p>
-      <p style="margin:6px 0 0">Rankings combine AI automation exposure, human moat, entry-risk and AI-upside scores with demand and growth ratings. Estimates only — always check official sources.</p>
     </div>
   </section>
 

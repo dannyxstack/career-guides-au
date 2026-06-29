@@ -1,0 +1,401 @@
+---
+// 全球品牌入口首页（共享组件）：根 / 用 locale=en，/[locale]/ 用各语言。
+// 自带 global 头部/底部 + 同一套设计 token（不依赖某个国家的 Base 导航）。
+import { occupations, COUNTRIES, catSlug, COUNTRY_FLAG, countryName, strings, LOCALES, type Locale } from '../lib/data';
+
+interface Props { locale: Locale }
+const { locale } = Astro.props as Props;
+const t = strings(locale);
+
+const SITE = 'https://aicareergraph.com';
+const canonicalPath = `/${locale}/`;
+
+// 语言下拉与国家切换的 UI 标签
+const LANG_NAME: Record<string, string> = { 'zh-CN': '简体中文', 'zh-Hant': '繁體中文', en: 'English', es: 'Español', pt: 'Português', vi: 'Tiếng Việt', th: 'ไทย', ms: 'Bahasa Melayu', id: 'Bahasa Indonesia', ja: '日本語', de: 'Deutsch' };
+
+// —— 国家卡片统计（按职业数降序）——
+const countries = COUNTRIES
+  .map((cc) => ({ cc, name: countryName(cc, locale), count: occupations.filter((o) => o.country === cc).length }))
+  .filter((c) => c.count > 0)
+  .sort((a, b) => b.count - a.count);
+const roundDown = (n: number) => (n >= 100 ? Math.floor(n / 50) * 50 + '+' : n >= 10 ? Math.floor(n / 10) * 10 + '+' : String(n));
+
+// —— 全局搜索索引（客户端用）——
+const SEARCH = occupations
+  .filter((o) => o.name_en)
+  .map((o) => ({
+    n: o.name_en, s: o.slug, c: o.country, cat: o.category, cs: catSlug(o.category),
+    v: o.ai?.verdict_type || '',
+    r: o.ratings.find((x) => x.dimension === 'ai_risk')?.stars ?? null,
+    m: o.is_migration,
+  }));
+
+const total = occupations.length;
+const flag = COUNTRY_FLAG;
+const hintText = t.hSearchHint.replace('{n}', String(total));
+
+const title = `${t.siteTitle} — ${t.hLead}`;
+const description = t.hSub;
+const ld = [
+  { '@context': 'https://schema.org', '@type': 'Organization', name: 'AI Career Graph', url: SITE + '/', description },
+  { '@context': 'https://schema.org', '@type': 'WebSite', name: 'AI Career Graph', url: SITE + '/',
+    potentialAction: { '@type': 'SearchAction', target: SITE + '/AU/en/?q={search_term_string}', 'query-input': 'required name=search_term_string' } },
+];
+---
+<!doctype html>
+<html lang={locale === 'zh-CN' ? 'zh-Hans' : locale} data-locale={locale}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={SITE + canonicalPath} />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="AI Career Graph" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={SITE + canonicalPath} />
+    <meta property="og:locale" content={locale === 'zh-CN' ? 'zh-Hans' : locale} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    {ld.map((b) => <script type="application/ld+json" set:html={JSON.stringify(b)} />)}
+    <script is:inline>
+      (function () {
+        try {
+          var s = localStorage.getItem('theme');
+          var sys = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+          document.documentElement.setAttribute('data-theme', s || sys || 'light');
+        } catch (e) { document.documentElement.setAttribute('data-theme', 'light'); }
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="site-head">
+      <a class="brand" href={`/${locale}/`}>AI Career Graph</a>
+      <nav>
+        <a class="navlink" href={`/${locale}/ai-graph/`}>{t.navGraph}</a>
+        <a class="navlink" href={`/${locale}/rankings/`}>{t.navRank}</a>
+        <a class="navlink" href={`/${locale}/about/`}>{t.navAbout}</a>
+        <span class="nav-sep" aria-hidden="true">|</span>
+        {countries.map((c) => (
+          <a class="cty" href={`/${c.cc}/${locale}/`} title={c.name}><span class="flag" set:html={flag[c.cc]} />{c.cc}</a>
+        ))}
+        <span class="nav-sep" aria-hidden="true">|</span>
+        <select class="lang-select" aria-label="language" onchange="if(this.value)location.href=this.value">
+          {LOCALES.map((l) => (
+            <option value={`/${l}/`} selected={l === locale}>{LANG_NAME[l] || l}</option>
+          ))}
+        </select>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="theme">🌙</button>
+      </nav>
+    </header>
+
+    <main class="wrap">
+      <!-- 1. Hero -->
+      <section class="hero-grid" data-section="hero">
+        <div>
+          <h1>AI Career Graph</h1>
+          <p class="lead">{t.hLead}</p>
+          <p class="sub">{t.hSub}</p>
+          <div class="cta-row">
+            <button class="btn primary" type="button" data-focus-search>{t.hCtaSearch}</button>
+            <a class="btn" href="#countries">{t.hCtaCountry}</a>
+            <a class="btn" href={`/${locale}/ai-graph/`}>{t.hCtaMap}</a>
+          </div>
+        </div>
+        <div class="hero-visual" aria-hidden="true">
+          <svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg">
+            <rect x="0.5" y="0.5" width="359" height="299" rx="12" fill="var(--card)" stroke="var(--line)"/>
+            <line x1="40" y1="150" x2="340" y2="150" stroke="var(--line)" stroke-dasharray="4 4"/>
+            <line x1="190" y1="20" x2="190" y2="270" stroke="var(--line)" stroke-dasharray="4 4"/>
+            <text x="200" y="288" class="ax">AI →</text>
+            <text x="14" y="30" class="ax">Human moat ↑</text>
+            <g class="pt"><circle cx="300" cy="70" r="9" fill="#ef4444"/></g>
+            <g class="pt"><circle cx="285" cy="200" r="9" fill="#f59e0b"/></g>
+            <g class="pt"><circle cx="95" cy="90" r="9" fill="#2563eb"/></g>
+            <g class="pt"><circle cx="80" cy="210" r="9" fill="#10b981"/></g>
+            <g class="pt"><circle cx="150" cy="120" r="9" fill="#8b5cf6"/></g>
+          </svg>
+        </div>
+      </section>
+
+      <!-- 2. Global search -->
+      <section class="search-sec" data-section="search">
+        <div class="ac-wrap">
+          <input id="q" type="search" autocomplete="off" placeholder={t.hSearchPh} />
+          <div id="ac" class="ac" hidden></div>
+        </div>
+        <p class="hint">{hintText}</p>
+      </section>
+
+      <!-- 3. Country cards -->
+      <section id="countries" data-section="countries">
+        <h2>{t.hPickCountry}</h2>
+        <div class="cards-3">
+          {countries.map((c) => (
+            <a class="card country-card" data-section={`country-card-${c.cc.toLowerCase()}`} href={`/${c.cc}/${locale}/`}>
+              <span class="cc-flag" set:html={flag[c.cc]} />
+              <strong class="cc-name">{c.name}</strong>
+              <span class="cc-meta">{t.hCountryMeta.replace('{n}', roundDown(c.count))}</span>
+              <span class="cc-go">{t.hEnter.replace('{name}', c.name)}</span>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <!-- 4. Core capabilities -->
+      <section data-section="capabilities">
+        <h2>{t.hCapH}</h2>
+        <div class="cards-2">
+          <a class="card cap" data-section="cap-ai-map" href={`/${locale}/ai-graph/`}>
+            <strong>{t.hCap1T}</strong>
+            <p>{t.hCap1B}</p>
+          </a>
+          <a class="card cap" data-section="cap-rankings" href={`/${locale}/rankings/`}>
+            <strong>{t.hCap2T}</strong>
+            <p>{t.hCap2B}</p>
+          </a>
+          <a class="card cap" data-section="cap-comparisons" href={`/AU/${locale}/#compare`}>
+            <strong>{t.hCap3T}</strong>
+            <p>{t.hCap3B}</p>
+          </a>
+          <a class="card cap" data-section="cap-country-guides" href="#countries">
+            <strong>{t.hCap4T}</strong>
+            <p>{t.hCap4B}</p>
+          </a>
+        </div>
+      </section>
+
+      <!-- 5. Methodology -->
+      <section data-section="methodology">
+        <h2>{t.hMethodH}</h2>
+        <p class="muted prose">{t.hMethodB}</p>
+      </section>
+
+      <!-- 6. Who it's for -->
+      <section data-section="who-its-for">
+        <h2>{t.hWhoH}</h2>
+        <div class="who">
+          <span class="chip">{t.hWho1}</span>
+          <span class="chip">{t.hWho2}</span>
+          <span class="chip">{t.hWho3}</span>
+          <span class="chip">{t.hWho4}</span>
+          <span class="chip">{t.hWho5}</span>
+        </div>
+      </section>
+
+      <!-- Strong user questions -->
+      <section data-section="questions">
+        <h2>{t.hQH}</h2>
+        <div class="cards-3">
+          <a class="card qcard" data-section="q-affect" href={`/${locale}/ai-graph/`}>
+            <strong>{t.hQ1T}</strong>
+            <p>{t.hQ1B}</p>
+            <span class="q-go">{t.hQ1Go}</span>
+          </a>
+          <a class="card qcard" data-section="q-safer" href={`/${locale}/rankings/`}>
+            <strong>{t.hQ2T}</strong>
+            <p>{t.hQ2B}</p>
+            <span class="q-go">{t.hQ2Go}</span>
+          </a>
+          <button class="card qcard" data-section="q-learn" type="button" data-focus-search>
+            <strong>{t.hQ3T}</strong>
+            <p>{t.hQ3B}</p>
+            <span class="q-go">{t.hQ3Go}</span>
+          </button>
+        </div>
+      </section>
+
+      <!-- 7. Bottom CTA -->
+      <section class="bottom-cta" data-section="bottom-cta">
+        <a class="btn primary" href="#countries">{t.hBottomCountry}</a>
+        <a class="btn" href={`/${locale}/rankings/`}>{t.hBottomRank}</a>
+        <button class="btn" type="button" data-focus-search>{t.hBottomSearch}</button>
+      </section>
+    </main>
+
+    <footer class="site-foot">{t.hFoot}</footer>
+
+    <script type="application/json" id="search-data" set:html={JSON.stringify(SEARCH)} />
+    <script is:inline>
+      (function () {
+        // theme toggle
+        var btn = document.getElementById('theme-toggle');
+        if (btn) {
+          var set = function (th) {
+            document.documentElement.setAttribute('data-theme', th);
+            btn.textContent = th === 'dark' ? '☀️' : '🌙';
+            try { localStorage.setItem('theme', th); } catch (e) {}
+          };
+          set(document.documentElement.getAttribute('data-theme') || 'light');
+          btn.addEventListener('click', function () {
+            set(document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+          });
+        }
+
+        // global search
+        var DATA = [];
+        try { DATA = JSON.parse(document.getElementById('search-data').textContent || '[]'); } catch (e) {}
+        var CN = { AU: 'Australia', CA: 'Canada', NZ: 'New Zealand', US: 'United States', UK: 'United Kingdom', DE: 'Germany', FR: 'France', ES: 'Spain' };
+        var LOC = document.documentElement.getAttribute('data-locale') || 'en';
+        var q = document.getElementById('q'), ac = document.getElementById('ac');
+
+        var byName = {};
+        DATA.forEach(function (o) {
+          var k = o.n.toLowerCase();
+          (byName[k] = byName[k] || []).push(o.c);
+        });
+
+        function aiLabel(o) {
+          if (o.v === 'amplified') return 'AI-augmented';
+          if (o.r != null && o.r <= 4) return 'Low AI replacement risk';
+          if (o.v === 'compressed') return 'Higher AI exposure';
+          return 'Mixed AI impact';
+        }
+        function migLabel(m) { return m === 1 ? 'Migration-friendly' : m === 2 ? 'Restricted migration' : ''; }
+        function esc(s) { return s.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+
+        function render(items) {
+          if (!items.length) { ac.innerHTML = '<div class="ac-empty">No careers found.</div>'; ac.hidden = false; return; }
+          ac.innerHTML = items.map(function (o) {
+            var multi = byName[o.n.toLowerCase()];
+            var uniq = multi.filter(function (v, i) { return multi.indexOf(v) === i; });
+            var meta = [CN[o.c] || o.c, o.cat, aiLabel(o), migLabel(o.m)].filter(Boolean).join(' · ');
+            var avail = uniq.length > 1 ? '<div class="r-avail">Available in: ' + uniq.map(function (c) { return CN[c] || c; }).join(', ') + '</div>' : '';
+            return '<a class="ac-item" href="/' + o.c + '/' + LOC + '/' + o.cs + '/' + o.s + '/">' +
+              '<span class="r-name">' + esc(o.n) + '</span><span class="r-meta">' + esc(meta) + '</span>' + avail + '</a>';
+          }).join('');
+          ac.hidden = false;
+        }
+        function search(term) {
+          term = term.trim().toLowerCase();
+          if (!term) { ac.hidden = true; ac.innerHTML = ''; return; }
+          var hits = DATA.filter(function (o) { return o.n.toLowerCase().indexOf(term) !== -1; });
+          hits.sort(function (a, b) {
+            var as = a.n.toLowerCase().indexOf(term), bs = b.n.toLowerCase().indexOf(term);
+            return as - bs || a.n.length - b.n.length;
+          });
+          render(hits.slice(0, 12));
+        }
+        if (q) {
+          q.addEventListener('input', function () { search(q.value); });
+          q.addEventListener('focus', function () { if (q.value) search(q.value); });
+          document.addEventListener('click', function (e) {
+            if (!e.target.closest('.ac-wrap')) ac.hidden = true;
+          });
+        }
+        Array.prototype.forEach.call(document.querySelectorAll('[data-focus-search]'), function (b) {
+          b.addEventListener('click', function () { q.scrollIntoView({ behavior: 'smooth', block: 'center' }); q.focus(); });
+        });
+      })();
+    </script>
+
+    <style is:global>
+      :root, :root[data-theme="dark"] {
+        --bg: #0b1120; --card: #151c2c; --line: #26304a; --green: #10b981;
+        --amber: #f59e0b; --white: #e6ebf5; --muted: #8b97b0; --hero: #111a2e;
+      }
+      :root[data-theme="light"] {
+        --bg: #f6f8fc; --card: #ffffff; --line: #d9e0ee; --green: #059669;
+        --amber: #b45309; --white: #1a2236; --muted: #5b6577; --hero: #eef2fb;
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: var(--bg); color: var(--white);
+        font-family: system-ui, -apple-system, "Microsoft YaHei", sans-serif; line-height: 1.6; }
+      a { color: inherit; text-decoration: none; }
+      .wrap { max-width: 980px; margin: 0 auto; padding: 24px 18px 60px; }
+      .site-head { display: flex; justify-content: space-between; align-items: center;
+        padding: 14px 22px; border-bottom: 1px solid var(--line); }
+      .brand { font-weight: 700; font-size: 19px; }
+      .site-head nav { display: flex; align-items: center; flex-wrap: wrap; }
+      .site-head nav a { margin-left: 12px; color: var(--muted); font-size: 14px; }
+      .site-head nav a:hover { color: var(--white); }
+      .site-head nav a.navlink { color: var(--green); font-weight: 700; }
+      .site-head nav a.cty { margin-left: 8px; font-weight: 600; display: inline-flex; align-items: center; }
+      .site-head nav a.cty .flag { display: inline-flex; margin-right: 4px; }
+      .site-head nav a.cty .flag svg { width: 18px; height: 12px; border-radius: 2px; display: block; box-shadow: 0 0 0 1px var(--line); }
+      .nav-sep { margin-left: 12px; color: var(--line); }
+      .lang-select { margin-left: 12px; padding: 4px 8px; border-radius: 8px; border: 1px solid var(--line);
+        background: var(--card); color: var(--white); font-size: 14px; cursor: pointer; }
+      .lang-select:hover { border-color: var(--green); }
+      .theme-toggle { margin-left: 14px; background: none; border: 1px solid var(--line);
+        border-radius: 999px; color: var(--muted); cursor: pointer; padding: 2px 8px; font-size: 14px; }
+      .theme-toggle:hover { color: var(--white); }
+      .site-foot { text-align: center; color: var(--muted); font-size: 13px; padding: 24px; border-top: 1px solid var(--line); }
+      h1 { font-size: 38px; margin: 0 0 6px; letter-spacing: -0.5px; }
+      h2 { font-size: 22px; margin: 36px 0 14px; padding-left: 10px; border-left: 4px solid var(--green); }
+      .card { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 18px; }
+      .btn { display: inline-block; padding: 11px 18px; border-radius: 8px; border: 1px solid var(--line);
+        color: var(--white); font-weight: 600; cursor: pointer; background: none; font-size: 15px; font-family: inherit; }
+      .btn:hover { border-color: var(--green); color: var(--white); }
+      .btn.primary { background: var(--green); border-color: var(--green); color: #fff; }
+      .muted { color: var(--muted); }
+
+      /* Hero */
+      .hero-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 24px; align-items: center;
+        background: var(--hero); border: 1px solid var(--line); border-radius: 16px; padding: 36px 28px; margin: 12px 0 8px; }
+      .lead { font-size: 22px; font-weight: 600; margin: 0 0 10px; }
+      .sub { font-size: 16px; color: var(--muted); max-width: 560px; margin: 0 0 20px; }
+      .cta-row { display: flex; gap: 12px; flex-wrap: wrap; }
+      .hero-visual svg { width: 100%; height: auto; }
+      .hero-visual .ax { fill: var(--muted); font-size: 12px; }
+      .hero-visual .pt text { fill: var(--white); font-size: 12px; font-weight: 600; }
+
+      /* Search */
+      .search-sec { margin: 22px 0 8px; }
+      .ac-wrap { position: relative; }
+      #q { width: 100%; padding: 14px 16px; border-radius: 10px; border: 1px solid var(--line);
+        background: var(--card); color: var(--white); font-size: 16px; }
+      .ac { position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 20; background: var(--card);
+        border: 1px solid var(--line); border-radius: 10px; overflow: hidden; max-height: 420px; overflow-y: auto;
+        box-shadow: 0 10px 28px rgba(0,0,0,.28); }
+      .ac-item { display: block; padding: 11px 14px; border-bottom: 1px solid var(--line); }
+      .ac-item:last-child { border-bottom: 0; }
+      .ac-item:hover { background: var(--hero); }
+      .r-name { font-weight: 600; }
+      .r-meta { display: block; color: var(--muted); font-size: 12.5px; margin-top: 2px; }
+      .r-avail { color: var(--green); font-size: 12px; margin-top: 3px; }
+      .ac-empty { padding: 14px; color: var(--muted); }
+      .hint { color: var(--muted); font-size: 13px; margin: 8px 2px 0; }
+
+      /* Cards layout */
+      .cards-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
+      .cards-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px; }
+      .country-card { display: flex; flex-direction: column; gap: 6px; }
+      .country-card:hover { border-color: var(--green); }
+      .cc-flag svg { width: 44px; height: 26px; border-radius: 3px; box-shadow: 0 0 0 1px var(--line); margin-bottom: 4px; }
+      .cc-name { font-size: 18px; }
+      .cc-meta { color: var(--muted); font-size: 13px; }
+      .cc-go { color: var(--green); font-weight: 600; font-size: 14px; margin-top: 4px; }
+      .cap p { color: var(--muted); font-size: 14px; margin: 8px 0 0; }
+      .cap:hover { border-color: var(--green); }
+      .qcard { display: flex; flex-direction: column; gap: 4px; text-align: left; cursor: pointer;
+        font: inherit; color: inherit; width: 100%; }
+      .qcard strong { font-size: 16px; }
+      .qcard p { color: var(--muted); font-size: 14px; margin: 6px 0 0; }
+      .qcard .q-go { color: var(--green); font-weight: 600; font-size: 14px; margin-top: 8px; }
+      .qcard:hover { border-color: var(--green); }
+      .prose { max-width: 760px; font-size: 15px; }
+      .who { display: flex; flex-wrap: wrap; gap: 10px; }
+      .chip { font-size: 14px; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--line);
+        background: var(--card); color: var(--white); }
+      .bottom-cta { display: flex; gap: 12px; flex-wrap: wrap; justify-content: center; margin-top: 40px;
+        padding-top: 28px; border-top: 1px solid var(--line); }
+
+      @media (max-width: 900px) {
+        .hero-grid { grid-template-columns: 1fr; }
+        .hero-visual { order: -1; max-width: 420px; }
+        .cards-3 { grid-template-columns: repeat(2, 1fr); }
+      }
+      @media (max-width: 560px) {
+        .wrap { padding: 16px 12px 48px; }
+        .site-head { padding: 12px 14px; flex-wrap: wrap; gap: 8px; }
+        h1 { font-size: 30px; }
+        .hero-grid { padding: 22px 16px; }
+        .cards-3, .cards-2 { grid-template-columns: 1fr; }
+        .cta-row .btn, .bottom-cta .btn { flex: 1 1 auto; text-align: center; }
+      }
+    </style>
+  </body>
+</html>

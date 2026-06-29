@@ -1,38 +1,28 @@
-"""把英文 UI 文案翻译成 6 个新语言，输出 site/src/data/ui_i18n.json（{locale:{key:text}}）。
-DIM 维度标签一并翻译。幂等：已存在的语言键跳过（除非 --force）。"""
+"""把全站 UI 文案（data.ts 的 UI['en'] 全量）翻译成各语言，输出/合并到
+site/src/data/ui_i18n.json（{locale:{ui:{...},dim:{...},dimdesc:{...}}}）。
+
+源以 data.ts 为单一真相：先用 `node scripts/_extract_ui.mjs` 生成 scripts/_ui_src.json，
+本脚本读取其中的 ui 全量键。幂等：仅翻译目标语言尚缺的 key（新增 key 或新语言如 de），
+已存在的键跳过（除非 --force）。维度标签 dim/dimdesc 一并补译。
+
+必须 LLM_PROVIDER=deepseek。运行：
+  node scripts/_extract_ui.mjs
+  LLM_PROVIDER=deepseek python -m scripts.translate_ui [--force] [--locales de,ja] [--batch 40]
+"""
 import sys, os, json, argparse
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from video_pipeline import llm
 
-OUT = os.path.join(os.path.dirname(__file__), "..", "site", "src", "data", "ui_i18n.json")
+HERE = os.path.dirname(__file__)
+OUT = os.path.join(HERE, "..", "site", "src", "data", "ui_i18n.json")
+SRC_UI = os.path.join(HERE, "_ui_src.json")
+
+# 目标语言（zh-CN / en 为母本，不在此翻译）
 LOCALES = {"es": "Spanish (español)", "pt": "Portuguese (português)", "vi": "Vietnamese (Tiếng Việt)",
            "th": "Thai (ภาษาไทย)", "ms": "Malay (Bahasa Melayu)", "id": "Indonesian (Bahasa Indonesia)",
-           "zh-Hant": "Traditional Chinese (繁體中文, 台灣/香港用語)", "ja": "Japanese (日本語)"}
+           "zh-Hant": "Traditional Chinese (繁體中文, 台灣/香港用語)", "ja": "Japanese (日本語)",
+           "de": "German (Deutsch)"}
 
-UI_EN = {
-    "siteTitle": "AU Career Guides", "tagline": "Data-driven occupation guides",
-    "salary": "Salary", "ratings": "Ratings", "overall": "Overall", "education": "Education Path",
-    "qualifications": "Qualifications", "visa": "Migration", "suitability": "Who it fits", "faq": "FAQ",
-    "compare": "Compare", "nonMig": "Not a skilled migration occupation", "fit": "Fits", "unfit": "Not for",
-    "experience": "Experience", "annual": "Annual (AUD)", "code": "Occupation code", "backHome": "← All occupations",
-    "growth": "Career outlook", "growthKw": "Growth areas", "compareTitle": "Compare", "vs": "vs", "winner": "Higher",
-    "note": "Estimated data, indicative only",
-    "sources": "Data sources",
-    "sourcesBody": "Salary ranges are estimates aggregated from public listings on Seek, Indeed, Glassdoor and ERI SalaryExpert; employment and demand forecasts cite Jobs and Skills Australia (JSA) and the Australian Bureau of Statistics (ABS); visa and migration details follow the latest occupation lists from the Department of Home Affairs and the relevant assessing authorities. Figures are indicative only — always refer to the latest official sources.",
-    "seniorPay": "Senior pay", "training": "Training",
-    "heroValue": "Explore Australian careers by salary, PR pathway, training time, job demand, and AI replacement risk.",
-    "ctaBrowse": "Browse careers", "ctaCompare": "Compare two careers",
-    "searchPh": "Search occupation…", "sortBy": "Sort", "allCareers": "All careers",
-    "fPR": "PR pathway", "fHigh": "High salary", "fShort": "Short training", "noResult": "No matching occupations",
-    "sortOverall": "Overall score", "sortPay": "Senior pay", "sortTrain": "Training time", "sortPR": "PR friendly",
-    "secMigration": "Best for migration", "secIncome": "Best high-income careers", "secFast": "Fastest entry careers",
-    "secCats": "Categories",
-    "migOcc": "Skilled migration occupation", "byDim": "By dimension", "dimension": "Dimension",
-    "stage": "Stage", "period": "Duration", "qualification": "Qualification", "issuer": "Issuer",
-    "mandatory": "Required", "optional": "Optional", "visaCol": "Visa", "descCol": "Details",
-    "nonMigVisa": "Visa pathways depend on matching the specific duties to the correct ANZSCO; refer to the latest Department of Home Affairs occupation lists and the relevant assessing authorities.",
-    "winnerNote": '"Higher" is judged by dimension polarity (for negative dimensions such as AI risk / competition / difficulty, lower is better).',
-}
 DIM_EN = {"learning_difficulty": "Learning", "learning_duration": "Duration", "certification_difficulty": "Certification",
           "job_demand": "Demand", "competition": "Competition", "work_intensity": "Intensity", "income_level": "Income",
           "future_prospect": "Prospects", "ai_risk": "AI Risk", "pr_friendliness": "PR Friendly", "pr_difficulty": "PR Difficulty"}
@@ -57,27 +47,45 @@ def schema(keys):
 
 
 def translate_map(src, lang):
-    sysmsg = (f"You are a professional UI localization translator for an Australian careers website. "
-              f"Translate each value into {lang}. Keep proper nouns/acronyms (Seek, Indeed, Glassdoor, ERI SalaryExpert, "
-              f"Jobs and Skills Australia, JSA, ABS, Department of Home Affairs, ANZSCO, AUD, PR, AI, FAQ, vs) as-is. "
-              f"Keep it short and UI-appropriate. Return a JSON object with the SAME keys.")
+    sysmsg = (f"You are a professional UI localization translator for an AI-era careers website ‘AI Career Graph’. "
+              f"Translate each value into {lang}. "
+              f"Keep proper nouns/acronyms as-is (AI Career Graph, AI, PR, FAQ, vs, ANZSCO, NOC, SOC, KldB, ROME, CNO, "
+              f"Seek, Indeed, Glassdoor, ERI SalaryExpert, JSA, ABS, USCIS, IRCC, UKVI, INZ). "
+              f"IMPORTANT: keep any placeholder tokens such as {{n}}, {{name}}, {{c}}, {{asof}} EXACTLY as-is (do not translate or remove them). "
+              f"Preserve arrow/middot symbols (→ · — ×) and keep the wording short and UI-appropriate. "
+              f"Return a JSON object with the SAME keys.")
     prompt = "Translate the values of this JSON object:\n" + json.dumps(src, ensure_ascii=False)
     return llm.complete_json(sysmsg, prompt, schema(src.keys()))
 
 
-def main(force):
-    data = {}
-    if os.path.exists(OUT) and not force:
-        data = json.load(open(OUT, encoding="utf-8"))
+def chunked(d, n):
+    items = list(d.items())
+    for i in range(0, len(items), n):
+        yield dict(items[i:i + n])
+
+
+def translate_missing(src_map, existing, lang, batch):
+    missing = {k: v for k, v in src_map.items() if k not in existing}
+    out = dict(existing)
+    for ch in chunked(missing, batch):
+        res = translate_map(ch, lang)
+        out.update({k: res.get(k, ch[k]) for k in ch})
+    return out, len(missing)
+
+
+def main(force, locales, batch):
+    src = json.load(open(SRC_UI, encoding="utf-8"))
+    UI_EN = src["ui"]
+    data = json.load(open(OUT, encoding="utf-8")) if os.path.exists(OUT) else {}
     for loc, lang in LOCALES.items():
-        if loc in data and not force:
-            print(f"[ui] {loc} 已存在，跳过")
+        if locales and loc not in locales:
             continue
-        print(f"[ui] 翻译 {loc} …")
-        ui = translate_map(UI_EN, lang)
-        dim = translate_map(DIM_EN, lang)
-        dimdesc = translate_map(DIMDESC_EN, lang)
-        data[loc] = {"ui": ui, "dim": dim, "dimdesc": dimdesc}
+        cur = data.get(loc, {})
+        ui, nui = translate_missing(UI_EN, {} if force else cur.get("ui", {}), lang, batch)
+        dim, nd = translate_missing(DIM_EN, {} if force else cur.get("dim", {}), lang, batch)
+        dd, ndd = translate_missing(DIMDESC_EN, {} if force else cur.get("dimdesc", {}), lang, batch)
+        data[loc] = {"ui": ui, "dim": dim, "dimdesc": dd}
+        print(f"[ui] {loc}: +{nui} ui, +{nd} dim, +{ndd} dimdesc (total ui={len(ui)})", flush=True)
     json.dump(data, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print(f"[ui] 写出 {OUT}（{len(data)} 语言）")
 
@@ -85,4 +93,8 @@ def main(force):
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--force", action="store_true")
-    main(ap.parse_args().force)
+    ap.add_argument("--locales", default="")
+    ap.add_argument("--batch", type=int, default=40)
+    a = ap.parse_args()
+    locs = [x.strip() for x in a.locales.split(",") if x.strip()]
+    main(a.force, locs, a.batch)

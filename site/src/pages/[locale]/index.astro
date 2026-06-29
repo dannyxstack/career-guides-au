@@ -1,0 +1,11 @@
+---
+// 各语言品牌入口首页（/[locale]/）。复用 Home 组件。
+import Home from '../../components/Home.astro';
+import { LOCALES, type Locale } from '../../lib/data';
+
+export function getStaticPaths() {
+  return LOCALES.map((locale) => ({ params: { locale } }));
+}
+const { locale } = Astro.params as { locale: Locale };
+---
+<Home locale={locale} />
