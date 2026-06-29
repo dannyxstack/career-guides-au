@@ -1,4 +1,4 @@
-# 会话交接 · 2026-06-29（Azure 翻译后端、9 语言译完、translations 按语言拆分、货币符号+跨国移民链接、德语全量、法国 ROME 532 职业接入并上线）
+# 会话交接 · 2026-06-29（Azure 翻译后端、9 语言译完、translations 按语言拆分、货币符号+跨国移民链接、德语全量+locale 上线、法国 ROME 532 上线、西班牙 CNO 502 已采集+构建待推送）
 
 > 接续 `docs/session-handoff-2026-06-26.md`。
 > DB = 远程 MySQL `192.168.194.135:13306`，配置读 `.env`（键名 MYSQL_HOST/PORT/USER/PASSWORD/DATABASE；表 `occupations`，国家列 `country_code`）。
@@ -9,12 +9,17 @@
 
 ## ⚠️ 立即可续做（待办 / RESUME）
 
-### 1. 德语已全量翻译但**未接入站点**（follow-up）
-- `translations.de.json` 已导出入库（commit `7b7a6c8e`），但 `data.ts` **没 import**，`Locale` 类型/`LOCALES` 也没加 `'de'`。
-- 接线：`data.ts` 加 `import trDe from '../data/translations.de.json'`、`Locale` 加 `'de'`、`LOCALES` 加 `'de'`、`TM_BY_LOCALE` 加 `de`。然后 export→build→push。UI 文案会回退英文（同其它非 en/zh locale）。
+### 1.【最高优先】西班牙 ES 已采集+构建，**改动未 commit/push**
+- ES 全部完成（502 职业、AI 块、英文 TM、站点接线、build 48,743 页 0 错误），但**工作区未提交**。
+- 待提交：`site/src/data/{occupations.json,translations.en.json}`、`site/src/lib/data.ts`、`site/src/pages/en/about/index.astro`、新 `scripts/gen_es_occupations.py`、新 `career-contents/es/`（499 md）。
+- 提交后 push main 即上线（生产自动 build；`npm run build` 已内置 8GB 堆）。
 
-### 2. 法国仅 **EN + ZH**，其余 8 语言未翻
-- 按用户要求只生成中英。若要多语言：FR 源串已在 `translation_src`（collect_strings 已采，总 180,637），跑 `translate_parallel --workers 20 --batch 40`（Azure 优先）补其余 locale → export → build。
+### 2. 德语 locale 已接入并上线 ✅（commit `f115bba4`）
+- `data.ts` 已 import `translations.de.json` + `Locale`/`LOCALES`/`TM_BY_LOCALE`/Base.astro 语言切换均加 `de`。各国有 /de/ 页，UI 回退英文。
+
+### 3. FR / ES 仅 **EN + ZH**，其余语言未翻（含 es locale 显示英文）
+- 按用户要求只生成中英。FR/ES 源串已在 `translation_src`（collect 后总 201,350）。若要某语言：`translate_parallel --workers 20 --batch 40 --locales <loc>`（Azure 优先）→ export → build。
+- 注意：西班牙国家页的**西语(es)版当前显示英文**（只翻了 en），如需西语需 `--locales es` 补翻。
 
 ### 3. 法国 3 个职业无 disruptor（真实"无有效 AI 工具"，正常，无需处理）
 
@@ -50,12 +55,23 @@
 ### 7. 构建内存修复（**生产关键**）
 - 页面增至 **39,283**，Node 默认 ~4GB 堆 OOM。`site/package.json` 的 build 改为 `node --max-old-space-size=8192 ./node_modules/astro/astro.js build`（shell 无关，Win/Linux 通用）。
 
-## 当前规模
-AU 520 + CA 540 + NZ 519 + UK 368 + DE 642 + US 792 + **FR 532** = **3913 职业**（构建 39,283 页 0 错误）。
+### 8. 德语 locale 上线（commit `f115bba4`）
+- `data.ts` import `translations.de.json` + `Locale`/`LOCALES`/`TM_BY_LOCALE` 加 `de`，`Base.astro` 语言切换加 `DE`。各国 /de/ 页（UI 回退英文）。build 43,210 页。
 
-## Git（已 push main）
-- HEAD `7b7a6c8e`。关键 commit：`6568f14c` 法国接入+构建堆修复 → `7b7a6c8e` 德语 locale 映射+translations.de.json。
-- 更早本会话：Azure 后端 `57d6cc64`、translations.en split `1487b7cb`/`aab16058`、货币+移民链接 `00e63843`、401 回退 `9956a0b3`。
+### 9. 西班牙 CNO 502 职业采集 + 接入 + 构建（**未提交**）
+- 清单 Eustat CNO-2011 → `.codex_tmp/soc_es.json` **502** 个 grupos primarios（xlrd 解析 col1=码/col2=西语名）。
+- 新 `scripts/gen_es_occupations.py`（克隆 gen_fr）：ES/CNO/EUR/西班牙签证（Tarjeta azul UE·Ley 14/2013 高技能·Cuenta ajena·homologación）；**education.duration 截断 50、stage 截断 60**（修 varchar(50) 超长报错）。
+- 502/502 入库；AI insights 502/502；ai-block 复用 228 + 生成；disruptors 499/502。
+- collect_strings（总 201,350）+ `translate --locales en`（Azure 全覆盖）→ 英文页正常。
+- `data.ts` 接线 ES（COUNTRIES/国名/西班牙红黄旗 SVG/EUR·€/SOURCES/MIG_TEXT）+ about 加 CNO。
+- build **48,743 页 0 错误**（含 ES + 德语 locale）。**改动尚未 commit/push（见待办 1）**。
+
+## 当前规模
+AU 520 + NZ 519 + CA 540 + US 792 + UK 368 + DE 642 + FR 532 + **ES 502** = **4415 职业**（构建 48,743 页 0 错误，10 locale + de）。
+
+## Git
+- 已 push main HEAD `f115bba4`（德语 locale）。**西班牙改动未提交**（工作区）。
+- 关键 commit：法国+堆修复 `6568f14c` → translations.de `7b7a6c8e` → 德语 locale `f115bba4`；更早：Azure 后端 `57d6cc64`、en split `1487b7cb`/`aab16058`、货币+移民链接 `00e63843`、401 回退 `9956a0b3`。
 
 ## 关键运维 / 坑（持续有效）
 1. 翻译 Azure 优先、配额/401 自动回退 DeepSeek；回退须 `LLM_PROVIDER=deepseek`。
