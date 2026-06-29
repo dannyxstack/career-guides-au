@@ -15,11 +15,11 @@ import trDe from '../data/translations.de.json';
 import uiI18n from '../data/ui_i18n.json';
 
 export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de';
-export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR'] as const;
+export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR', 'ES'] as const;
 export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de'];
 export const DEFAULT = { country: 'AU', locale: 'zh-CN' as Locale };
 // 国家 -> 本币代码（薪资/费用展示用）
-export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR' };
+export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR', ES: 'EUR' };
 // 国家显示名（国家切换器用）
 export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   AU: { 'zh-CN': '澳大利亚', en: 'Australia' },
@@ -29,6 +29,7 @@ export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   UK: { 'zh-CN': '英国', en: 'United Kingdom' },
   DE: { 'zh-CN': '德国', en: 'Germany' },
   FR: { 'zh-CN': '法国', en: 'France' },
+  ES: { 'zh-CN': '西班牙', en: 'Spain' },
 };
 export const countryName = (cc: string, locale: Locale) =>
   COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
@@ -43,9 +44,10 @@ export const COUNTRY_FLAG: Record<string, string> = {
   UK: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><clipPath id="ukc"><rect width="120" height="60"/></clipPath><g clip-path="url(#ukc)"><rect width="120" height="60" fill="#012169"/><path d="M0,0 L120,60 M120,0 L0,60" stroke="#fff" stroke-width="12"/><path d="M0,0 L120,60 M120,0 L0,60" stroke="#C8102E" stroke-width="8" clip-path="url(#ukc)"/><rect x="50" width="20" height="60" fill="#fff"/><rect y="20" width="120" height="20" fill="#fff"/><rect x="54" width="12" height="60" fill="#C8102E"/><rect y="24" width="120" height="12" fill="#C8102E"/></g></svg>',
   DE: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="20" fill="#000"/><rect y="20" width="120" height="20" fill="#DD0000"/><rect y="40" width="120" height="20" fill="#FFCE00"/></svg>',
   FR: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#0055A4"/><rect x="40" width="40" height="60" fill="#fff"/><rect x="80" width="40" height="60" fill="#EF4135"/></svg>',
+  ES: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#AA151B"/><rect y="15" width="120" height="30" fill="#F1BF00"/></svg>',
 };
 // 标题/SEO 用的简称（中文用习惯简称「澳洲」；其余语言用全称）
-const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国', FR: '法国' };
+const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国', FR: '法国', ES: '西班牙' };
 export const countryTitleName = (cc: string, locale: Locale) =>
   locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
 
@@ -348,6 +350,10 @@ const SOURCES_BODY: Record<string, { 'zh-CN': string; en: string }> = {
     'zh-CN': '本页薪资为综合 Indeed、Glassdoor、APEC、HelloWork 等公开区间的估算；就业与需求预测引用法国就业局（France Travail）、法国国家统计与经济研究所（INSEE）及劳动研究院（DARES）；签证与移民信息以法国《外国人入境与居留法》下的欧盟蓝卡（Carte bleue européenne）、人才护照（Passeport Talent）、受雇工作居留（Salarié）及受规管职业的资质认证（reconnaissance des qualifications）最新规则为准。数据仅供参考，请以官方最新发布为准。',
     en: 'Salary ranges are estimates aggregated from public listings on Indeed, Glassdoor, APEC and HelloWork; employment and demand outlook cite France Travail, the National Institute of Statistics (INSEE) and DARES; visa and migration details follow the latest French rules covering the EU Blue Card (Carte bleue européenne), the Talent Passport (Passeport Talent), the Salarié work-residence permit and qualification recognition (reconnaissance des qualifications) for regulated professions. Figures are indicative only — always refer to the latest official sources.',
   },
+  ES: {
+    'zh-CN': '本页薪资为综合 InfoJobs、Indeed、Glassdoor、Tecnoempleo 等公开区间的估算；就业与需求预测引用西班牙国家就业局（SEPE）及国家统计局（INE）；签证与移民信息以西班牙《企业家法》（Ley 14/2013）下的欧盟蓝卡（Tarjeta azul UE）、高技能专业人才居留、受雇工作居留（Cuenta ajena）及受规管职业的学历认证（homologación）最新规则为准。数据仅供参考，请以官方最新发布为准。',
+    en: 'Salary ranges are estimates aggregated from public listings on InfoJobs, Indeed, Glassdoor and Tecnoempleo; employment and demand outlook cite the Spanish Public Employment Service (SEPE) and the National Statistics Institute (INE); visa and migration details follow the latest Spanish rules covering the EU Blue Card (Tarjeta azul UE), the highly-qualified professional permit under Ley 14/2013, the Cuenta ajena work-residence permit and qualification recognition (homologación) for regulated professions. Figures are indicative only — always refer to the latest official sources.',
+  },
 };
 // 移民/签证文案：按国家区分（AU 走 UI 字典的 10 语言；US/NZ/CA 给 zh/en，其余语言经 tr() 回退 en）。
 // 各国签证类别为公开事实；不在此杜撰个案资格，仅指明通道与主管部门。
@@ -418,6 +424,17 @@ const MIG_TEXT: Record<string, MigText> = {
                       en: 'This occupation is not on the direct Blue Card / Talent Passport track, so direct skilled migration is unavailable; however migration is possible via an employer-sponsored Salarié permit or the shortage-occupation route — usually requiring qualification recognition (reconnaissance), with limited pathways and places. Refer to the latest French authorities.' },
     nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 ROME 职业，受规管职业需完成资质认证（reconnaissance），以法国主管机关（France Travail / 内政部）最新规则为准。',
                   en: 'Visa pathways depend on matching the specific duties to the correct ROME occupation, with qualification recognition (reconnaissance) for regulated professions; refer to the latest French authorities (France Travail / Ministry of the Interior).' },
+  },
+  ES: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（需学历认证 / 雇主担保）', en: 'Restricted migration (qualification recognition / employer-sponsored)' },
+    mig1Tip: { 'zh-CN': '该职业通常可走西班牙欧盟蓝卡（Tarjeta azul UE）或《企业家法》（Ley 14/2013）下的高技能专业人才居留，并可申请长期居留；这是一条移民路径，并非保证，受规管职业通常需先完成学历认证（homologación）。以西班牙主管机关最新规定为准。',
+               en: 'This occupation commonly supports the Spanish EU Blue Card (Tarjeta azul UE) or the highly-qualified professional permit under Ley 14/2013, with a route to long-term residence — a pathway, not a guarantee, and regulated professions usually require qualification recognition (homologación). Refer to the Spanish authorities.' },
+    mig2Tip: { 'zh-CN': '该职业较难直接走蓝卡或高技能通道，但可通过雇主担保的受雇工作居留（Cuenta ajena）或紧缺职业（Catálogo de ocupaciones de difícil cobertura）通道移民——通常需学历认证且名额受限。以西班牙主管机关最新规定为准。',
+               en: 'The Blue Card or highly-qualified route may be harder, but migration is possible via an employer-sponsored Cuenta ajena permit or the shortage-occupation catalogue (ocupaciones de difícil cobertura) — usually needing qualification recognition, with limited places. Refer to the Spanish authorities.' },
+    restrictedNote: { 'zh-CN': '本职业不在直接蓝卡／高技能通道上，无法直接技术移民；但可通过雇主担保的受雇工作居留（Cuenta ajena）或紧缺职业通道移民——通常需先完成学历认证（homologación），通道与名额受限，以西班牙主管机关最新规定为准。',
+                      en: 'This occupation is not on the direct Blue Card / highly-qualified track, so direct skilled migration is unavailable; however migration is possible via an employer-sponsored Cuenta ajena permit or the shortage-occupation route — usually requiring qualification recognition (homologación), with limited pathways and places. Refer to the latest Spanish authorities.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 CNO 职业，受规管职业需完成学历认证（homologación），以西班牙主管机关（SEPE / 移民总局）最新规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct CNO occupation, with qualification recognition (homologación) for regulated professions; refer to the latest Spanish authorities (SEPE / immigration office).' },
   },
 };
 // ───────────────────────── AI 职业图谱：6 大类 ─────────────────────────
@@ -583,7 +600,7 @@ export function radarValues(o: Occ) {
   return DIM_ORDER.map((d) => (m[d] as number) ?? 0);
 }
 // 货币符号：按国家区分。UK 用英镑 £、DE 用欧元 €，其余用 $。
-export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€', FR: '€' };
+export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€', FR: '€', ES: '€' };
 export function money(v: number | null, country?: string) {
   if (!v) return '—';
   return ((country && CURRENCY_SYMBOL[country]) || '$') + Number(v).toLocaleString('en-US');
