@@ -284,6 +284,10 @@ export const UI: Record<string, Record<string, string>> = {
     hQ3T: '我接下来该学什么？', hQ3B: '搜索你的职业，查看未来技能、AI 时代升级路线和更稳的相邻职业。', hQ3Go: '搜索职业 →',
     hBottomCountry: '选择你的国家', hBottomRank: '探索 AI 职业榜单', hBottomSearch: '搜索你的职业',
     hFoot: 'AI Career Graph · AI 时代数据驱动的职业指南 · 仅为估算，请始终核对官方来源。',
+    // —— 首页搜索结果（客户端）——
+    hSrNoResults: '未找到相关职业。', hSrAvailIn: '可查看国家：',
+    hSrAiAugmented: 'AI 增强型', hSrAiLowRisk: '低 AI 替代风险', hSrAiHigherExp: '较高 AI 暴露', hSrAiMixed: 'AI 影响不一',
+    hSrMigFriendly: '移民友好', hSrMigRestricted: '受限移民',
     // —— 全球「关于」页（/[locale]/about/） ——
     abTitle: '关于 AI Career Graph',
     abLead: 'AI Career Graph 是一个面向 AI 时代的职业图谱项目——它不止于描述职业，更帮助你判断哪些职业会被 AI 压缩、哪些会被放大、未来 5 年该补什么，以及可以转向哪些更稳的职业。',
@@ -384,6 +388,10 @@ export const UI: Record<string, Record<string, string>> = {
     hQ3T: 'What should I learn next?', hQ3B: 'Search your career to see future skills, an AI-era upgrade path and safer adjacent roles.', hQ3Go: 'Search a career →',
     hBottomCountry: 'Choose your country', hBottomRank: 'Explore AI Career Rankings', hBottomSearch: 'Search your career',
     hFoot: 'AI Career Graph · Data-driven occupation guides for the AI era · Estimates only, always check official sources.',
+    // —— Home search results (client-side) ——
+    hSrNoResults: 'No careers found.', hSrAvailIn: 'Available in:',
+    hSrAiAugmented: 'AI-augmented', hSrAiLowRisk: 'Low AI replacement risk', hSrAiHigherExp: 'Higher AI exposure', hSrAiMixed: 'Mixed AI impact',
+    hSrMigFriendly: 'Migration-friendly', hSrMigRestricted: 'Restricted migration',
     // —— Global About (/[locale]/about/) ——
     abTitle: 'About AI Career Graph',
     abLead: 'AI Career Graph is a career-mapping project for the AI era — beyond describing jobs, it helps you judge which roles get compressed by AI, which get amplified, what to build over the next 5 years, and which more durable roles you can pivot to.',

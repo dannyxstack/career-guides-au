@@ -32,6 +32,14 @@ const SEARCH = occupations
 
 const total = occupations.length;
 const flag = COUNTRY_FLAG;
+
+// —— 搜索结果本地化：国家名映射 + AI/移民标签（注入客户端脚本）——
+const SEARCH_I18N = {
+  cn: Object.fromEntries(COUNTRIES.map((cc) => [cc, countryName(cc, locale)])),
+  noResults: t.hSrNoResults, availIn: t.hSrAvailIn,
+  aug: t.hSrAiAugmented, lowRisk: t.hSrAiLowRisk, higherExp: t.hSrAiHigherExp, mixed: t.hSrAiMixed,
+  migFriendly: t.hSrMigFriendly, migRestricted: t.hSrMigRestricted,
+};
 const hintText = t.hSearchHint.replace('{n}', String(total));
 
 const title = `${t.siteTitle} — ${t.hLead}`;
@@ -218,6 +226,7 @@ const ld = [
     <footer class="site-foot">{t.hFoot}</footer>
 
     <script type="application/json" id="search-data" set:html={JSON.stringify(SEARCH)} />
+    <script type="application/json" id="search-i18n" set:html={JSON.stringify(SEARCH_I18N)} />
     <script is:inline>
       (function () {
         // theme toggle
@@ -237,7 +246,9 @@ const ld = [
         // global search
         var DATA = [];
         try { DATA = JSON.parse(document.getElementById('search-data').textContent || '[]'); } catch (e) {}
-        var CN = { AU: 'Australia', CA: 'Canada', NZ: 'New Zealand', US: 'United States', UK: 'United Kingdom', DE: 'Germany', FR: 'France', ES: 'Spain' };
+        var I18N = {};
+        try { I18N = JSON.parse(document.getElementById('search-i18n').textContent || '{}'); } catch (e) {}
+        var CN = I18N.cn || {};
         var LOC = document.documentElement.getAttribute('data-locale') || 'en';
         var q = document.getElementById('q'), ac = document.getElementById('ac');
 
@@ -248,21 +259,21 @@ const ld = [
         });
 
         function aiLabel(o) {
-          if (o.v === 'amplified') return 'AI-augmented';
-          if (o.r != null && o.r <= 4) return 'Low AI replacement risk';
-          if (o.v === 'compressed') return 'Higher AI exposure';
-          return 'Mixed AI impact';
+          if (o.v === 'amplified') return I18N.aug;
+          if (o.r != null && o.r <= 4) return I18N.lowRisk;
+          if (o.v === 'compressed') return I18N.higherExp;
+          return I18N.mixed;
         }
-        function migLabel(m) { return m === 1 ? 'Migration-friendly' : m === 2 ? 'Restricted migration' : ''; }
+        function migLabel(m) { return m === 1 ? I18N.migFriendly : m === 2 ? I18N.migRestricted : ''; }
         function esc(s) { return s.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
 
         function render(items) {
-          if (!items.length) { ac.innerHTML = '<div class="ac-empty">No careers found.</div>'; ac.hidden = false; return; }
+          if (!items.length) { ac.innerHTML = '<div class="ac-empty">' + esc(I18N.noResults) + '</div>'; ac.hidden = false; return; }
           ac.innerHTML = items.map(function (o) {
             var multi = byName[o.n.toLowerCase()];
             var uniq = multi.filter(function (v, i) { return multi.indexOf(v) === i; });
             var meta = [CN[o.c] || o.c, o.cat, aiLabel(o), migLabel(o.m)].filter(Boolean).join(' · ');
-            var avail = uniq.length > 1 ? '<div class="r-avail">Available in: ' + uniq.map(function (c) { return CN[c] || c; }).join(', ') + '</div>' : '';
+            var avail = uniq.length > 1 ? '<div class="r-avail">' + esc(I18N.availIn) + ' ' + uniq.map(function (c) { return CN[c] || c; }).join(', ') + '</div>' : '';
             return '<a class="ac-item" href="/' + o.c + '/' + LOC + '/' + o.cs + '/' + o.s + '/">' +
               '<span class="r-name">' + esc(o.n) + '</span><span class="r-meta">' + esc(meta) + '</span>' + avail + '</a>';
           }).join('');

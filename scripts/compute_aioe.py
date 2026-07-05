@@ -115,7 +115,9 @@ def main():
     countries = [args.country] if args.country else ['US', 'AU', 'NZ', 'UK', 'DE', 'CA']
     grand = collections.Counter()
     for cc in countries:
-        cur.execute("select id, occ_code from occupations where country_code=%s", (cc,))
+        # 用 anzsco_code（干净的国家分类码）查 AIOE：新增职业的 occ_code 是「父级码-角色」合成码，
+        # 会导致 crosswalk 查不中；anzsco_code 存干净父级码，对既有行与 occ_code 等价（零回退）。
+        cur.execute("select id, coalesce(nullif(anzsco_code,''), occ_code) from occupations where country_code=%s", (cc,))
         rows = cur.fetchall()
         n_ok = n_fb = n_miss = 0
         for oid, code in rows:

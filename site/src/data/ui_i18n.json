@@ -195,7 +195,15 @@
 "abCountrySrcNote": "Los detalles de salario, licencias y migración difieren por país y siguen las fuentes oficiales de cada país. Consulte la guía del país para ver los enlaces completos de las fuentes:",
 "abCountryGuide": "— guía del país →",
 "filterCountries": "Países:",
-"colCountry": "País"
+"colCountry": "País",
+"hSrNoResults": "No se encontraron carreras.",
+"hSrAvailIn": "Disponible en:",
+"hSrAiAugmented": "Aumentado por IA",
+"hSrAiLowRisk": "Bajo riesgo de reemplazo por IA",
+"hSrAiHigherExp": "Mayor exposición a IA",
+"hSrAiMixed": "Impacto mixto de IA",
+"hSrMigFriendly": "Favorable para migración",
+"hSrMigRestricted": "Migración restringida"
 },
 "dim": {
 "learning_difficulty": "Aprendizaje",
@@ -420,7 +428,15 @@
 "abCountrySrcNote": "Salário, licenciamento e detalhes de migração variam por país e seguem as fontes oficiais de cada país. Veja o guia do país para links completos das fontes:",
 "abCountryGuide": "— guia do país →",
 "filterCountries": "Países:",
-"colCountry": "País"
+"colCountry": "País",
+"hSrNoResults": "Nenhuma carreira encontrada.",
+"hSrAvailIn": "Disponível em:",
+"hSrAiAugmented": "Aumentada por IA",
+"hSrAiLowRisk": "Baixo risco de substituição por IA",
+"hSrAiHigherExp": "Maior exposição à IA",
+"hSrAiMixed": "Impacto misto de IA",
+"hSrMigFriendly": "Amigável para migração",
+"hSrMigRestricted": "Migração restrita"
 },
 "dim": {
 "learning_difficulty": "Aprendizado",
@@ -645,7 +661,15 @@
 "abCountrySrcNote": "Thông tin về lương, cấp phép và di trú khác nhau theo từng quốc gia và tuân theo nguồn chính thức của quốc gia đó. Xem hướng dẫn quốc gia để biết liên kết nguồn đầy đủ:",
 "abCountryGuide": "— hướng dẫn quốc gia →",
 "filterCountries": "Quốc gia:",
-"colCountry": "Quốc gia"
+"colCountry": "Quốc gia",
+"hSrNoResults": "Không tìm thấy ngành nghề nào.",
+"hSrAvailIn": "Có sẵn tại:",
+"hSrAiAugmented": "Hỗ trợ bởi AI",
+"hSrAiLowRisk": "Rủi ro thay thế AI thấp",
+"hSrAiHigherExp": "Tiếp xúc AI cao hơn",
+"hSrAiMixed": "Tác động AI hỗn hợp",
+"hSrMigFriendly": "Thân thiện với di cư",
+"hSrMigRestricted": "Hạn chế di cư"
 },
 "dim": {
 "learning_difficulty": "Khó học",
@@ -870,7 +894,15 @@
 "abCountrySrcNote": "รายละเอียดเงินเดือน ใบอนุญาต และการย้ายถิ่นแตกต่างกันไปตามแต่ละประเทศ และเป็นไปตามแหล่งข้อมูลอย่างเป็นทางการของประเทศนั้น ดูคู่มือประเทศสำหรับลิงก์แหล่งข้อมูลทั้งหมด:",
 "abCountryGuide": "— ดูคู่มือประเทศ →",
 "filterCountries": "ประเทศ:",
-"colCountry": "ประเทศ"
+"colCountry": "ประเทศ",
+"hSrNoResults": "ไม่พบอาชีพ",
+"hSrAvailIn": "มีให้เลือกใน:",
+"hSrAiAugmented": "AI เสริม",
+"hSrAiLowRisk": "ความเสี่ยงต่ำที่ AI จะแทนที่",
+"hSrAiHigherExp": "การสัมผัส AI สูง",
+"hSrAiMixed": "ผลกระทบผสมจาก AI",
+"hSrMigFriendly": "เป็นมิตรต่อการย้ายถิ่น",
+"hSrMigRestricted": "ข้อจำกัดการย้ายถิ่น"
 },
 "dim": {
 "learning_difficulty": "การเรียนรู้",
@@ -1095,7 +1127,15 @@
 "abCountrySrcNote": "Butiran gaji, pelesenan dan migrasi berbeza mengikut negara dan mengikut sumber rasmi setiap negara. Lihat panduan negara untuk pautan sumber penuh:",
 "abCountryGuide": "— panduan negara →",
 "filterCountries": "Negara:",
-"colCountry": "Negara"
+"colCountry": "Negara",
+"hSrNoResults": "Tiada kerjaya ditemui.",
+"hSrAvailIn": "Tersedia di:",
+"hSrAiAugmented": "Ditingkatkan AI",
+"hSrAiLowRisk": "Risiko penggantian AI rendah",
+"hSrAiHigherExp": "Pendedahan AI tinggi",
+"hSrAiMixed": "Kesan AI bercampur",
+"hSrMigFriendly": "Mesra migrasi",
+"hSrMigRestricted": "Migrasi terhad"
 },
 "dim": {
 "learning_difficulty": "Kesukaran",
@@ -1320,7 +1360,15 @@
 "abCountrySrcNote": "Detail gaji, lisensi, dan imigrasi berbeda menurut negara dan mengikuti sumber resmi masing-masing negara. Lihat panduan negara untuk tautan sumber lengkap:",
 "abCountryGuide": "— panduan negara →",
 "filterCountries": "Negara:",
-"colCountry": "Negara"
+"colCountry": "Negara",
+"hSrNoResults": "Tidak ada karir yang ditemukan.",
+"hSrAvailIn": "Tersedia di:",
+"hSrAiAugmented": "Diperkuat AI",
+"hSrAiLowRisk": "Risiko rendah digantikan AI",
+"hSrAiHigherExp": "Eksposur AI lebih tinggi",
+"hSrAiMixed": "Dampak AI campuran",
+"hSrMigFriendly": "Ramah migrasi",
+"hSrMigRestricted": "Migrasi terbatas"
 },
 "dim": {
 "learning_difficulty": "Pembelajaran",
@@ -1545,7 +1593,15 @@
 "abCountrySrcNote": "薪資、執照及移民細節因國家而異，並遵循各國的官方來源。請參閱國家指南以獲取完整來源連結：",
 "abCountryGuide": "— 國家指南 →",
 "filterCountries": "國家：",
-"colCountry": "國家"
+"colCountry": "國家",
+"hSrNoResults": "未找到職業。",
+"hSrAvailIn": "可用於：",
+"hSrAiAugmented": "AI增強",
+"hSrAiLowRisk": "低AI取代風險",
+"hSrAiHigherExp": "較高AI暴露",
+"hSrAiMixed": "混合AI影響",
+"hSrMigFriendly": "適合移民",
+"hSrMigRestricted": "移民受限"
 },
 "dim": {
 "learning_difficulty": "學習",
@@ -1770,7 +1826,15 @@
 "abCountrySrcNote": "給与、資格、移民情報は国によって異なり、各国の公式ソースに従います。完全なソースリンクは各国ガイドをご覧ください：",
 "abCountryGuide": "— 国ガイド →",
 "filterCountries": "国:",
-"colCountry": "国"
+"colCountry": "国",
+"hSrNoResults": "該当するキャリアは見つかりませんでした。",
+"hSrAvailIn": "利用可能な地域：",
+"hSrAiAugmented": "AI強化",
+"hSrAiLowRisk": "AI代替リスク低",
+"hSrAiHigherExp": "AI影響大",
+"hSrAiMixed": "AI影響混合",
+"hSrMigFriendly": "移住に有利",
+"hSrMigRestricted": "移住制限あり"
 },
 "dim": {
 "learning_difficulty": "学習",
@@ -1995,7 +2059,15 @@
 "abCountrySrcNote": "Gehalts-, Lizenz- und Migrationsdetails variieren je nach Land und folgen den offiziellen Quellen des jeweiligen Landes. Siehe Länderführer für vollständige Quellenlinks:",
 "abCountryGuide": "— Länderführer →",
 "filterCountries": "Länder:",
-"colCountry": "Land"
+"colCountry": "Land",
+"hSrNoResults": "Keine Karrieren gefunden.",
+"hSrAvailIn": "Verfügbar in:",
+"hSrAiAugmented": "KI-gestützt",
+"hSrAiLowRisk": "Niedriges KI-Ersetzungsrisiko",
+"hSrAiHigherExp": "Höhere KI-Exposition",
+"hSrAiMixed": "Gemischte KI-Auswirkungen",
+"hSrMigFriendly": "Migrationsfreundlich",
+"hSrMigRestricted": "Eingeschränkte Migration"
 },
 "dim": {
 "learning_difficulty": "Lernen",

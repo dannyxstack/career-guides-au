@@ -45,11 +45,22 @@ def build():
                     "min_score": r["min_score"], "asof": r["asof"], "note": r["note"]}
         except Exception as e:
             print(f"[export] 警告：读取 invitation_scores 失败（{e}），跳过获邀分")
+        # 社区投票聚合：{occ_key(slug): {poll_code: {counts:{answer_key:cnt}, total}}}，供构建期烘焙首屏
+        poll_by_key = {}
+        try:
+            cur.execute("SELECT poll_code, occ_key, answer_key, cnt FROM poll_agg")
+            for r in cur.fetchall():
+                p = poll_by_key.setdefault(r["occ_key"], {}).setdefault(r["poll_code"], {"counts": {}, "total": 0})
+                p["counts"][r["answer_key"]] = r["cnt"]
+                p["total"] += r["cnt"]
+        except Exception as e:
+            print(f"[export] 警告：读取 poll_agg 失败（{e}），跳过投票烘焙")
         out = []
         for b in bundles:
             o = b["o"]
             z = b["i18n_zh"]
             en_name = (b["i18n"].get("en") or {}).get("name") or o["anzsco_title"]
+            sg = slug(en_name)
             ratings = [{"dimension": r["dimension"], "label_zh": r["label_zh"],
                         "stars": r["stars"], "name_zh": DIM_ZH.get(r["dimension"], r["dimension"])}
                        for r in b["ratings"]]
@@ -60,7 +71,8 @@ def build():
                 "is_migration": int(o["is_migration"] or 0),  # 0=非移民 1=可直接技术移民 2=受限
                 "is_public_servant": bool(o.get("is_public_servant")),
                 "shortage_listed": bool(o["shortage_listed"]), "workforce_size": o["workforce_size"],
-                "slug": slug(en_name), "name_en": en_name, "growth_areas": b["growth"],
+                "slug": sg, "name_en": en_name, "growth_areas": b["growth"],
+                "polls": poll_by_key.get(sg) or None,
                 # i18n 仅保留中文母本，其余语言前端经 tr() 解析
                 "i18n": {"zh-CN": {"name": z.get("name"), "summary": z.get("summary"),
                                    "forecast_note": z.get("forecast_note"), "trend_summary": z.get("trend_summary")}},

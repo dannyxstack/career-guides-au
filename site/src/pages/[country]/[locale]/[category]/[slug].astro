@@ -1,6 +1,7 @@
 ---
 import Base from '../../../../layouts/Base.astro';
 import RatingRadar from '../../../../components/RatingRadar.astro';
+import PollBlock from '../../../../components/PollBlock.astro';
 import { COUNTRIES, LOCALES, occupations, catSlug, name, summary, strings, dimLabel, tr,
   radarLabels, radarValues, money, currencyOf, sourcesBody, getBySlug,
   migRestrictedOccOf, migRestrictedNoteOf, nonMigVisaOf, sameOccAbroad,
@@ -177,6 +178,8 @@ if (o.faqs?.length) ld.push({
       )}
     </section>
   )}
+
+  <PollBlock slug={slug} locale={locale} name={i.name} baked={o.polls} />
 
   <section data-section="salary">
   <h2>{t.salary}</h2>

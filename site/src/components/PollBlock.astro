@@ -1,0 +1,164 @@
+---
+// 社区投票 widget（通用，渲染 site/src/data/polls.json 里的全部投票）。
+// 服务端渲染题目/选项（SEO 友好）+ 构建期烘焙的初始聚合；客户端拉实时值 + 提交。
+// occ_key = 职业 slug（跨国共享）。API 基址来自 PUBLIC_POLLS_API。
+import { POLLS, locText, fillTpl, pctOf, avgFromCounts, type Poll } from '../lib/polls';
+import type { Locale } from '../lib/data';
+
+interface Props { slug: string; locale: Locale; name: string; baked?: Record<string, any> | null }
+const { slug, locale, name } = Astro.props as Props;
+const baked: Record<string, any> = (Astro.props as Props).baked || {}; // o.polls 可能为 null
+
+const API_BASE = import.meta.env.PUBLIC_POLLS_API || 'http://localhost:8790/api';
+
+// 组件内小 i18n（只维护中英文，其余回退 en）
+const UI: Record<string, Record<string, string>> = {
+  'zh-CN': { title: '社区怎么看', hint: '点击一项投票（可随时改）', votes: '人投票', avg: '大众平均', thanks: '感谢投票！', you: '你的选择' },
+  en: { title: 'What the community thinks', hint: 'Tap an option to vote (change anytime)', votes: 'votes', avg: 'Community avg', thanks: 'Thanks for voting!', you: 'Your pick' },
+};
+const u = UI[locale] ?? UI.en;
+
+// 服务端预备各投票的本地化结构。职业名 {name} 服务端就填进标题/结论（SEO/GEO 可见）；
+// 结论里的 {n}/{avg}/{pct.*} 留给客户端按实时数据填。
+const polls = POLLS.map((p: Poll) => {
+  const bk = baked[p.code] || null;
+  const conclTpl = fillTpl(locText(p.conclusion || {}, locale), { name }); // 只填 {name}
+  let ssrConcl = '';
+  if (bk && bk.total > 0) {
+    ssrConcl = fillTpl(conclTpl, { n: bk.total, avg: avgFromCounts(p, bk.counts) }, pctOf(bk.counts));
+  }
+  return {
+    code: p.code, type: p.type, q: fillTpl(locText(p.q, locale), { name }),
+    hasAvg: p.options.every((o) => o.mid != null),
+    conclTpl, ssrConcl,
+    options: p.options.map((o) => ({ key: o.key, label: locText(o.label, locale) })),
+  };
+});
+// 传给客户端：{code: 已填name的结论模板}，客户端再填 {n}/{avg}/{pct.*}
+const conclTpls: Record<string, string> = Object.fromEntries(polls.map((p) => [p.code, p.conclTpl]));
+---
+<section class="polls" data-section="community-polls" data-occ={slug} data-api={API_BASE}>
+  <h2>{u.title}</h2>
+  <p class="polls-hint muted">{u.hint}</p>
+  {polls.map((p) => (
+    <div class="poll" data-poll={p.code} data-hasavg={p.hasAvg ? '1' : '0'}>
+      <div class="poll-q">{p.q}</div>
+      <div class="poll-opts">
+        {p.options.map((o) => (
+          <button class="poll-opt" type="button" data-key={o.key} aria-pressed="false">
+            <span class="poll-bar"></span>
+            <span class="poll-lbl">{o.label}</span>
+            <span class="poll-pct"></span>
+          </button>
+        ))}
+      </div>
+      <div class="poll-meta muted">
+        <span class="poll-total">0</span> {u.votes}<span class="poll-avg"></span>
+      </div>
+      <p class="poll-conclusion" style={p.ssrConcl ? '' : 'display:none'}>{p.ssrConcl}</p>
+    </div>
+  ))}
+</section>
+
+<script define:vars={{ apiBase: API_BASE, slug, labels: u, baked, conclTpls }}>
+  (function () {
+    const root = document.querySelector('.polls[data-section="community-polls"]');
+    if (!root) return;
+    const occ = root.getAttribute('data-occ');
+
+    // 匿名软身份：一浏览器一 token（用于一人一票 + 改票 + 回显“我的选择”）
+    let token = '';
+    try {
+      token = localStorage.getItem('poll_token') || '';
+      if (!/^[a-f0-9]{32}$/.test(token)) {
+        token = (crypto.randomUUID ? crypto.randomUUID().replace(/-/g, '') : Math.random().toString(16).slice(2).padEnd(32, '0')).slice(0, 32);
+        localStorage.setItem('poll_token', token);
+      }
+    } catch (e) {}
+
+    function render(code, view) {
+      const el = root.querySelector('.poll[data-poll="' + code + '"]');
+      if (!el || !view) return;
+      const counts = view.counts || {};
+      const total = view.total || 0;
+      el.querySelectorAll('.poll-opt').forEach(function (btn) {
+        const k = btn.getAttribute('data-key');
+        const c = counts[k] || 0;
+        const pct = total ? Math.round((c * 100) / total) : 0;
+        btn.querySelector('.poll-bar').style.width = pct + '%';
+        btn.querySelector('.poll-pct').textContent = total ? pct + '%' : '';
+        const mine = view.mine === k;
+        btn.setAttribute('aria-pressed', mine ? 'true' : 'false');
+        btn.classList.toggle('mine', mine);
+        btn.title = mine ? labels.you : '';
+      });
+      el.querySelector('.poll-total').textContent = String(total);
+      const avgEl = el.querySelector('.poll-avg');
+      if (el.getAttribute('data-hasavg') === '1' && view.avgPct != null && total) {
+        avgEl.textContent = ' · ' + labels.avg + ' ' + view.avgPct + '%';
+      } else { avgEl.textContent = ''; }
+      el.classList.toggle('voted', total > 0);
+      // 结论文案：填 {n}/{avg}/{pct.<key>}（{name} 已在服务端填好）
+      const cEl = el.querySelector('.poll-conclusion');
+      const tpl = conclTpls[code];
+      if (cEl && tpl && total > 0) {
+        const pct = {};
+        Object.keys(counts).forEach(function (k) { pct[k] = Math.round((counts[k] * 100) / total); });
+        cEl.textContent = tpl
+          .replace(/\{pct\.(\w+)\}/g, function (_, k) { return String(pct[k] || 0); })
+          .replace(/\{n\}/g, String(total))
+          .replace(/\{avg\}/g, view.avgPct != null ? String(view.avgPct) : '');
+        cEl.style.display = '';
+      } else if (cEl) { cEl.style.display = 'none'; }
+    }
+
+    function load() {
+      fetch(apiBase + '/polls?occ=' + encodeURIComponent(occ) + '&token=' + token)
+        .then(function (r) { return r.json(); })
+        .then(function (d) { Object.keys(d.polls || {}).forEach(function (c) { render(c, d.polls[c]); }); })
+        .catch(function () {});
+    }
+
+    function vote(code, key, btn) {
+      btn.disabled = true;
+      fetch(apiBase + '/polls/vote', {
+        method: 'POST', headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ poll_code: code, occ_key: occ, answer_key: key, client_token: token }),
+      }).then(function (r) { return r.json(); })
+        .then(function (d) { if (d && d.poll) render(code, d.poll); })
+        .catch(function () {})
+        .finally(function () { btn.disabled = false; });
+    }
+
+    root.querySelectorAll('.poll').forEach(function (el) {
+      const code = el.getAttribute('data-poll');
+      el.querySelectorAll('.poll-opt').forEach(function (btn) {
+        btn.addEventListener('click', function () { vote(code, btn.getAttribute('data-key'), btn); });
+      });
+    });
+    // 构建期烘焙值先渲染（首屏即有分布），随后拉实时值覆盖
+    if (baked) Object.keys(baked).forEach(function (c) { render(c, { counts: baked[c].counts, total: baked[c].total, avgPct: null, mine: null }); });
+    load();
+  })();
+</script>
+
+<style>
+  .polls { margin-top: 22px; }
+  .polls-hint { font-size: 13px; margin: 2px 0 12px; }
+  .poll { background: var(--card); border: 1px solid var(--border, var(--line)); border-radius: 12px; padding: 14px 16px; margin-bottom: 12px; }
+  .poll-q { font-weight: 600; margin-bottom: 10px; }
+  .poll-opts { display: flex; flex-direction: column; gap: 8px; }
+  .poll-opt { position: relative; overflow: hidden; display: flex; align-items: center; justify-content: space-between;
+    gap: 10px; text-align: left; padding: 10px 12px; border: 1px solid var(--border, var(--line));
+    border-radius: 8px; background: transparent; color: inherit; font: inherit; cursor: pointer; }
+  .poll-opt:hover { border-color: var(--green); }
+  .poll-opt.mine { border-color: var(--green); box-shadow: inset 0 0 0 1px var(--green); }
+  .poll-bar { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: color-mix(in srgb, var(--green) 16%, transparent);
+    transition: width .35s ease; z-index: 0; }
+  .poll-lbl, .poll-pct { position: relative; z-index: 1; }
+  .poll-pct { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--muted); }
+  .poll-opt.mine .poll-pct { color: var(--green); }
+  .poll-meta { font-size: 13px; margin-top: 10px; }
+  .poll-conclusion { margin: 10px 0 0; padding-top: 10px; border-top: 1px dashed var(--border, var(--line));
+    font-size: 14px; font-weight: 600; color: var(--white, inherit); }
+</style>
