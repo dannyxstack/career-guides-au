@@ -1,0 +1,5 @@
+# robots.txt for aicareergraph.com
+User-agent: *
+Allow: /
+
+Sitemap: https://aicareergraph.com/sitemap-index.xml
