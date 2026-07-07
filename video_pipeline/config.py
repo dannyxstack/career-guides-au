@@ -61,6 +61,15 @@ AZURE_TRANSLATOR_REGION = os.getenv("AZURE_TRANSLATOR_REGION", "")
 AZURE_TRANSLATOR_ENDPOINT = os.getenv(
     "AZURE_TRANSLATOR_ENDPOINT", "https://api.cognitive.microsofttranslator.com")
 
+# ---- 百度翻译开放平台·大模型文本翻译（appid + Bearer Token，JSON 接口）----
+# 控制台 fanyi-api.baidu.com；端点 /ait/api/aiTextTranslate，鉴权 Authorization: Bearer <API_KEY>。
+BAIDU_TRANSLATE_APPID = os.getenv("BAIDU_TRANSLATE_APPID", "")
+BAIDU_TRANSLATE_API_KEY = os.getenv("BAIDU_TRANSLATE_API_KEY", "")  # 大模型翻译 Bearer token
+BAIDU_TRANSLATE_ENDPOINT = os.getenv(
+    "BAIDU_TRANSLATE_ENDPOINT", "https://fanyi-api.baidu.com/ait/api/aiTextTranslate")
+# 全局限速（次/秒）：多线程共享，避免触发频率限制。按你套餐 QPS 调整。
+BAIDU_TRANSLATE_QPS = float(os.getenv("BAIDU_TRANSLATE_QPS", "10"))
+
 # ---- Pexels（B-roll，后期阶段）----
 PEXELS_API_KEY = os.getenv("PEXELS_API_KEY", "")
 

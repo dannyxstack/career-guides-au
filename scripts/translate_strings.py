@@ -7,7 +7,7 @@
 import sys, os, argparse, json
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
-from video_pipeline import config, llm, azure_translate
+from video_pipeline import config, llm, azure_translate, baidu_translate
 
 LOCALES = ["en", "es", "pt", "vi", "th", "ms", "id", "zh-Hant", "ja", "de"]
 LANG_NAME = {"en": "English", "es": "Spanish (español)", "pt": "Portuguese (português)",
@@ -53,7 +53,14 @@ def system_prompt(lang, loc=None):
 
 
 def translate_batch(texts, lang, loc=None):
-    # 优先 Azure Translator（专用 MT，便宜快）；配额耗尽则本进程禁用并回退到 LLM（DeepSeek）。
+    # 后端优先级：百度大模型翻译 -> Azure Translator -> LLM（DeepSeek）。
+    # 每个专用后端遇永久性失败（凭据/配额）时本进程禁用并回退到下一个。
+    if baidu_translate.enabled():
+        try:
+            return baidu_translate.translate(texts, loc)
+        except baidu_translate.BaiduAuthError as e:
+            baidu_translate.disable()
+            print(f"[baidu] 不可用，回退 Azure/DeepSeek：{e}", flush=True)
     if azure_translate.enabled():
         try:
             return azure_translate.translate(texts, loc)

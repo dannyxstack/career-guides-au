@@ -14,7 +14,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, os.path.dirname(__file__))
 from db.connection import get_cursor
-from video_pipeline import config, llm, azure_translate
+from video_pipeline import config, llm, azure_translate, baidu_translate
 from scripts.translate_strings import LOCALES, LANG_NAME, system_prompt, translate_batch
 
 _print_lock = threading.Lock()
@@ -44,8 +44,9 @@ def do_chunk(loc, chunk, model):
             mid = len(chunk) // 2
             return do_chunk(loc, chunk[:mid], model) + do_chunk(loc, chunk[mid:], model)
         return []  # 单条仍失败，跳过（下次重跑补）
-    # 按实际后端打 gen_model 标签（Azure 优先，配额耗尽后回退 LLM）
-    used = azure_translate.MODEL_LABEL if azure_translate.enabled() else model
+    # 按实际后端打 gen_model 标签（百度 -> Azure -> LLM 的优先级）
+    used = (baidu_translate.MODEL_LABEL if baidu_translate.enabled()
+            else azure_translate.MODEL_LABEL if azure_translate.enabled() else model)
     rows = [(r["src_hash"], loc, t, used) for r, t in zip(chunk, res) if t]
     if rows:
         with get_cursor() as cur:
