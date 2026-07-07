@@ -4,7 +4,8 @@
 import outlinesRaw from '../data/country-outline.json';
 import { occByCountry, catSlug, name as occName } from './data';
 
-const outlines = outlinesRaw as Record<string, [number, number][]>;
+// 每国一组环（多边形外环，含周边岛屿）
+const outlines = outlinesRaw as Record<string, [number, number][][]>;
 
 export interface RiskRect { x: number; y: number; w: number; h: number; i: number }
 export interface OccMeta {
@@ -32,21 +33,24 @@ export function riskColor(v: number): string {
   return `rgb(${c[0]},${c[1]},${c[2]})`;
 }
 
-// 把经纬度环投影（等距 + cos(midLat) 横向校正）并等比缩放居中到 W×H 内，返回 SVG path。
-function outlineToPath(ring: [number, number][], W: number, H: number, margin: number): string {
-  const lons = ring.map((p) => p[0]), lats = ring.map((p) => p[1]);
+// 把国家的全部环（多边形，含岛屿）用同一变换投影（等距 + cos(midLat) 横向校正）
+// 等比缩放居中到 W×H 内，返回含多个子路径的 SVG path。
+function outlineToPath(rings: [number, number][][], W: number, H: number, margin: number): string {
+  const all = rings.flat();
+  if (all.length === 0) return '';
+  const lons = all.map((p) => p[0]), lats = all.map((p) => p[1]);
   const minLon = Math.min(...lons), maxLon = Math.max(...lons);
   const minLat = Math.min(...lats), maxLat = Math.max(...lats);
   const kx = Math.cos(((minLat + maxLat) / 2) * Math.PI / 180);
-  const gw = (maxLon - minLon) * kx, gh = maxLat - minLat;
+  const gw = (maxLon - minLon) * kx || 1, gh = (maxLat - minLat) || 1;
   const s = Math.min((W - 2 * margin) / gw, (H - 2 * margin) / gh);
   const dw = gw * s, dh = gh * s;
   const ox = (W - dw) / 2, oy = (H - dh) / 2;
-  const pts = ring.map(([lon, lat]) => [
-    ox + (lon - minLon) * kx * s,
-    oy + (maxLat - lat) * s,
-  ]);
-  return 'M' + pts.map((p) => `${p[0].toFixed(1)} ${p[1].toFixed(1)}`).join('L') + 'Z';
+  const project = (ring: [number, number][]) =>
+    'M' + ring.map(([lon, lat]) =>
+      `${(ox + (lon - minLon) * kx * s).toFixed(1)} ${(oy + (maxLat - lat) * s).toFixed(1)}`
+    ).join('L') + 'Z';
+  return rings.map(project).join('');
 }
 
 // --- squarified treemap（Bruls et al.）---
@@ -110,7 +114,7 @@ function splitAspect(r: SqRect<number>, cap: number): SqRect<number>[] {
   return out;
 }
 
-const W = 1000, H = 640;
+const W = 1600, H = 720;  // 宽屏画布（数据量大，横向铺更多格）
 const OUTER = 6;   // 画布外边距
 const GAP = 12;    // 分类块之间的大间隔
 const LABEL = 22;  // 分类块顶部标题高度
@@ -127,8 +131,8 @@ export function buildRiskMap(country: string): RiskLayout {
     workforce: o.workforce_size as number,
     score: o.overall_score,
   }));
-  const ring = outlines[country];
-  const outlinePath = ring ? outlineToPath(ring, W, H, 30) : '';
+  const rings = outlines[country];
+  const outlinePath = rings ? outlineToPath(rings, W, H, 30) : '';
 
   if (occs.length === 0) {
     return { W, H, rects: [], occs, catBlocks: [], outlinePath, total: 0, hasData: false };
