@@ -1,7 +1,7 @@
 {
 "es": {
 "ui": {
-"siteTitle": "AI Career Graph",
+"siteTitle": "Gráfico de Carrera de IA",
 "tagline": "Guías de ocupación basadas en datos",
 "salary": "Salario",
 "ratings": "Valoraciones",
@@ -10,7 +10,7 @@
 "qualifications": "Cualificaciones",
 "visa": "Migración",
 "suitability": "Para quién es",
-"faq": "FAQ",
+"faq": "Preguntas frecuentes",
 "compare": "Comparar",
 "nonMig": "No es una ocupación de migración calificada",
 "fit": "Encaja",
@@ -165,7 +165,7 @@
 "hQ2T": "¿Qué trabajos son más seguros?",
 "hQ2B": "Explora carreras con bajo riesgo de IA, alto crecimiento y amigables para migración en los rankings.",
 "hQ2Go": "Ver rankings →",
-"hQ3T": "¿Qué debería aprender después?",
+"hQ3T": "¿Qué debería aprender en la era de la IA?",
 "hQ3B": "Busca tu carrera para ver habilidades futuras, una ruta de actualización para la era IA y roles adyacentes más seguros.",
 "hQ3Go": "Buscar una carrera →",
 "hBottomCountry": "Elige tu país",
@@ -203,7 +203,15 @@
 "hSrAiHigherExp": "Mayor exposición a IA",
 "hSrAiMixed": "Impacto mixto de IA",
 "hSrMigFriendly": "Favorable para migración",
-"hSrMigRestricted": "Migración restringida"
+"hSrMigRestricted": "Migración restringida",
+"hHeadline": "La IA está remodelando {n} empleos en todo el mundo: ¿el tuyo sigue en la zona segura?",
+"hHotH": "Búsquedas populares de carreras",
+"hHotB": "Lo que la gente está comprobando sobre los riesgos y perspectivas de la IA",
+"hTk1": "Los puestos con mayor exposición a la IA en {cat}: {a}, {b}, {c}",
+"hTk2": "{name}: estimado ~{pct}% de probabilidad de desplazamiento por IA en 5 años",
+"hTk6": "{name} tiene una puntuación de exposición a IA de {pct}/100",
+"hTk4": "{n} personas trabajando como {name} están considerando cambiar de carrera (encuesta de visitantes)",
+"hTk5": "{n} lectores califican el riesgo de reemplazo por IA de {name} en aproximadamente {pct}% (encuesta a visitantes)"
 },
 "dim": {
 "learning_difficulty": "Aprendizaje",
@@ -234,7 +242,7 @@
 },
 "pt": {
 "ui": {
-"siteTitle": "AI Career Graph",
+"siteTitle": "Gráfico de carreira da IA",
 "tagline": "Guias de ocupação baseados em dados",
 "salary": "Salário",
 "ratings": "Avaliações",
@@ -243,7 +251,7 @@
 "qualifications": "Qualificações",
 "visa": "Migração",
 "suitability": "Para quem serve",
-"faq": "FAQ",
+"faq": "Perguntas frequentes",
 "compare": "Comparar",
 "nonMig": "Não é uma ocupação de migração qualificada",
 "fit": "Adequado",
@@ -398,7 +406,7 @@
 "hQ2T": "Quais empregos são mais seguros?",
 "hQ2B": "Navegue por carreiras de baixo risco de IA, alto crescimento e favoráveis à migração nos rankings.",
 "hQ2Go": "Ver rankings →",
-"hQ3T": "O que devo aprender a seguir?",
+"hQ3T": "O que devo aprender na era da IA?",
 "hQ3B": "Pesquise sua carreira para ver habilidades futuras, um caminho de atualização para a era da IA e funções adjacentes mais seguras.",
 "hQ3Go": "Pesquisar uma carreira →",
 "hBottomCountry": "Escolha seu país",
@@ -436,7 +444,15 @@
 "hSrAiHigherExp": "Maior exposição à IA",
 "hSrAiMixed": "Impacto misto de IA",
 "hSrMigFriendly": "Amigável para migração",
-"hSrMigRestricted": "Migração restrita"
+"hSrMigRestricted": "Migração restrita",
+"hHeadline": "A IA está a remodelar {n} empregos em todo o mundo — o seu ainda está na zona segura?",
+"hHotH": "Buscas populares de carreira",
+"hHotB": "O que as pessoas estão verificando sobre os riscos e perspectivas da IA",
+"hTk1": "Os cargos de maior exposição à IA em {cat}: {a}, {b}, {c}",
+"hTk2": "{name}: chance estimada de ~{pct}% de substituição pela IA em até 5 anos",
+"hTk6": "{name} tem uma pontuação de exposição à IA de {pct}/100",
+"hTk4": "{n} pessoas que trabalham como {name} estão a considerar mudar de carreira (enquete de visitantes)",
+"hTk5": "{n} leitores avaliam o risco de substituição por IA de {name} em cerca de {pct}% (enquete para visitantes)"
 },
 "dim": {
 "learning_difficulty": "Aprendizado",
@@ -467,7 +483,7 @@
 },
 "vi": {
 "ui": {
-"siteTitle": "AI Career Graph",
+"siteTitle": "Đồ thị sự nghiệp AI",
 "tagline": "Hướng dẫn nghề nghiệp dựa trên dữ liệu",
 "salary": "Lương",
 "ratings": "Đánh giá",
@@ -631,7 +647,7 @@
 "hQ2T": "Công việc nào an toàn hơn?",
 "hQ2B": "Duyệt các nghề có rủi ro AI thấp, tăng trưởng cao và thân thiện di cư trong bảng xếp hạng.",
 "hQ2Go": "Xem xếp hạng →",
-"hQ3T": "Tôi nên học gì tiếp theo?",
+"hQ3T": "Tôi nên học gì trong thời đại AI?",
 "hQ3B": "Tra cứu nghề của bạn để xem kỹ năng tương lai, lộ trình nâng cấp thời AI và các vai trò an toàn hơn.",
 "hQ3Go": "Tra cứu nghề →",
 "hBottomCountry": "Chọn quốc gia của bạn",
@@ -669,7 +685,15 @@
 "hSrAiHigherExp": "Tiếp xúc AI cao hơn",
 "hSrAiMixed": "Tác động AI hỗn hợp",
 "hSrMigFriendly": "Thân thiện với di cư",
-"hSrMigRestricted": "Hạn chế di cư"
+"hSrMigRestricted": "Hạn chế di cư",
+"hHeadline": "AI đang định hình lại {n} công việc trên toàn thế giới - công việc của bạn có còn nằm trong vùng an toàn?",
+"hHotH": "Các tìm kiếm về nghề nghiệp phổ biến",
+"hHotB": "Điều mọi người đang kiểm tra đối với rủi ro và triển vọng AI",
+"hTk1": "Các vị trí có mức độ tiếp xúc với AI cao nhất trong {cat}: {a}, {b}, {c}",
+"hTk2": "{name}: ước tính ~{pct}% khả năng thay thế AI trong 5 năm",
+"hTk6": "{name} có điểm tiếp xúc AI là {pct}/100",
+"hTk4": "{n} người đang làm {name} đang cân nhắc chuyển nghề (bản thăm dò khách truy cập)",
+"hTk5": "{n} người đọc đánh giá mức độ rủi ro thay thế AI của {name} là khoảng {pct}% (bình chọn từ người truy cập)"
 },
 "dim": {
 "learning_difficulty": "Khó học",
@@ -700,7 +724,7 @@
 },
 "th": {
 "ui": {
-"siteTitle": "AI Career Graph",
+"siteTitle": "กราฟอาชีพ AI",
 "tagline": "คู่มืออาชีพที่ขับเคลื่อนด้วยข้อมูล",
 "salary": "เงินเดือน",
 "ratings": "คะแนน",
@@ -864,7 +888,7 @@
 "hQ2T": "งานไหนปลอดภัยกว่า?",
 "hQ2B": "เรียกดูอาชีพที่มีความเสี่ยง AI ต่ำ เติบโตสูง และเหมาะกับการย้ายถิ่นในการจัดอันดับ",
 "hQ2Go": "ดูการจัดอันดับ →",
-"hQ3T": "ฉันควรเรียนรู้อะไรต่อไป?",
+"hQ3T": "ในยุค AI ฉันควรเรียนรู้อะไร?",
 "hQ3B": "ค้นหาอาชีพของคุณเพื่อดูทักษะในอนาคต เส้นทางอัปเกรดในยุค AI และบทบาทที่ปลอดภัยกว่าใกล้เคียง",
 "hQ3Go": "ค้นหาอาชีพ →",
 "hBottomCountry": "เลือกประเทศของคุณ",
@@ -902,7 +926,15 @@
 "hSrAiHigherExp": "การสัมผัส AI สูง",
 "hSrAiMixed": "ผลกระทบผสมจาก AI",
 "hSrMigFriendly": "เป็นมิตรต่อการย้ายถิ่น",
-"hSrMigRestricted": "ข้อจำกัดการย้ายถิ่น"
+"hSrMigRestricted": "ข้อจำกัดการย้ายถิ่น",
+"hHeadline": "AI กำลังเปลี่ยนงาน {n} ทั่วโลก — งานของคุณยังอยู่ในโซนปลอดภัยหรือไม่?",
+"hHotH": "การค้นหาอาชีพยอดนิยม",
+"hHotB": "สิ่งที่ผู้คนกำลังตรวจสอบเกี่ยวกับความเสี่ยงและแนวโน้มของ AI",
+"hTk1": "ตำแหน่งที่มีการสัมผัสกับ AI สูงสุดใน {cat}: {a}, {b}, {c}",
+"hTk2": "{name}: คาดว่ามีโอกาส ~{pct}% ที่จะถูกแทนที่ด้วย AI ภายใน 5 ปี",
+"hTk6": "{name} มีคะแนนการเปิดรับ AI ที่ {pct}/100",
+"hTk4": "{n} คนที่ทำงานเป็น {name} กำลังพิจารณาเปลี่ยนอาชีพ (โพลผู้เยี่ยมชม)",
+"hTk5": "ผู้อ่าน {n} ให้คะแนนความเสี่ยงในการแทนที่ AI ของ {name} ที่ประมาณ {pct}% (ผลโพลผู้เยี่ยมชม)"
 },
 "dim": {
 "learning_difficulty": "การเรียนรู้",
@@ -1097,7 +1129,7 @@
 "hQ2T": "Pekerjaan mana yang lebih selamat?",
 "hQ2B": "Lihat kerjaya berisiko AI rendah, pertumbuhan tinggi dan mesra migrasi dalam peringkat.",
 "hQ2Go": "Lihat peringkat →",
-"hQ3T": "Apa yang patut saya pelajari seterusnya?",
+"hQ3T": "Apa yang patut saya pelajari dalam era AI?",
 "hQ3B": "Cari kerjaya anda untuk melihat kemahiran masa depan, laluan peningkatan era AI dan peranan bersebelahan yang lebih selamat.",
 "hQ3Go": "Cari kerjaya →",
 "hBottomCountry": "Pilih negara anda",
@@ -1135,7 +1167,15 @@
 "hSrAiHigherExp": "Pendedahan AI tinggi",
 "hSrAiMixed": "Kesan AI bercampur",
 "hSrMigFriendly": "Mesra migrasi",
-"hSrMigRestricted": "Migrasi terhad"
+"hSrMigRestricted": "Migrasi terhad",
+"hHeadline": "AI sedang membentuk semula {n} pekerjaan di seluruh dunia — pekerjaanmu masih dalam zon selamat?",
+"hHotH": "Pencarian karier yang popular",
+"hHotB": "Apa yang sedang diperiksa orang mengenai risiko AI dan prospeknya",
+"hTk1": "Peranan dengan paparan AI tertinggi dalam {cat}: {a}, {b}, {c}",
+"hTk2": "{name}: Kira-kira ~{pct}% kemungkinan penggantian AI dalam 5 tahun",
+"hTk6": "{name} mempunyai skor paparan AI sebanyak {pct}/100",
+"hTk4": "{n} orang yang bekerja sebagai {name} sedang mempertimbangkan untuk menukar karier (poll pelawat)",
+"hTk5": "{n} pembaca menilai risiko penggantian AI {name} pada kira-kira {pct}% (poll pelawat)"
 },
 "dim": {
 "learning_difficulty": "Kesukaran",
@@ -1330,7 +1370,7 @@
 "hQ2T": "Pekerjaan mana yang lebih aman?",
 "hQ2B": "Jelajahi karier dengan risiko AI rendah, pertumbuhan tinggi, dan ramah migrasi di peringkat.",
 "hQ2Go": "Lihat peringkat →",
-"hQ3T": "Apa yang harus saya pelajari selanjutnya?",
+"hQ3T": "Apa yang harus saya pelajari di era AI?",
 "hQ3B": "Cari karier Anda untuk melihat keterampilan masa depan, jalur peningkatan era AI, dan peran tetangga yang lebih aman.",
 "hQ3Go": "Cari karier →",
 "hBottomCountry": "Pilih negara Anda",
@@ -1368,7 +1408,15 @@
 "hSrAiHigherExp": "Eksposur AI lebih tinggi",
 "hSrAiMixed": "Dampak AI campuran",
 "hSrMigFriendly": "Ramah migrasi",
-"hSrMigRestricted": "Migrasi terbatas"
+"hSrMigRestricted": "Migrasi terbatas",
+"hHeadline": "AI sedang membentuk ulang {n} pekerjaan di seluruh dunia — apakah pekerjaan Anda masih dalam zona aman?",
+"hHotH": "Pencarian karir populer",
+"hHotB": "Apa yang orang periksa tentang risiko dan prospek AI",
+"hTk1": "Peran dengan paparan AI tertinggi dalam {cat}: {a}, {b}, {c}",
+"hTk2": "{name}: diperkirakan ~{pct}% kemungkinan penggantian AI dalam 5 tahun",
+"hTk6": "{name} memiliki skor paparan AI sebesar {pct}/100",
+"hTk4": "{n} orang yang bekerja sebagai {name} sedang mempertimbangkan untuk beralih karir (poll pengunjung)",
+"hTk5": "{n} pembaca menilai risiko penggantian AI {name} sekitar {pct}% (poll pengunjung)"
 },
 "dim": {
 "learning_difficulty": "Pembelajaran",
@@ -1399,7 +1447,7 @@
 },
 "zh-Hant": {
 "ui": {
-"siteTitle": "AI Career Graph",
+"siteTitle": "AI職業圖",
 "tagline": "數據驅動的職業指南",
 "salary": "薪資",
 "ratings": "評分",
@@ -1563,7 +1611,7 @@
 "hQ2T": "哪些工作更安全？",
 "hQ2B": "在排名中瀏覽低 AI 風險、高增長且利於移民的職業。",
 "hQ2Go": "查看排名 →",
-"hQ3T": "我接下來該學什麼？",
+"hQ3T": "AI 時代我該學什麼？",
 "hQ3B": "搜尋你的職業，查看未來技能、AI 時代升級路徑以及更安全的相鄰角色。",
 "hQ3Go": "搜尋職業 →",
 "hBottomCountry": "選擇你的國家",
@@ -1601,7 +1649,15 @@
 "hSrAiHigherExp": "較高AI暴露",
 "hSrAiMixed": "混合AI影響",
 "hSrMigFriendly": "適合移民",
-"hSrMigRestricted": "移民受限"
+"hSrMigRestricted": "移民受限",
+"hHeadline": "AI 正在重塑全球 {n} 職業：你的工作還在安全區嗎？",
+"hHotH": "熱門職業蒐索",
+"hHotB": "人們正在檢查人工智慧的風險和前景",
+"hTk1": "{cat}中AI暴露程度最高的角色：{a}、{b}、{c}",
+"hTk2": "{name}：估計5年內AI被取代的幾率約為{pct}%",
+"hTk6": "{name}的AI暴露得分為{pct}/100",
+"hTk4": "{n}以{name}工作的人正在考慮轉行（訪客調查）",
+"hTk5": "{n}讀者認為{name}的人工智慧替代風險約為{pct}%（訪問者調查）"
 },
 "dim": {
 "learning_difficulty": "學習",
@@ -1632,7 +1688,7 @@
 },
 "ja": {
 "ui": {
-"siteTitle": "AI Career Graph",
+"siteTitle": "AIキャリアグラフ",
 "tagline": "データに基づく職業ガイド",
 "salary": "給与",
 "ratings": "評価",
@@ -1796,7 +1852,7 @@
 "hQ2T": "どの仕事がより安全ですか？",
 "hQ2B": "ランキングでAIリスクが低く、成長性が高く、移住に有利なキャリアを探す。",
 "hQ2Go": "ランキングを見る →",
-"hQ3T": "次に何を学ぶべきですか？",
+"hQ3T": "AI時代に何を学ぶべきか？",
 "hQ3B": "あなたのキャリアを検索し、将来のスキル、AI時代のアップグレードパス、より安全な隣接職種を確認。",
 "hQ3Go": "キャリアを検索 →",
 "hBottomCountry": "国を選択",
@@ -1834,7 +1890,15 @@
 "hSrAiHigherExp": "AI影響大",
 "hSrAiMixed": "AI影響混合",
 "hSrMigFriendly": "移住に有利",
-"hSrMigRestricted": "移住制限あり"
+"hSrMigRestricted": "移住制限あり",
+"hHeadline": "AIは世界中の{n}の仕事に変革をもたらしている——あなたの仕事はまだ安全圏にありますか？",
+"hHotH": "人気のあるキャリア検索",
+"hHotB": "人々がAIのリスクと展望を検討していること",
+"hTk1": "{cat}におけるAI露出度が最も高い役職：{a}、{b}、{c}",
+"hTk2": "{name}: 5年以内にAIによる置き換えの確率はおよそ{pct}%と推定される",
+"hTk6": "{name}のAI露出スコアは{pct}/100である",
+"hTk4": "{n}人の{name}として働いている人々が転職を検討中（訪問者投票）",
+"hTk5": "{n}人の読者が{name}のAI置き換えリスクを約{pct}%と評価（訪問者アンケート）"
 },
 "dim": {
 "learning_difficulty": "学習",
@@ -1893,7 +1957,7 @@
 "growth": "Karriereaussichten",
 "growthKw": "Wachstumsbereiche",
 "compareTitle": "Vergleichen",
-"vs": "vs",
+"vs": "gegenüber",
 "winner": "Höher",
 "note": "Geschätzte Daten, nur indikativ",
 "sources": "Datenquellen",
@@ -2029,7 +2093,7 @@
 "hQ2T": "Welche Jobs sind sicherer?",
 "hQ2B": "Durchstöbere die Rankings nach Berufen mit niedrigem KI-Risiko, hohem Wachstum und migrationsfreundlichen Karrieren.",
 "hQ2Go": "Rankings anzeigen →",
-"hQ3T": "Was sollte ich als Nächstes lernen?",
+"hQ3T": "Was sollte ich im KI-Zeitalter lernen?",
 "hQ3B": "Durchsuche deine Karriere, um zukünftige Fähigkeiten, einen KI-Ära-Upgrade-Pfad und sicherere angrenzende Rollen zu sehen.",
 "hQ3Go": "Karriere durchsuchen →",
 "hBottomCountry": "Wähle dein Land",
@@ -2067,7 +2131,15 @@
 "hSrAiHigherExp": "Höhere KI-Exposition",
 "hSrAiMixed": "Gemischte KI-Auswirkungen",
 "hSrMigFriendly": "Migrationsfreundlich",
-"hSrMigRestricted": "Eingeschränkte Migration"
+"hSrMigRestricted": "Eingeschränkte Migration",
+"hHeadline": "KI verändert weltweit {n} Berufe – ist deiner noch in der sicheren Zone?",
+"hHotH": "Beliebte Karriere-Suchen",
+"hHotB": "Was Menschen bei der Überprüfung von KI-Risiken und -aussichten prüfen",
+"hTk1": "Höchstgradig kI-exponierte Rollen in {cat}: {a}, {b}, {c}",
+"hTk2": "{name}: Schätzungsweise ~{pct}% Chance auf Ersatz durch KI innerhalb von 5 Jahren",
+"hTk6": "{name} hat einen KI-Expositions-Score von {pct}/100",
+"hTk4": "{n} Personen, die als {name} arbeiten, erwägen einen Berufswechsel (Besucherumfrage)",
+"hTk5": "{n} Leser bewerten das Risiko der KI-Ersatzung bei {name} auf etwa {pct}% (Besucherumfrage)"
 },
 "dim": {
 "learning_difficulty": "Lernen",

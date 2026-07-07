@@ -7,6 +7,7 @@ from db.connection import get_cursor
 from scripts._i18n_fields import fetch_bundles, collect_from_bundle, needs_translation
 
 OUT = os.path.join(os.path.dirname(__file__), "..", "site", "src", "data")
+HOT_N = 16  # 首页「热门职业搜索」标签数
 
 # 评分维度极性：负向（越高越差）算综合分时反转
 POLARITY = {"income_level": 1, "job_demand": 1, "future_prospect": 1, "pr_friendliness": 1,
@@ -55,6 +56,14 @@ def build():
                 p["total"] += r["cnt"]
         except Exception as e:
             print(f"[export] 警告：读取 poll_agg 失败（{e}），跳过投票烘焙")
+        # 热门职业热度：{(country, slug): hits+seed_score}，供首页「热门职业搜索」板块
+        hot_score = {}
+        try:
+            cur.execute("SELECT country_code, slug, (hits + seed_score) AS score FROM occ_search_hits")
+            for r in cur.fetchall():
+                hot_score[(r["country_code"], r["slug"])] = int(r["score"])
+        except Exception as e:
+            print(f"[export] 警告：读取 occ_search_hits 失败（{e}），跳过热门职业")
         out = []
         for b in bundles:
             o = b["o"]
@@ -113,6 +122,33 @@ def build():
                              for x in dis_occ.get((o["country"], d["id"]), []) if x["id"] != o["id"]]
                 d.pop("id", None)
 
+        # 热门职业 top-N：按热度降序 + 分散（限每国/每类占比），标签各带国旗
+        ranked = sorted(
+            [o for o in out if hot_score.get((o["country"], o["slug"]))],
+            key=lambda o: hot_score[(o["country"], o["slug"])], reverse=True)
+        hot_list = []
+        for cap_c, cap_cat in ((2, 2), (3, 3), (99, 99)):  # 逐步放宽直到凑够
+            if len(hot_list) >= HOT_N:
+                break
+            per_country, per_cat = {}, {}
+            for o in hot_list:  # 复算已选计数
+                per_country[o["country"]] = per_country.get(o["country"], 0) + 1
+                per_cat[o["category"]] = per_cat.get(o["category"], 0) + 1
+            picked = {(o["country"], o["slug"]) for o in hot_list}
+            for o in ranked:
+                if len(hot_list) >= HOT_N:
+                    break
+                key = (o["country"], o["slug"])
+                if key in picked:
+                    continue
+                if per_country.get(o["country"], 0) >= cap_c or per_cat.get(o["category"], 0) >= cap_cat:
+                    continue
+                hot_list.append({"country": o["country"], "slug": o["slug"],
+                                 "cat": o["category"], "name_en": o["name_en"]})
+                picked.add(key)
+                per_country[o["country"]] = per_country.get(o["country"], 0) + 1
+                per_cat[o["category"]] = per_cat.get(o["category"], 0) + 1
+
         # 翻译记忆：{src_text: {locale: text}}，只导出实际存在的源串
         tr = {}
         try:
@@ -127,6 +163,9 @@ def build():
     path = os.path.join(OUT, "occupations.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, default=str)
+    # 热门职业（首页板块）
+    with open(os.path.join(OUT, "hot_occupations.json"), "w", encoding="utf-8") as f:
+        json.dump(hot_list, f, ensure_ascii=False)
     # 翻译记忆按语言拆分导出：{src_text:{locale:text}} -> 每语言一个 translations.<locale>.json
     # （单文件 9 语言达 ~195MB，超 GitHub 100MB 单文件上限，故按 locale 拆分，各约 20MB）
     by_locale: dict = {}
@@ -143,6 +182,7 @@ def build():
     print(f"[export] {len(out)} occupations -> {path}")
     print(f"[export] {len(tr)} 源串带译文 -> translations.<locale>.json × {len(by_locale)}")
     print(f"[export] {len(cats)} categories")
+    print(f"[export] {len(hot_list)} hot occupations -> hot_occupations.json")
 
 
 if __name__ == "__main__":

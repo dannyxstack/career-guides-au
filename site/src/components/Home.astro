@@ -1,7 +1,9 @@
 ---
 // 全球品牌入口首页（共享组件）：根 / 用 locale=en，/[locale]/ 用各语言。
 // 自带 global 头部/底部 + 同一套设计 token（不依赖某个国家的 Base 导航）。
-import { occupations, COUNTRIES, catSlug, COUNTRY_FLAG, countryName, strings, LOCALES, type Locale } from '../lib/data';
+import { occupations, COUNTRIES, catSlug, COUNTRY_FLAG, countryName, name, strings, LOCALES, type Locale } from '../lib/data';
+import { buildTicker } from '../lib/ticker';
+import hotRaw from '../data/hot_occupations.json';
 
 interface Props { locale: Locale }
 const { locale } = Astro.props as Props;
@@ -39,8 +41,22 @@ const SEARCH_I18N = {
   noResults: t.hSrNoResults, availIn: t.hSrAvailIn,
   aug: t.hSrAiAugmented, lowRisk: t.hSrAiLowRisk, higherExp: t.hSrAiHigherExp, mixed: t.hSrAiMixed,
   migFriendly: t.hSrMigFriendly, migRestricted: t.hSrMigRestricted,
+  browseTpl: t.hEnter, // 「进入{name}」，用于国家搜索结果
 };
 const hintText = t.hSearchHint.replace('{n}', String(total));
+
+// —— 痛点大标题：数字向下取整到 500，直击「全球 4500+ 职业」——
+const bigN = Math.floor(total / 500) * 500;
+const nStr = locale === 'zh-CN' || locale === 'zh-Hant' ? bigN + '+' : bigN.toLocaleString('en') + '+';
+const headline = t.hHeadline.replace('{n}', nStr);
+
+// —— 热门职业搜索（DB occ_search_hits → hot_occupations.json，标签带国旗）——
+const HOT = (hotRaw as { country: string; slug: string; cat: string; name_en: string }[]).map((h) => {
+  const o = occupations.find((x) => x.country === h.country && x.slug === h.slug);
+  return { cc: h.country, url: `/${h.country}/${locale}/${catSlug(h.cat)}/${h.slug}/`, label: o ? name(o, locale) : h.name_en };
+});
+// —— 滚动播报（构建期预生成的一批洞察句，前端每次一行轮播）——
+const TICKER = buildTicker(locale);
 
 const title = `${t.siteTitle} — ${t.hLead}`;
 const description = t.hSub;
@@ -100,41 +116,21 @@ const ld = [
     </header>
 
     <main class="wrap">
-      <!-- 1. Hero -->
-      <section class="hero-grid" data-section="hero">
-        <div>
-          <h1>AI Career Graph</h1>
-          <p class="lead">{t.hLead}</p>
-          <p class="sub">{t.hSub}</p>
-          <div class="cta-row">
-            <button class="btn primary" type="button" data-focus-search>{t.hCtaSearch}</button>
-            <a class="btn" href="#countries">{t.hCtaCountry}</a>
-            <a class="btn" href={`/${locale}/ai-graph/`}>{t.hCtaMap}</a>
-          </div>
-        </div>
-        <div class="hero-visual" aria-hidden="true">
-          <svg viewBox="0 0 360 300" xmlns="http://www.w3.org/2000/svg">
-            <rect x="0.5" y="0.5" width="359" height="299" rx="12" fill="var(--card)" stroke="var(--line)"/>
-            <line x1="40" y1="150" x2="340" y2="150" stroke="var(--line)" stroke-dasharray="4 4"/>
-            <line x1="190" y1="20" x2="190" y2="270" stroke="var(--line)" stroke-dasharray="4 4"/>
-            <text x="200" y="288" class="ax">AI →</text>
-            <text x="14" y="30" class="ax">Human moat ↑</text>
-            <g class="pt"><circle cx="300" cy="70" r="9" fill="#ef4444"/></g>
-            <g class="pt"><circle cx="285" cy="200" r="9" fill="#f59e0b"/></g>
-            <g class="pt"><circle cx="95" cy="90" r="9" fill="#2563eb"/></g>
-            <g class="pt"><circle cx="80" cy="210" r="9" fill="#10b981"/></g>
-            <g class="pt"><circle cx="150" cy="120" r="9" fill="#8b5cf6"/></g>
-          </svg>
-        </div>
-      </section>
-
-      <!-- 2. Global search -->
-      <section class="search-sec" data-section="search">
-        <div class="ac-wrap">
+      <!-- 1. Hero + prominent search -->
+      <section class="hero-single" data-section="hero">
+        <h1 class="headline">{headline}</h1>
+        <p class="sub hero-sub">{t.hSub}</p>
+        <div class="hero-search ac-wrap">
+          <svg class="search-ic" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 4a6 6 0 1 0 3.7 10.7l4.3 4.3 1.4-1.4-4.3-4.3A6 6 0 0 0 10 4zm0 2a4 4 0 1 1 0 8 4 4 0 0 1 0-8z"/></svg>
           <input id="q" type="search" autocomplete="off" placeholder={t.hSearchPh} />
           <div id="ac" class="ac" hidden></div>
         </div>
-        <p class="hint">{hintText}</p>
+        <p class="hint hero-hint">{hintText}</p>
+        {TICKER.length > 0 && (
+          <div class="ticker" data-section="ticker" aria-live="polite" aria-label="insights">
+            <span id="tk" class="ticker-line">{TICKER[0]}</span>
+          </div>
+        )}
       </section>
 
       <!-- 3. Country cards -->
@@ -180,6 +176,21 @@ const ld = [
         <h2>{t.hMethodH}</h2>
         <p class="muted prose">{t.hMethodB}</p>
       </section>
+
+      <!-- 5b. Popular career searches -->
+      {HOT.length > 0 && (
+        <section data-section="hot-occupations">
+          <h2>{t.hHotH}</h2>
+          <p class="muted">{t.hHotB}</p>
+          <div class="hot-tags">
+            {HOT.map((h) => (
+              <a class="hot-tag" href={h.url}>
+                <span class="flag" set:html={flag[h.cc]} />{h.label}
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
 
       <!-- 6. Who it's for -->
       <section data-section="who-its-for">
@@ -227,8 +238,26 @@ const ld = [
 
     <script type="application/json" id="search-data" set:html={JSON.stringify(SEARCH)} />
     <script type="application/json" id="search-i18n" set:html={JSON.stringify(SEARCH_I18N)} />
+    <script type="application/json" id="ticker-data" set:html={JSON.stringify(TICKER)} />
     <script is:inline>
       (function () {
+        // ticker: 每次展示一行，定时淡入淡出切换（构建期预生成的一批洞察句）
+        var tk = document.getElementById('tk');
+        var LINES = [];
+        try { LINES = JSON.parse(document.getElementById('ticker-data').textContent || '[]'); } catch (e) {}
+        if (tk && LINES.length > 1) {
+          var i = Math.floor(Math.random() * LINES.length);
+          tk.textContent = LINES[i];
+          setInterval(function () {
+            tk.style.opacity = '0';
+            setTimeout(function () {
+              i = (i + 1) % LINES.length;
+              tk.textContent = LINES[i];
+              tk.style.opacity = '1';
+            }, 350);
+          }, 4000);
+        }
+
         // theme toggle
         var btn = document.getElementById('theme-toggle');
         if (btn) {
@@ -267,9 +296,24 @@ const ld = [
         function migLabel(m) { return m === 1 ? I18N.migFriendly : m === 2 ? I18N.migRestricted : ''; }
         function esc(s) { return s.replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
 
-        function render(items) {
-          if (!items.length) { ac.innerHTML = '<div class="ac-empty">' + esc(I18N.noResults) + '</div>'; ac.hidden = false; return; }
-          ac.innerHTML = items.map(function (o) {
+        var BROWSE = I18N.browseTpl || 'Enter {name}';
+        // 国家匹配：按国家码或国家名，用于「输入职业或国家」
+        function countryHits(term) {
+          var out = [];
+          Object.keys(CN).forEach(function (cc) {
+            var nm = CN[cc] || cc;
+            if (cc.toLowerCase().indexOf(term) === 0 || nm.toLowerCase().indexOf(term) !== -1) out.push({ cc: cc, name: nm });
+          });
+          return out;
+        }
+        function render(items, countries) {
+          var chtml = (countries || []).map(function (c) {
+            return '<a class="ac-item ac-country" href="/' + c.cc + '/' + LOC + '/">' +
+              '<span class="r-name">' + esc(BROWSE.replace('{name}', c.name)) + '</span>' +
+              '<span class="r-meta">' + esc(c.cc) + ' →</span></a>';
+          }).join('');
+          if (!items.length && !chtml) { ac.innerHTML = '<div class="ac-empty">' + esc(I18N.noResults) + '</div>'; ac.hidden = false; return; }
+          var ihtml = items.map(function (o) {
             var multi = byName[o.n.toLowerCase()];
             var uniq = multi.filter(function (v, i) { return multi.indexOf(v) === i; });
             var meta = [CN[o.c] || o.c, o.cat, aiLabel(o), migLabel(o.m)].filter(Boolean).join(' · ');
@@ -277,17 +321,19 @@ const ld = [
             return '<a class="ac-item" href="/' + o.c + '/' + LOC + '/' + o.cs + '/' + o.s + '/">' +
               '<span class="r-name">' + esc(o.n) + '</span><span class="r-meta">' + esc(meta) + '</span>' + avail + '</a>';
           }).join('');
+          ac.innerHTML = chtml + ihtml;
           ac.hidden = false;
         }
         function search(term) {
           term = term.trim().toLowerCase();
           if (!term) { ac.hidden = true; ac.innerHTML = ''; return; }
+          var ch = countryHits(term).slice(0, 3);
           var hits = DATA.filter(function (o) { return o.n.toLowerCase().indexOf(term) !== -1; });
           hits.sort(function (a, b) {
             var as = a.n.toLowerCase().indexOf(term), bs = b.n.toLowerCase().indexOf(term);
             return as - bs || a.n.length - b.n.length;
           });
-          render(hits.slice(0, 12));
+          render(hits.slice(0, 12), ch);
         }
         if (q) {
           q.addEventListener('input', function () { search(q.value); });
@@ -343,21 +389,24 @@ const ld = [
       .btn.primary { background: var(--green); border-color: var(--green); color: #fff; }
       .muted { color: var(--muted); }
 
-      /* Hero */
-      .hero-grid { display: grid; grid-template-columns: 1.2fr 1fr; gap: 24px; align-items: center;
-        background: var(--hero); border: 1px solid var(--line); border-radius: 16px; padding: 36px 28px; margin: 12px 0 8px; }
-      .lead { font-size: 22px; font-weight: 600; margin: 0 0 10px; }
-      .sub { font-size: 16px; color: var(--muted); max-width: 560px; margin: 0 0 20px; }
-      .cta-row { display: flex; gap: 12px; flex-wrap: wrap; }
-      .hero-visual svg { width: 100%; height: auto; }
-      .hero-visual .ax { fill: var(--muted); font-size: 12px; }
-      .hero-visual .pt text { fill: var(--white); font-size: 12px; font-weight: 600; }
+      /* Hero (single-column, pain-point headline + prominent search) */
+      .hero-single { background: var(--hero); border: 1px solid var(--line); border-radius: 16px;
+        padding: 48px 28px 40px; margin: 12px 0 8px; text-align: center; }
+      .headline { font-size: 40px; line-height: 1.2; letter-spacing: -0.5px; font-weight: 800;
+        margin: 0 auto 14px; max-width: 800px; }
+      .hero-sub { font-size: 16px; color: var(--muted); max-width: 620px; margin: 0 auto 24px; }
+      .sub { font-size: 16px; color: var(--muted); }
 
       /* Search */
-      .search-sec { margin: 22px 0 8px; }
-      .ac-wrap { position: relative; }
-      #q { width: 100%; padding: 14px 16px; border-radius: 10px; border: 1px solid var(--line);
-        background: var(--card); color: var(--white); font-size: 16px; }
+      .hero-search { max-width: 620px; margin: 0 auto; }
+      .search-ic { position: absolute; left: 16px; top: 50%; transform: translateY(-50%);
+        width: 20px; height: 20px; fill: var(--muted); pointer-events: none; }
+      .ac-wrap { position: relative; text-align: left; }
+      #q { width: 100%; padding: 16px 18px 16px 46px; border-radius: 12px; border: 1px solid var(--line);
+        background: var(--card); color: var(--white); font-size: 17px; box-shadow: 0 6px 20px rgba(0,0,0,.10); }
+      #q:focus { outline: none; border-color: var(--green); box-shadow: 0 6px 22px rgba(5,150,105,.18); }
+      .ac-country .r-name { color: var(--green); }
+      .ac-country .r-meta { color: var(--muted); }
       .ac { position: absolute; top: calc(100% + 4px); left: 0; right: 0; z-index: 20; background: var(--card);
         border: 1px solid var(--line); border-radius: 10px; overflow: hidden; max-height: 420px; overflow-y: auto;
         box-shadow: 0 10px 28px rgba(0,0,0,.28); }
@@ -369,6 +418,20 @@ const ld = [
       .r-avail { color: var(--green); font-size: 12px; margin-top: 3px; }
       .ac-empty { padding: 14px; color: var(--muted); }
       .hint { color: var(--muted); font-size: 13px; margin: 8px 2px 0; }
+      .hero-hint { text-align: center; margin: 14px auto 0; }
+
+      /* Ticker: 搜索框下方，单行滚动播报 */
+      .ticker { max-width: 620px; margin: 16px auto 0; min-height: 22px; text-align: center; }
+      .ticker-line { display: inline-block; color: var(--muted); font-size: 14px; line-height: 1.5;
+        transition: opacity .35s ease; }
+
+      /* Popular career searches: 带国旗的标签云 */
+      .hot-tags { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 14px; }
+      .hot-tag { display: inline-flex; align-items: center; gap: 8px; font-size: 14px;
+        padding: 7px 14px; border-radius: 999px; border: 1px solid var(--line);
+        background: var(--card); color: var(--white); text-decoration: none; }
+      .hot-tag:hover { border-color: var(--green); color: var(--green); }
+      .hot-tag .flag svg { width: 20px; height: 14px; border-radius: 2px; box-shadow: 0 0 0 1px var(--line); }
 
       /* Cards layout */
       .cards-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 14px; }
@@ -395,17 +458,18 @@ const ld = [
         padding-top: 28px; border-top: 1px solid var(--line); }
 
       @media (max-width: 900px) {
-        .hero-grid { grid-template-columns: 1fr; }
-        .hero-visual { order: -1; max-width: 420px; }
         .cards-3 { grid-template-columns: repeat(2, 1fr); }
+        .headline { font-size: 34px; }
       }
       @media (max-width: 560px) {
         .wrap { padding: 16px 12px 48px; }
         .site-head { padding: 12px 14px; flex-wrap: wrap; gap: 8px; }
         h1 { font-size: 30px; }
-        .hero-grid { padding: 22px 16px; }
+        .hero-single { padding: 30px 16px 28px; }
+        .headline { font-size: 26px; }
+        #q { font-size: 16px; }
         .cards-3, .cards-2 { grid-template-columns: 1fr; }
-        .cta-row .btn, .bottom-cta .btn { flex: 1 1 auto; text-align: center; }
+        .bottom-cta .btn { flex: 1 1 auto; text-align: center; }
       }
     </style>
   </body>
