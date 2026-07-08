@@ -4,6 +4,7 @@
 // 各可用国家的数据块全部服务端渲染（仅激活国可见），点 Tab 时前端切换显隐并用
 // History API 把地址栏改为 /jobs/{slug}/{cc}（每国仍是可独立抓取的静态 URL）。
 import RatingRadar from './RatingRadar.astro';
+import PollBlock from './PollBlock.astro';
 import {
   jobBySlug, strings, tr, name, summary, radarLabels, radarValues, money,
   currencyOf, sourcesBody, countryName, countryTitleName, COUNTRY_FLAG, catSlug,
@@ -113,6 +114,10 @@ const activeCc = active && group.countries.some((o) => o.country === active)
     const cc = o.country;
     const cur = o.currency || currencyOf(cc);
     const radar = [{ name: nm, color: '#10b981', values: radarValues(o) }];
+    // 国家绑定的正文（各国内容不同：执照/英语/前景/FAQ 皆按国区分）
+    const z = o.i18n?.['zh-CN'] || {};
+    const trend = tr(z.trend_summary, locale);
+    const forecast = tr(z.forecast_note, locale);
     return (
       <section class="job-panel" data-cc={cc} hidden={cc !== activeCc}>
         <div class="job-stats">
@@ -164,6 +169,31 @@ const activeCc = active && group.countries.some((o) => o.country === active)
           <p class="card muted">{t.nonMig}. {nonMigVisaOf(cc, locale)}</p>
         )}
 
+        {(o.suitability?.fit?.length > 0 || o.suitability?.unfit?.length > 0) && (<>
+          <h2>{t.suitability}</h2>
+          <div class="grid" style="grid-template-columns:1fr 1fr">
+            <div class="card"><strong style="color:var(--green)">✓ {t.fit}</strong>
+              <ul>{(o.suitability.fit || []).map((x: string) => <li>{tr(x, locale)}</li>)}</ul></div>
+            <div class="card"><strong class="amber">✗ {t.unfit}</strong>
+              <ul>{(o.suitability.unfit || []).map((x: string) => <li>{tr(x, locale)}</li>)}</ul></div>
+          </div>
+        </>)}
+
+        {(trend || forecast || o.growth_areas.length > 0) && (<>
+          <h2>{t.growth}</h2>
+          {trend && <p>{trend}</p>}
+          {forecast && <p class="muted">{forecast}</p>}
+          {o.growth_areas.length > 0 && (
+            <p><span class="muted" style="font-size:13px">{t.growthKw}：</span><br />
+              {o.growth_areas.map((g: string) => <span class="tag" style="margin:6px 6px 0 0;display:inline-block">{g}</span>)}</p>
+          )}
+        </>)}
+
+        {o.faqs.length > 0 && (<>
+          <h2>{t.faq}</h2>
+          {o.faqs.map((f: any) => (<div style="margin-bottom:12px"><strong>{tr(f.question, locale)}</strong><div class="muted">{tr(f.answer, locale)}</div></div>))}
+        </>)}
+
         <h2>{t.sources}</h2>
         <p class="card muted" style="font-size:13px">{sourcesBody(cc, locale)}</p>
 
@@ -176,6 +206,9 @@ const activeCc = active && group.countries.some((o) => o.country === active)
       </section>
     );
   })}
+
+  <!-- 社区投票：occ_key=slug 跨国共享，放在国家特异区之后（全球一份，单实例）。 -->
+  <PollBlock slug={slug} locale={locale} name={dispName} baked={rep.polls} />
 </div>
 
 <script is:inline define:vars={{ slug, jobBase: jobHref(locale, slug) }}>
