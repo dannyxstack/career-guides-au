@@ -1,11 +1,8 @@
 // AI Job Risk Map 布局：按职业分类分成带间隔的大块（块面积∝该类总从业人数），
 // 每块内部用 squarified treemap 把各职业铺成长宽比接近 1 的矩形（面积∝从业人数）。
-// 颜色由页面按 automation_exposure 决定；国家边界作为背后隐约水印单独给出路径。
-import outlinesRaw from '../data/country-outline.json';
+// 颜色由页面按 automation_exposure 决定；国家轮廓改为静态 SVG 背景图（scripts/gen_outline_svg.py
+// 从 country-outline.json 预生成到 public/outlines/{cc}.svg），页面以 <image> 铺满同款画布对齐。
 import { occByCountry, catSlug, name as occName } from './data';
-
-// 每国一组环（多边形外环，含周边岛屿）
-const outlines = outlinesRaw as Record<string, [number, number][][]>;
 
 export interface RiskRect { x: number; y: number; w: number; h: number; i: number }
 export interface OccMeta {
@@ -15,7 +12,7 @@ export interface OccMeta {
 export interface CatBlock { x: number; y: number; w: number; h: number; text: string; count: number }
 export interface RiskLayout {
   W: number; H: number; rects: RiskRect[]; occs: OccMeta[];
-  catBlocks: CatBlock[]; outlinePath: string; total: number; hasData: boolean;
+  catBlocks: CatBlock[]; total: number; hasData: boolean;
 }
 
 // automation_exposure(1..10) -> 绿→黄→红
@@ -31,26 +28,6 @@ export function riskColor(v: number): string {
   const a = stops[seg], b = stops[seg + 1];
   const c = a.map((av, i) => Math.round(av + (b[i] - av) * lt));
   return `rgb(${c[0]},${c[1]},${c[2]})`;
-}
-
-// 把国家的全部环（多边形，含岛屿）用同一变换投影（等距 + cos(midLat) 横向校正）
-// 等比缩放居中到 W×H 内，返回含多个子路径的 SVG path。
-function outlineToPath(rings: [number, number][][], W: number, H: number, margin: number): string {
-  const all = rings.flat();
-  if (all.length === 0) return '';
-  const lons = all.map((p) => p[0]), lats = all.map((p) => p[1]);
-  const minLon = Math.min(...lons), maxLon = Math.max(...lons);
-  const minLat = Math.min(...lats), maxLat = Math.max(...lats);
-  const kx = Math.cos(((minLat + maxLat) / 2) * Math.PI / 180);
-  const gw = (maxLon - minLon) * kx || 1, gh = (maxLat - minLat) || 1;
-  const s = Math.min((W - 2 * margin) / gw, (H - 2 * margin) / gh);
-  const dw = gw * s, dh = gh * s;
-  const ox = (W - dw) / 2, oy = (H - dh) / 2;
-  const project = (ring: [number, number][]) =>
-    'M' + ring.map(([lon, lat]) =>
-      `${(ox + (lon - minLon) * kx * s).toFixed(1)} ${(oy + (maxLat - lat) * s).toFixed(1)}`
-    ).join('L') + 'Z';
-  return rings.map(project).join('');
 }
 
 // --- squarified treemap（Bruls et al.）---
@@ -131,11 +108,8 @@ export function buildRiskMap(country: string): RiskLayout {
     workforce: o.workforce_size as number,
     score: o.overall_score,
   }));
-  const rings = outlines[country];
-  const outlinePath = rings ? outlineToPath(rings, W, H, 30) : '';
-
   if (occs.length === 0) {
-    return { W, H, rects: [], occs, catBlocks: [], outlinePath, total: 0, hasData: false };
+    return { W, H, rects: [], occs, catBlocks: [], total: 0, hasData: false };
   }
 
   // 按分类聚合
@@ -171,5 +145,5 @@ export function buildRiskMap(country: string): RiskLayout {
     }
   }
 
-  return { W, H, rects, occs, catBlocks, outlinePath, total: occs.length, hasData: true };
+  return { W, H, rects, occs, catBlocks, total: occs.length, hasData: true };
 }

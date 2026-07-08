@@ -60,8 +60,10 @@ const desc = `Every occupation in ${cname} as a tile — area is the size of the
         <svg viewBox={`0 0 ${layout.W} ${layout.H}`} class="rm-svg"
              preserveAspectRatio="xMidYMid meet" role="img"
              aria-label={`AI job risk map of ${cname}`}>
-          <!-- 背后隐约的国家轮廓水印（淡填充） -->
-          {layout.outlinePath && <path class="rm-outline-fill" d={layout.outlinePath} />}
+          <!-- 背后隐约的国家轮廓：静态 SVG 背景图（预生成，见 scripts/gen_outline_svg.py） -->
+          <image class="rm-outline-img" href={`/outlines/${country}.svg`} x="0" y="0"
+                 width={layout.W} height={layout.H} preserveAspectRatio="xMidYMid meet"
+                 aria-hidden="true" />
           <!-- 职业矩形 -->
           <g class="rm-tiles">
             {layout.rects.map((r) => (
@@ -69,8 +71,6 @@ const desc = `Every occupation in ${cname} as a tile — area is the size of the
                     fill={meta[r.i].col} data-i={r.i} />
             ))}
           </g>
-          <!-- 国家边界描边（叠在上层，隐约可见） -->
-          {layout.outlinePath && <path class="rm-outline-stroke" d={layout.outlinePath} />}
           <!-- 分类块标题 -->
           <g class="rm-cats" aria-hidden="true">
             {layout.catBlocks.map((b) => {
@@ -153,10 +153,8 @@ const desc = `Every occupation in ${cname} as a tile — area is the size of the
     .rm-svg { width: 100%; height: auto; display: block; }
     .rm-tiles rect { cursor: pointer; stroke: var(--card); stroke-width: 1px; }
     .rm-tiles rect.on { stroke: var(--white); stroke-width: 2px; }
-    /* 背景轮廓：实体陆块相对深色填充（透过分类块缝隙隐约成形） */
-    .rm-outline-fill { fill: #000; opacity: .38; }
-    .rm-outline-stroke { fill: none; stroke: var(--white); stroke-width: 2; opacity: .2;
-      stroke-linejoin: round; pointer-events: none; }
+    /* 背景轮廓：预生成的静态 SVG（透过分类块缝隙隐约成形，不拦鼠标） */
+    .rm-outline-img { pointer-events: none; }
     .rm-cats text { fill: #fff; font-size: 12.5px; font-weight: 700; opacity: .95;
       paint-order: stroke; stroke: rgba(0,0,0,.6); stroke-width: 2.4px; pointer-events: none; }
     .rm-tip { position: absolute; z-index: 20; pointer-events: none; min-width: 180px;
