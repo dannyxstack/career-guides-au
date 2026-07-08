@@ -406,6 +406,37 @@ FAQ 为第9部分，固定标题为 `## 9. FAQ 常见问题`，包含 6~10 个�
 - 同一板块在循环中重复出现时，可用稳定 key 拼接（如 `rank-low-ai-replacement`、`country-card-au`）。
 - 新增/修改任何页面板块时同步补 `data-section`，保持全站可定位。
 
+### 多语言 URL 与 hreflang 规则（SEO 防惩罚）
+
+做多语言矩阵时，如果 URL 和标签没处理好，很容易被 Google 判定为「恶意刷流量」或「内容重复」而遭到惩罚。**新增任何多语言页面时必须做到以下三点**：
+
+**1. URL 结构：使用干净的「前缀模式」，语言作为最前置子路由**
+
+- 英语（默认）：裸 URL，不带语言前缀 —— `example.com/jobs/software-engineer`
+- 其余语言：语言码作为最前置前缀 —— `example.com/zh-CN/jobs/software-engineer`、`example.com/es/jobs/software-engineer`
+- 语言码沿用全站 `LOCALES` 完整码（`zh-CN` / `zh-Hant` / `es` …），与 `/[locale]/rankings/` 等既有路由一致，**不要为某个板块另造短码**。
+- 实现见 `data.ts` 的 `jobHref(locale, slug, country?)`：`en` 返回裸路径，其余加 `/{locale}` 前缀。
+
+**2. `<head>` 必须埋 `hreflang` 标签，且成对包含 `x-default`**
+
+这是告诉 Google「这些页面是同一内容的不同语言版本」的唯一标准方法。每个页面须列出所有已生成语言版本 + 一条 `x-default`（指向英文裸 URL，代表浏览器语言不在翻译列表时的默认展示）：
+
+```html
+<link rel="alternate" hreflang="en" href="https://example.com/jobs/software-engineer" />
+<link rel="alternate" hreflang="zh-Hans" href="https://example.com/zh-CN/jobs/software-engineer" />
+<link rel="alternate" hreflang="es" href="https://example.com/es/jobs/software-engineer" />
+<link rel="alternate" hreflang="x-default" href="https://example.com/jobs/software-engineer" />
+```
+
+- `hreflang` 值用规范 BCP-47：`zh-CN` 映射为 `zh-Hans`、`zh-Hant` 保持 `zh-Hant`，其余同 locale 码。映射在 `Base.astro` 内处理。
+- 通过 `Base.astro` 的 `alternates`（`{locale, href}[]`）+ `xDefault`（英文裸 URL）两个 prop 注入；辅助函数 `data.ts` 的 `jobAlternates(slug, country?)`。
+- **只列已实际生成的语言**（`JOBS_LOCALES`）。未生成的语言不得出现在 hreflang 里，其入口（如首页搜索）应回退到英文裸 URL。
+
+**3. canonical 自指，避免重复内容**
+
+- 每个语言/国家 URL 的 `<link rel="canonical">` 指向自身（`Base.astro` 已按 `Astro.url.pathname` 自动生成），保证各语言版本各自独立被索引。
+- 与旧版页面（`/[country]/[locale]/…`）内容重叠时，新 `/jobs` 体系 canonical 自指即可，不改动旧页面。
+
 ## 输出检查清单
 
 生成最终 Markdown 前检查：
