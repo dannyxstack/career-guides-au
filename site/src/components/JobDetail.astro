@@ -1,0 +1,241 @@
+---
+// /jobs 详情共用组件：上半层「全球通用 AI 区」+ 下半层「国家特异数据区」+ Tab 切换。
+// 英文单语（locale='en'）。全球 AI 数据取该 slug 任一国副本（AI 块跨国一致）。
+// 各可用国家的数据块全部服务端渲染（仅激活国可见），点 Tab 时前端切换显隐并用
+// History API 把地址栏改为 /jobs/{slug}/{cc}（每国仍是可独立抓取的静态 URL）。
+import RatingRadar from './RatingRadar.astro';
+import {
+  jobBySlug, strings, tr, name, summary, radarLabels, radarValues, money,
+  currencyOf, sourcesBody, countryName, countryTitleName, COUNTRY_FLAG, catSlug,
+  migRestrictedOccOf, migRestrictedNoteOf, nonMigVisaOf, disType, disLevel,
+  jobHref, type Locale,
+} from '../lib/data';
+
+interface Props { slug: string; active?: string | null; locale?: Locale }
+const { slug, active = null, locale = 'en' } = Astro.props as Props;
+const t = strings(locale);
+
+const group = jobBySlug(slug)!;
+const rep = group.rep;
+const ai = rep.ai;
+const nm = rep.name_en;              // 规范英文名（用于副标题）
+const dispName = name(rep, locale);  // 本地化职业名（H1 / SEO）
+// 激活国：URL 指定则用之，否则默认第一个（bare 页仍以全球 AI 区为重点）
+const activeCc = active && group.countries.some((o) => o.country === active)
+  ? active : group.countries[0].country;
+---
+<div class="job" data-slug={slug}>
+  <a class="muted" href={locale === 'en' ? '/' : `/${locale}/`}>← {t.siteTitle}</a>
+  <h1>{dispName}{dispName !== nm && <span class="muted" style="font-size:18px"> {nm}</span>}</h1>
+  <p class="muted job-lead">{t.jLead}</p>
+
+  <!-- ========== 上半层：全球通用 AI 区 ========== -->
+  {ai && (
+    <section class="ai-block" data-zone="global">
+      <div class="card ai-verdict">
+        <span class={`tag ${ai.verdict_type === 'compressed' ? 'bad' : ai.verdict_type === 'amplified' ? 'mig' : 'warn'}`}>
+          {ai.verdict_type === 'compressed' ? t.vCompressed : ai.verdict_type === 'amplified' ? t.vAmplified : t.vMixed}
+        </span>
+        <p style="margin:8px 0 0">{tr(ai.verdict_zh, locale)}</p>
+      </div>
+
+      {ai.aioe_pct != null && (
+        <div class="card" style="border-left:4px solid var(--green)">
+          <strong>{t.jAioeT}</strong>
+          <div style="display:flex;align-items:center;gap:12px;margin:10px 0 6px">
+            <div style="font-size:30px;font-weight:700;line-height:1">{ai.aioe_pct}<span style="font-size:15px;font-weight:500;color:var(--muted)"> / 100</span></div>
+            <div style="flex:1">
+              <div style="height:10px;border-radius:6px;background:var(--line);overflow:hidden">
+                <div style={`height:100%;width:${ai.aioe_pct}%;background:linear-gradient(90deg,#22c55e,#f59e0b,#ef4444)`}></div>
+              </div>
+              <p class="muted" style="margin:6px 0 0;font-size:13px">{t.jAioeD.replace('{pct}', String(ai.aioe_pct))}</p>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {(ai as any).disruptors && (ai as any).disruptors.length > 0 && (
+        <div class="card">
+          <strong class="amber">🤖 {t.aiDisrupt}</strong>
+          <ul class="disruptors">
+            {(ai as any).disruptors.map((d: any) => (
+              <li class="dis-item">
+                <div class="dis-head">
+                  {d.url ? <a class="dis-name" href={d.url} target="_blank" rel="noopener nofollow">{d.name}</a>
+                    : <span class="dis-name">{d.name}</span>}
+                  <span class="tag dis-type">{disType(d.type, locale)}</span>
+                  <span class={`tag dis-lvl lvl-${d.level}`}>{disLevel(d.level, locale)}</span>
+                  {d.year && <span class="dis-year">{d.year}</span>}
+                </div>
+                {d.scope_zh && <p class="dis-scope">{tr(d.scope_zh, locale)}</p>}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
+      <div class="grid" style="grid-template-columns:1fr 1fr">
+        <div class="card"><strong class="amber">⚠ {t.aiReplaced}</strong>
+          <ul>{ai.replaced_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
+        <div class="card"><strong style="color:var(--green)">↑ {t.aiAugmented}</strong>
+          <ul>{ai.augmented_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
+      </div>
+      <div class="grid" style="grid-template-columns:1fr 1fr">
+        <div class="card"><strong style="color:#2563eb">🛡 {t.aiMoat}</strong>
+          <ul>{ai.moat_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
+        <div class="card"><strong>{t.aiSkills}</strong>
+          <ul>{ai.skills_zh.map((x) => <li>{tr(x, locale)}</li>)}</ul></div>
+      </div>
+      <div class="card"><strong>{t.aiEntry}</strong>
+        <p class="muted" style="margin:6px 0 0;font-size:14px">{tr(ai.entry_narrowing_zh, locale)}</p></div>
+      {ai.upgrade_path_zh && (
+        <div class="card"><strong style="color:var(--green)">🚀 {t.aiUpgrade}</strong>
+          <p style="margin:6px 0 0;font-size:14px">{tr(ai.upgrade_path_zh, locale)}</p></div>
+      )}
+    </section>
+  )}
+
+  <!-- ========== 国家 Tab 栏 ========== -->
+  <h2 class="job-by-country">{t.jByCountry}</h2>
+  <div class="job-tabs" role="tablist" aria-label={t.jAvail}>
+    {group.countries.map((o) => (
+      <a class={`job-tab${o.country === activeCc ? ' on' : ''}`} role="tab"
+         data-cc={o.country} href={jobHref(locale, slug, o.country)}
+         data-title={`${dispName} · ${countryTitleName(o.country, locale)} — ${t.jTitleC} | ${t.siteTitle}`}
+         aria-selected={o.country === activeCc ? 'true' : 'false'}>
+        <span class="flag" set:html={COUNTRY_FLAG[o.country]} />{countryName(o.country, locale)}
+      </a>
+    ))}
+  </div>
+
+  <!-- ========== 下半层：国家特异数据区（逐国服务端渲染，仅激活国可见）========== -->
+  {group.countries.map((o) => {
+    const cc = o.country;
+    const cur = o.currency || currencyOf(cc);
+    const radar = [{ name: nm, color: '#10b981', values: radarValues(o) }];
+    return (
+      <section class="job-panel" data-cc={cc} hidden={cc !== activeCc}>
+        <div class="job-stats">
+          {o.overall_score != null && <span class="stat">{t.overall}: <b>{o.overall_score}/10</b></span>}
+          {o.workforce_size != null && <span class="stat">{t.jWork}: <b>{o.workforce_size.toLocaleString('en')}</b></span>}
+          <span class="stat">{t.code}: <b>{o.anzsco_code || o.occ_code || '—'}</b> ({o.occ_code_type})</span>
+          {o.is_migration === 1 ? <span class="tag mig">{t.migOcc}</span>
+            : o.is_migration === 2 ? <span class="tag warn">{migRestrictedOccOf(cc, locale)}</span>
+            : <span class="tag">{t.nonMig}</span>}
+        </div>
+
+        <h2>{t.ratings}{o.overall_score != null ? ` · ${t.overall} ${o.overall_score}/10` : ''}</h2>
+        <RatingRadar labels={radarLabels(locale)} series={radar} max={10} />
+
+        <h2>{t.salary}</h2>
+        <table>
+          <thead><tr><th>{t.experience}</th><th>{t.annual} ({cur})</th><th></th></tr></thead>
+          <tbody>{o.salaries.map((s: any) => (
+            <tr><td>{tr(s.label, locale)}</td><td class="amber">{money(s.min, cc)} ~ {money(s.max, cc)}</td><td class="muted">{tr(s.note, locale)}</td></tr>
+          ))}</tbody>
+        </table>
+
+        {o.education.length > 0 && (<>
+          <h2>{t.education}</h2>
+          <table><thead><tr><th>{t.stage}</th><th>{t.period}</th><th>{t.cost} ({cur})</th></tr></thead>
+            <tbody>{o.education.map((e: any) => (
+              <tr><td>{tr(e.stage, locale)}</td><td>{tr(e.duration, locale) || '—'}</td><td>{e.cost_min ? `${money(e.cost_min, cc)}~${money(e.cost_max, cc)}` : (tr(e.cost_note, locale) || '—')}</td></tr>
+            ))}</tbody></table>
+        </>)}
+
+        {o.qualifications.length > 0 && (<>
+          <h2>{t.qualifications}</h2>
+          <table><thead><tr><th>{t.qualification}</th><th>{t.issuer}</th><th></th></tr></thead>
+            <tbody>{o.qualifications.map((q: any) => (
+              <tr><td>{tr(q.name, locale)}</td><td class="muted">{tr(q.issuer, locale) || '—'}</td><td>{q.mandatory ? <span class="tag mig">{t.mandatory}</span> : <span class="tag">{t.optional}</span>}</td></tr>
+            ))}</tbody></table>
+        </>)}
+
+        <h2>{t.visa}{t.visaToSuffix.replace('{c}', countryName(cc, locale))}</h2>
+        {o.is_migration ? (
+          <>
+            {o.is_migration === 2 && <p class="card muted" style="font-size:13px;margin:0 0 10px">⚠ {migRestrictedNoteOf(cc, locale)}</p>}
+            <table><thead><tr><th>{t.visaCol}</th><th>{t.descCol}</th></tr></thead>
+              <tbody>{o.visa.map((v: any) => (
+                <tr><td><strong>{v.subclass}</strong> {tr(v.name, locale)}</td><td class="muted">{tr(v.desc, locale)}{v.min_score ? ` · ${t.inviteCutoff.replace('{n}', String(v.min_score)).replace('{asof}', v.score_asof || '')}` : ''}</td></tr>
+              ))}</tbody></table>
+          </>
+        ) : (
+          <p class="card muted">{t.nonMig}. {nonMigVisaOf(cc, locale)}</p>
+        )}
+
+        <h2>{t.sources}</h2>
+        <p class="card muted" style="font-size:13px">{sourcesBody(cc, locale)}</p>
+
+        <!-- 底部小入口：指向原来的老职业详情页（按该国 + 当前语言） -->
+        <p class="job-classic">
+          <a href={`/${cc}/${locale}/${catSlug(o.category)}/${o.slug}/`}>
+            {t.jClassic.replace('{c}', countryName(cc, locale))} →
+          </a>
+        </p>
+      </section>
+    );
+  })}
+</div>
+
+<script is:inline define:vars={{ slug, jobBase: jobHref(locale, slug) }}>
+  (function () {
+    var root = document.querySelector('.job[data-slug="' + slug + '"]');
+    if (!root) return;
+    var tabs = Array.prototype.slice.call(root.querySelectorAll('.job-tab'));
+    var panels = Array.prototype.slice.call(root.querySelectorAll('.job-panel'));
+    function activate(cc, push, title) {
+      var found = false;
+      panels.forEach(function (p) { var on = p.getAttribute('data-cc') === cc; p.hidden = !on; if (on) found = true; });
+      if (!found) return;
+      tabs.forEach(function (tb) {
+        var on = tb.getAttribute('data-cc') === cc;
+        tb.classList.toggle('on', on);
+        tb.setAttribute('aria-selected', on ? 'true' : 'false');
+        if (on && title !== false) { var tt = tb.getAttribute('data-title'); if (tt) document.title = tt; }
+      });
+      // History API：把地址栏改为该国专属 URL（含 locale 前缀），保证独立可索引
+      if (push) { try { history.pushState({ cc: cc }, '', jobBase + '/' + cc); } catch (e) {} }
+    }
+    tabs.forEach(function (tb) {
+      tb.addEventListener('click', function (e) {
+        e.preventDefault();
+        activate(tb.getAttribute('data-cc'), true);
+        root.querySelector('.job-tabs').scrollIntoView({ behavior: 'smooth', block: 'start' });
+      });
+    });
+    window.addEventListener('popstate', function () {
+      var m = location.pathname.match(/\/jobs\/[^/]+\/([A-Za-z]+)\/?$/);
+      if (m) activate(m[1].toUpperCase(), false);
+    });
+  })();
+</script>
+
+<style>
+  .job-lead { max-width: 720px; font-size: 15px; margin: 4px 0 18px; }
+  .job-tabs { display: flex; flex-wrap: wrap; gap: 8px; position: sticky; top: 0; z-index: 6;
+    background: var(--bg); padding: 12px 0; margin: 24px 0 6px; border-bottom: 1px solid var(--line); }
+  .job-tab { display: inline-flex; align-items: center; gap: 7px; font-size: 14px; font-weight: 600;
+    padding: 7px 14px; border-radius: 999px; border: 1px solid var(--line); background: var(--card);
+    color: var(--muted); cursor: pointer; }
+  .job-tab:hover { color: var(--white); border-color: var(--green); }
+  .job-tab.on { color: #fff; background: var(--green); border-color: var(--green); }
+  .job-tab .flag { display: inline-flex; }
+  .job-tab .flagsvg { width: 20px; height: 13px; border-radius: 2px; display: block; box-shadow: 0 0 0 1px var(--line); }
+  .job-stats { display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin: 14px 0 4px; font-size: 14px; }
+  .job-stats .stat { color: var(--muted); }
+  .job-stats .stat b { color: var(--white); }
+  .disruptors { list-style: none; margin: 10px 0 0; padding: 0; display: flex; flex-direction: column; gap: 10px; }
+  .dis-item { padding: 10px 12px; border: 1px solid var(--line); border-radius: 8px; }
+  .dis-head { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .dis-name { font-weight: 700; color: var(--green); text-decoration: none; }
+  .dis-type, .dis-lvl { font-size: 12px; }
+  .dis-lvl.lvl-partial { color: #d97706; border-color: #d97706; }
+  .dis-lvl.lvl-major { color: #ea580c; border-color: #ea580c; }
+  .dis-lvl.lvl-full { color: #dc2626; border-color: #dc2626; }
+  .dis-year { font-size: 12px; color: var(--muted); margin-left: auto; }
+  .dis-scope { margin: 6px 0 0; font-size: 14px; line-height: 1.6; }
+  .job-classic { margin: 20px 0 4px; font-size: 13px; text-align: right; }
+  .job-classic a { color: var(--muted); border-bottom: 1px dashed var(--line); padding-bottom: 1px; }
+  .job-classic a:hover { color: var(--green); border-color: var(--green); }
+</style>

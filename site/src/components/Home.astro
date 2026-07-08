@@ -1,7 +1,7 @@
 ---
 // 全球品牌入口首页（共享组件）：根 / 用 locale=en，/[locale]/ 用各语言。
 // 自带 global 头部/底部 + 同一套设计 token（不依赖某个国家的 Base 导航）。
-import { occupations, COUNTRIES, catSlug, COUNTRY_FLAG, countryName, name, strings, LOCALES, type Locale } from '../lib/data';
+import { occupations, COUNTRIES, catSlug, COUNTRY_FLAG, countryName, name, strings, LOCALES, JOBS_LOCALES, type Locale } from '../lib/data';
 import { buildTicker } from '../lib/ticker';
 import hotRaw from '../data/hot_occupations.json';
 
@@ -42,6 +42,8 @@ const SEARCH_I18N = {
   aug: t.hSrAiAugmented, lowRisk: t.hSrAiLowRisk, higherExp: t.hSrAiHigherExp, mixed: t.hSrAiMixed,
   migFriendly: t.hSrMigFriendly, migRestricted: t.hSrMigRestricted,
   browseTpl: t.hEnter, // 「进入{name}」，用于国家搜索结果
+  // /jobs 前缀：当前 locale 有对应 /jobs 语言版本则加前缀，否则回退英文裸 URL
+  jobsBase: (JOBS_LOCALES.includes(locale) && locale !== 'en') ? `/${locale}` : '',
 };
 const hintText = t.hSearchHint.replace('{n}', String(total));
 
@@ -238,6 +240,7 @@ const ld = [
 
     <script type="application/json" id="search-data" set:html={JSON.stringify(SEARCH)} />
     <script type="application/json" id="search-i18n" set:html={JSON.stringify(SEARCH_I18N)} />
+    <script type="application/json" id="flag-data" set:html={JSON.stringify(flag)} />
     <script type="application/json" id="ticker-data" set:html={JSON.stringify(TICKER)} />
     <script is:inline>
       (function () {
@@ -278,13 +281,16 @@ const ld = [
         var I18N = {};
         try { I18N = JSON.parse(document.getElementById('search-i18n').textContent || '{}'); } catch (e) {}
         var CN = I18N.cn || {};
+        var FLAGS = {};
+        try { FLAGS = JSON.parse(document.getElementById('flag-data').textContent || '{}'); } catch (e) {}
         var LOC = document.documentElement.getAttribute('data-locale') || 'en';
         var q = document.getElementById('q'), ac = document.getElementById('ac');
 
-        var byName = {};
+        // 按 slug 归一「同一职业跨国」：记录每个 slug 可用的国家（用于 Available Countries）
+        var bySlug = {};
         DATA.forEach(function (o) {
-          var k = o.n.toLowerCase();
-          (byName[k] = byName[k] || []).push(o.c);
+          var a = bySlug[o.s] = bySlug[o.s] || [];
+          if (a.indexOf(o.c) === -1) a.push(o.c);
         });
 
         function aiLabel(o) {
@@ -313,12 +319,15 @@ const ld = [
               '<span class="r-meta">' + esc(c.cc) + ' →</span></a>';
           }).join('');
           if (!items.length && !chtml) { ac.innerHTML = '<div class="ac-empty">' + esc(I18N.noResults) + '</div>'; ac.hidden = false; return; }
+          // 一职一条：链向全球聚合页 /jobs/{slug}，附「可用国家」国旗（SVG，禁 emoji）
           var ihtml = items.map(function (o) {
-            var multi = byName[o.n.toLowerCase()];
-            var uniq = multi.filter(function (v, i) { return multi.indexOf(v) === i; });
-            var meta = [CN[o.c] || o.c, o.cat, aiLabel(o), migLabel(o.m)].filter(Boolean).join(' · ');
-            var avail = uniq.length > 1 ? '<div class="r-avail">' + esc(I18N.availIn) + ' ' + uniq.map(function (c) { return CN[c] || c; }).join(', ') + '</div>' : '';
-            return '<a class="ac-item" href="/' + o.c + '/' + LOC + '/' + o.cs + '/' + o.s + '/">' +
+            var ccs = bySlug[o.s] || [o.c];
+            var meta = [o.cat, aiLabel(o), migLabel(o.m)].filter(Boolean).join(' · ');
+            var flags = ccs.map(function (c) {
+              return FLAGS[c] ? '<span class="r-flag" title="' + esc(CN[c] || c) + '">' + FLAGS[c] + '</span>' : esc(c);
+            }).join('');
+            var avail = '<div class="r-avail">' + esc(I18N.availIn) + ' ' + flags + '</div>';
+            return '<a class="ac-item" href="' + (I18N.jobsBase || '') + '/jobs/' + o.s + '">' +
               '<span class="r-name">' + esc(o.n) + '</span><span class="r-meta">' + esc(meta) + '</span>' + avail + '</a>';
           }).join('');
           ac.innerHTML = chtml + ihtml;
@@ -333,7 +342,10 @@ const ld = [
             var as = a.n.toLowerCase().indexOf(term), bs = b.n.toLowerCase().indexOf(term);
             return as - bs || a.n.length - b.n.length;
           });
-          render(hits.slice(0, 12), ch);
+          // 按 slug 去重，保留最佳匹配（已排序），杜绝同一职业多国重复出现
+          var seen = {}, uniq = [];
+          hits.forEach(function (o) { if (!seen[o.s]) { seen[o.s] = 1; uniq.push(o); } });
+          render(uniq.slice(0, 12), ch);
         }
         if (q) {
           q.addEventListener('input', function () { search(q.value); });
@@ -415,14 +427,18 @@ const ld = [
       .ac-item:hover { background: var(--hero); }
       .r-name { font-weight: 600; }
       .r-meta { display: block; color: var(--muted); font-size: 12.5px; margin-top: 2px; }
-      .r-avail { color: var(--green); font-size: 12px; margin-top: 3px; }
+      .r-avail { color: var(--green); font-size: 12px; margin-top: 5px; display: flex; flex-wrap: wrap; align-items: center; gap: 5px; }
+      .r-flag { display: inline-flex; }
+      .r-flag .flagsvg { width: 20px; height: 13px; border-radius: 2px; display: block; box-shadow: 0 0 0 1px var(--line); }
       .ac-empty { padding: 14px; color: var(--muted); }
       .hint { color: var(--muted); font-size: 13px; margin: 8px 2px 0; }
       .hero-hint { text-align: center; margin: 14px auto 0; }
 
       /* Ticker: 搜索框下方，单行滚动播报 */
-      .ticker { max-width: 620px; margin: 16px auto 0; min-height: 22px; text-align: center; }
-      .ticker-line { display: inline-block; color: var(--muted); font-size: 14px; line-height: 1.5;
+      .ticker { max-width: 620px; margin: 16px auto 0; height: 44px; display: flex;
+        align-items: center; justify-content: center; text-align: center; }
+      .ticker-line { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+        overflow: hidden; color: var(--muted); font-size: 14px; line-height: 1.5;
         transition: opacity .35s ease; }
 
       /* Popular career searches: 带国旗的标签云 */

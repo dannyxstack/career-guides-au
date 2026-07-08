@@ -1,8 +1,9 @@
 ---
 import { strings, COUNTRIES, countryName, COUNTRY_FLAG, type Locale } from '../lib/data';
 interface Alt { locale: string; href: string }
-interface Props { title: string; description?: string; locale: Locale; country: string; alternates?: Alt[]; jsonLd?: any; global?: boolean }
-const { title, description = '', locale, country, alternates = [], jsonLd, global = false } = Astro.props as Props;
+interface Props { title: string; description?: string; locale: Locale; country: string; alternates?: Alt[]; xDefault?: string; jsonLd?: any; global?: boolean }
+const { title, description = '', locale, country, alternates = [], xDefault, jsonLd, global = false } = Astro.props as Props;
+const xDefaultHref = xDefault ? (Astro.site ? new URL(xDefault, Astro.site).href : xDefault) : '';
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.pathname;
 const ldBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const t = strings(locale);
@@ -31,6 +32,7 @@ const langAttr = LANG_ATTR[locale] || 'en';
     <meta name="twitter:title" content={title} />
     {description && <meta name="twitter:description" content={description} />}
     {alternates.map((a) => <link rel="alternate" hreflang={a.locale === 'zh-CN' ? 'zh-Hans' : a.locale} href={Astro.site ? new URL(a.href, Astro.site).href : a.href} />)}
+    {xDefaultHref && <link rel="alternate" hreflang="x-default" href={xDefaultHref} />}
     {ldBlocks.map((b) => <script type="application/ld+json" set:html={JSON.stringify(b)} />)}
     <slot name="head" />
     <script is:inline>

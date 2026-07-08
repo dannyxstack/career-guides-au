@@ -211,7 +211,16 @@
 "hTk2": "{name}: estimado ~{pct}% de probabilidad de desplazamiento por IA en 5 años",
 "hTk6": "{name} tiene una puntuación de exposición a IA de {pct}/100",
 "hTk4": "{n} personas trabajando como {name} están considerando cambiar de carrera (encuesta de visitantes)",
-"hTk5": "{n} lectores califican el riesgo de reemplazo por IA de {name} en aproximadamente {pct}% (encuesta a visitantes)"
+"hTk5": "{n} lectores califican el riesgo de reemplazo por IA de {name} en aproximadamente {pct}% (encuesta a visitantes)",
+"jLead": "A continuación hay un análisis global de IA; elige un país para ver salario, licencias y migración locales.",
+"jByCountry": "Datos locales por país",
+"jWork": "Fuerza laboral",
+"jAvail": "Países disponibles",
+"jAioeT": "Índice de exposición a la IA (AIOE)",
+"jAioeD": "Más expuesto que aproximadamente el {pct}% de las ocupaciones (percentil; cuanto mayor, más expuesto a la IA)",
+"jTitleG": "Riesgo de IA, qué reemplaza la IA y el foso humano",
+"jTitleC": "Riesgo de IA, salario, migración y trayectoria profesional",
+"jClassic": "Abrir la guía completa de {c} (página clásica)"
 },
 "dim": {
 "learning_difficulty": "Aprendizaje",
@@ -1657,7 +1666,16 @@
 "hTk2": "{name}：估計5年內AI被取代的幾率約為{pct}%",
 "hTk6": "{name}的AI暴露得分為{pct}/100",
 "hTk4": "{n}以{name}工作的人正在考慮轉行（訪客調查）",
-"hTk5": "{n}讀者認為{name}的人工智慧替代風險約為{pct}%（訪問者調查）"
+"hTk5": "{n}讀者認為{name}的人工智慧替代風險約為{pct}%（訪問者調查）",
+"jLead": "下方是全球通用的 AI 影響分析；選擇一個國家可查看當地薪資、執照與移民數據。",
+"jByCountry": "按國家查看本地數據",
+"jWork": "從業人口",
+"jAvail": "可用國家",
+"jAioeT": "AI 暴露指數（學術 · AIOE）",
+"jAioeD": "暴露程度高於約 {pct}% 的職業（百分位，越高越易受 AI 影響）",
+"jTitleG": "AI 替代風險、被 AI 取代的部分與人類護城河",
+"jTitleC": "AI 風險、薪資、移民與職業路線",
+"jClassic": "打開{c}完整舊版詳情頁"
 },
 "dim": {
 "learning_difficulty": "學習",
@@ -1898,7 +1916,16 @@
 "hTk2": "{name}: 5年以内にAIによる置き換えの確率はおよそ{pct}%と推定される",
 "hTk6": "{name}のAI露出スコアは{pct}/100である",
 "hTk4": "{n}人の{name}として働いている人々が転職を検討中（訪問者投票）",
-"hTk5": "{n}人の読者が{name}のAI置き換えリスクを約{pct}%と評価（訪問者アンケート）"
+"hTk5": "{n}人の読者が{name}のAI置き換えリスクを約{pct}%と評価（訪問者アンケート）",
+"jLead": "下記はグローバルなAI分析です。現地の給与・資格・移民データは国を選択してください。",
+"jByCountry": "国別のローカルデータ",
+"jWork": "就業者数",
+"jAvail": "対応国",
+"jAioeT": "AI暴露指数（学術・AIOE）",
+"jAioeD": "約{pct}%の職業より暴露度が高い（パーセンタイル。高いほどAIの影響を受けやすい）",
+"jTitleG": "AIリスク・AIが代替する部分・人間の堀",
+"jTitleC": "AIリスク・給与・移民・キャリアパス",
+"jClassic": "{c}の完全な旧版詳細ページを開く"
 },
 "dim": {
 "learning_difficulty": "学習",
@@ -2139,7 +2166,16 @@
 "hTk2": "{name}: Schätzungsweise ~{pct}% Chance auf Ersatz durch KI innerhalb von 5 Jahren",
 "hTk6": "{name} hat einen KI-Expositions-Score von {pct}/100",
 "hTk4": "{n} Personen, die als {name} arbeiten, erwägen einen Berufswechsel (Besucherumfrage)",
-"hTk5": "{n} Leser bewerten das Risiko der KI-Ersatzung bei {name} auf etwa {pct}% (Besucherumfrage)"
+"hTk5": "{n} Leser bewerten das Risiko der KI-Ersatzung bei {name} auf etwa {pct}% (Besucherumfrage)",
+"jLead": "Unten finden Sie eine globale KI-Analyse; wählen Sie ein Land für lokale Gehalts-, Lizenz- und Migrationsdaten.",
+"jByCountry": "Lokale Daten nach Land",
+"jWork": "Erwerbstätige",
+"jAvail": "Verfügbare Länder",
+"jAioeT": "KI-Expositionsindex (AIOE)",
+"jAioeD": "Stärker exponiert als etwa {pct}% der Berufe (Perzentil; höher = anfälliger für KI)",
+"jTitleG": "KI-Risiko, was KI ersetzt & der menschliche Burggraben",
+"jTitleC": "KI-Risiko, Gehalt, Migration & Karriereweg",
+"jClassic": "Vollständigen {c}-Leitfaden öffnen (klassische Seite)"
 },
 "dim": {
 "learning_difficulty": "Lernen",

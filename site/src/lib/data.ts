@@ -147,6 +147,40 @@ export function sameOccAbroad(o: Occ): Occ[] {
   return out;
 }
 
+// —— /jobs 一级聚合：按 slug 归一「同一职业跨国」——
+// slug 全站一致映射到同一职业（已验证：仅 3 个 slug 因标点差异对应 2 个 name_en，仍是同一职业），
+// 故 slug 可安全作为全球主键。每组按 COUNTRIES 顺序排列，Tab 稳定。
+const _jobGroups: Map<string, Occ[]> = (() => {
+  const m = new Map<string, Occ[]>();
+  for (const o of occupations) {
+    const a = m.get(o.slug);
+    if (a) a.push(o); else m.set(o.slug, [o]);
+  }
+  const order = new Map(COUNTRIES.map((c, i) => [c as string, i]));
+  for (const a of m.values())
+    a.sort((x, y) => (order.get(x.country) ?? 99) - (order.get(y.country) ?? 99));
+  return m;
+})();
+export const JOB_SLUGS: string[] = [..._jobGroups.keys()];
+// /jobs 多语言矩阵生成的语言（英文为默认=裸 URL，其余用 /{locale}/ 前缀）。核心几种先行，可扩。
+export const JOBS_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'es', 'ja', 'de'];
+// /jobs 干净前缀 URL：en 裸 /jobs/{slug}[/{cc}]，其余 /{locale}/jobs/{slug}[/{cc}]
+export function jobHref(locale: Locale, slug: string, country?: string): string {
+  const base = country ? `/jobs/${slug}/${country}` : `/jobs/${slug}`;
+  return locale === 'en' ? base : `/${locale}${base}`;
+}
+// hreflang alternates（含全部 JOBS_LOCALES）；x-default 由页面单独指向英文裸 URL
+export function jobAlternates(slug: string, country?: string): { locale: string; href: string }[] {
+  return JOBS_LOCALES.map((l) => ({ locale: l, href: jobHref(l, slug, country) }));
+}
+export interface JobGroup { slug: string; rep: Occ; countries: Occ[] }
+// 取某 slug 的全球聚合：rep 供全球 AI/名称（AI 块跨国一致），countries 为各国数据
+export function jobBySlug(slug: string): JobGroup | null {
+  const a = _jobGroups.get(slug);
+  if (!a || a.length === 0) return null;
+  return { slug, rep: a[0], countries: a };
+}
+
 export function name(o: Occ, locale: Locale) {
   const zh = o.i18n['zh-CN']?.name;
   return (zh ? tr(zh, locale) : '') || o.i18n['zh-CN']?.name || o.name_en;
@@ -293,6 +327,12 @@ export const UI: Record<string, Record<string, string>> = {
     hQ3T: 'AI 时代我该学什么？', hQ3B: '搜索你的职业，查看未来技能、AI 时代升级路线和更稳的相邻职业。', hQ3Go: '搜索职业 →',
     hBottomCountry: '选择你的国家', hBottomRank: '探索 AI 职业榜单', hBottomSearch: '搜索你的职业',
     hFoot: 'AI Career Graph · AI 时代数据驱动的职业指南 · 仅为估算，请始终核对官方来源。',
+    // —— /jobs 职业聚合页 ——
+    jLead: '下方是全球通用的 AI 影响分析；选择一个国家可查看当地薪资、执照与移民数据。',
+    jByCountry: '按国家查看本地数据', jWork: '从业人口', jAvail: '可用国家',
+    jAioeT: 'AI 暴露指数（学术 · AIOE）', jAioeD: '暴露程度高于约 {pct}% 的职业（百分位，越高越易受 AI 影响）',
+    jTitleG: 'AI 替代风险、被 AI 取代的部分与人类护城河', jTitleC: 'AI 风险、薪资、移民与职业路线',
+    jClassic: '打开{c}完整旧版详情页',
     // —— 首页搜索结果（客户端）——
     hSrNoResults: '未找到相关职业。', hSrAvailIn: '可查看国家：',
     hSrAiAugmented: 'AI 增强型', hSrAiLowRisk: '低 AI 替代风险', hSrAiHigherExp: '较高 AI 暴露', hSrAiMixed: 'AI 影响不一',
@@ -406,6 +446,12 @@ export const UI: Record<string, Record<string, string>> = {
     hQ3T: 'What should I learn in the AI era?', hQ3B: 'Search your career to see future skills, an AI-era upgrade path and safer adjacent roles.', hQ3Go: 'Search a career →',
     hBottomCountry: 'Choose your country', hBottomRank: 'Explore AI Career Rankings', hBottomSearch: 'Search your career',
     hFoot: 'AI Career Graph · Data-driven occupation guides for the AI era · Estimates only, always check official sources.',
+    // —— /jobs occupation aggregate ——
+    jLead: 'A global AI analysis is below; pick a country for local salary, licensing and migration data.',
+    jByCountry: 'Local data by country', jWork: 'Workforce', jAvail: 'Available countries',
+    jAioeT: 'AI Exposure Index (AIOE)', jAioeD: 'More exposed than about {pct}% of occupations (percentile; higher = more exposed to AI)',
+    jTitleG: 'AI risk, what AI replaces & the human moat', jTitleC: 'AI risk, salary, migration & career path',
+    jClassic: 'Open the full {c} guide (classic page)',
     // —— Home search results (client-side) ——
     hSrNoResults: 'No careers found.', hSrAvailIn: 'Available in:',
     hSrAiAugmented: 'AI-augmented', hSrAiLowRisk: 'Low AI replacement risk', hSrAiHigherExp: 'Higher AI exposure', hSrAiMixed: 'Mixed AI impact',
