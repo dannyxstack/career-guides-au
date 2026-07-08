@@ -150,9 +150,11 @@ function catLabel(text: string, bw: number) {
   .rm-tip { position: absolute; z-index: 20; pointer-events: none; min-width: 180px;
     background: var(--card); border: 1px solid var(--line); border-radius: 10px;
     padding: 9px 11px; box-shadow: 0 8px 24px rgba(0,0,0,.3); font-size: 13px; }
-  .rm-tip .rt-name { font-weight: 700; margin-bottom: 5px; color: var(--white); }
-  .rm-tip .rt-row { display: flex; justify-content: space-between; gap: 16px; color: var(--muted); }
-  .rm-tip .rt-row b { color: var(--white); font-weight: 600; }
-  .rm-tip .rt-hint { margin-top: 6px; color: var(--green); font-size: 12px; }
+  /* tooltip 内容由 JS innerHTML 注入，不带 scoped 属性 → 内部选择器须 :global 才生效 */
+  .rm-tip :global(.rt-name) { font-weight: 700; margin-bottom: 5px; color: var(--white); }
+  .rm-tip :global(.rt-row) { display: flex; justify-content: space-between; gap: 16px; color: var(--muted); }
+  .rm-tip :global(.rt-row span) { margin-right: 12px; }
+  .rm-tip :global(.rt-row b) { color: var(--white); font-weight: 600; }
+  .rm-tip :global(.rt-hint) { margin-top: 6px; color: var(--green); font-size: 12px; }
   .rm-foot { font-size: 12px; margin-top: 10px; }
 </style>
