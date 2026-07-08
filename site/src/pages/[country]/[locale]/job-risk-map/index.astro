@@ -1,8 +1,9 @@
 ---
 // AI Job Risk Map（/[country]/en/job-risk-map/）：按职业分类分块的 treemap；
 // 每块=一个分类（面积∝该类总从业人数），块内每格=一个职业（面积∝从业人数，颜色∝AI 替代风险）。
-// 国家边界作为背后隐约水印。仅英文。
+// 国家边界作为背后隐约水印（内联轮廓，深色模式大陆变浅）。仅英文。
 import Base from '../../../../layouts/Base.astro';
+import RiskMap from '../../../../components/RiskMap.astro';
 import { COUNTRIES, countryName } from '../../../../lib/data';
 import { buildRiskMap, riskColor } from '../../../../lib/riskmap';
 
@@ -15,155 +16,41 @@ const { country } = Astro.params as { country: string; locale: string };
 const cname = countryName(country, 'en');
 const layout = buildRiskMap(country);
 
-// 供客户端 tooltip / 高亮的职业元数据（含颜色）
+// 供客户端 tooltip / 高亮的职业元数据（含颜色 + 详情页链接）
 const meta = layout.occs.map((o) => ({
   n: o.name, c: o.cat, w: o.workforce, r: Math.round(o.risk * 10) / 10,
   s: o.score, u: `/${o.country}/en/${o.catSlug}/${o.slug}/`,
   col: riskColor(o.risk),
 }));
 
-const totalWorkers = layout.occs.reduce((s, o) => s + o.workforce, 0);
-// 分类标题是否放得下 + 截断
-function catLabel(text: string, bw: number) {
-  if (bw < 66) return '';
-  const max = Math.floor(bw / 6.2) - 1;
-  return text.length > max ? text.slice(0, Math.max(1, max - 1)) + '…' : text;
-}
 const title = `AI Job Risk Map · ${cname}｜AI Career Graph`;
 const desc = `Every occupation in ${cname} as a tile — area is the size of the workforce, colour is its AI automation risk, grouped into large blocks by career category over a faint outline of the country.`;
 ---
 <Base title={title} description={desc} locale="en" country={country} global={false}>
-  <section class="hero">
-    <h1>AI Job Risk Map · {cname}</h1>
-    <p class="hero-value">
-      Each tile is one occupation. <strong>Area</strong> = the size of its workforce;
-      <strong>colour</strong> = how exposed it is to AI automation. Occupations are grouped into
-      large blocks by career category, over a faint outline of {cname}. Hover a tile for details;
-      click to open the occupation.
-    </p>
+  <section class="rm">
+    <div class="rm-hero">
+      <h1>AI Job Risk Map · {cname}</h1>
+      <p>Each tile is one occupation — <strong>area</strong> = workforce size, <strong>colour</strong> = AI
+        automation exposure, grouped by career category. Hover for details; click to open.</p>
+    </div>
+    {!layout.hasData ? (
+      <div class="card">No layout available for this country yet.</div>
+    ) : (
+      <RiskMap layout={layout} meta={meta} outlineKey={country} activeKey={country} ariaLabel={`AI job risk map of ${cname}`}>
+        <span slot="foot">
+          Colour scale is the occupation’s AI automation-exposure score (1–10). Tile size is
+          proportional to estimated workforce and is approximate. The faint silhouette behind the
+          tiles is a low-resolution outline of {cname}, including its surrounding islands.
+        </span>
+      </RiskMap>
+    )}
   </section>
 
-  {!layout.hasData ? (
-    <div class="card">No layout available for this country yet.</div>
-  ) : (
-    <section class="rm">
-      <div class="rm-legend">
-        <span class="lg-label">Lower AI risk</span>
-        <span class="lg-bar"></span>
-        <span class="lg-label">Higher AI risk</span>
-        <span class="lg-sep">·</span>
-        <span class="muted">{layout.total} occupations · {totalWorkers.toLocaleString('en')} workers</span>
-      </div>
-
-      <div class="rm-wrap">
-        <div class="rm-tip" hidden></div>
-        <svg viewBox={`0 0 ${layout.W} ${layout.H}`} class="rm-svg"
-             preserveAspectRatio="xMidYMid meet" role="img"
-             aria-label={`AI job risk map of ${cname}`}>
-          <!-- 背后隐约的国家轮廓：静态 SVG 背景图（预生成，见 scripts/gen_outline_svg.py） -->
-          <image class="rm-outline-img" href={`/outlines/${country}.svg`} x="0" y="0"
-                 width={layout.W} height={layout.H} preserveAspectRatio="xMidYMid meet"
-                 aria-hidden="true" />
-          <!-- 职业矩形 -->
-          <g class="rm-tiles">
-            {layout.rects.map((r) => (
-              <rect x={r.x} y={r.y} width={r.w} height={r.h}
-                    fill={meta[r.i].col} data-i={r.i} />
-            ))}
-          </g>
-          <!-- 分类块标题 -->
-          <g class="rm-cats" aria-hidden="true">
-            {layout.catBlocks.map((b) => {
-              const lbl = catLabel(b.text, b.w);
-              return lbl ? <text x={b.x + 4} y={b.y + 15}>{lbl}</text> : null;
-            })}
-          </g>
-        </svg>
-      </div>
-
-      <p class="muted rm-foot">
-        Colour scale is the occupation’s AI automation-exposure score (1–10). Tile size is
-        proportional to estimated workforce and is approximate. The faint silhouette behind the
-        tiles is a low-resolution outline of {cname}, including its surrounding islands.
-      </p>
-    </section>
-  )}
-
-  <script is:inline define:vars={{ meta }} set:html={`window.__RM=${JSON.stringify(meta)};`}></script>
-  <script is:inline>
-    (function () {
-      var M = window.__RM || [];
-      var wrap = document.querySelector('.rm-wrap');
-      if (!wrap) return;
-      var svg = wrap.querySelector('.rm-svg');
-      var tip = wrap.querySelector('.rm-tip');
-      var curr = -1, hi = [];
-      function clearHi() { hi.forEach(function (n) { n.classList.remove('on'); }); hi = []; }
-      function fmt(n) { return n.toLocaleString('en'); }
-      function show(i, evt) {
-        var m = M[i]; if (!m) return;
-        if (i !== curr) {
-          clearHi();
-          hi = Array.prototype.slice.call(svg.querySelectorAll('rect[data-i="' + i + '"]'));
-          hi.forEach(function (n) { n.classList.add('on'); });
-          tip.innerHTML =
-            '<div class="rt-name">' + m.n + '</div>' +
-            '<div class="rt-row"><span>Category</span><b>' + m.c + '</b></div>' +
-            '<div class="rt-row"><span>Workforce</span><b>' + fmt(m.w) + '</b></div>' +
-            '<div class="rt-row"><span>AI risk</span><b style="color:' + m.col + '">' + m.r + ' / 10</b></div>' +
-            (m.s != null ? '<div class="rt-row"><span>Overall</span><b>' + m.s + ' / 10</b></div>' : '') +
-            '<div class="rt-hint">Click to open →</div>';
-          tip.hidden = false;
-          curr = i;
-        }
-        var wr = wrap.getBoundingClientRect();
-        var x = evt.clientX - wr.left, y = evt.clientY - wr.top;
-        var tw = tip.offsetWidth, th = tip.offsetHeight;
-        x = Math.min(x + 14, wr.width - tw - 6);
-        y = Math.max(6, y - th - 12);
-        tip.style.left = x + 'px'; tip.style.top = y + 'px';
-      }
-      function hide() { tip.hidden = true; clearHi(); curr = -1; }
-      svg.addEventListener('mousemove', function (e) {
-        var t = e.target;
-        if (t && t.tagName === 'rect' && t.hasAttribute('data-i')) show(+t.getAttribute('data-i'), e);
-        else hide();
-      });
-      svg.addEventListener('mouseleave', hide);
-      svg.addEventListener('click', function (e) {
-        var t = e.target;
-        if (t && t.tagName === 'rect' && t.hasAttribute('data-i')) {
-          var m = M[+t.getAttribute('data-i')]; if (m) location.href = m.u;
-        }
-      });
-    })();
-  </script>
-
   <style>
-    /* 宽屏：突破 Base 的 980px 窄栏，居中占据视口宽度（数据量大） */
-    .rm { margin-top: 10px; width: min(94vw, 1680px); margin-left: 50%; transform: translateX(-50%); }
-    .rm-legend { display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
-      font-size: 13px; color: var(--muted); margin-bottom: 10px; }
-    .rm-legend .lg-bar { width: 180px; height: 12px; border-radius: 999px;
-      background: linear-gradient(90deg, rgb(16,185,129), rgb(245,158,11), rgb(239,68,68)); }
-    .rm-legend .lg-label { font-weight: 600; color: var(--white); }
-    .rm-legend .lg-sep { color: var(--line); }
-    .rm-wrap { position: relative; background: var(--card); border: 1px solid var(--line);
-      border-radius: 12px; padding: 10px; }
-    .rm-svg { width: 100%; height: auto; display: block; }
-    .rm-tiles rect { cursor: pointer; stroke: var(--card); stroke-width: 1px; }
-    .rm-tiles rect.on { stroke: var(--white); stroke-width: 2px; }
-    /* 背景轮廓：预生成的静态 SVG（透过分类块缝隙隐约成形，不拦鼠标） */
-    .rm-outline-img { pointer-events: none; }
-    .rm-cats text { fill: #fff; font-size: 12.5px; font-weight: 700; opacity: .95;
-      paint-order: stroke; stroke: rgba(0,0,0,.6); stroke-width: 2.4px; pointer-events: none; }
-    .rm-tip { position: absolute; z-index: 20; pointer-events: none; min-width: 180px;
-      background: var(--card); border: 1px solid var(--line); border-radius: 10px;
-      padding: 9px 11px; box-shadow: 0 8px 24px rgba(0,0,0,.3); font-size: 13px; }
-    .rm-tip .rt-name { font-weight: 700; margin-bottom: 5px; color: var(--white); }
-    .rm-tip .rt-row { display: flex; justify-content: space-between; gap: 16px; color: var(--muted); }
-    .rm-tip .rt-row b { color: var(--white); font-weight: 600; }
-    .rm-tip .rt-hint { margin-top: 6px; color: var(--green); font-size: 12px; }
-    .rm-foot { font-size: 12px; margin-top: 10px; }
+    /* 全宽左对齐：突破 Base 的 980px 窄栏，hero 与地图同宽同左边界（两侧不再留白） */
+    .rm { margin-top: 6px; width: min(94vw, 1680px); margin-left: 50%; transform: translateX(-50%); }
+    .rm-hero { margin: 0 0 8px; }
+    .rm-hero h1 { font-size: 22px; margin: 0 0 4px; }
+    .rm-hero p { font-size: 13px; color: var(--muted); margin: 0; max-width: 820px; }
   </style>
 </Base>

@@ -1,8 +1,8 @@
 // AI Job Risk Map 布局：按职业分类分成带间隔的大块（块面积∝该类总从业人数），
 // 每块内部用 squarified treemap 把各职业铺成长宽比接近 1 的矩形（面积∝从业人数）。
-// 颜色由页面按 automation_exposure 决定；国家轮廓改为静态 SVG 背景图（scripts/gen_outline_svg.py
-// 从 country-outline.json 预生成到 public/outlines/{cc}.svg），页面以 <image> 铺满同款画布对齐。
-import { occByCountry, catSlug, name as occName } from './data';
+// 颜色由页面按 automation_exposure 决定；国家/世界轮廓水印为内联 SVG path（scripts/gen_outline_paths.py
+// 预生成到 site/src/data/outline-paths.json），RiskMap 组件内联渲染并由 CSS 按主题着色。
+import { occByCountry, catSlug, name as occName, JOB_SLUGS, jobBySlug } from './data';
 
 export interface RiskRect { x: number; y: number; w: number; h: number; i: number }
 export interface OccMeta {
@@ -108,6 +108,32 @@ export function buildRiskMap(country: string): RiskLayout {
     workforce: o.workforce_size as number,
     score: o.overall_score,
   }));
+  return layoutFromOccs(occs);
+}
+
+// 全球图：按 slug 跨国聚合「同一职业」。从业人数=各国之和（全球足迹），
+// AI 风险/分类/名称取代表副本（AI 数据跨国一致）；country 置空，方块链接由页面指向 /jobs/{slug}。
+export function buildGlobalRiskMap(): RiskLayout {
+  const occs: OccMeta[] = [];
+  for (const slug of JOB_SLUGS) {
+    const g = jobBySlug(slug);
+    if (!g) continue;
+    const rep = g.rep;
+    if (rep.ai?.automation_exposure == null) continue;
+    const workforce = g.countries.reduce((s, o) => s + (o.workforce_size || 0), 0);
+    if (workforce <= 0) continue;
+    occs.push({
+      name: occName(rep, 'en'),
+      cat: rep.category, catSlug: catSlug(rep.category), slug, country: rep.country,
+      risk: rep.ai.automation_exposure as number,
+      workforce,
+      score: rep.overall_score,
+    });
+  }
+  return layoutFromOccs(occs);
+}
+
+function layoutFromOccs(occs: OccMeta[]): RiskLayout {
   if (occs.length === 0) {
     return { W, H, rects: [], occs, catBlocks: [], total: 0, hasData: false };
   }
