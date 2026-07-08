@@ -1,6 +1,6 @@
 """导出职业数据为 JSON，供 Astro 站点构建期消费（site/src/data/occupations.json）。
 复用 DB 为唯一数据源；多语言/多国家通过 country + i18n 表表达。"""
-import sys, os, json, re
+import sys, os, json, re, hashlib, glob
 from datetime import date
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
@@ -166,15 +166,26 @@ def build():
     # 热门职业（首页板块）
     with open(os.path.join(OUT, "hot_occupations.json"), "w", encoding="utf-8") as f:
         json.dump(hot_list, f, ensure_ascii=False)
-    # 翻译记忆按语言拆分导出：{src_text:{locale:text}} -> 每语言一个 translations.<locale>.json
-    # （单文件 9 语言达 ~195MB，超 GitHub 100MB 单文件上限，故按 locale 拆分，各约 20MB）
+    # 翻译记忆按语言 + 分片导出：{src_text:{locale:text}} -> data/translations/{loc}.{i}.json
+    # （单文件 9 语言 ~195MB 超 GitHub 100MB 上限；按 locale 拆后 th 仍达 ~51MB 触发 50MB 软警告，
+    #  故再按 md5(源串)%N_TR_SHARDS 分片，各片 <7MB。data.ts 用 import.meta.glob 合并加载）
+    N_TR_SHARDS = 8
+    tr_dir = os.path.join(OUT, "translations")
+    os.makedirs(tr_dir, exist_ok=True)
+    for old in glob.glob(os.path.join(tr_dir, "*.json")):  # 清空旧分片避免残留
+        os.remove(old)
     by_locale: dict = {}
     for src, locs in tr.items():
         for loc, text in locs.items():
             by_locale.setdefault(loc, {})[src] = text
     for loc, mp in by_locale.items():
-        with open(os.path.join(OUT, f"translations.{loc}.json"), "w", encoding="utf-8") as f:
-            json.dump(mp, f, ensure_ascii=False, default=str)
+        shards = [dict() for _ in range(N_TR_SHARDS)]
+        for src, text in mp.items():
+            h = int(hashlib.md5(src.encode("utf-8")).hexdigest(), 16) % N_TR_SHARDS
+            shards[h][src] = text
+        for i, sh in enumerate(shards):
+            with open(os.path.join(tr_dir, f"{loc}.{i}.json"), "w", encoding="utf-8") as f:
+                json.dump(sh, f, ensure_ascii=False, default=str)
     # 分类清单
     cats = sorted({o["category"] for o in out if o["category"]})
     with open(os.path.join(OUT, "categories.json"), "w", encoding="utf-8") as f:

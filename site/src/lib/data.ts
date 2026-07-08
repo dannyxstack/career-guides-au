@@ -1,17 +1,9 @@
 // 站点数据层：消费 Python 导出的 occupations.json（DB 为唯一数据源）。
 import data from '../data/occupations.json';
 import cats from '../data/categories.json';
-// 翻译记忆按语言拆分（单文件 9 语言 ~195MB，超 GitHub 100MB 上限）
-import trEn from '../data/translations.en.json';
-import trZhHant from '../data/translations.zh-Hant.json';
-import trEs from '../data/translations.es.json';
-import trPt from '../data/translations.pt.json';
-import trVi from '../data/translations.vi.json';
-import trTh from '../data/translations.th.json';
-import trMs from '../data/translations.ms.json';
-import trId from '../data/translations.id.json';
-import trJa from '../data/translations.ja.json';
-import trDe from '../data/translations.de.json';
+// 翻译记忆按语言 + 分片加载：每 locale 拆 N 片到 data/translations/{loc}.{i}.json
+// （单文件 9 语言 ~195MB 超 GitHub 100MB 上限；按 locale 拆后 th 仍达 ~51MB 触发 50MB 软警告，
+//  故再按 md5(源串)%N 分片，各片 <7MB，随 FR/ES 翻译增长仍有充足余量。分片由 export_site_data.py 生成）
 import uiI18n from '../data/ui_i18n.json';
 
 export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de';
@@ -66,12 +58,20 @@ export const AU_SOURCE_LINKS: { label: { 'zh-CN': string; en: string }; url: str
 ];
 export const currencyOf = (country: string) => CURRENCY[country] || 'AUD';
 
-// 翻译记忆解析：中文母本 → 目标语言（回退 en → 原文）。按 locale 分文件加载。
-const TM_BY_LOCALE: Partial<Record<Locale, Record<string, string>>> = {
-  en: trEn as any, 'zh-Hant': trZhHant as any, es: trEs as any, pt: trPt as any,
-  vi: trVi as any, th: trTh as any, ms: trMs as any, id: trId as any, ja: trJa as any,
-  de: trDe as any,
-};
+// 翻译记忆解析：中文母本 → 目标语言（回退 en → 原文）。按 locale 分片加载后合并。
+// Vite eager glob 收集全部分片，从文件名 `{loc}.{i}.json` 解析 locale 合并成整表。
+const TM_BY_LOCALE: Partial<Record<Locale, Record<string, string>>> = {};
+{
+  const shards = import.meta.glob('../data/translations/*.json', { eager: true }) as
+    Record<string, { default: Record<string, string> }>;
+  for (const [path, mod] of Object.entries(shards)) {
+    const m = path.match(/\/([a-zA-Z-]+)\.\d+\.json$/);
+    if (!m) continue;
+    const loc = m[1] as Locale;
+    (TM_BY_LOCALE[loc] ??= {});
+    Object.assign(TM_BY_LOCALE[loc]!, mod.default);
+  }
+}
 export function tr(s: string | null | undefined, locale: Locale): string {
   if (!s) return s || '';
   if (locale === 'zh-CN') return s;
@@ -275,7 +275,7 @@ export const UI: Record<string, Record<string, string>> = {
     aiEntry: '入门岗位是否变窄', aiSkills: '未来 5 年建议补的技能',
     aiUpgrade: 'AI 时代升级路线', aiAdjacent: '风险高时可考虑的相邻职业',
     aiDisrupt: '已经在替代这个职业的 AI（工具 / 产品 / 研究 / 新闻）', aiDisruptAlso: '也影响：',
-    navHome: '首页', navAbout: '关于', navGraph: 'AI 图谱',
+    navHome: '首页', navAbout: '关于', navGraph: 'AI 图谱', navRisk: 'AI 风险地图',
     agTitle: 'AI 职业图谱：哪些工作会被压缩，哪些会被放大？',
     agSubtitle: '我们按任务可自动化程度、执照责任、现场操作、人际信任和监管责任，把职业分成 6 类。',
     agMatrix: '图谱视图（二维矩阵）', agAxisX: 'AI 可自动化程度（低 → 高）', agAxisY: '人类责任 / 现场依赖（低 → 高）',
@@ -394,7 +394,7 @@ export const UI: Record<string, Record<string, string>> = {
     aiEntry: 'Entry-level outlook', aiSkills: 'Skills to build (next 5 years)',
     aiUpgrade: 'How to level up in the AI era', aiAdjacent: 'Adjacent careers if risk is high',
     aiDisrupt: 'AI already replacing this job (tools / products / research / news)', aiDisruptAlso: 'Also affects:',
-    navHome: 'Home', navAbout: 'About', navGraph: 'AI map',
+    navHome: 'Home', navAbout: 'About', navGraph: 'AI map', navRisk: 'AI Risk Map',
     agTitle: 'AI Career Map: which jobs get compressed, which get amplified?',
     agSubtitle: 'We group occupations into 6 clusters by automation exposure, licensing/accountability, on-site work, human trust and regulatory responsibility.',
     agMatrix: 'Map view (2D matrix)', agAxisX: 'AI automation exposure (low → high)', agAxisY: 'Human accountability / on-site (low → high)',
