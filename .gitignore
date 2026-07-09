@@ -22,3 +22,6 @@ scripts/_ui_src.json
 site/*.zip
 site/*.rar
 
+
+# 下载的官方统计原始数据（薪资中位数/均值来源，勿入库）
+downloads/

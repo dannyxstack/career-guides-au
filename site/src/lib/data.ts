@@ -93,6 +93,7 @@ export interface Occ {
   salaries: { label: string; min: number | null; max: number | null; note: string | null }[];
   ratings: { dimension: string; label_zh: string; stars: number | null; name_zh: string }[];
   overall_score: number | null;
+  avg_salary?: number | null;  // 官方平均薪资（年薪，本币），来自 occupation_salaries band='mean'
   visa: { subclass: string; name: string; desc: string; min_score?: number | null; score_asof?: string | null }[];
   education: { stage: string; duration: string; cost_min: number | null; cost_max: number | null; cost_note: string | null }[];
   qualifications: { name: string; issuer: string | null; note: string | null; mandatory: boolean }[];

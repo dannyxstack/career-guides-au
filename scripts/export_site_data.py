@@ -88,6 +88,8 @@ def build():
                 "training_zh": b["training_zh"],
                 "salaries": [{"label": s["label"], "min": s["min"], "max": s["max"], "note": s["note"]} for s in b["salaries"]],
                 "ratings": ratings, "overall_score": overall_score(ratings),
+                # 官方平均薪资（band='mean' 行，label=平均薪资），供 risk map 弹层等展示
+                "avg_salary": next((s["min"] for s in b["salaries"] if s["label"] == "平均薪资"), None),
                 "visa": [{**v, **({"min_score": inv[b["id"]][v["subclass"]]["min_score"],
                                    "score_asof": inv[b["id"]][v["subclass"]]["asof"]}
                                   if inv.get(b["id"], {}).get(v["subclass"]) else {})}
