@@ -68,12 +68,12 @@ def flush(buf):
             "ON DUPLICATE KEY UPDATE text=VALUES(text), gen_model=VALUES(gen_model)", rows)
 
 
-def run(locales, workers, limit):
+def run(countries, locales, workers, limit):
     if not baidu_translate.enabled():
         log("[abort] 百度翻译未配置（BAIDU_TRANSLATE_APPID / API_KEY）或已禁用")
         return
-    scope = in_scope_src(["FR"])
-    log(f"[scope] FR 范围内唯一源串 {len(scope):,}")
+    scope = in_scope_src(countries)
+    log(f"[scope] 国家={','.join(countries)} 范围内唯一源串 {len(scope):,}")
 
     # 按 locale 分组构建工作单元（保持 locale 顺序，便于额度耗尽时按语言完整落地）
     units = []
@@ -108,8 +108,10 @@ def run(locales, workers, limit):
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
+    ap.add_argument("--countries", default="FR")
     ap.add_argument("--locales", default="es,pt,vi,th,ms,id,zh-Hant,ja,de")
     ap.add_argument("--workers", type=int, default=8)
     ap.add_argument("--limit", type=int, default=0)
     a = ap.parse_args()
-    run([x.strip() for x in a.locales.split(",") if x.strip()], a.workers, a.limit)
+    run([x.strip() for x in a.countries.split(",") if x.strip()],
+        [x.strip() for x in a.locales.split(",") if x.strip()], a.workers, a.limit)
