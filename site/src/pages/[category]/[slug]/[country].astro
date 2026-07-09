@@ -1,20 +1,21 @@
 ---
-// 二级区域 URL：/jobs/{slug}/{country}（英文默认，裸 URL）—— 继承全球 AI + 注入该国硬核数据。
+// 二级区域 URL：/{category}/{slug}/{country}（英文默认，裸 URL）—— 继承全球 AI + 注入该国硬核数据。
 // 独立可抓取，self-canonical；hreflang 覆盖 JOBS_LOCALES + x-default→英文。
 import Base from '../../../layouts/Base.astro';
 import JobDetail from '../../../components/JobDetail.astro';
-import { JOB_SLUGS, jobBySlug, jobAlternates, jobHref, strings, tr, name, summary, currencyOf, countryTitleName } from '../../../lib/data';
+import { JOB_SLUGS, jobBySlug, jobAlternates, jobHref, strings, tr, name, summary, currencyOf, countryTitleName, catSlug } from '../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
   for (const slug of JOB_SLUGS) {
     const g = jobBySlug(slug)!;
-    for (const o of g.countries) paths.push({ params: { slug, country: o.country }, props: { o } });
+    const category = catSlug(g.rep.category);
+    for (const o of g.countries) paths.push({ params: { category, slug, country: o.country }, props: { o } });
   }
   return paths;
 }
 const locale = 'en' as const;
-const { slug, country } = Astro.params as { slug: string; country: string };
+const { slug, country } = Astro.params as { category: string; slug: string; country: string };
 const { o } = Astro.props as any;
 const t = strings(locale);
 const dispName = name(o, locale);

@@ -1,15 +1,15 @@
 ---
-// 一级聚合 URL：/jobs/{slug}（英文默认，裸 URL）—— 职业本体（全球 AI 数据 + 可用国家 Tab）。
-// self-canonical；hreflang 覆盖 JOBS_LOCALES + x-default→英文。
+// 一级聚合 URL：/{category}/{slug}（英文默认，裸 URL）—— 职业本体（全球 AI 数据 + 可用国家 Tab）。
+// self-canonical；hreflang 覆盖 JOBS_LOCALES + x-default→英文。分类段取该 slug 代表副本的分类。
 import Base from '../../layouts/Base.astro';
 import JobDetail from '../../components/JobDetail.astro';
-import { JOB_SLUGS, jobBySlug, jobAlternates, jobHref, strings, tr, name, countryTitleName } from '../../lib/data';
+import { JOB_SLUGS, jobBySlug, jobAlternates, jobHref, strings, tr, name, countryTitleName, catSlug } from '../../lib/data';
 
 export function getStaticPaths() {
-  return JOB_SLUGS.map((slug) => ({ params: { slug } }));
+  return JOB_SLUGS.map((slug) => ({ params: { category: catSlug(jobBySlug(slug)!.rep.category), slug } }));
 }
 const locale = 'en' as const;
-const { slug } = Astro.params as { slug: string };
+const { slug } = Astro.params as { category: string; slug: string };
 const group = jobBySlug(slug)!;
 const rep = group.rep;
 const t = strings(locale);

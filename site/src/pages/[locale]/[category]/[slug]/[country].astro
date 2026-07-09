@@ -1,9 +1,9 @@
 ---
-// 二级区域 URL（多语言前缀）：/{locale}/jobs/{slug}/{country} —— 各语言 × 各国的国家数据页。
+// 二级区域 URL（多语言前缀）：/{locale}/{category}/{slug}/{country} —— 各语言 × 各国的国家数据页。
 // 仅 JOBS_LOCALES 中非英文语言。独立可抓取，self-canonical + hreflang + x-default。
 import Base from '../../../../layouts/Base.astro';
 import JobDetail from '../../../../components/JobDetail.astro';
-import { JOB_SLUGS, JOBS_LOCALES, jobBySlug, jobAlternates, jobHref, strings, tr, name, summary, currencyOf, countryTitleName, type Locale } from '../../../../lib/data';
+import { JOB_SLUGS, JOBS_LOCALES, jobBySlug, jobAlternates, jobHref, strings, tr, name, summary, currencyOf, countryTitleName, catSlug, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
@@ -11,12 +11,13 @@ export function getStaticPaths() {
     if (locale === 'en') continue;
     for (const slug of JOB_SLUGS) {
       const g = jobBySlug(slug)!;
-      for (const o of g.countries) paths.push({ params: { locale, slug, country: o.country }, props: { o } });
+      const category = catSlug(g.rep.category);
+      for (const o of g.countries) paths.push({ params: { locale, category, slug, country: o.country }, props: { o } });
     }
   }
   return paths;
 }
-const { locale, slug, country } = Astro.params as { locale: Locale; slug: string; country: string };
+const { locale, slug, country } = Astro.params as { locale: Locale; category: string; slug: string; country: string };
 const { o } = Astro.props as any;
 const t = strings(locale);
 const dispName = name(o, locale);

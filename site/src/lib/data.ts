@@ -162,11 +162,14 @@ const _jobGroups: Map<string, Occ[]> = (() => {
   return m;
 })();
 export const JOB_SLUGS: string[] = [..._jobGroups.keys()];
-// /jobs 多语言矩阵生成的语言（英文为默认=裸 URL，其余用 /{locale}/ 前缀）。核心几种先行，可扩。
-export const JOBS_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'es', 'ja', 'de'];
-// /jobs 干净前缀 URL：en 裸 /jobs/{slug}[/{cc}]，其余 /{locale}/jobs/{slug}[/{cc}]
+// 职业页多语言矩阵生成的语言：全 11 语言全覆盖（en 为默认=裸 URL，其余用 /{locale}/ 前缀）。
+export const JOBS_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de'];
+// 干净分类前缀 URL：en 裸 /{cat}/{slug}[/{cc}]，其余 /{locale}/{cat}/{slug}[/{cc}]。
+// 分类段取该 slug 代表副本（rep=首国）的分类，全站唯一（同 slug 跨国用同一分类段）。
 export function jobHref(locale: Locale, slug: string, country?: string): string {
-  const base = country ? `/jobs/${slug}/${country}` : `/jobs/${slug}`;
+  const g = _jobGroups.get(slug);
+  const cat = g ? catSlug(g[0].category) : '';
+  const base = country ? `/${cat}/${slug}/${country}` : `/${cat}/${slug}`;
   return locale === 'en' ? base : `/${locale}${base}`;
 }
 // hreflang alternates（含全部 JOBS_LOCALES）；x-default 由页面单独指向英文裸 URL

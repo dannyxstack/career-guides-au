@@ -1,19 +1,19 @@
 ---
-// 一级聚合 URL（多语言前缀）：/{locale}/jobs/{slug} —— 职业本体的各语言版本。
-// 仅 JOBS_LOCALES 中非英文的语言（英文为裸 URL /jobs/{slug}）。self-canonical + hreflang + x-default。
+// 一级聚合 URL（多语言前缀）：/{locale}/{category}/{slug} —— 职业本体的各语言版本。
+// 仅 JOBS_LOCALES 中非英文的语言（英文为裸 URL /{category}/{slug}）。self-canonical + hreflang + x-default。
 import Base from '../../../layouts/Base.astro';
 import JobDetail from '../../../components/JobDetail.astro';
-import { JOB_SLUGS, JOBS_LOCALES, jobBySlug, jobAlternates, jobHref, strings, tr, name, countryTitleName, type Locale } from '../../../lib/data';
+import { JOB_SLUGS, JOBS_LOCALES, jobBySlug, jobAlternates, jobHref, strings, tr, name, catSlug, type Locale } from '../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
   for (const locale of JOBS_LOCALES) {
     if (locale === 'en') continue; // 英文走裸 URL
-    for (const slug of JOB_SLUGS) paths.push({ params: { locale, slug } });
+    for (const slug of JOB_SLUGS) paths.push({ params: { locale, category: catSlug(jobBySlug(slug)!.rep.category), slug } });
   }
   return paths;
 }
-const { locale, slug } = Astro.params as { locale: Locale; slug: string };
+const { locale, slug } = Astro.params as { locale: Locale; category: string; slug: string };
 const group = jobBySlug(slug)!;
 const rep = group.rep;
 const t = strings(locale);
