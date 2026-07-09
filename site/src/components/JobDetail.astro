@@ -7,7 +7,7 @@ import RatingRadar from './RatingRadar.astro';
 import PollBlock from './PollBlock.astro';
 import {
   jobBySlug, strings, tr, name, summary, radarLabels, radarValues, money,
-  currencyOf, sourcesBody, countryName, countryTitleName, COUNTRY_FLAG, catSlug,
+  currencyOf, sourcesBody, countryName, countryTitleName, COUNTRY_FLAG,
   migRestrictedOccOf, migRestrictedNoteOf, nonMigVisaOf, disType, disLevel,
   jobHref, type Locale,
 } from '../lib/data';
@@ -92,6 +92,12 @@ const activeCc = active && group.countries.some((o) => o.country === active)
       {ai.upgrade_path_zh && (
         <div class="card"><strong style="color:var(--green)">🚀 {t.aiUpgrade}</strong>
           <p style="margin:6px 0 0;font-size:14px">{tr(ai.upgrade_path_zh, locale)}</p></div>
+      )}
+      {(ai as any).adjacent && (ai as any).adjacent.length > 0 && (
+        <div class="card"><strong>{t.aiAdjacent}</strong>
+          <div class="chips" style="margin-top:8px">{(ai as any).adjacent.map((j: any) => (
+            <a class="tag mig" href={jobHref(locale, j.slug)}>{name(jobBySlug(j.slug)?.rep || ({} as any), locale) || j.name_en}</a>
+          ))}</div></div>
       )}
     </section>
   )}
@@ -196,13 +202,6 @@ const activeCc = active && group.countries.some((o) => o.country === active)
 
         <h2>{t.sources}</h2>
         <p class="card muted" style="font-size:13px">{sourcesBody(cc, locale)}</p>
-
-        <!-- 底部小入口：指向原来的老职业详情页（按该国 + 当前语言） -->
-        <p class="job-classic">
-          <a href={`/${cc}/${locale}/${catSlug(o.category)}/${o.slug}/`}>
-            {t.jClassic.replace('{c}', countryName(cc, locale))} →
-          </a>
-        </p>
       </section>
     );
   })}
@@ -268,7 +267,4 @@ const activeCc = active && group.countries.some((o) => o.country === active)
   .dis-lvl.lvl-full { color: #dc2626; border-color: #dc2626; }
   .dis-year { font-size: 12px; color: var(--muted); margin-left: auto; }
   .dis-scope { margin: 6px 0 0; font-size: 14px; line-height: 1.6; }
-  .job-classic { margin: 20px 0 4px; font-size: 13px; text-align: right; }
-  .job-classic a { color: var(--muted); border-bottom: 1px dashed var(--line); padding-bottom: 1px; }
-  .job-classic a:hover { color: var(--green); border-color: var(--green); }
 </style>

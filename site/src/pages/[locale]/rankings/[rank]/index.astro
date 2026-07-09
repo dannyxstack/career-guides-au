@@ -3,7 +3,7 @@
 // 去掉跨币种薪资/移民筛选与列（那些属国家耦合，留在 /{cc}/{locale}/rankings/）。
 import Base from '../../../../layouts/Base.astro';
 import { strings, GLOBAL_RANKING_ORDER, rankName, rankSub, rankWhy, rankingList,
-  name, catSlug, aiTag, starOf, clusterColor, COUNTRIES, COUNTRY_FLAG, renderStars, LOCALES, type Locale } from '../../../../lib/data';
+  name, jobHref, aiTag, starOf, clusterColor, COUNTRIES, COUNTRY_FLAG, renderStars, LOCALES, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
   return LOCALES.flatMap((locale) =>
@@ -57,7 +57,7 @@ const related = GLOBAL_RANKING_ORDER.filter((k) => k !== key);
             return (
               <tr data-countries={row.countries.map((c) => c.country).join(',')}>
                 <td class="rk-no">{i + 1}</td>
-                <td><a href={`/${o.country}/${locale}/${catSlug(o.category)}/${o.slug}/`}><strong>{name(o, locale)}</strong></a>
+                <td><a href={jobHref(locale, o.slug, o.country)}><strong>{name(o, locale)}</strong></a>
                   <div class="muted" style="font-size:12px">{o.name_en}</div></td>
                 <td><span class="cty-tags">{row.countries.map((c) => (
                   <span class="tag gov" title={c.country}>{c.country}</span>

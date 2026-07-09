@@ -1,5 +1,5 @@
 ---
-import { name, catSlug, seniorSalaryText, seniorMax, trainingMonths, prScore, cardBadges, tr, strings, type Occ, type Locale } from '../lib/data';
+import { name, jobHref, seniorSalaryText, seniorMax, trainingMonths, prScore, cardBadges, tr, strings, type Occ, type Locale } from '../lib/data';
 interface Props { o: Occ; country: string; locale: Locale; showCountry?: boolean }
 const { o, country, locale, showCountry = false } = Astro.props as Props;
 const t = strings(locale);
@@ -7,7 +7,7 @@ const pay = seniorSalaryText(o), train = tr(o.training_zh, locale), badges = car
 const search = `${name(o, locale)} ${name(o, 'en')} ${o.name_en} ${o.occ_code} ${o.anzsco_code}`.toLowerCase();
 ---
 <a class="card occ-card"
-   href={`/${country}/${locale}/${catSlug(o.category)}/${o.slug}/`}
+   href={jobHref(locale, o.slug, country)}
    data-search={search}
    data-cat={o.category}
    data-pr={o.is_migration === 1 ? 1 : 0}

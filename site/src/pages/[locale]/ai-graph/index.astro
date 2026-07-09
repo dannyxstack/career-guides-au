@@ -1,7 +1,7 @@
 ---
 // 全球 AI 职业图谱（/[locale]/ai-graph/）：跨国合并所有职业，cluster 框架通用，每点/项标注国家。
 import Base from '../../../layouts/Base.astro';
-import { strings, name, catSlug, AI_CLUSTER_ORDER, AI_CLUSTERS, LOCALES, type Locale,
+import { strings, name, jobHref, AI_CLUSTER_ORDER, AI_CLUSTERS, LOCALES, type Locale,
   clusterField, clusterColor, occByClusterGlobal, graphOccsGlobal } from '../../../lib/data';
 
 export function getStaticPaths() {
@@ -68,7 +68,7 @@ const repName = (o: any) => `${name(o, locale)} · ${o.country}`;
           const cy = clampY(py(o.ai!.human_moat as number) + jit(i + 3));
           const col = clusterColor(o.ai!.cluster as string);
           return (
-            <a href={`/${o.country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>
+            <a href={jobHref(locale, o.slug, o.country)}>
               <circle class="dot" cx={cx} cy={cy} r={DOT_R} fill={col} fill-opacity="0.85" stroke="#fff" stroke-width="1"
                 data-name={repName(o)} data-color={col} />
             </a>
@@ -125,7 +125,7 @@ const repName = (o: any) => `${name(o, locale)} · ${o.country}`;
         {reps.length > 0 && (
           <div class="card" data-section={`${key}-reps`}><strong>{t.agRepJobs}</strong>
             <div class="chips" style="margin-top:8px">{reps.map((o) => (
-              <a class="tag" href={`/${o.country}/${locale}/${catSlug(o.category)}/${o.slug}/`}>{repName(o)}</a>
+              <a class="tag" href={jobHref(locale, o.slug, o.country)}>{repName(o)}</a>
             ))}</div></div>
         )}
       </section>

@@ -1,7 +1,7 @@
 ---
 // 全球品牌入口首页（共享组件）：根 / 用 locale=en，/[locale]/ 用各语言。
 // 自带 global 头部/底部 + 同一套设计 token（不依赖某个国家的 Base 导航）。
-import { occupations, COUNTRIES, catSlug, COUNTRY_FLAG, countryName, name, strings, LOCALES, JOBS_LOCALES, type Locale } from '../lib/data';
+import { occupations, COUNTRIES, catSlug, jobBySlug, jobHref, COUNTRY_FLAG, countryName, name, strings, LOCALES, JOBS_LOCALES, type Locale } from '../lib/data';
 import { buildTicker } from '../lib/ticker';
 import hotRaw from '../data/hot_occupations.json';
 
@@ -26,7 +26,7 @@ const roundDown = (n: number) => (n >= 100 ? Math.floor(n / 50) * 50 + '+' : n >
 const SEARCH = occupations
   .filter((o) => o.name_en)
   .map((o) => ({
-    n: o.name_en, s: o.slug, c: o.country, cat: o.category, cs: catSlug(o.category),
+    n: o.name_en, s: o.slug, c: o.country, cat: o.category, cs: catSlug(jobBySlug(o.slug)!.rep.category),
     v: o.ai?.verdict_type || '',
     r: o.ratings.find((x) => x.dimension === 'ai_risk')?.stars ?? null,
     m: o.is_migration,
@@ -55,7 +55,7 @@ const headline = t.hHeadline.replace('{n}', nStr);
 // —— 热门职业搜索（DB occ_search_hits → hot_occupations.json，标签带国旗）——
 const HOT = (hotRaw as { country: string; slug: string; cat: string; name_en: string }[]).map((h) => {
   const o = occupations.find((x) => x.country === h.country && x.slug === h.slug);
-  return { cc: h.country, url: `/${h.country}/${locale}/${catSlug(h.cat)}/${h.slug}/`, label: o ? name(o, locale) : h.name_en };
+  return { cc: h.country, url: jobHref(locale, h.slug, h.country), label: o ? name(o, locale) : h.name_en };
 });
 // —— 滚动播报（构建期预生成的一批洞察句，前端每次一行轮播）——
 const TICKER = buildTicker(locale);
@@ -320,7 +320,7 @@ const ld = [
               '<span class="r-meta">' + esc(c.cc) + ' →</span></a>';
           }).join('');
           if (!items.length && !chtml) { ac.innerHTML = '<div class="ac-empty">' + esc(I18N.noResults) + '</div>'; ac.hidden = false; return; }
-          // 一职一条：链向全球聚合页 /jobs/{slug}，附「可用国家」国旗（SVG，禁 emoji）
+          // 一职一条：链向全球聚合页 /{cat}/{slug}，附「可用国家」国旗（SVG，禁 emoji）
           var ihtml = items.map(function (o) {
             var ccs = bySlug[o.s] || [o.c];
             var meta = [o.cat, aiLabel(o), migLabel(o.m)].filter(Boolean).join(' · ');
@@ -328,7 +328,7 @@ const ld = [
               return FLAGS[c] ? '<span class="r-flag" title="' + esc(CN[c] || c) + '">' + FLAGS[c] + '</span>' : esc(c);
             }).join('');
             var avail = '<div class="r-avail">' + esc(I18N.availIn) + ' ' + flags + '</div>';
-            return '<a class="ac-item" href="' + (I18N.jobsBase || '') + '/jobs/' + o.s + '">' +
+            return '<a class="ac-item" href="' + (I18N.jobsBase || '') + '/' + o.cs + '/' + o.s + '">' +
               '<span class="r-name">' + esc(o.n) + '</span><span class="r-meta">' + esc(meta) + '</span>' + avail + '</a>';
           }).join('');
           ac.innerHTML = chtml + ihtml;

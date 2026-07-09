@@ -2,7 +2,7 @@
 import Base from '../../../../layouts/Base.astro';
 import RatingRadar from '../../../../components/RatingRadar.astro';
 import { COUNTRIES, LOCALES, COMPARE_PAIRS, pairKey, getBySlug, name, strings, dimLabel, dimDesc,
-  radarLabels, radarValues, DIM_ORDER, money, renderStars, type Locale } from '../../../../lib/data';
+  radarLabels, radarValues, DIM_ORDER, money, renderStars, jobHref, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
@@ -34,7 +34,7 @@ const stars = (n: number) => renderStars(n);
 
   <section class="grid" data-section="compare-cards" style="grid-template-columns:1fr 1fr;gap:12px">
     {[oa, ob].map((o, idx) => (
-      <a class="card" data-section={`compare-card-${idx === 0 ? 'a' : 'b'}`} href={`/${country}/${locale}/${(o.category || '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')}/${o.slug}/`}>
+      <a class="card" data-section={`compare-card-${idx === 0 ? 'a' : 'b'}`} href={jobHref(locale, o.slug, country)}>
         <strong style={`color:${idx === 0 ? '#10b981' : '#f59e0b'}`}>{name(o, locale)}</strong>
         <div class="muted" style="font-size:13px">{o.name_en}</div>
         <div style="margin-top:6px">
