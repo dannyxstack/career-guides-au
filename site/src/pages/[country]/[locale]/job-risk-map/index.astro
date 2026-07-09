@@ -19,7 +19,7 @@ const layout = buildRiskMap(country);
 // 供客户端 tooltip / 高亮的职业元数据（含颜色 + 详情页链接）
 const meta = layout.occs.map((o) => ({
   n: o.name, c: o.cat, w: o.workforce, r: Math.round(o.risk * 10) / 10,
-  s: o.score, u: `/${o.country}/en/${o.catSlug}/${o.slug}/`,
+  a: o.avgSalary, cur: o.currency, u: `/${o.country}/en/${o.catSlug}/${o.slug}/`,
   col: riskColor(o.risk),
 }));
 

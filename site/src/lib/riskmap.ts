@@ -8,6 +8,7 @@ export interface RiskRect { x: number; y: number; w: number; h: number; i: numbe
 export interface OccMeta {
   name: string; cat: string; catSlug: string; slug: string; country: string;
   risk: number; workforce: number; score: number | null;
+  avgSalary: number | null; currency: string;
 }
 export interface CatBlock { x: number; y: number; w: number; h: number; text: string; count: number }
 export interface RiskLayout {
@@ -107,6 +108,7 @@ export function buildRiskMap(country: string): RiskLayout {
     risk: o.ai!.automation_exposure as number,
     workforce: o.workforce_size as number,
     score: o.overall_score,
+    avgSalary: o.avg_salary ?? null, currency: o.currency || 'AUD',
   }));
   return layoutFromOccs(occs);
 }
@@ -128,6 +130,7 @@ export function buildGlobalRiskMap(): RiskLayout {
       risk: rep.ai.automation_exposure as number,
       workforce,
       score: rep.overall_score,
+      avgSalary: rep.avg_salary ?? null, currency: rep.currency || 'AUD',
     });
   }
   return layoutFromOccs(occs);

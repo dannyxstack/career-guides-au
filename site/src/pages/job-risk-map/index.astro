@@ -11,7 +11,7 @@ const layout = buildGlobalRiskMap();
 // 客户端 tooltip / 高亮元数据：全球图方块链向 /jobs/{slug}（全球职业页）
 const meta = layout.occs.map((o) => ({
   n: o.name, c: o.cat, w: o.workforce, r: Math.round(o.risk * 10) / 10,
-  s: o.score, u: `/jobs/${o.slug}`,
+  a: o.avgSalary, cur: o.currency, u: `/jobs/${o.slug}`,
   col: riskColor(o.risk),
 }));
 

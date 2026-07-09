@@ -5,7 +5,7 @@ import type { RiskLayout } from '../lib/riskmap';
 import { COUNTRIES, COUNTRY_FLAG, countryName } from '../lib/data';
 import outlinePaths from '../data/outline-paths.json';
 
-interface Meta { n: string; c: string; w: number; r: number; s: number | null; u: string; col: string }
+interface Meta { n: string; c: string; w: number; r: number; a: number | null; cur: string; u: string; col: string }
 interface Props { layout: RiskLayout; meta: Meta[]; outlineKey: string; ariaLabel: string; activeKey: string }
 const { layout, meta, outlineKey, ariaLabel, activeKey } = Astro.props as Props;
 const landPath = (outlinePaths as Record<string, string>)[outlineKey] || '';
@@ -77,6 +77,11 @@ function catLabel(text: string, bw: number) {
     var curr = -1, hi = [];
     function clearHi() { hi.forEach(function (n) { n.classList.remove('on'); }); hi = []; }
     function fmt(n) { return n.toLocaleString('en'); }
+    function salary(v, cur) {
+      var n = Number(v);
+      try { return new Intl.NumberFormat('en', { style: 'currency', currency: cur || 'USD', maximumFractionDigits: 0 }).format(n); }
+      catch (e) { return fmt(Math.round(n)) + ' ' + (cur || ''); }
+    }
     function show(i, evt) {
       var m = M[i]; if (!m) return;
       if (i !== curr) {
@@ -88,7 +93,7 @@ function catLabel(text: string, bw: number) {
           '<div class="rt-row"><span>Category</span><b>' + m.c + '</b></div>' +
           '<div class="rt-row"><span>Workforce</span><b>' + fmt(m.w) + '</b></div>' +
           '<div class="rt-row"><span>AI risk</span><b style="color:' + m.col + '">' + m.r + ' / 10</b></div>' +
-          (m.s != null ? '<div class="rt-row"><span>Overall</span><b>' + m.s + ' / 10</b></div>' : '') +
+          (m.a != null ? '<div class="rt-row"><span>Avg salary</span><b>' + salary(m.a, m.cur) + '</b></div>' : '') +
           '<div class="rt-hint">Click to open →</div>';
         tip.hidden = false;
         curr = i;
