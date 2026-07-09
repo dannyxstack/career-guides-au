@@ -5,13 +5,14 @@
 import Base from '../../layouts/Base.astro';
 import RiskMap from '../../components/RiskMap.astro';
 import { buildGlobalRiskMap, riskColor } from '../../lib/riskmap';
+import { jobHref } from '../../lib/data';
 
 const layout = buildGlobalRiskMap();
 
 // 客户端 tooltip / 高亮元数据：全球图方块链向 /jobs/{slug}（全球职业页）
 const meta = layout.occs.map((o) => ({
   n: o.name, c: o.cat, w: o.workforce, r: Math.round(o.risk * 10) / 10,
-  a: o.avgSalary, cur: o.currency, u: `/jobs/${o.slug}`,
+  a: o.avgSalary, cur: o.currency, u: jobHref('en', o.slug),
   col: riskColor(o.risk),
 }));
 

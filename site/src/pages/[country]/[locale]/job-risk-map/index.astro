@@ -4,7 +4,7 @@
 // 国家边界作为背后隐约水印（内联轮廓，深色模式大陆变浅）。仅英文。
 import Base from '../../../../layouts/Base.astro';
 import RiskMap from '../../../../components/RiskMap.astro';
-import { COUNTRIES, countryName } from '../../../../lib/data';
+import { COUNTRIES, countryName, jobHref } from '../../../../lib/data';
 import { buildRiskMap, riskColor } from '../../../../lib/riskmap';
 
 export function getStaticPaths() {
@@ -19,7 +19,7 @@ const layout = buildRiskMap(country);
 // 供客户端 tooltip / 高亮的职业元数据（含颜色 + 详情页链接）
 const meta = layout.occs.map((o) => ({
   n: o.name, c: o.cat, w: o.workforce, r: Math.round(o.risk * 10) / 10,
-  a: o.avgSalary, cur: o.currency, u: `/${o.country}/en/${o.catSlug}/${o.slug}/`,
+  a: o.avgSalary, cur: o.currency, u: jobHref('en', o.slug, o.country),
   col: riskColor(o.risk),
 }));
 
