@@ -54,7 +54,11 @@ def main():
     a = ap.parse_args()
     cc = a.country.strip().upper()
 
-    match = json.load(open(os.path.join(TMP, f"{cc.lower()}_ai_match.json"), encoding="utf-8"))
+    # 母体匹配文件：优先常规命名 {cc}_ai_match.json；回退 ISCO 系命名 isco_{CC}_ai_match.json（IT/NL/IE）
+    mp = os.path.join(TMP, f"{cc.lower()}_ai_match.json")
+    if not os.path.exists(mp):
+        mp = os.path.join(TMP, f"isco_{cc}_ai_match.json")
+    match = json.load(open(mp, encoding="utf-8"))
     # 跳过已有 occupation_ai 的（除非 --redo）
     if not a.redo:
         with get_cursor() as cur:

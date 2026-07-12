@@ -7,9 +7,9 @@ const xDefaultHref = xDefault ? (Astro.site ? new URL(xDefault, Astro.site).href
 const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.pathname;
 const ldBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const t = strings(locale);
-const LANG_ATTR: Record<string, string> = { 'zh-CN': 'zh-Hans', 'zh-Hant': 'zh-Hant', en: 'en', es: 'es', pt: 'pt', vi: 'vi', th: 'th', ms: 'ms', id: 'id', ja: 'ja' };
-const LANG_LABEL: Record<string, string> = { 'zh-CN': '简', 'zh-Hant': '繁', en: 'EN', es: 'ES', pt: 'PT', vi: 'VI', th: 'TH', ms: 'MS', id: 'ID', ja: 'JA', de: 'DE' };
-const LANG_NAME: Record<string, string> = { 'zh-CN': '简体中文', 'zh-Hant': '繁體中文', en: 'English', es: 'Español', pt: 'Português', vi: 'Tiếng Việt', th: 'ไทย', ms: 'Bahasa Melayu', id: 'Bahasa Indonesia', ja: '日本語', de: 'Deutsch' };
+const LANG_ATTR: Record<string, string> = { 'zh-CN': 'zh-Hans', 'zh-Hant': 'zh-Hant', en: 'en', es: 'es', pt: 'pt', vi: 'vi', th: 'th', ms: 'ms', id: 'id', ja: 'ja', de: 'de', it: 'it', nl: 'nl' };
+const LANG_LABEL: Record<string, string> = { 'zh-CN': '简', 'zh-Hant': '繁', en: 'EN', es: 'ES', pt: 'PT', vi: 'VI', th: 'TH', ms: 'MS', id: 'ID', ja: 'JA', de: 'DE', it: 'IT', nl: 'NL' };
+const LANG_NAME: Record<string, string> = { 'zh-CN': '简体中文', 'zh-Hant': '繁體中文', en: 'English', es: 'Español', pt: 'Português', vi: 'Tiếng Việt', th: 'ไทย', ms: 'Bahasa Melayu', id: 'Bahasa Indonesia', ja: '日本語', de: 'Deutsch', it: 'Italiano', nl: 'Nederlands' };
 const langAttr = LANG_ATTR[locale] || 'en';
 ---
 <!doctype html>

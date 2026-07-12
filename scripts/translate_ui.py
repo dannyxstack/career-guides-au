@@ -21,7 +21,7 @@ SRC_UI = os.path.join(HERE, "_ui_src.json")
 LOCALES = {"es": "Spanish (español)", "pt": "Portuguese (português)", "vi": "Vietnamese (Tiếng Việt)",
            "th": "Thai (ภาษาไทย)", "ms": "Malay (Bahasa Melayu)", "id": "Indonesian (Bahasa Indonesia)",
            "zh-Hant": "Traditional Chinese (繁體中文, 台灣/香港用語)", "ja": "Japanese (日本語)",
-           "de": "German (Deutsch)"}
+           "de": "German (Deutsch)", "it": "Italian (italiano)", "nl": "Dutch (Nederlands)"}
 
 DIM_EN = {"learning_difficulty": "Learning", "learning_duration": "Duration", "certification_difficulty": "Certification",
           "job_demand": "Demand", "competition": "Competition", "work_intensity": "Intensity", "income_level": "Income",

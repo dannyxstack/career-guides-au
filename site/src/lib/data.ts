@@ -6,12 +6,12 @@ import cats from '../data/categories.json';
 //  故再按 md5(源串)%N 分片，各片 <7MB，随 FR/ES 翻译增长仍有充足余量。分片由 export_site_data.py 生成）
 import uiI18n from '../data/ui_i18n.json';
 
-export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de';
-export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR', 'ES'] as const;
-export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de'];
+export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de' | 'it' | 'nl';
+export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR', 'ES', 'IT', 'NL', 'IE'] as const;
+export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de', 'it', 'nl'];
 export const DEFAULT = { country: 'AU', locale: 'zh-CN' as Locale };
 // 国家 -> 本币代码（薪资/费用展示用）
-export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR', ES: 'EUR' };
+export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR', ES: 'EUR', IT: 'EUR', NL: 'EUR', IE: 'EUR' };
 // 国家显示名（国家切换器用）
 export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   AU: { 'zh-CN': '澳大利亚', en: 'Australia' },
@@ -22,6 +22,9 @@ export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   DE: { 'zh-CN': '德国', en: 'Germany' },
   FR: { 'zh-CN': '法国', en: 'France' },
   ES: { 'zh-CN': '西班牙', en: 'Spain' },
+  IT: { 'zh-CN': '意大利', en: 'Italy' },
+  NL: { 'zh-CN': '荷兰', en: 'Netherlands' },
+  IE: { 'zh-CN': '爱尔兰', en: 'Ireland' },
 };
 export const countryName = (cc: string, locale: Locale) =>
   COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
@@ -37,9 +40,12 @@ export const COUNTRY_FLAG: Record<string, string> = {
   DE: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="20" fill="#000"/><rect y="20" width="120" height="20" fill="#DD0000"/><rect y="40" width="120" height="20" fill="#FFCE00"/></svg>',
   FR: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#0055A4"/><rect x="40" width="40" height="60" fill="#fff"/><rect x="80" width="40" height="60" fill="#EF4135"/></svg>',
   ES: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#AA151B"/><rect y="15" width="120" height="30" fill="#F1BF00"/></svg>',
+  IT: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#008C45"/><rect x="40" width="40" height="60" fill="#F4F5F0"/><rect x="80" width="40" height="60" fill="#CD212A"/></svg>',
+  NL: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="20" fill="#AE1C28"/><rect y="20" width="120" height="20" fill="#fff"/><rect y="40" width="120" height="20" fill="#21468B"/></svg>',
+  IE: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#169B62"/><rect x="40" width="40" height="60" fill="#fff"/><rect x="80" width="40" height="60" fill="#FF883E"/></svg>',
 };
 // 标题/SEO 用的简称（中文用习惯简称「澳洲」；其余语言用全称）
-const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国', FR: '法国', ES: '西班牙' };
+const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国', FR: '法国', ES: '西班牙', IT: '意大利', NL: '荷兰', IE: '爱尔兰' };
 export const countryTitleName = (cc: string, locale: Locale) =>
   locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
 
@@ -164,7 +170,7 @@ const _jobGroups: Map<string, Occ[]> = (() => {
 })();
 export const JOB_SLUGS: string[] = [..._jobGroups.keys()];
 // 职业页多语言矩阵生成的语言：全 11 语言全覆盖（en 为默认=裸 URL，其余用 /{locale}/ 前缀）。
-export const JOBS_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de'];
+export const JOBS_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de', 'it', 'nl'];
 // 干净分类前缀 URL：en 裸 /{cat}/{slug}[/{cc}]，其余 /{locale}/{cat}/{slug}[/{cc}]。
 // 分类段取该 slug 代表副本（rep=首国）的分类，全站唯一（同 slug 跨国用同一分类段）。
 export function jobHref(locale: Locale, slug: string, country?: string): string {
@@ -522,6 +528,18 @@ const SOURCES_BODY: Record<string, { 'zh-CN': string; en: string }> = {
     'zh-CN': '本页薪资为综合 InfoJobs、Indeed、Glassdoor、Tecnoempleo 等公开区间的估算；就业与需求预测引用西班牙国家就业局（SEPE）及国家统计局（INE）；签证与移民信息以西班牙《企业家法》（Ley 14/2013）下的欧盟蓝卡（Tarjeta azul UE）、高技能专业人才居留、受雇工作居留（Cuenta ajena）及受规管职业的学历认证（homologación）最新规则为准。数据仅供参考，请以官方最新发布为准。',
     en: 'Salary ranges are estimates aggregated from public listings on InfoJobs, Indeed, Glassdoor and Tecnoempleo; employment and demand outlook cite the Spanish Public Employment Service (SEPE) and the National Statistics Institute (INE); visa and migration details follow the latest Spanish rules covering the EU Blue Card (Tarjeta azul UE), the highly-qualified professional permit under Ley 14/2013, the Cuenta ajena work-residence permit and qualification recognition (homologación) for regulated professions. Figures are indicative only — always refer to the latest official sources.',
   },
+  IT: {
+    'zh-CN': '本页薪资为综合 Indeed、Glassdoor、JobPricing 等公开区间及意大利国家统计局（ISTAT）与欧盟统计局（Eurostat）数据的估算；就业与需求预测引用 ISTAT 与 Eurostat；签证与移民信息以意大利欧盟蓝卡（Carta blu UE）、《移民配额法令》（Decreto Flussi）下的受雇工作居留（Nulla Osta）及受规管职业的资质认证（riconoscimento）最新规则为准。数据仅供参考，请以官方最新发布为准。',
+    en: 'Salary ranges are estimates aggregated from public listings on Indeed, Glassdoor and JobPricing alongside the National Institute of Statistics (ISTAT) and Eurostat; employment and demand outlook cite ISTAT and Eurostat; visa and migration details follow the latest Italian rules covering the EU Blue Card (Carta blu UE), employer-sponsored permits (Nulla Osta) under the annual quota decree (Decreto Flussi) and qualification recognition (riconoscimento) for regulated professions. Figures are indicative only — always refer to the latest official sources.',
+  },
+  NL: {
+    'zh-CN': '本页薪资为综合 Indeed、Glassdoor、Nationale Beroepengids 等公开区间及荷兰统计局（CBS）与欧盟统计局（Eurostat）数据的估算；就业与需求预测引用 CBS 与 Eurostat；签证与移民信息以荷兰高技能移民（Kennismigrant）、欧盟蓝卡、应届毕业生求职年（Orientation Year）及荷兰移民局（IND）认证雇主担保与薪资门槛最新规则为准。数据仅供参考，请以官方最新发布为准。',
+    en: 'Salary ranges are estimates aggregated from public listings on Indeed, Glassdoor and the Nationale Beroepengids alongside Statistics Netherlands (CBS) and Eurostat; employment and demand outlook cite CBS and Eurostat; visa and migration details follow the latest Dutch rules covering the Highly Skilled Migrant (Kennismigrant) route, the EU Blue Card, the Orientation Year for graduates and IND recognised-sponsor employment with salary thresholds. Figures are indicative only — always refer to the latest official sources.',
+  },
+  IE: {
+    'zh-CN': '本页薪资为综合 Indeed、Glassdoor、IrishJobs 等公开区间及爱尔兰中央统计局（CSO）与欧盟统计局（Eurostat）数据的估算；就业与需求预测引用 CSO 与 Eurostat；签证与移民信息以爱尔兰关键技能就业许可（Critical Skills Employment Permit）、一般就业许可（General Employment Permit）、欧盟蓝卡及企业、贸易与就业部（DETE）薪资门槛最新规则为准。数据仅供参考，请以官方最新发布为准。',
+    en: 'Salary ranges are estimates aggregated from public listings on Indeed, Glassdoor and IrishJobs alongside the Central Statistics Office (CSO) and Eurostat; employment and demand outlook cite the CSO and Eurostat; visa and migration details follow the latest Irish rules covering the Critical Skills Employment Permit, the General Employment Permit, the EU Blue Card and the salary thresholds set by the Department of Enterprise, Trade and Employment (DETE). Figures are indicative only — always refer to the latest official sources.',
+  },
 };
 // 移民/签证文案：按国家区分（AU 走 UI 字典的 10 语言；US/NZ/CA 给 zh/en，其余语言经 tr() 回退 en）。
 // 各国签证类别为公开事实；不在此杜撰个案资格，仅指明通道与主管部门。
@@ -603,6 +621,39 @@ const MIG_TEXT: Record<string, MigText> = {
                       en: 'This occupation is not on the direct Blue Card / highly-qualified track, so direct skilled migration is unavailable; however migration is possible via an employer-sponsored Cuenta ajena permit or the shortage-occupation route — usually requiring qualification recognition (homologación), with limited pathways and places. Refer to the latest Spanish authorities.' },
     nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 CNO 职业，受规管职业需完成学历认证（homologación），以西班牙主管机关（SEPE / 移民总局）最新规则为准。',
                   en: 'Visa pathways depend on matching the specific duties to the correct CNO occupation, with qualification recognition (homologación) for regulated professions; refer to the latest Spanish authorities (SEPE / immigration office).' },
+  },
+  IT: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（需资质认证 / 雇主担保）', en: 'Restricted migration (qualification recognition / employer-sponsored)' },
+    mig1Tip: { 'zh-CN': '该职业通常可走意大利欧盟蓝卡（Carta blu UE）或《移民配额法令》（Decreto Flussi）下的受雇工作居留（Nulla Osta），并可申请长期居留；这是一条移民路径，并非保证，受规管职业通常需先完成资质认证（riconoscimento）。以意大利主管机关最新规定为准。',
+               en: 'This occupation commonly supports the Italian EU Blue Card (Carta blu UE) or an employer-sponsored work permit (Nulla Osta) under the annual quota decree (Decreto Flussi), with a route to long-term residence — a pathway, not a guarantee, and regulated professions usually require qualification recognition (riconoscimento). Refer to the Italian authorities.' },
+    mig2Tip: { 'zh-CN': '该职业较难直接走蓝卡，但可通过《移民配额法令》（Decreto Flussi）名额下的雇主担保受雇居留移民——名额与开放窗口有限，通常需资质认证。以意大利主管机关最新规定为准。',
+               en: 'The Blue Card route may be harder, but migration is possible via an employer-sponsored permit within the annual quota decree (Decreto Flussi) — quotas and application windows are limited and qualification recognition is usually needed. Refer to the Italian authorities.' },
+    restrictedNote: { 'zh-CN': '本职业不在直接蓝卡通道上，无法直接技术移民；但可通过《移民配额法令》（Decreto Flussi）名额下的雇主担保受雇居留（Nulla Osta）移民——通常需先完成资质认证（riconoscimento），名额与开放窗口有限，以意大利主管机关最新规定为准。',
+                      en: 'This occupation is not on the direct Blue Card track, so direct skilled migration is unavailable; however migration is possible via an employer-sponsored permit (Nulla Osta) within the annual quota decree (Decreto Flussi) — usually requiring qualification recognition (riconoscimento), with limited quotas and windows. Refer to the latest Italian authorities.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 ISCO 职业并受《移民配额法令》名额约束，受规管职业需完成资质认证（riconoscimento），以意大利主管机关（内政部 / 劳工部）最新规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct ISCO occupation and on the annual quota decree, with qualification recognition (riconoscimento) for regulated professions; refer to the latest Italian authorities (Ministry of the Interior / Labour).' },
+  },
+  NL: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（需雇主认证担保）', en: 'Restricted migration (recognised-sponsor employer required)' },
+    mig1Tip: { 'zh-CN': '该职业通常可走荷兰高技能移民（Kennismigrant）或欧盟蓝卡，并可申请永久居留；这是一条移民路径，并非保证，需由荷兰移民局（IND）认证的雇主担保并满足薪资门槛。以荷兰移民局（IND）最新规定为准。',
+               en: 'This occupation commonly supports the Dutch Highly Skilled Migrant (Kennismigrant) route or the EU Blue Card, with a route to permanent residence — a pathway, not a guarantee, requiring an IND recognised-sponsor employer and meeting the salary threshold. Refer to the Dutch immigration service (IND).' },
+    mig2Tip: { 'zh-CN': '该职业较难达到高技能移民薪资门槛，但仍可能通过认证雇主担保或应届毕业生「求职年」（Orientation Year）通道移民——薪资门槛与担保资格受限。以荷兰移民局（IND）最新规定为准。',
+               en: 'Reaching the Highly Skilled Migrant salary threshold may be harder, but migration may still be possible via a recognised-sponsor employer or the Orientation Year for graduates — salary thresholds and sponsor eligibility are limited. Refer to the IND.' },
+    restrictedNote: { 'zh-CN': '本职业不在直接积分移民通道上，无法直接技术移民；但可通过荷兰移民局（IND）认证雇主的高技能移民（Kennismigrant）担保移民——需满足薪资门槛，担保资格受限，以荷兰移民局（IND）最新规定为准。',
+                      en: 'This occupation has no direct points route, so direct skilled migration is unavailable; however migration is possible via an IND recognised-sponsor employer under the Highly Skilled Migrant (Kennismigrant) route — meeting the salary threshold, with limited sponsor eligibility. Refer to the latest IND rules.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 ISCO 职业并由认证雇主担保、满足薪资门槛，以荷兰移民局（IND）最新规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct ISCO occupation and on recognised-sponsor employment meeting the salary threshold; refer to the latest IND rules.' },
+  },
+  IE: {
+    restrictedOcc: { 'zh-CN': '受限移民职业（需就业许可 / 雇主担保）', en: 'Restricted migration (employment permit / employer-sponsored)' },
+    mig1Tip: { 'zh-CN': '该职业通常可走爱尔兰关键技能就业许可（Critical Skills Employment Permit）或欧盟蓝卡，并可申请长期居留；这是一条移民路径，并非保证，需雇主聘用并满足薪资门槛。以爱尔兰企业、贸易与就业部（DETE）最新规定为准。',
+               en: 'This occupation commonly supports the Irish Critical Skills Employment Permit or the EU Blue Card, with a route to long-term residence — a pathway, not a guarantee, requiring a job offer and meeting the salary threshold. Refer to the Department of Enterprise, Trade and Employment (DETE).' },
+    mig2Tip: { 'zh-CN': '该职业较难走关键技能许可，但仍可能通过一般就业许可（General Employment Permit）移民——受薪资门槛与劳动力市场需求测试约束。以爱尔兰企业、贸易与就业部（DETE）最新规定为准。',
+               en: 'The Critical Skills route may be harder, but migration is possible via the General Employment Permit — subject to salary thresholds and a labour-market needs test. Refer to the DETE.' },
+    restrictedNote: { 'zh-CN': '本职业不在直接移民通道上，无法直接技术移民；但可通过一般就业许可（General Employment Permit）等雇主担保通道移民——需满足薪资门槛并可能需劳动力市场需求测试，以爱尔兰企业、贸易与就业部（DETE）最新规定为准。',
+                      en: 'This occupation is not on a direct migration track, so direct skilled migration is unavailable; however migration is possible via an employer-sponsored General Employment Permit — meeting the salary threshold and possibly a labour-market needs test. Refer to the latest DETE rules.' },
+    nonMigVisa: { 'zh-CN': '签证路径需按具体职责匹配对应 ISCO 职业并取得相应就业许可、满足薪资门槛，以爱尔兰企业、贸易与就业部（DETE）最新规则为准。',
+                  en: 'Visa pathways depend on matching the specific duties to the correct ISCO occupation and obtaining the appropriate employment permit meeting the salary threshold; refer to the latest DETE rules.' },
   },
 };
 // ───────────────────────── AI 职业图谱：6 大类 ─────────────────────────
@@ -768,7 +819,7 @@ export function radarValues(o: Occ) {
   return DIM_ORDER.map((d) => (m[d] as number) ?? 0);
 }
 // 货币符号：按国家区分。UK 用英镑 £、DE 用欧元 €，其余用 $。
-export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€', FR: '€', ES: '€' };
+export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€', FR: '€', ES: '€', IT: '€', NL: '€', IE: '€' };
 export function money(v: number | null, country?: string) {
   if (!v) return '—';
   return ((country && CURRENCY_SYMBOL[country]) || '$') + Number(v).toLocaleString('en-US');

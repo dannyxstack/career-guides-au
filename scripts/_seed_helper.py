@@ -64,8 +64,8 @@ def seed_occupation_v2(cur, OCC, I18N_ZH, I18N_EN, EDUCATION, QUALIFICATIONS,
                     (occ_id, jl["platform"], jl["count_min"], jl["count_max"], jl["note"], TODAY))
     cur.execute("DELETE FROM occupation_salaries WHERE occupation_id=%s", (occ_id,))
     for s in SALARIES:
-        cur.execute("INSERT INTO occupation_salaries (occupation_id,experience,salary_min,salary_max,salary_note,sort_order) VALUES (%s,%s,%s,%s,%s,%s)",
-                    (occ_id, s["experience"], s["salary_min"], s["salary_max"], s["salary_note"], s["sort_order"]))
+        cur.execute("INSERT INTO occupation_salaries (occupation_id,experience,salary_min,salary_max,salary_note,sort_order,currency) VALUES (%s,%s,%s,%s,%s,%s,%s)",
+                    (occ_id, s["experience"], s["salary_min"], s["salary_max"], s["salary_note"], s["sort_order"], OCC.get("currency", "AUD")))
     cur.execute("DELETE FROM occupation_visa_pathways WHERE occupation_id=%s", (occ_id,))
     for v in VISA_PATHWAYS:
         cur.execute("INSERT INTO occupation_visa_pathways (occupation_id,visa_subclass,visa_name,description,sort_order) VALUES (%s,%s,%s,%s,%s)",
@@ -141,8 +141,8 @@ def seed_occupation(cur, OCCUPATION, I18N_ZH, I18N_EN,
 
     cur.execute("DELETE FROM occupation_salaries WHERE occupation_id=%s", (occ_id,))
     for s in SALARIES:
-        cur.execute("INSERT INTO occupation_salaries (occupation_id,experience,salary_min,salary_max,salary_note,sort_order) VALUES (%s,%s,%s,%s,%s,%s)",
-                    (occ_id, s["experience"], s["salary_min"], s["salary_max"], s["salary_note"], s["sort_order"]))
+        cur.execute("INSERT INTO occupation_salaries (occupation_id,experience,salary_min,salary_max,salary_note,sort_order,currency) VALUES (%s,%s,%s,%s,%s,%s,%s)",
+                    (occ_id, s["experience"], s["salary_min"], s["salary_max"], s["salary_note"], s["sort_order"], OCC.get("currency", "AUD")))
     print(f"[salaries] {len(SALARIES)}")
 
     cur.execute("DELETE FROM occupation_visa_pathways WHERE occupation_id=%s", (occ_id,))

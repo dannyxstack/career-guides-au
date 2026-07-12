@@ -33,7 +33,15 @@ def country_path(rings):
     areas = [ring_area(r) for r in rings]
     amax = max(areas) or 1
     sig = [r for r, a in zip(rings, areas) if a >= amax * 0.03] or rings
-    bbox_pts = [p for ring in sig for p in ring]
+    # bbox 先取显著环，再纳入「邻近显著 bbox 的较大岛屿」（如塔斯马尼亚，占大陆约 1%、
+    # 距大陆仅约 1.6°），避免其被投影到画布外被 viewBox 裁掉；仍排除远洋岛屿（如西班牙
+    # 加那利群岛，距本土 >6°）撑大 bbox 致主陆块偏小。
+    sbox = _ring_bbox([p for ring in sig for p in ring])
+    bbox_src = list(sig)
+    for r, a in zip(rings, areas):
+        if r not in sig and a >= amax * 0.005 and _near_bbox(r, sbox, 3.0):
+            bbox_src.append(r)
+    bbox_pts = [p for ring in bbox_src for p in ring]
     lons = [p[0] for p in bbox_pts]; lats = [p[1] for p in bbox_pts]
     min_lon, max_lon = min(lons), max(lons)
     min_lat, max_lat = min(lats), max(lats)
@@ -46,6 +54,19 @@ def country_path(rings):
         pts = [f"{ox + (lon - min_lon) * kx * s:.1f} {oy + (max_lat - lat) * s:.1f}" for lon, lat in ring]
         return "M" + "L".join(pts) + "Z"
     return "".join(proj(r) for r in rings)
+
+
+def _ring_bbox(pts):
+    lons = [p[0] for p in pts]; lats = [p[1] for p in pts]
+    return min(lons), max(lons), min(lats), max(lats)
+
+
+def _near_bbox(ring, box, prox):
+    """ring 的 bbox 与显著 bbox(box=(min_lon,max_lon,min_lat,max_lat)) 的经/纬向间距是否都≤prox 度。"""
+    mnlo, mxlo, mnla, mxla = _ring_bbox(ring)
+    dlon = max(0.0, box[0] - mxlo, mnlo - box[1])
+    dlat = max(0.0, box[2] - mxla, mnla - box[3])
+    return dlon <= prox and dlat <= prox
 
 
 def ring_area(r):
