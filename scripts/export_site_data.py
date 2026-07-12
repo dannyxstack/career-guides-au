@@ -70,9 +70,8 @@ def build():
             z = b["i18n_zh"]
             en_name = (b["i18n"].get("en") or {}).get("name") or o["anzsco_title"]
             sg = slug(en_name)
-            ratings = [{"dimension": r["dimension"], "label_zh": r["label_zh"],
-                        "stars": r["stars"], "name_zh": DIM_ZH.get(r["dimension"], r["dimension"])}
-                       for r in b["ratings"]]
+            # ratings 只留 {dimension, stars}：label_zh/name_zh 前端由 dimLabel() 派生，无需入库（省体积）
+            ratings = [{"dimension": r["dimension"], "stars": r["stars"]} for r in b["ratings"]]
             out.append({
                 "id": b["id"], "country": o["country_code"], "occ_code": o["occ_code"],
                 "occ_code_type": o["occ_code_type"], "anzsco_code": o["anzsco_code"],
@@ -161,6 +160,30 @@ def build():
             print(f"[export] 警告：读取 translations 失败（{e}），仅导出中文母本")
 
     os.makedirs(OUT, exist_ok=True)
+
+    # ── 瘦身：把只有职业详情页/对比页用到的重字段拆到 occ-detail/{cc}.json（按国懒加载），
+    #    occupations.json 只留列表/地图/排行/搜索需要的 lean 字段。data.ts 用 occFull() 合并。──
+    DETAIL_FIELDS = ["visa", "qualifications", "suitability", "faqs", "growth_areas"]
+    AI_DETAIL = ["entry_narrowing_zh", "replaced_zh", "augmented_zh", "moat_zh",
+                 "skills_zh", "upgrade_path_zh", "adjacent", "disruptors"]
+    detail_by_country: dict = {}
+    for o in out:
+        det = {k: o.pop(k) for k in DETAIL_FIELDS if k in o}
+        ai = o.get("ai")
+        if ai:
+            ai_det = {k: ai.pop(k) for k in AI_DETAIL if k in ai}
+            det["ai"] = ai_det
+        detail_by_country.setdefault(o["country"], {})[o["id"]] = det
+
+    det_dir = os.path.join(OUT, "occ-detail")
+    os.makedirs(det_dir, exist_ok=True)
+    for old in glob.glob(os.path.join(det_dir, "*.json")):  # 清残留
+        os.remove(old)
+    for cc, m in detail_by_country.items():
+        with open(os.path.join(det_dir, f"{cc}.json"), "w", encoding="utf-8") as f:
+            json.dump(m, f, ensure_ascii=False, default=str)
+    print(f"[export] 详情拆分 -> occ-detail/{{cc}}.json × {len(detail_by_country)}")
+
     payload = {"generated_at": str(date.today()), "count": len(out), "occupations": out}
     path = os.path.join(OUT, "occupations.json")
     with open(path, "w", encoding="utf-8") as f:

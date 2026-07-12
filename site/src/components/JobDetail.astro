@@ -6,7 +6,7 @@
 import RatingRadar from './RatingRadar.astro';
 import PollBlock from './PollBlock.astro';
 import {
-  jobBySlug, strings, tr, name, summary, radarLabels, radarValues, money,
+  jobBySlug, occFull, strings, tr, name, summary, radarLabels, radarValues, money,
   currencyOf, sourcesBody, countryName, countryTitleName, COUNTRY_FLAG,
   migRestrictedOccOf, migRestrictedNoteOf, nonMigVisaOf, disType, disLevel,
   jobHref, type Locale,
@@ -17,13 +17,14 @@ const { slug, active = null, locale = 'en' } = Astro.props as Props;
 const t = strings(locale);
 
 const group = jobBySlug(slug)!;
-const rep = group.rep;
+const rep = await occFull(group.rep);  // 富化：合并懒加载详情（ai 文案/visa/faqs 等）
 const ai = rep.ai;
 const nm = rep.name_en;              // 规范英文名（用于副标题）
 const dispName = name(rep, locale);  // 本地化职业名（H1 / SEO）
+const countries = await Promise.all(group.countries.map((o) => occFull(o)));  // 各国完整数据
 // 激活国：URL 指定则用之，否则默认第一个（bare 页仍以全球 AI 区为重点）
-const activeCc = active && group.countries.some((o) => o.country === active)
-  ? active : group.countries[0].country;
+const activeCc = active && countries.some((o) => o.country === active)
+  ? active : countries[0].country;
 ---
 <div class="job" data-slug={slug}>
   <a class="muted" href={locale === 'en' ? '/' : `/${locale}/`}>← {t.siteTitle}</a>
@@ -105,7 +106,7 @@ const activeCc = active && group.countries.some((o) => o.country === active)
   <!-- ========== 国家 Tab 栏 ========== -->
   <h2 class="job-by-country">{t.jByCountry}</h2>
   <div class="job-tabs" role="tablist" aria-label={t.jAvail}>
-    {group.countries.map((o) => (
+    {countries.map((o) => (
       <a class={`job-tab${o.country === activeCc ? ' on' : ''}`} role="tab"
          data-cc={o.country} href={jobHref(locale, slug, o.country)}
          data-title={`${dispName} · ${countryTitleName(o.country, locale)} — ${t.jTitleC} | ${t.siteTitle}`}
@@ -116,7 +117,7 @@ const activeCc = active && group.countries.some((o) => o.country === active)
   </div>
 
   <!-- ========== 下半层：国家特异数据区（逐国服务端渲染，仅激活国可见）========== -->
-  {group.countries.map((o) => {
+  {countries.map((o) => {
     const cc = o.country;
     const cur = o.currency || currencyOf(cc);
     const radar = [{ name: nm, color: '#10b981', values: radarValues(o) }];

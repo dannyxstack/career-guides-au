@@ -93,34 +93,54 @@ const hasTr = (s: string, locale: Locale): boolean => {
 export interface Occ {
   id: number; country: string; occ_code: string; occ_code_type: string;
   anzsco_code: string; category: string; currency?: string; is_migration: number; is_public_servant?: boolean; shortage_listed: boolean;
-  workforce_size: number | null; slug: string; name_en: string; growth_areas: string[];
+  workforce_size: number | null; slug: string; name_en: string; growth_areas?: string[];
   training_zh: string;
   i18n: Record<string, { name: string; summary: string; forecast_note: string; trend_summary: string }>;
   salaries: { label: string; min: number | null; max: number | null; note: string | null }[];
-  ratings: { dimension: string; label_zh: string; stars: number | null; name_zh: string }[];
+  ratings: { dimension: string; stars: number | null }[];
   overall_score: number | null;
   avg_salary?: number | null;  // 官方平均薪资（年薪，本币），来自 occupation_salaries band='mean'
-  visa: { subclass: string; name: string; desc: string; min_score?: number | null; score_asof?: string | null }[];
+  // ↓ 懒加载详情字段（occ-detail/{cc}.json，经 occFull() 合并；lean 对象里为 undefined）
+  visa?: { subclass: string; name: string; desc: string; min_score?: number | null; score_asof?: string | null }[];
   education: { stage: string; duration: string; cost_min: number | null; cost_max: number | null; cost_note: string | null }[];
-  qualifications: { name: string; issuer: string | null; note: string | null; mandatory: boolean }[];
-  suitability: { fit: string[]; unfit: string[] };
-  faqs: { type: string; question: string; answer: string }[];
+  qualifications?: { name: string; issuer: string | null; note: string | null; mandatory: boolean }[];
+  suitability?: { fit: string[]; unfit: string[] };
+  faqs?: { type: string; question: string; answer: string }[];
   ai?: {
     verdict_type: 'compressed' | 'amplified' | 'mixed';
-    verdict_zh: string; entry_narrowing_zh: string;
-    replaced_zh: string[]; augmented_zh: string[]; moat_zh: string[]; skills_zh: string[];
+    verdict_zh: string; entry_narrowing_zh?: string;
+    replaced_zh?: string[]; augmented_zh?: string[]; moat_zh?: string[]; skills_zh?: string[];
     upgrade_path_zh?: string | null;
-    adjacent: { slug: string; name_en: string; category: string }[];
+    adjacent?: { slug: string; name_en: string; category: string }[];
     cluster?: string | null;
     automation_exposure?: number | null; human_moat?: number | null;
     entry_risk?: number | null; ai_upside?: number | null;
     // 学术 AI Exposure 指数（Felten 等 AIOE）：aioe_pct=百分位(0-100，越高越暴露)，aioe_soc=映射到的美国SOC码，aioe_method=direct/crosswalk
     aioe_score?: number | null; aioe_pct?: number | null;
     aioe_soc?: string | null; aioe_method?: string | null;
+    disruptors?: any[];  // 懒加载详情
   } | null;
 }
 
 export const occupations = (data as any).occupations as Occ[];
+
+// ── 详情懒加载：重字段（visa/faqs/qualifications/suitability/growth_areas/ai 文案）拆到
+//    occ-detail/{cc}.json，按国一次性加载并缓存。详情页/对比页用 occFull(o) 取合并后的完整对象。──
+const _detailGlob = import.meta.glob('../data/occ-detail/*.json') as Record<string, () => Promise<{ default: Record<string, any> }>>;
+const _detailCache: Record<string, Record<string, any>> = {};
+export async function loadDetail(country: string): Promise<Record<string, any>> {
+  if (!_detailCache[country]) {
+    const loader = _detailGlob[`../data/occ-detail/${country}.json`];
+    _detailCache[country] = loader ? (await loader()).default : {};
+  }
+  return _detailCache[country];
+}
+/** 合并 lean 对象与其懒加载详情，返回含全部字段的完整 Occ（详情页/对比页用）。 */
+export async function occFull(o: Occ): Promise<Occ> {
+  const d = (await loadDetail(o.country))[o.id];
+  if (!d) return o;
+  return { ...o, ...d, ai: o.ai ? { ...o.ai, ...(d.ai || {}) } : (d.ai ?? o.ai) };
+}
 export const categories = (cats as any).categories as string[];
 export const categorySlug = (cats as any).category_slug as Record<string, string>;
 export const slugToCategory: Record<string, string> =

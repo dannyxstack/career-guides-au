@@ -9,12 +9,12 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
 from video_pipeline import config, llm, azure_translate, baidu_translate
 
-LOCALES = ["en", "es", "pt", "vi", "th", "ms", "id", "zh-Hant", "ja", "de"]
+LOCALES = ["en", "es", "pt", "vi", "th", "ms", "id", "zh-Hant", "ja", "de", "it", "nl"]
 LANG_NAME = {"en": "English", "es": "Spanish (español)", "pt": "Portuguese (português)",
              "vi": "Vietnamese (Tiếng Việt)", "th": "Thai (ภาษาไทย)",
              "ms": "Malay (Bahasa Melayu)", "id": "Indonesian (Bahasa Indonesia)",
              "zh-Hant": "Traditional Chinese (繁體中文)", "ja": "Japanese (日本語)",
-             "de": "German (Deutsch)"}
+             "de": "German (Deutsch)", "it": "Italian (italiano)", "nl": "Dutch (Nederlands)"}
 
 SCHEMA = {"type": "object", "additionalProperties": False,
           "properties": {"t": {"type": "array", "items": {"type": "string"}}},
