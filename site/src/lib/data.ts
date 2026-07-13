@@ -50,19 +50,6 @@ const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰'
 export const countryTitleName = (cc: string, locale: Locale) =>
   locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
 
-// 澳洲移民/职业数据的权威来源链接（用于「关于」页数据来源说明）
-export const AU_SOURCE_LINKS: { label: { 'zh-CN': string; en: string }; url: string }[] = [
-  { label: { 'zh-CN': '澳洲内政部 · 核心技能职业清单（CSOL，PDF）', en: 'Dept of Home Affairs · Core Skills Occupation List (CSOL, PDF)' },
-    url: 'https://immi.homeaffairs.gov.au/Documents/core-sol.pdf' },
-  { label: { 'zh-CN': '澳洲内政部 · 技术职业清单总览', en: 'Dept of Home Affairs · Skilled occupation lists' },
-    url: 'https://immi.homeaffairs.gov.au/visas/working-in-australia/skill-occupation-list' },
-  { label: { 'zh-CN': '澳洲内政部 · 偏远地区指定移民协议（DAMA）', en: 'Dept of Home Affairs · Designated Area Migration Agreements (DAMA)' },
-    url: 'https://immi.homeaffairs.gov.au/visas/employing-and-sponsoring-someone/sponsoring-workers/nominating-a-position/labour-agreements/designated-area-migration-agreements' },
-  { label: { 'zh-CN': 'Jobs and Skills Australia（就业与技能署）', en: 'Jobs and Skills Australia (JSA)' },
-    url: 'https://www.jobsandskills.gov.au/' },
-  { label: { 'zh-CN': '澳洲统计局 · ANZSCO 职业分类', en: 'ABS · ANZSCO occupation classification' },
-    url: 'https://www.abs.gov.au/statistics/classifications/anzsco-australian-and-new-zealand-standard-classification-occupations' },
-];
 export const currencyOf = (country: string) => CURRENCY[country] || 'AUD';
 
 // 翻译记忆解析：中文母本 → 目标语言（回退 en → 原文）。按 locale 分片加载后合并。

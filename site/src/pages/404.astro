@@ -1,20 +1,19 @@
 ---
 // 全站通用 404 页：构建为 dist/404.html，主机在路径未命中时返回。
-// 用 Base 的 global 模式保留顶部菜单与底部说明；中英双语，提供回首页入口。
+// 用 Base 的 global 模式保留顶部菜单与底部说明；英文母本，提供回首页入口。
 import Base from '../layouts/Base.astro';
 ---
-<Base title="404 · AI Career Graph" description="Page not found" locale="zh-CN" country="US" global={true}>
+<Base title="404 · AI Career Graph" description="Page not found" locale="en" country="US" global={true}>
   <section class="nf">
     <div class="nf-code">404</div>
-    <h1 class="nf-title">页面不存在 · Page not found</h1>
+    <h1 class="nf-title">Page not found</h1>
     <p class="nf-text">
-      你访问的页面可能已被移动、重命名，或从未存在。<br />
       The page you’re looking for may have moved, been renamed, or never existed.
     </p>
     <div class="nf-cta">
-      <a class="btn primary" href="/">返回首页 · Back to home</a>
-      <a class="btn" href="/en/ai-graph/">AI 职业图谱 · AI Career Graph</a>
-      <a class="btn" href="/en/rankings/">职业榜单 · Rankings</a>
+      <a class="btn primary" href="/">Back to home</a>
+      <a class="btn" href="/en/ai-graph/">AI Career Graph</a>
+      <a class="btn" href="/en/rankings/">Rankings</a>
     </div>
   </section>
 </Base>
