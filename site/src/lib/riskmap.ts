@@ -114,7 +114,7 @@ export function buildRiskMap(country: string): RiskLayout {
 }
 
 // 全球图：按 slug 跨国聚合「同一职业」。从业人数=各国之和（全球足迹），
-// AI 风险/分类/名称取代表副本（AI 数据跨国一致）；country 置空，方块链接由页面指向 /jobs/{slug}。
+// AI 风险/分类/名称取代表副本（AI 数据跨国一致）；country 置空，方块链接由页面经 jobHref 指向 /{cat}/{slug}。
 export function buildGlobalRiskMap(): RiskLayout {
   const occs: OccMeta[] = [];
   for (const slug of JOB_SLUGS) {

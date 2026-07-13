@@ -2,9 +2,9 @@
 // 过渡期：v2 JSON 沿用旧键名（i18n['zh-CN'] / *_zh 装英文母本），故前端零改动，仅换数据源 + tr 母本。
 import data from '../data/occupations_v2.json';
 import cats from '../data/categories_v2.json';
-// 翻译记忆按语言 + 分片加载：每 locale 拆 N 片到 data/translations/{loc}.{i}.json
+// 翻译记忆按语言 + 分片加载：每 locale 拆 N 片到 data/translations-v2/{loc}.{i}.json
 // （单文件 9 语言 ~195MB 超 GitHub 100MB 上限；按 locale 拆后 th 仍达 ~51MB 触发 50MB 软警告，
-//  故再按 md5(源串)%N 分片，各片 <7MB，随 FR/ES 翻译增长仍有充足余量。分片由 export_site_data.py 生成）
+//  故再按 md5(源串)%N 分片，各片 <7MB，随 FR/ES 翻译增长仍有充足余量。分片由 export_site_data_v2.py 生成）
 import uiI18n from '../data/ui_i18n.json';
 
 export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de' | 'it' | 'nl';

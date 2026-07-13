@@ -1,8 +1,7 @@
 ---
-// /jobs 详情共用组件：上半层「全球通用 AI 区」+ 下半层「国家特异数据区」+ Tab 切换。
+// 职业详情共用组件：上半层「全球通用 AI 区」+ 下半层「国家特异数据区」+ 国家 Tab。
 // 英文单语（locale='en'）。全球 AI 数据取该 slug 任一国副本（AI 块跨国一致）。
-// 各可用国家的数据块全部服务端渲染（仅激活国可见），点 Tab 时前端切换显隐并用
-// History API 把地址栏改为 /jobs/{slug}/{cc}（每国仍是可独立抓取的静态 URL）。
+// 仅渲染激活国的数据面板；Tab 为纯链接指向各国静态 URL（jobHref，/{cat}/{slug}/{cc}）。
 import RatingRadar from './RatingRadar.astro';
 import PollBlock from './PollBlock.astro';
 import {

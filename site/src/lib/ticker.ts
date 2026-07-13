@@ -1,5 +1,5 @@
 // 首页滚动播报：构建期从 occupations 预生成一批「洞察句」，前端每次展示一行、轮播。
-// 数据全部来自 occupations.json（含 polls 烘焙），无需运行时后端。
+// 数据全部来自 data.ts（occupations_v2.json，含 polls 烘焙），无需运行时后端。
 import { occupations, name, strings, type Locale, type Occ } from './data';
 
 const fill = (tpl: string, vars: Record<string, string | number>) =>
