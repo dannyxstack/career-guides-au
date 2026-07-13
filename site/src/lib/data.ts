@@ -800,15 +800,15 @@ export const occByClusterGlobal = (cluster: string) =>
 
 export function sourcesBody(country: string, locale: Locale): string {
   const v = SOURCES_BODY[country];
-  // CA/NZ：中文母本经翻译记忆 tr() 解析到各语言（TM 缺失则回退 en 文案）
-  if (v) return locale === 'zh-CN' ? v['zh-CN'] : (hasTr(v['zh-CN'], locale) ? tr(v['zh-CN'], locale) : v.en);
+  // 非 AU：en 母本直出；zh-CN 用中文文案；其余语言经 v2 TM(英文键)解析，缺译回退 en
+  if (v) return locale === 'zh-CN' ? v['zh-CN'] : locale === 'en' ? v.en : (hasTr(v.en, locale) ? tr(v.en, locale) : v.en);
   return strings(locale).sourcesBody; // AU：走 UI 字典的多语言文案
 }
 
-// 移民/签证文案取值：US/NZ/CA 走 MIG_TEXT（zh-CN 母本经 tr() 解析其余语言），AU/其它回退 UI 字典 10 语言。
+// 移民/签证文案取值：US/NZ/CA 走 MIG_TEXT（en 母本直出；其余语言经 v2 TM 英文键解析），AU/其它回退 UI 字典 10 语言。
 function migText(country: string | undefined, key: keyof MigText, locale: Locale): string {
   const v = country ? MIG_TEXT[country]?.[key] : undefined;
-  if (v) return locale === 'zh-CN' ? v['zh-CN'] : (hasTr(v['zh-CN'], locale) ? tr(v['zh-CN'], locale) : v.en);
+  if (v) return locale === 'zh-CN' ? v['zh-CN'] : locale === 'en' ? v.en : (hasTr(v.en, locale) ? tr(v.en, locale) : v.en);
   // AU/默认：复用 UI 字典里对应的澳洲文案键
   const fallback: Record<keyof MigText, keyof ReturnType<typeof strings>> = {
     restrictedOcc: 'migRestrictedOcc', restrictedNote: 'migRestrictedNote', nonMigVisa: 'nonMigVisa',
