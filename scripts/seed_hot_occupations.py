@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """热门职业启发式预填充（临时热度）。
 
-从 site/src/data/occupations.json 读取（slug 与前端/导出保持一致），
+从 site/src/data/occupations_v2.json 读取（slug 与前端/导出保持一致），
 按 workforce_size 0.5 / AI 自动化暴露 0.3 / 短缺清单 0.2 打分，
 写入 occ_search_hits.seed_score（幂等：仅覆盖 seed_score，不动 hits）。
 
@@ -13,7 +13,7 @@ import sys, os, json, math
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), ".."))
 from db.connection import get_cursor
 
-OCC_JSON = os.path.join(os.path.dirname(__file__), "..", "site", "src", "data", "occupations.json")
+OCC_JSON = os.path.join(os.path.dirname(__file__), "..", "site", "src", "data", "occupations_v2.json")
 
 W_WORKFORCE = 0.5
 W_AI = 0.3
