@@ -116,8 +116,8 @@ const activeCc = active && countries.some((o) => o.country === active)
     ))}
   </div>
 
-  <!-- ========== 下半层：国家特异数据区（逐国服务端渲染，仅激活国可见）========== -->
-  {countries.map((o) => {
+  <!-- ========== 下半层：仅渲染激活国的数据区（其它国由 Tab 链接跳转到各自 URL）========== -->
+  {countries.filter((o) => o.country === activeCc).map((o) => {
     const cc = o.country;
     const cur = o.currency || currencyOf(cc);
     const radar = [{ name: nm, color: '#10b981', values: radarValues(o) }];
@@ -126,7 +126,7 @@ const activeCc = active && countries.some((o) => o.country === active)
     const trend = tr(z.trend_summary, locale);
     const forecast = tr(z.forecast_note, locale);
     return (
-      <section class="job-panel" data-cc={cc} hidden={cc !== activeCc}>
+      <section class="job-panel" data-cc={cc}>
         <div class="job-stats">
           {o.overall_score != null && <span class="stat">{t.overall}: <b>{o.overall_score}/10</b></span>}
           {o.workforce_size != null && <span class="stat">{t.jWork}: <b>{o.workforce_size.toLocaleString('en')}</b></span>}
@@ -210,39 +210,6 @@ const activeCc = active && countries.some((o) => o.country === active)
   <!-- 社区投票：occ_key=slug 跨国共享，放在国家特异区之后（全球一份，单实例）。 -->
   <PollBlock slug={slug} locale={locale} name={dispName} baked={rep.polls} />
 </div>
-
-<script is:inline define:vars={{ slug, jobBase: jobHref(locale, slug) }}>
-  (function () {
-    var root = document.querySelector('.job[data-slug="' + slug + '"]');
-    if (!root) return;
-    var tabs = Array.prototype.slice.call(root.querySelectorAll('.job-tab'));
-    var panels = Array.prototype.slice.call(root.querySelectorAll('.job-panel'));
-    function activate(cc, push, title) {
-      var found = false;
-      panels.forEach(function (p) { var on = p.getAttribute('data-cc') === cc; p.hidden = !on; if (on) found = true; });
-      if (!found) return;
-      tabs.forEach(function (tb) {
-        var on = tb.getAttribute('data-cc') === cc;
-        tb.classList.toggle('on', on);
-        tb.setAttribute('aria-selected', on ? 'true' : 'false');
-        if (on && title !== false) { var tt = tb.getAttribute('data-title'); if (tt) document.title = tt; }
-      });
-      // History API：把地址栏改为该国专属 URL（含 locale 前缀），保证独立可索引
-      if (push) { try { history.pushState({ cc: cc }, '', jobBase + '/' + cc); } catch (e) {} }
-    }
-    tabs.forEach(function (tb) {
-      tb.addEventListener('click', function (e) {
-        e.preventDefault();
-        activate(tb.getAttribute('data-cc'), true);
-        root.querySelector('.job-tabs').scrollIntoView({ behavior: 'smooth', block: 'start' });
-      });
-    });
-    window.addEventListener('popstate', function () {
-      var m = location.pathname.match(/\/jobs\/[^/]+\/([A-Za-z]+)\/?$/);
-      if (m) activate(m[1].toUpperCase(), false);
-    });
-  })();
-</script>
 
 <style>
   .job-lead { max-width: 720px; font-size: 15px; margin: 4px 0 18px; }

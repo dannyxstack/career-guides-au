@@ -29,7 +29,7 @@ const desc = 'Every occupation across all covered countries as a tile — area i
     {!layout.hasData ? (
       <div class="card">No global layout available yet.</div>
     ) : (
-      <RiskMap layout={layout} meta={meta} outlineKey="WORLD" activeKey="WORLD" ariaLabel="Global AI job risk map">
+      <RiskMap layout={layout} meta={meta} metaUrl="/risk-map/WORLD.json" outlineKey="WORLD" activeKey="WORLD" ariaLabel="Global AI job risk map">
         <span slot="foot">
           Colour scale is the occupation’s AI automation-exposure score (1–10). Tile size is
           proportional to the combined workforce across all covered countries and is approximate.

@@ -6,8 +6,9 @@ import { COUNTRIES, COUNTRY_FLAG, countryName } from '../lib/data';
 import outlinePaths from '../data/outline-paths.json';
 
 interface Meta { n: string; c: string; w: number; r: number; a: number | null; cur: string; u: string; col: string }
-interface Props { layout: RiskLayout; meta: Meta[]; outlineKey: string; ariaLabel: string; activeKey: string }
-const { layout, meta, outlineKey, ariaLabel, activeKey } = Astro.props as Props;
+interface Props { layout: RiskLayout; meta: Meta[]; outlineKey: string; ariaLabel: string; activeKey: string; metaUrl: string }
+// meta：服务端渲染方块颜色/总人数用；metaUrl：客户端 tooltip 按需 fetch 的外置 JSON。
+const { layout, meta, outlineKey, ariaLabel, activeKey, metaUrl } = Astro.props as Props;
 const landPath = (outlinePaths as Record<string, string>)[outlineKey] || '';
 
 const totalWorkers = meta.reduce((s, m) => s + m.w, 0);
@@ -66,10 +67,11 @@ function catLabel(text: string, bw: number) {
 
 <p class="muted rm-foot"><slot name="foot" /></p>
 
-<script is:inline define:vars={{ meta }} set:html={`window.__RM=${JSON.stringify(meta)};`}></script>
-<script is:inline>
+<script is:inline define:vars={{ metaUrl }}>
   (function () {
-    var M = window.__RM || [];
+    // 元数据外置：按需 fetch（此前内联在 HTML，world 图尤其臃肿）。先挂监听，数据到位后即可用。
+    var M = [];
+    fetch(metaUrl).then(function (r) { return r.json(); }).then(function (d) { M = d || []; }).catch(function () {});
     var wrap = document.querySelector('.rm-wrap');
     if (!wrap) return;
     var svg = wrap.querySelector('.rm-svg');

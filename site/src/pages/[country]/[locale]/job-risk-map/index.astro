@@ -36,7 +36,7 @@ const desc = `Every occupation in ${cname} as a tile — area is the size of the
     {!layout.hasData ? (
       <div class="card">No layout available for this country yet.</div>
     ) : (
-      <RiskMap layout={layout} meta={meta} outlineKey={country} activeKey={country} ariaLabel={`AI job risk map of ${cname}`}>
+      <RiskMap layout={layout} meta={meta} metaUrl={`/risk-map/${country}.json`} outlineKey={country} activeKey={country} ariaLabel={`AI job risk map of ${cname}`}>
         <span slot="foot">
           Colour scale is the occupation’s AI automation-exposure score (1–10). Tile size is
           proportional to estimated workforce and is approximate. The faint silhouette behind the

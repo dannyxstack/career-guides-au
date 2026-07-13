@@ -192,6 +192,10 @@ const _jobGroups: Map<string, Occ[]> = (() => {
 export const JOB_SLUGS: string[] = [..._jobGroups.keys()];
 // 职业页多语言矩阵生成的语言：全 11 语言全覆盖（en 为默认=裸 URL，其余用 /{locale}/ 前缀）。
 export const JOBS_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de', 'it', 'nl'];
+// 全量渲染职业详情页的语言（优先语种）。其余 JOBS_LOCALES 只出 noindex 轻量桩页（canonical→英文），
+// URL 仍有效、hreflang 不断链，但不生成完整重型页面，大幅缩减 dist。
+export const FULL_JOB_LOCALES: Locale[] = ['en', 'zh-CN', 'zh-Hant', 'ja', 'es', 'pt'];
+export const isFullJobLocale = (l: Locale) => FULL_JOB_LOCALES.includes(l);
 // 干净分类前缀 URL：en 裸 /{cat}/{slug}[/{cc}]，其余 /{locale}/{cat}/{slug}[/{cc}]。
 // 分类段取该 slug 代表副本（rep=首国）的分类，全站唯一（同 slug 跨国用同一分类段）。
 export function jobHref(locale: Locale, slug: string, country?: string): string {

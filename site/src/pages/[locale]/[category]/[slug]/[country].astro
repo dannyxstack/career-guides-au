@@ -2,8 +2,9 @@
 // 二级区域 URL（多语言前缀）：/{locale}/{category}/{slug}/{country} —— 各语言 × 各国的国家数据页。
 // 仅 JOBS_LOCALES 中非英文语言。独立可抓取，self-canonical + hreflang + x-default。
 import Base from '../../../../layouts/Base.astro';
+import Stub from '../../../../layouts/Stub.astro';
 import JobDetail from '../../../../components/JobDetail.astro';
-import { JOB_SLUGS, JOBS_LOCALES, jobBySlug, jobAlternates, jobHref, strings, tr, name, summary, currencyOf, countryTitleName, catSlug, type Locale } from '../../../../lib/data';
+import { JOB_SLUGS, JOBS_LOCALES, isFullJobLocale, jobBySlug, jobAlternates, jobHref, strings, tr, name, summary, currencyOf, countryTitleName, catSlug, type Locale } from '../../../../lib/data';
 
 export function getStaticPaths() {
   const paths: any[] = [];
@@ -19,6 +20,7 @@ export function getStaticPaths() {
 }
 const { locale, slug, country } = Astro.params as { locale: Locale; category: string; slug: string; country: string };
 const { o } = Astro.props as any;
+const full = isFullJobLocale(locale);  // 非优先语种只出 noindex 桩页
 const t = strings(locale);
 const dispName = name(o, locale);
 const cName = countryTitleName(country, locale);
@@ -48,7 +50,12 @@ const ld = [{
   ],
 }];
 ---
-<Base title={title} description={description} locale={locale} country={country}
-  global={true} alternates={jobAlternates(slug, country)} xDefault={jobHref('en', slug, country)} jsonLd={ld}>
-  <JobDetail slug={slug} active={country} locale={locale} />
-</Base>
+{full ? (
+  <Base title={title} description={description} locale={locale} country={country}
+    global={true} alternates={jobAlternates(slug, country)} xDefault={jobHref('en', slug, country)} jsonLd={ld}>
+    <JobDetail slug={slug} active={country} locale={locale} />
+  </Base>
+) : (
+  <Stub title={title} name={name(o, locale) || o.name_en} nameEn={o.name_en}
+    enHref={jobHref('en', slug, country)} canonicalHref={jobHref('en', slug, country)} />
+)}

@@ -7,6 +7,7 @@ export default defineConfig({
   site: 'https://aicareergraph.com',
   output: 'static',
   trailingSlash: 'ignore',
-  build: { format: 'directory' },
+  // 组件作用域 CSS 外置为共享文件（不逐页内联 ~4KB），大幅缩减 128k 页的 dist 体积。
+  build: { format: 'directory', inlineStylesheets: 'never' },
   integrations: [sitemap()],
 });

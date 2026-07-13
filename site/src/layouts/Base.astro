@@ -1,10 +1,13 @@
 ---
 import { strings, COUNTRIES, countryName, COUNTRY_FLAG, type Locale } from '../lib/data';
 interface Alt { locale: string; href: string }
-interface Props { title: string; description?: string; locale: Locale; country: string; alternates?: Alt[]; xDefault?: string; jsonLd?: any; global?: boolean }
-const { title, description = '', locale, country, alternates = [], xDefault, jsonLd, global = false } = Astro.props as Props;
+interface Props { title: string; description?: string; locale: Locale; country: string; alternates?: Alt[]; xDefault?: string; jsonLd?: any; global?: boolean; noindex?: boolean; canonicalHref?: string }
+const { title, description = '', locale, country, alternates = [], xDefault, jsonLd, global = false, noindex = false, canonicalHref } = Astro.props as Props;
 const xDefaultHref = xDefault ? (Astro.site ? new URL(xDefault, Astro.site).href : xDefault) : '';
-const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.pathname;
+// canonicalHref 提供时用之（如 noindex 桩页 canonical 指向英文正页），否则自指当前路径
+const canonical = canonicalHref
+  ? (Astro.site ? new URL(canonicalHref, Astro.site).href : canonicalHref)
+  : (Astro.site ? new URL(Astro.url.pathname, Astro.site).href : Astro.url.pathname);
 const ldBlocks = jsonLd ? (Array.isArray(jsonLd) ? jsonLd : [jsonLd]) : [];
 const t = strings(locale);
 const LANG_ATTR: Record<string, string> = { 'zh-CN': 'zh-Hans', 'zh-Hant': 'zh-Hant', en: 'en', es: 'es', pt: 'pt', vi: 'vi', th: 'th', ms: 'ms', id: 'id', ja: 'ja', de: 'de', it: 'it', nl: 'nl' };
@@ -19,6 +22,7 @@ const langAttr = LANG_ATTR[locale] || 'en';
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
     {description && <meta name="description" content={description} />}
+    {noindex && <meta name="robots" content="noindex,follow" />}
     <link rel="canonical" href={canonical} />
     <!-- Open Graph / 社交分享 -->
     <meta property="og:type" content="website" />
