@@ -39,7 +39,7 @@ def run():
             scores = CAT_SCORES.get(o["category"])
             if not scores:
                 continue
-            cur.execute("SELECT DISTINCT visa_subclass FROM occupation_visa_pathways WHERE occupation_id=%s", (o["id"],))
+            cur.execute("SELECT DISTINCT visa_subclass FROM occupation_visa_v2 WHERE occupation_id=%s", (o["id"],))
             subs = {r["visa_subclass"] for r in cur.fetchall()}
             for sub, sc in (("190", scores[0]), ("491", scores[1])):
                 if sub not in subs:

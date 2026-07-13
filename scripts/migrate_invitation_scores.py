@@ -1,5 +1,5 @@
 """迁移：新建 occupation_invitation_scores 表，记录各职业 190/491(及189)的
-最近最低获邀分(EOI cut-off)。与 seed 脚本解耦——seed 会清空 occupation_visa_pathways，
+最近最低获邀分(EOI cut-off)。与 seed 脚本解耦——seed 会清空 occupation_visa_v2，
 故获邀分单独存此表，供后续定时任务直接 upsert。幂等。
 运行：python -m scripts.migrate_invitation_scores
 """
