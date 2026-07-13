@@ -17,6 +17,24 @@ POLARITY = {"income_level": 1, "job_demand": 1, "future_prospect": 1, "pr_friend
 AVG_LABELS = {"average salary", "average", "mean", "avg salary"}
 
 
+def _ai_legacy(ai):
+    """把 v2 的英文命名 ai 字段重映射为前端沿用的旧键名（*_zh 现装英文母本，过渡期不改前端）。"""
+    if not ai:
+        return None
+    a = dict(ai)
+    a["verdict_zh"] = a.pop("verdict", None)
+    a["entry_narrowing_zh"] = a.pop("entry_narrowing", None)
+    a["upgrade_path_zh"] = a.pop("upgrade_path", None)
+    a["replaced_zh"] = a.pop("replaced", [])
+    a["augmented_zh"] = a.pop("augmented", [])
+    a["moat_zh"] = a.pop("moat", [])
+    a["skills_zh"] = a.pop("skills", [])
+    for d in (a.get("disruptors") or []):
+        d["scope_zh"] = d.pop("scope", None)
+        d["summary_zh"] = d.pop("summary", None)
+    return a
+
+
 def slug(name):
     s = re.sub(r"[/()\[\]]", " ", (name or "occ").lower())
     s = re.sub(r"[^a-z0-9 ]", "", s)
@@ -58,10 +76,10 @@ def build():
                 "is_public_servant": bool(o.get("is_public_servant")),
                 "shortage_listed": bool(o["shortage_listed"]), "workforce_size": o["workforce_size"],
                 "slug": sg, "name_en": en_name, "growth_areas": b["growth"],
-                # i18n 母本=英文
-                "i18n": {"en": {"name": t.get("name"), "summary": t.get("summary"),
-                                "forecast_note": t.get("forecast_note"), "trend_summary": t.get("trend_summary")}},
-                "training_en": b["training_en"],
+                # 母本=英文，但沿用旧键名（i18n['zh-CN'] / training_zh）装英文，前端零改动（过渡期）
+                "i18n": {"zh-CN": {"name": t.get("name"), "summary": t.get("summary"),
+                                   "forecast_note": t.get("forecast_note"), "trend_summary": t.get("trend_summary")}},
+                "training_zh": b["training_en"],
                 "salaries": [{"label": s["label"], "min": s["min"], "max": s["max"], "note": s["note"]} for s in b["salaries"]],
                 "ratings": ratings, "overall_score": overall_score(ratings),
                 "avg_salary": next((s["min"] for s in b["salaries"] if (s["label"] or "").strip().lower() in AVG_LABELS), None),
@@ -71,7 +89,7 @@ def build():
                 "education": b["education"], "qualifications": b["qualifications"],
                 "suitability": {"fit": b["suitability_fit"], "unfit": b["suitability_unfit"]},
                 "faqs": [{"type": f["type"], "question": f["question"], "answer": f["answer"]} for f in b["faqs"]],
-                "ai": b.get("ai"),
+                "ai": _ai_legacy(b.get("ai")),
             })
 
         # 相邻职业 & disruptor also（同旧逻辑）
@@ -105,7 +123,8 @@ def build():
     os.makedirs(OUT, exist_ok=True)
     # lean/detail 拆分（同旧）
     DETAIL_FIELDS = ["visa", "qualifications", "suitability", "faqs", "growth_areas"]
-    AI_DETAIL = ["entry_narrowing", "replaced", "augmented", "moat", "skills", "upgrade_path", "adjacent", "disruptors"]
+    AI_DETAIL = ["entry_narrowing_zh", "replaced_zh", "augmented_zh", "moat_zh", "skills_zh",
+                 "upgrade_path_zh", "adjacent", "disruptors"]
     detail_by_country = {}
     for o in out:
         det = {k: o.pop(k) for k in DETAIL_FIELDS if k in o}

@@ -1,6 +1,7 @@
-// 站点数据层：消费 Python 导出的 occupations.json（DB 为唯一数据源）。
-import data from '../data/occupations.json';
-import cats from '../data/categories.json';
+// 站点数据层：消费 Python 导出的 occupations_v2.json（英文母本 v2 管线，DB 为唯一数据源）。
+// 过渡期：v2 JSON 沿用旧键名（i18n['zh-CN'] / *_zh 装英文母本），故前端零改动，仅换数据源 + tr 母本。
+import data from '../data/occupations_v2.json';
+import cats from '../data/categories_v2.json';
 // 翻译记忆按语言 + 分片加载：每 locale 拆 N 片到 data/translations/{loc}.{i}.json
 // （单文件 9 语言 ~195MB 超 GitHub 100MB 上限；按 locale 拆后 th 仍达 ~51MB 触发 50MB 软警告，
 //  故再按 md5(源串)%N 分片，各片 <7MB，随 FR/ES 翻译增长仍有充足余量。分片由 export_site_data.py 生成）
@@ -68,7 +69,7 @@ export const currencyOf = (country: string) => CURRENCY[country] || 'AUD';
 // Vite eager glob 收集全部分片，从文件名 `{loc}.{i}.json` 解析 locale 合并成整表。
 const TM_BY_LOCALE: Partial<Record<Locale, Record<string, string>>> = {};
 {
-  const shards = import.meta.glob('../data/translations/*.json', { eager: true }) as
+  const shards = import.meta.glob('../data/translations-v2/*.json', { eager: true }) as
     Record<string, { default: Record<string, string> }>;
   for (const [path, mod] of Object.entries(shards)) {
     const m = path.match(/\/([a-zA-Z-]+)\.\d+\.json$/);
@@ -80,14 +81,14 @@ const TM_BY_LOCALE: Partial<Record<Locale, Record<string, string>>> = {};
 }
 export function tr(s: string | null | undefined, locale: Locale): string {
   if (!s) return s || '';
-  if (locale === 'zh-CN') return s;
+  if (locale === 'en') return s;  // 英文为母本，源串即英文
   const k = s.trim();
-  return TM_BY_LOCALE[locale]?.[k] || TM_BY_LOCALE['en']?.[k] || s;
+  return TM_BY_LOCALE[locale]?.[k] || s;  // 缺译回退英文母本
 }
-// 是否存在该源串的译文（目标语言或 en 回退），用于决定走 tr() 还是回退到 curated 英文文案
+// 是否存在该源串的译文（英文母本恒为真），用于决定走 tr() 还是回退到 curated 英文文案
 const hasTr = (s: string, locale: Locale): boolean => {
-  const k = s.trim();
-  return !!(TM_BY_LOCALE[locale]?.[k] || TM_BY_LOCALE['en']?.[k]);
+  if (locale === 'en') return true;
+  return !!TM_BY_LOCALE[locale]?.[s.trim()];
 };
 
 export interface Occ {
@@ -126,11 +127,11 @@ export const occupations = (data as any).occupations as Occ[];
 
 // ── 详情懒加载：重字段（visa/faqs/qualifications/suitability/growth_areas/ai 文案）拆到
 //    occ-detail/{cc}.json，按国一次性加载并缓存。详情页/对比页用 occFull(o) 取合并后的完整对象。──
-const _detailGlob = import.meta.glob('../data/occ-detail/*.json') as Record<string, () => Promise<{ default: Record<string, any> }>>;
+const _detailGlob = import.meta.glob('../data/occ-detail-v2/*.json') as Record<string, () => Promise<{ default: Record<string, any> }>>;
 const _detailCache: Record<string, Record<string, any>> = {};
 export async function loadDetail(country: string): Promise<Record<string, any>> {
   if (!_detailCache[country]) {
-    const loader = _detailGlob[`../data/occ-detail/${country}.json`];
+    const loader = _detailGlob[`../data/occ-detail-v2/${country}.json`];
     _detailCache[country] = loader ? (await loader()).default : {};
   }
   return _detailCache[country];
