@@ -8,11 +8,11 @@ import cats from '../data/categories_v2.json';
 import uiI18n from '../data/ui_i18n.json';
 
 export type Locale = 'zh-CN' | 'zh-Hant' | 'en' | 'es' | 'pt' | 'vi' | 'th' | 'ms' | 'id' | 'ja' | 'de' | 'it' | 'nl';
-export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR', 'ES', 'IT', 'NL', 'IE', 'JP'] as const;
+export const COUNTRIES = ['AU', 'NZ', 'CA', 'US', 'UK', 'DE', 'FR', 'ES', 'IT', 'NL', 'IE', 'JP', 'KR'] as const;
 export const LOCALES: Locale[] = ['zh-CN', 'zh-Hant', 'en', 'es', 'pt', 'vi', 'th', 'ms', 'id', 'ja', 'de', 'it', 'nl'];
 export const DEFAULT = { country: 'AU', locale: 'zh-CN' as Locale };
 // 国家 -> 本币代码（薪资/费用展示用）
-export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR', ES: 'EUR', IT: 'EUR', NL: 'EUR', IE: 'EUR', JP: 'JPY' };
+export const CURRENCY: Record<string, string> = { AU: 'AUD', NZ: 'NZD', CA: 'CAD', US: 'USD', UK: 'GBP', DE: 'EUR', FR: 'EUR', ES: 'EUR', IT: 'EUR', NL: 'EUR', IE: 'EUR', JP: 'JPY', KR: 'KRW' };
 // 国家显示名（国家切换器用）
 export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   AU: { 'zh-CN': '澳大利亚', en: 'Australia' },
@@ -27,6 +27,7 @@ export const COUNTRY_NAME: Record<string, { 'zh-CN': string; en: string }> = {
   NL: { 'zh-CN': '荷兰', en: 'Netherlands' },
   IE: { 'zh-CN': '爱尔兰', en: 'Ireland' },
   JP: { 'zh-CN': '日本', en: 'Japan' },
+  KR: { 'zh-CN': '韩国', en: 'South Korea' },
 };
 export const countryName = (cc: string, locale: Locale) =>
   COUNTRY_NAME[cc]?.[locale === 'zh-CN' ? 'zh-CN' : 'en'] || cc;
@@ -46,9 +47,10 @@ export const COUNTRY_FLAG: Record<string, string> = {
   NL: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="20" fill="#AE1C28"/><rect y="20" width="120" height="20" fill="#fff"/><rect y="40" width="120" height="20" fill="#21468B"/></svg>',
   IE: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="40" height="60" fill="#169B62"/><rect x="40" width="40" height="60" fill="#fff"/><rect x="80" width="40" height="60" fill="#FF883E"/></svg>',
   JP: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><circle cx="60" cy="30" r="18" fill="#BC002D"/></svg>',
+  KR: '<svg class="flagsvg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60"><rect width="120" height="60" fill="#fff"/><g transform="translate(60,30)"><clipPath id="krt"><circle r="12"/></clipPath><circle r="12" fill="#CD2E3A"/><path d="M-12,0 a6,6 0 0,1 12,0 a6,6 0 0,0 12,0 L12,12 L-12,12 Z" fill="#0047A0" clip-path="url(#krt)"/></g><g fill="#000"><g transform="translate(60,30) rotate(56.31)"><g transform="translate(-24.5,0)"><rect x="-4" y="-3.4" width="8" height="1.6"/><rect x="-4" y="-0.8" width="8" height="1.6"/><rect x="-4" y="1.8" width="8" height="1.6"/></g><g transform="translate(24.5,0)"><rect x="-4" y="-3.4" width="3.2" height="1.6"/><rect x="0.8" y="-3.4" width="3.2" height="1.6"/><rect x="-4" y="-0.8" width="3.2" height="1.6"/><rect x="0.8" y="-0.8" width="3.2" height="1.6"/><rect x="-4" y="1.8" width="3.2" height="1.6"/><rect x="0.8" y="1.8" width="3.2" height="1.6"/></g></g><g transform="translate(60,30) rotate(-56.31)"><g transform="translate(-24.5,0)"><rect x="-4" y="-3.4" width="8" height="1.6"/><rect x="-4" y="-0.8" width="3.2" height="1.6"/><rect x="0.8" y="-0.8" width="3.2" height="1.6"/><rect x="-4" y="1.8" width="8" height="1.6"/></g><g transform="translate(24.5,0)"><rect x="-4" y="-3.4" width="3.2" height="1.6"/><rect x="0.8" y="-3.4" width="3.2" height="1.6"/><rect x="-4" y="-0.8" width="8" height="1.6"/><rect x="-4" y="1.8" width="3.2" height="1.6"/><rect x="0.8" y="1.8" width="3.2" height="1.6"/></g></g></g></svg>',
 };
 // 标题/SEO 用的简称（中文用习惯简称「澳洲」；其余语言用全称）
-const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国', FR: '法国', ES: '西班牙', IT: '意大利', NL: '荷兰', IE: '爱尔兰', JP: '日本' };
+const COUNTRY_TITLE_ZH: Record<string, string> = { AU: '澳洲', NZ: '新西兰', CA: '加拿大', US: '美国', UK: '英国', DE: '德国', FR: '法国', ES: '西班牙', IT: '意大利', NL: '荷兰', IE: '爱尔兰', JP: '日本', KR: '韩国' };
 export const countryTitleName = (cc: string, locale: Locale) =>
   locale === 'zh-CN' ? (COUNTRY_TITLE_ZH[cc] || cc) : (COUNTRY_NAME[cc]?.en || cc);
 
@@ -833,7 +835,7 @@ export function radarValues(o: Occ) {
   return DIM_ORDER.map((d) => (m[d] as number) ?? 0);
 }
 // 货币符号：按国家区分。UK 用英镑 £、DE 用欧元 €，其余用 $。
-export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€', FR: '€', ES: '€', IT: '€', NL: '€', IE: '€' };
+export const CURRENCY_SYMBOL: Record<string, string> = { AU: '$', NZ: '$', CA: '$', US: '$', UK: '£', DE: '€', FR: '€', ES: '€', IT: '€', NL: '€', IE: '€', JP: '¥', KR: '₩' };
 export function money(v: number | null, country?: string) {
   if (!v) return '—';
   return ((country && CURRENCY_SYMBOL[country]) || '$') + Number(v).toLocaleString('en-US');
