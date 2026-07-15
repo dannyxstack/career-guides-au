@@ -146,8 +146,24 @@ def build():
 
     tr_dir = os.path.join(OUT, "translations-v2")
     os.makedirs(tr_dir, exist_ok=True)
+
+    def _retry_io(fn, path, tries=6):
+        # Windows 上 Defender 实时扫描会短暂锁住刚写出的大 JSON，导致 remove/open 报
+        # PermissionError(WinError 5)。退避重试；删除类失败最终可容忍(写阶段用 'w' 覆盖)。
+        import time as _t
+        for k in range(tries):
+            try:
+                return fn()
+            except PermissionError:
+                if k == tries - 1:
+                    raise
+                _t.sleep(0.5 * (k + 1))
+
     for old in glob.glob(os.path.join(tr_dir, "*.json")):
-        os.remove(old)
+        try:
+            _retry_io(lambda: os.remove(old), old)
+        except PermissionError:
+            pass  # 文件名确定({loc}.{i}.json)，写阶段会覆盖；删不掉的留着无害
     by_locale = {}
     for src, locs in tr.items():
         for loc, text in locs.items():
@@ -158,8 +174,11 @@ def build():
             h = int(hashlib.md5(src.encode("utf-8")).hexdigest(), 16) % N_TR_SHARDS
             shards[h][src] = text
         for i, sh in enumerate(shards):
-            with open(os.path.join(tr_dir, f"{loc}.{i}.json"), "w", encoding="utf-8") as f:
-                json.dump(sh, f, ensure_ascii=False, default=str)
+            p = os.path.join(tr_dir, f"{loc}.{i}.json")
+            def _w():
+                with open(p, "w", encoding="utf-8") as f:
+                    json.dump(sh, f, ensure_ascii=False, default=str)
+            _retry_io(_w, p)
 
     cats = sorted({o["category"] for o in out if o["category"]})
     with open(os.path.join(OUT, "categories_v2.json"), "w", encoding="utf-8") as f:
