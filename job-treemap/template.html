@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>AI Exposure of the Job Market</title>
+<link rel="icon" type="image/svg+xml" href="./favicon.svg">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+:root {
+  --bg: #0a0a0f;
+  --bg2: #12121a;
+  --fg: #e0e0e8;
+  --fg2: #888894;
+  --sidebar-w: 240px;
+}
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+  overflow: hidden;
+  height: 100vh;
+  height: 100dvh;
+}
+
+/* Search */
+#searchWrap { position: relative; }
+#searchInput {
+  width: 100%; padding: 8px 32px 8px 10px;
+  border: 1px solid rgba(255,255,255,0.1); border-radius: 6px;
+  background: rgba(255,255,255,0.04); color: var(--fg);
+  font-size: 13px; outline: none; font-family: inherit;
+}
+#searchInput::placeholder { color: var(--fg2); }
+#searchInput:focus { border-color: rgba(255,255,255,0.25); background: rgba(255,255,255,0.07); }
+#searchClear {
+  position: absolute; right: 6px; top: 50%; transform: translateY(-50%);
+  background: none; border: none; color: var(--fg2); font-size: 16px;
+  cursor: pointer; display: none; padding: 2px 4px; line-height: 1;
+}
+#searchClear:hover { color: var(--fg); }
+#searchResults {
+  position: absolute; top: 100%; left: 0; right: 0;
+  max-height: 260px; overflow-y: auto; background: var(--bg2);
+  border: 1px solid rgba(255,255,255,0.12); border-radius: 6px;
+  margin-top: 4px; z-index: 100; display: none; box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+}
+#searchResults .sr-item, #mobileSearchResults .sr-item {
+  padding: 8px 10px; cursor: pointer; display: flex;
+  justify-content: space-between; align-items: center; gap: 8px;
+  font-size: 12px; border-bottom: 1px solid rgba(255,255,255,0.04);
+}
+#searchResults .sr-item:last-child, #mobileSearchResults .sr-item:last-child { border-bottom: none; }
+#searchResults .sr-item:hover, #searchResults .sr-item.active, #mobileSearchResults .sr-item:hover { background: rgba(255,255,255,0.06); }
+.sr-title { flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.sr-score { flex-shrink: 0; font-size: 11px; font-weight: 600; padding: 1px 6px; border-radius: 3px; }
+.sr-meta { flex-shrink: 0; color: var(--fg2); font-size: 10px; white-space: nowrap; }
+
+/* Country switcher */
+#countrySelect {
+  width: 100%; padding: 7px 10px; border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 6px; background: rgba(255,255,255,0.04); color: var(--fg);
+  font-size: 13px; font-family: inherit; outline: none; cursor: pointer;
+}
+#countrySelect:focus { border-color: rgba(255,255,255,0.25); }
+#countrySelect option { background: var(--bg2); color: var(--fg); }
+
+/* Sidebar */
+#sidebar {
+  position: fixed; top: 0; left: 0; bottom: 0; width: var(--sidebar-w);
+  background: var(--bg2); border-right: 1px solid rgba(255,255,255,0.06);
+  padding: 20px 18px; z-index: 10; overflow-y: auto;
+  display: flex; flex-direction: column; gap: 16px;
+}
+#sidebar h1 { font-size: 16px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.3; }
+#sidebar .subtitle { font-size: 11px; color: var(--fg2); margin-top: 4px; line-height: 1.4; }
+#sidebar .subtitle a { color: var(--fg2); }
+
+.stat-section { display: flex; flex-direction: column; gap: 6px; }
+.stat-section h3 {
+  font-size: 10px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.08em; color: var(--fg2);
+}
+.stat-big { font-size: 28px; font-weight: 700; letter-spacing: -0.03em; line-height: 1; }
+.stat-label { font-size: 11px; color: var(--fg2); }
+
+.tier-bar { display: flex; flex-direction: column; gap: 4px; }
+.tier-row { display: flex; align-items: center; gap: 6px; font-size: 11px; }
+.tier-color { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+.tier-name { flex: 1; color: var(--fg2); }
+.tier-jobs { text-align: right; white-space: nowrap; }
+.tier-pct { text-align: right; width: 32px; color: var(--fg2); font-size: 10px; }
+
+.histogram { display: flex; align-items: flex-end; gap: 2px; height: 48px; }
+.histogram .bar { flex: 1; border-radius: 1px 1px 0 0; min-height: 1px; }
+.hist-labels { display: flex; justify-content: space-between; font-size: 9px; color: var(--fg2); margin-top: 2px; }
+
+.hbar-chart { display: flex; flex-direction: column; gap: 4px; }
+.hbar-row { display: flex; align-items: center; gap: 6px; font-size: 11px; }
+.hbar-label { width: 72px; flex-shrink: 0; color: var(--fg2); font-size: 10px; text-align: right; }
+.hbar-track { flex: 1; height: 10px; background: rgba(255,255,255,0.04); border-radius: 2px; overflow: hidden; }
+.hbar-fill { height: 100%; border-radius: 2px; }
+.hbar-val { width: 22px; flex-shrink: 0; font-size: 10px; color: var(--fg); text-align: right; }
+
+.gradient-legend { display: flex; align-items: center; gap: 6px; font-size: 10px; color: var(--fg2); }
+.gradient-legend canvas { border-radius: 2px; }
+
+.source-info {
+  font-size: 9px; color: var(--fg2); line-height: 1.4;
+  border-top: 1px solid rgba(255,255,255,0.06); padding-top: 12px;
+}
+.source-info a { color: var(--fg2); }
+
+canvas#canvas { display: block; position: fixed; top: 0; left: var(--sidebar-w); cursor: default; }
+
+#tooltip {
+  position: fixed; pointer-events: none; background: var(--bg2);
+  border: 1px solid rgba(255,255,255,0.12); border-radius: 8px;
+  padding: 12px 16px; font-size: 13px; line-height: 1.5; max-width: 360px;
+  opacity: 0; transition: opacity 0.12s; z-index: 20; box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+}
+#tooltip.visible { opacity: 1; }
+#tooltip .tt-title { font-weight: 600; font-size: 14px; margin-bottom: 6px; color: #fff; }
+#tooltip .tt-exposure { font-size: 12px; margin-bottom: 8px; }
+#tooltip .tt-stats { display: grid; grid-template-columns: auto auto; gap: 2px 12px; font-size: 12px; }
+#tooltip .tt-stats .label { color: var(--fg2); }
+#tooltip .tt-stats .value { color: var(--fg); text-align: right; }
+#tooltip .tt-rationale {
+  font-size: 11px; color: var(--fg2); margin-top: 8px; line-height: 1.4;
+  border-top: 1px solid rgba(255,255,255,0.06); padding-top: 8px;
+}
+
+#detailPanel {
+  display: none; position: fixed; bottom: 0; left: 0; right: 0; background: var(--bg2);
+  border-top: 1px solid rgba(255,255,255,0.12); padding: 16px 20px;
+  padding-bottom: max(16px, env(safe-area-inset-bottom)); z-index: 30;
+  max-height: 55vh; overflow-y: auto; box-shadow: 0 -8px 32px rgba(0,0,0,0.6);
+  border-radius: 16px 16px 0 0;
+}
+#detailPanel.visible { display: block; }
+#detailPanel .dp-handle { width: 36px; height: 4px; background: rgba(255,255,255,0.2); border-radius: 2px; margin: 0 auto 12px; }
+#detailPanel .dp-title { font-weight: 600; font-size: 16px; color: #fff; margin-bottom: 8px; }
+#detailPanel .dp-exposure { font-size: 13px; margin-bottom: 10px; }
+#detailPanel .dp-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; font-size: 13px; margin-bottom: 10px; }
+#detailPanel .dp-stat-label { color: var(--fg2); font-size: 11px; }
+#detailPanel .dp-stat-value { font-weight: 500; }
+#detailPanel .dp-rationale { font-size: 12px; color: var(--fg2); line-height: 1.5; border-top: 1px solid rgba(255,255,255,0.06); padding-top: 10px; margin-top: 4px; }
+
+#mobileToggle {
+  display: none; position: fixed; top: 12px; left: 12px; z-index: 25;
+  background: var(--bg2); border: 1px solid rgba(255,255,255,0.12); color: var(--fg);
+  width: 40px; height: 40px; border-radius: 8px; font-size: 20px; cursor: pointer;
+  align-items: center; justify-content: center; box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+}
+#mobileSearch { display: none; position: fixed; top: 12px; left: 60px; right: 12px; z-index: 25; }
+#mobileSearch #mobileSearchInput {
+  width: 100%; padding: 10px 36px 10px 12px; border: 1px solid rgba(255,255,255,0.12);
+  border-radius: 8px; background: var(--bg2); color: var(--fg); font-size: 14px;
+  outline: none; font-family: inherit; box-shadow: 0 4px 16px rgba(0,0,0,0.5);
+}
+#mobileSearch #mobileSearchInput::placeholder { color: var(--fg2); }
+#mobileSearch #mobileSearchClear {
+  position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+  background: none; border: none; color: var(--fg2); font-size: 18px; cursor: pointer;
+  display: none; padding: 2px 4px;
+}
+#mobileSearchResults {
+  position: absolute; top: 100%; left: 0; right: 0; max-height: 50vh; overflow-y: auto;
+  background: var(--bg2); border: 1px solid rgba(255,255,255,0.12); border-radius: 8px;
+  margin-top: 4px; display: none; box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+}
+
+@media (max-width: 768px) {
+  :root { --sidebar-w: 0px; }
+  #sidebar {
+    position: fixed; top: 0; left: -100%; right: auto; bottom: 0;
+    width: 85vw; max-width: 320px; transition: left 0.25s ease; z-index: 30; padding-top: 60px;
+  }
+  #sidebar.open { left: 0; }
+  #sidebarOverlay { display: none; position: fixed; top: 0; left: 0; right: 0; bottom: 0; background: rgba(0,0,0,0.6); z-index: 29; }
+  #sidebarOverlay.visible { display: block; }
+  #mobileToggle { display: flex; }
+  #mobileSearch { display: block; }
+  canvas#canvas { left: 0; top: 0; }
+  #tooltip { display: none !important; }
+}
+</style>
+</head>
+<body>
+
+<button id="mobileToggle" aria-label="Menu">&#9776;</button>
+
+<div id="mobileSearch">
+  <input type="text" id="mobileSearchInput" placeholder="Search occupations..." autocomplete="off" />
+  <button id="mobileSearchClear">&times;</button>
+  <div id="mobileSearchResults"></div>
+</div>
+
+<div id="sidebarOverlay"></div>
+
+<div id="sidebar">
+  <div>
+    <h1 id="pageTitle">AI Exposure of the Job Market</h1>
+    <div class="subtitle" id="subtitleInfo">Loading...</div>
+  </div>
+
+  <div class="stat-section" id="countrySwitchWrap" style="display:none;">
+    <h3>Country</h3>
+    <select id="countrySelect"></select>
+  </div>
+
+  <div id="searchWrap">
+    <input type="text" id="searchInput" placeholder="Search occupations..." autocomplete="off" />
+    <button id="searchClear">&times;</button>
+    <div id="searchResults"></div>
+  </div>
+
+  <div class="stat-section">
+    <h3>Total jobs</h3>
+    <div class="stat-big" id="statTotalJobs">&mdash;</div>
+  </div>
+
+  <div class="stat-section">
+    <h3>Weighted avg. exposure</h3>
+    <div class="stat-big" id="statAvgExposure">&mdash;</div>
+    <div class="stat-label">job-weighted, 0&ndash;10 scale</div>
+  </div>
+
+  <div class="stat-section">
+    <h3>Jobs by exposure (weighted by employment)</h3>
+    <div class="histogram" id="histogram"></div>
+    <div class="hist-labels"><span>0</span><span>5</span><span>10</span></div>
+  </div>
+
+  <div class="stat-section">
+    <h3>Breakdown</h3>
+    <div class="tier-bar" id="tierBar"></div>
+  </div>
+
+  <div class="stat-section">
+    <h3 id="payChartTitle">Exposure by pay</h3>
+    <div class="hbar-chart" id="payChart"></div>
+  </div>
+
+  <div class="stat-section">
+    <h3>Wages exposed</h3>
+    <div class="stat-big" id="statWages">&mdash;</div>
+    <div class="stat-label">annual wages in high-exposure jobs (7+)</div>
+  </div>
+
+  <div class="gradient-legend">
+    <span>Low</span>
+    <canvas id="gradientLegend" width="80" height="8"></canvas>
+    <span>High</span>
+  </div>
+
+  <div class="source-info" id="sourceInfo"></div>
+</div>
+
+<canvas id="canvas"></canvas>
+
+<div id="tooltip">
+  <div class="tt-title"></div>
+  <div class="tt-exposure"></div>
+  <div class="tt-stats"></div>
+  <div class="tt-rationale"></div>
+</div>
+
+<div id="detailPanel">
+  <div class="dp-handle"></div>
+  <div class="dp-title"></div>
+  <div class="dp-exposure"></div>
+  <div class="dp-stats"></div>
+  <div class="dp-rationale"></div>
+</div>
+
+<script>
+// ── Config (injected at build time) ──────────────────────────────
+const CONFIG = __CONFIG__;
+
+const isMobile = () => window.innerWidth <= 768;
+
+function exposureColor(score) {
+  if (score == null) return [128, 128, 128];
+  const t = Math.max(0, Math.min(10, score)) / 10;
+  let r, g, b;
+  if (t < 0.5) {
+    const s = t / 0.5;
+    r = Math.round(50 + s * 180); g = Math.round(160 - s * 10); b = Math.round(50 - s * 20);
+  } else {
+    const s = (t - 0.5) / 0.5;
+    r = Math.round(230 + s * 25); g = Math.round(150 - s * 110); b = Math.round(30 - s * 10);
+  }
+  return [r, g, b];
+}
+function exposureColorCSS(score, alpha) { const [r,g,b] = exposureColor(score); return `rgba(${r},${g},${b},${alpha})`; }
+function formatNumber(n) {
+  if (n == null) return "—";
+  if (n >= 1000000) return (n / 1000000).toFixed(1) + "M";
+  if (n >= 1000) return Math.round(n / 1000) + "K";
+  return n.toLocaleString();
+}
+function formatPay(n) { if (n == null) return "—"; return CONFIG.symbol + n.toLocaleString(); }
+
+// ── Squarified treemap ──────────────────────────────────────────
+function squarify(items, x, y, w, h) {
+  if (items.length === 0) return [];
+  if (items.length === 1) return [{ ...items[0], rx: x, ry: y, rw: w, rh: h }];
+  const total = items.reduce((s, d) => s + d.value, 0);
+  if (total === 0) return [];
+  const results = [];
+  let remaining = [...items], cx = x, cy = y, cw = w, ch = h;
+  while (remaining.length > 0) {
+    const remTotal = remaining.reduce((s, d) => s + d.value, 0);
+    const vertical = cw >= ch;
+    const side = vertical ? ch : cw;
+    let row = [remaining[0]], rowSum = remaining[0].value;
+    for (let i = 1; i < remaining.length; i++) {
+      const candidate = [...row, remaining[i]], candidateSum = rowSum + remaining[i].value;
+      if (worstAspect(candidate, candidateSum, side, remTotal, vertical ? cw : ch) <
+          worstAspect(row, rowSum, side, remTotal, vertical ? cw : ch)) {
+        row = candidate; rowSum = candidateSum;
+      } else break;
+    }
+    const rowFraction = rowSum / remTotal;
+    const rowThickness = vertical ? cw * rowFraction : ch * rowFraction;
+    let offset = 0;
+    for (const item of row) {
+      const itemFraction = item.value / rowSum, itemLength = side * itemFraction;
+      if (vertical) results.push({ ...item, rx: cx, ry: cy + offset, rw: rowThickness, rh: itemLength });
+      else results.push({ ...item, rx: cx + offset, ry: cy, rw: itemLength, rh: rowThickness });
+      offset += itemLength;
+    }
+    if (vertical) { cx += rowThickness; cw -= rowThickness; }
+    else { cy += rowThickness; ch -= rowThickness; }
+    remaining = remaining.slice(row.length);
+  }
+  return results;
+}
+function worstAspect(row, rowSum, side, totalArea, availableExtent) {
+  const rowExtent = availableExtent * (rowSum / totalArea);
+  if (rowExtent === 0) return Infinity;
+  let worst = 0;
+  for (const item of row) {
+    const itemLen = side * (item.value / rowSum);
+    if (itemLen === 0) continue;
+    const aspect = Math.max(rowExtent / itemLen, itemLen / rowExtent);
+    if (aspect > worst) worst = aspect;
+  }
+  return worst;
+}
+
+// ── Rendering ───────────────────────────────────────────────────
+let data = [];
+let rects = [];
+let hovered = null;
+let highlighted = null;
+
+const canvas = document.getElementById("canvas");
+const ctx = canvas.getContext("2d");
+let dpr = window.devicePixelRatio || 1;
+const MARGIN = 12;
+const GAP = 1.5;
+
+function layout() {
+  const sidebarW = isMobile() ? 0 : parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
+  const w = window.innerWidth - sidebarW;
+  const h = window.innerHeight;
+  canvas.width = w * dpr; canvas.height = h * dpr;
+  canvas.style.width = w + "px"; canvas.style.height = h + "px";
+  const tx = MARGIN, ty = MARGIN, tw = w - MARGIN * 2, th = h - MARGIN * 2;
+  const byCategory = {};
+  for (const d of data) { const cat = d.category; if (!byCategory[cat]) byCategory[cat] = []; byCategory[cat].push(d); }
+  const categories = Object.keys(byCategory).map(cat => ({
+    cat, items: byCategory[cat].sort((a, b) => (b.jobs || 0) - (a.jobs || 0)),
+    value: byCategory[cat].reduce((s, d) => s + (d.jobs || 1), 0),
+  })).sort((a, b) => b.value - a.value);
+  const catRects = squarify(categories, tx, ty, tw, th);
+  rects = [];
+  for (const cr of catRects) {
+    const innerGap = GAP;
+    const items = cr.items.map(d => ({ ...d, value: d.jobs || 1 }));
+    const innerRects = squarify(items, cr.rx + innerGap, cr.ry + innerGap, cr.rw - innerGap * 2, cr.rh - innerGap * 2);
+    for (const ir of innerRects) rects.push(ir);
+  }
+}
+
+function draw() {
+  const w = canvas.width, h = canvas.height;
+  ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+  ctx.fillStyle = "#0a0a0f";
+  ctx.fillRect(0, 0, w / dpr, h / dpr);
+  for (const r of rects) {
+    const isHovered = r === hovered;
+    const isHighlighted = highlighted && r.slug === highlighted;
+    const isDimmed = highlighted && r.slug !== highlighted;
+    const g = GAP / 2;
+    const rx = r.rx + g, ry = r.ry + g, rw = r.rw - g * 2, rh = r.rh - g * 2;
+    if (rw <= 0 || rh <= 0) continue;
+    let fillAlpha = isHovered || isHighlighted ? 0.85 : isDimmed ? 0.2 : 0.5;
+    ctx.fillStyle = exposureColorCSS(r.exposure, fillAlpha);
+    ctx.fillRect(rx, ry, rw, rh);
+    if (isHovered || isHighlighted) {
+      ctx.strokeStyle = isHighlighted ? "#ffd700" : "#fff";
+      ctx.lineWidth = isHighlighted ? 3 : 2;
+      ctx.strokeRect(rx, ry, rw, rh);
+    }
+    const minW = 50, minH = 18;
+    if (rw > minW && rh > minH && !isDimmed) {
+      ctx.save();
+      ctx.beginPath(); ctx.rect(rx + 4, ry + 2, rw - 8, rh - 4); ctx.clip();
+      const fontSize = Math.min(13, Math.max(9, Math.min(rw / 10, rh / 3)));
+      ctx.font = `500 ${fontSize}px -apple-system, system-ui, sans-serif`;
+      ctx.fillStyle = (isHovered || isHighlighted) ? "#fff" : "rgba(255,255,255,0.85)";
+      ctx.textBaseline = "top";
+      ctx.fillText(r.title, rx + 5, ry + 4);
+      if (rh > 34 && rw > 60) {
+        const info = (r.exposure != null ? r.exposure + "/10" : "") +
+                     (r.jobs ? " · " + formatNumber(r.jobs) + " jobs" : "");
+        ctx.font = `400 ${Math.max(8, fontSize - 2)}px -apple-system, system-ui, sans-serif`;
+        ctx.fillStyle = "rgba(255,255,255,0.5)";
+        ctx.fillText(info, rx + 5, ry + 4 + fontSize + 2);
+      }
+      ctx.restore();
+    }
+  }
+}
+
+function hitTest(mx, my) {
+  const sidebarW = isMobile() ? 0 : parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
+  const cx = mx - sidebarW, cy = my;
+  for (let i = rects.length - 1; i >= 0; i--) {
+    const r = rects[i];
+    if (cx >= r.rx && cx < r.rx + r.rw && cy >= r.ry && cy < r.ry + r.rh) return r;
+  }
+  return null;
+}
+
+function showTooltip(d, mx, my) {
+  if (isMobile()) return;
+  const tt = document.getElementById("tooltip");
+  tt.querySelector(".tt-title").textContent = d.title;
+  const score = d.exposure != null ? d.exposure : null;
+  if (score != null) {
+    const barWidth = score * 10, color = exposureColorCSS(score, 1);
+    tt.querySelector(".tt-exposure").innerHTML =
+      `<span style="color:${color};font-weight:600;">AI Exposure: ${score}/10</span>` +
+      `<div style="margin-top:3px;height:4px;background:rgba(255,255,255,0.08);border-radius:2px;">` +
+      `<div style="height:100%;width:${barWidth}%;background:${color};border-radius:2px;"></div></div>`;
+  } else { tt.querySelector(".tt-exposure").innerHTML = ""; }
+  tt.querySelector(".tt-stats").innerHTML = `
+    <span class="label">Code</span><span class="value">${d.anzsco || '—'}</span>
+    <span class="label">Category</span><span class="value">${d.category_name || '—'}</span>
+    <span class="label">Median pay (${CONFIG.currency})</span><span class="value">${d.pay ? formatPay(d.pay) + '/yr' : '—'}</span>
+    <span class="label">Employed</span><span class="value">${formatNumber(d.jobs)}</span>
+    <span class="label">AI exposure pct.</span><span class="value">${d.aioe_pct != null ? d.aioe_pct + 'th' : '—'}</span>
+    <span class="label">Education</span><span class="value">${d.education || '—'}</span>
+  `;
+  tt.querySelector(".tt-rationale").textContent = d.exposure_rationale || "";
+  const pad = 16;
+  let tx = mx + pad, ty = my - pad;
+  if (tx + 360 > window.innerWidth) tx = mx - 360 - pad;
+  if (ty < 10) ty = my + pad;
+  if (ty + 200 > window.innerHeight) ty = my - 200;
+  tt.style.left = tx + "px"; tt.style.top = ty + "px";
+  tt.classList.add("visible");
+}
+function hideTooltip() { document.getElementById("tooltip").classList.remove("visible"); }
+
+function showDetailPanel(d) {
+  const dp = document.getElementById("detailPanel");
+  dp.querySelector(".dp-title").textContent = d.title;
+  const score = d.exposure;
+  if (score != null) {
+    const color = exposureColorCSS(score, 1);
+    dp.querySelector(".dp-exposure").innerHTML =
+      `<span style="color:${color};font-weight:600;font-size:20px;">${score}/10</span>` +
+      `<span style="color:var(--fg2);margin-left:6px;">AI Exposure</span>` +
+      `<div style="margin-top:6px;height:6px;background:rgba(255,255,255,0.08);border-radius:3px;">` +
+      `<div style="height:100%;width:${score*10}%;background:${color};border-radius:3px;"></div></div>`;
+  } else { dp.querySelector(".dp-exposure").innerHTML = ""; }
+  dp.querySelector(".dp-stats").innerHTML = `
+    <div><div class="dp-stat-label">Code</div><div class="dp-stat-value">${d.anzsco || '—'}</div></div>
+    <div><div class="dp-stat-label">Category</div><div class="dp-stat-value">${d.category_name || '—'}</div></div>
+    <div><div class="dp-stat-label">Median pay (${CONFIG.currency})</div><div class="dp-stat-value">${d.pay ? formatPay(d.pay) + '/yr' : '—'}</div></div>
+    <div><div class="dp-stat-label">Employed</div><div class="dp-stat-value">${formatNumber(d.jobs)}</div></div>
+    <div><div class="dp-stat-label">AI exposure pct.</div><div class="dp-stat-value">${d.aioe_pct != null ? d.aioe_pct + 'th' : '—'}</div></div>
+    <div><div class="dp-stat-label">Education</div><div class="dp-stat-value">${d.education || '—'}</div></div>
+  `;
+  dp.querySelector(".dp-rationale").innerHTML =
+    (d.exposure_rationale || '') +
+    (d.url ? `<a class="dp-link" href="${d.url}" target="_blank">More detail &rarr;</a>` : '');
+  dp.classList.add("visible");
+}
+function hideDetailPanel() { document.getElementById("detailPanel").classList.remove("visible"); }
+
+// ── Search ──────────────────────────────────────────────────────
+function searchOccupations(query) {
+  if (!query || query.length < 2) return [];
+  const q = query.toLowerCase();
+  return data
+    .filter(d => d.title.toLowerCase().includes(q) || (d.category_name && d.category_name.toLowerCase().includes(q)) || (d.anzsco && String(d.anzsco).includes(q)))
+    .sort((a, b) => {
+      const aStarts = a.title.toLowerCase().startsWith(q) ? 1 : 0;
+      const bStarts = b.title.toLowerCase().startsWith(q) ? 1 : 0;
+      if (aStarts !== bStarts) return bStarts - aStarts;
+      return (b.jobs || 0) - (a.jobs || 0);
+    }).slice(0, 20);
+}
+function renderSearchResults(results, container) {
+  if (results.length === 0) { container.style.display = "none"; return; }
+  container.style.display = "block";
+  container.innerHTML = results.map(d => {
+    const color = exposureColorCSS(d.exposure, 1);
+    return `<div class="sr-item" data-slug="${d.slug}">
+      <span class="sr-title">${d.title}</span>
+      <span class="sr-meta">${formatNumber(d.jobs)}</span>
+      <span class="sr-score" style="background:${exposureColorCSS(d.exposure, 0.2)};color:${color}">${d.exposure != null ? d.exposure + '/10' : '—'}</span>
+    </div>`;
+  }).join("");
+  container.querySelectorAll(".sr-item").forEach(el => {
+    el.addEventListener("click", () => selectSearchResult(el.dataset.slug, container));
+  });
+}
+function selectSearchResult(slug, container) {
+  highlighted = slug; container.style.display = "none"; draw();
+  if (isMobile()) {
+    const d = data.find(x => x.slug === slug);
+    if (d) showDetailPanel(d);
+    document.getElementById("mobileSearchInput").value = "";
+    document.getElementById("mobileSearchClear").style.display = "none";
+  } else { document.getElementById("searchInput").blur(); }
+  setTimeout(() => { highlighted = null; draw(); }, 4000);
+}
+
+const searchInput = document.getElementById("searchInput");
+const searchClear = document.getElementById("searchClear");
+const searchResultsEl = document.getElementById("searchResults");
+searchInput.addEventListener("input", () => {
+  const q = searchInput.value.trim();
+  searchClear.style.display = q ? "block" : "none";
+  renderSearchResults(searchOccupations(q), searchResultsEl);
+  highlighted = null; draw();
+});
+searchInput.addEventListener("focus", () => {
+  const q = searchInput.value.trim();
+  if (q.length >= 2) renderSearchResults(searchOccupations(q), searchResultsEl);
+});
+searchClear.addEventListener("click", () => {
+  searchInput.value = ""; searchClear.style.display = "none";
+  searchResultsEl.style.display = "none"; highlighted = null; draw();
+});
+document.addEventListener("click", (e) => {
+  if (!e.target.closest("#searchWrap")) searchResultsEl.style.display = "none";
+  if (!e.target.closest("#mobileSearch")) document.getElementById("mobileSearchResults").style.display = "none";
+});
+
+const mobileSearchInput = document.getElementById("mobileSearchInput");
+const mobileSearchClear = document.getElementById("mobileSearchClear");
+const mobileSearchResultsEl = document.getElementById("mobileSearchResults");
+mobileSearchInput.addEventListener("input", () => {
+  const q = mobileSearchInput.value.trim();
+  mobileSearchClear.style.display = q ? "block" : "none";
+  renderSearchResults(searchOccupations(q), mobileSearchResultsEl);
+  highlighted = null; draw();
+});
+mobileSearchInput.addEventListener("focus", () => {
+  const q = mobileSearchInput.value.trim();
+  if (q.length >= 2) renderSearchResults(searchOccupations(q), mobileSearchResultsEl);
+  hideDetailPanel();
+});
+mobileSearchClear.addEventListener("click", () => {
+  mobileSearchInput.value = ""; mobileSearchClear.style.display = "none";
+  mobileSearchResultsEl.style.display = "none"; highlighted = null; draw();
+});
+
+const sidebar = document.getElementById("sidebar");
+const overlay = document.getElementById("sidebarOverlay");
+const toggleBtn = document.getElementById("mobileToggle");
+toggleBtn.addEventListener("click", () => { sidebar.classList.toggle("open"); overlay.classList.toggle("visible"); });
+overlay.addEventListener("click", () => { sidebar.classList.remove("open"); overlay.classList.remove("visible"); });
+
+canvas.addEventListener("mousemove", (e) => {
+  if (isMobile()) return;
+  const hit = hitTest(e.clientX, e.clientY);
+  if (hit !== hovered) { hovered = hit; draw(); }
+  if (hovered) { showTooltip(hovered, e.clientX, e.clientY); canvas.style.cursor = "pointer"; }
+  else { hideTooltip(); canvas.style.cursor = "default"; }
+});
+canvas.addEventListener("click", (e) => {
+  if (isMobile()) return;
+  const hit = hitTest(e.clientX, e.clientY);
+  if (hit && hit.url) window.open(hit.url, "_blank");
+});
+canvas.addEventListener("mouseleave", () => { if (isMobile()) return; hovered = null; hideTooltip(); draw(); });
+canvas.addEventListener("touchstart", (e) => {
+  if (!isMobile()) return;
+  const touch = e.touches[0];
+  const hit = hitTest(touch.clientX, touch.clientY);
+  if (hit) { hovered = hit; draw(); showDetailPanel(hit); e.preventDefault(); }
+  else { hovered = null; hideDetailPanel(); draw(); }
+}, { passive: false });
+document.getElementById("detailPanel").querySelector(".dp-handle").addEventListener("click", hideDetailPanel);
+
+function resize() { dpr = window.devicePixelRatio || 1; layout(); draw(); }
+
+function computeStats() {
+  const totalJobs = data.reduce((s, d) => s + (d.jobs || 0), 0);
+  const scoredCount = data.filter(d => d.exposure != null).length;
+  document.getElementById("subtitleInfo").innerHTML =
+    `${data.length} occupations &middot; area = employment &middot; color = AI exposure<br>${scoredCount} occupations scored`;
+  let weightedSum = 0, weightedCount = 0;
+  for (const d of data) { if (d.exposure != null && d.jobs) { weightedSum += d.exposure * d.jobs; weightedCount += d.jobs; } }
+  const weightedAvg = weightedCount > 0 ? weightedSum / weightedCount : 0;
+  const histogram = new Array(11).fill(0);
+  for (const d of data) { if (d.exposure != null && d.jobs) histogram[d.exposure] += d.jobs; }
+  const tiers = [
+    { name: "Minimal", range: [0, 1], color: exposureColorCSS(0.5, 1) },
+    { name: "Low", range: [2, 3], color: exposureColorCSS(2.5, 1) },
+    { name: "Moderate", range: [4, 5], color: exposureColorCSS(4.5, 1) },
+    { name: "High", range: [6, 7], color: exposureColorCSS(6.5, 1) },
+    { name: "Very high", range: [8, 10], color: exposureColorCSS(9, 1) },
+  ];
+  for (const tier of tiers) {
+    tier.jobs = 0;
+    for (const d of data) { if (d.exposure != null && d.jobs && d.exposure >= tier.range[0] && d.exposure <= tier.range[1]) tier.jobs += d.jobs; }
+    tier.pct = totalJobs > 0 ? (tier.jobs / totalJobs * 100) : 0;
+  }
+  let wagesExposed = 0;
+  for (const d of data) { if (d.exposure != null && d.exposure >= 7 && d.jobs && d.pay) wagesExposed += d.jobs * d.pay; }
+  document.getElementById("statTotalJobs").textContent = totalJobs >= 1e6 ? (totalJobs / 1e6).toFixed(1) + "M" : formatNumber(totalJobs);
+  document.getElementById("statAvgExposure").innerHTML = `<span style="color:${exposureColorCSS(weightedAvg, 1)}">${weightedAvg.toFixed(1)}</span>`;
+  const maxHist = Math.max(...histogram);
+  document.getElementById("histogram").innerHTML = histogram.map((count, i) => {
+    const hh = maxHist > 0 ? (count / maxHist * 100) : 0;
+    return `<div class="bar" style="height:${Math.max(2, hh)}%;background:${exposureColorCSS(i, 0.7)}" title="${i}: ${formatNumber(count)} jobs"></div>`;
+  }).join("");
+  document.getElementById("tierBar").innerHTML = tiers.map(t =>
+    `<div class="tier-row"><div class="tier-color" style="background:${t.color}"></div>` +
+    `<span class="tier-name">${t.name} (${t.range[0]}-${t.range[1]})</span>` +
+    `<span class="tier-jobs">${formatNumber(t.jobs)}</span>` +
+    `<span class="tier-pct">${t.pct.toFixed(0)}%</span></div>`).join("");
+  document.getElementById("payChartTitle").textContent = `Exposure by pay (${CONFIG.currency})`;
+  const S = CONFIG.symbol;
+  const payBands = [
+    { label: "<" + S + "50K", min: 0, max: 50000 },
+    { label: S + "50–75K", min: 50000, max: 75000 },
+    { label: S + "75–100K", min: 75000, max: 100000 },
+    { label: S + "100–130K", min: 100000, max: 130000 },
+    { label: S + "130K+", min: 130000, max: Infinity },
+  ];
+  document.getElementById("payChart").innerHTML = payBands.map(band => {
+    let wSum = 0, wCount = 0;
+    for (const d of data) {
+      if (d.exposure != null && d.jobs && d.pay != null && d.pay >= band.min && d.pay < band.max) { wSum += d.exposure * d.jobs; wCount += d.jobs; }
+    }
+    const avg = wCount > 0 ? wSum / wCount : 0;
+    return `<div class="hbar-row"><span class="hbar-label">${band.label}</span>` +
+      `<div class="hbar-track"><div class="hbar-fill" style="width:${avg/10*100}%;background:${exposureColorCSS(avg, 0.8)}"></div></div>` +
+      `<span class="hbar-val">${avg.toFixed(1)}</span></div>`;
+  }).join("");
+  const billions = wagesExposed / 1e9;
+  document.getElementById("statWages").textContent = billions >= 1000 ? S + (billions / 1000).toFixed(1) + "T" : S + billions.toFixed(0) + "B";
+}
+
+function drawGradientLegend() {
+  const c = document.getElementById("gradientLegend");
+  const gctx = c.getContext("2d");
+  for (let x = 0; x < 80; x++) { gctx.fillStyle = exposureColorCSS((x / 79) * 10, 1); gctx.fillRect(x, 0, 1, 8); }
+}
+
+function applyCountryChrome() {
+  document.title = `AI Exposure of the ${CONFIG.countryName} Job Market`;
+  document.getElementById("pageTitle").textContent = `AI Exposure of the ${CONFIG.countryName} Job Market`;
+  document.getElementById("sourceInfo").innerHTML = CONFIG.sourceHtml;
+}
+
+function loadCountry(cc) {
+  const meta = CONFIG.countries.find(c => c.cc === cc);
+  if (meta) { CONFIG.countryName = meta.name; CONFIG.currency = meta.currency; CONFIG.symbol = meta.symbol; CONFIG.sourceHtml = meta.sourceHtml; }
+  applyCountryChrome();
+  const url = CONFIG.countries.length ? `data/${cc}.json` : CONFIG.dataUrl;
+  fetch(url).then(r => r.json()).then(d => {
+    data = d; highlighted = null; hovered = null;
+    computeStats(); resize();
+  });
+}
+
+// ── Init ────────────────────────────────────────────────────────
+drawGradientLegend();
+if (CONFIG.countries && CONFIG.countries.length) {
+  const wrap = document.getElementById("countrySwitchWrap");
+  const sel = document.getElementById("countrySelect");
+  wrap.style.display = "flex";
+  sel.innerHTML = CONFIG.countries.map(c => `<option value="${c.cc}">${c.name}</option>`).join("");
+  sel.value = CONFIG.current;
+  sel.addEventListener("change", () => loadCountry(sel.value));
+  loadCountry(CONFIG.current);
+} else {
+  applyCountryChrome();
+  loadCountry(CONFIG.cc);
+}
+window.addEventListener("resize", resize);
+</script>
+</body>
+</html>
