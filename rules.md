@@ -1,5 +1,11 @@
 # 职业分析 Markdown 写作规则（适用于 Codex / Claude Code / ChatGPT）
 
+## 项目执行规则
+
+- 本项目中所有 Python 命令必须使用项目专用 conda 环境 `career-video` 运行，不直接使用系统 Python、Miniconda base 环境或其他项目环境。Miniconda base 路径为 `C:\Users\Danny\miniconda3`；如果 `career-video` 环境不存在，先创建该环境，再安装 `requirements.txt` 中的依赖后继续执行。
+- 查询或分析本项目数据库时，默认忽略所有表名以 `deprecated_` 开头的表；除非用户特别指定需要检查这些表，否则不要把它们纳入表结构扫描、数据统计、导出、迁移或业务判断。
+- 会话中用户要求检索资料时，默认优先使用英文关键词和英文来源检索；回答问题时默认优先使用中文回答，除非用户特别要求使用其他语言。
+
 ## 目标
 
 将职业分析内容整理成适合 GitHub 阅读、检索和维护的 Markdown 文档。要求信息密度高、结构清晰、空行克制、重点突出，适用于技术移民、转行、就业市场分析等主题。
