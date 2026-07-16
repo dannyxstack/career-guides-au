@@ -2,9 +2,22 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<title>AI Exposure of the Job Market</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>__TITLE__</title>
+<meta name="description" content="__META_DESC__">
+<link rel="canonical" href="__CANONICAL__">
+<meta name="robots" content="index,follow">
 <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="__SITE_NAME__">
+<meta property="og:title" content="__TITLE__">
+<meta property="og:description" content="__META_DESC__">
+<meta property="og:url" content="__CANONICAL__">
+<meta property="og:image" content="__OG_IMAGE__">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="__TITLE__">
+<meta name="twitter:description" content="__META_DESC__">
+<meta name="twitter:image" content="__OG_IMAGE__">
 <style>
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -20,9 +33,15 @@ body {
   background: var(--bg);
   color: var(--fg);
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
-  overflow: hidden;
+  min-height: 100vh;
+}
+
+/* First screen: the interactive map (sidebar + canvas), one viewport tall. */
+.map-screen {
+  position: relative;
   height: 100vh;
   height: 100dvh;
+  overflow: hidden;
 }
 
 /* Search */
@@ -69,7 +88,7 @@ body {
 
 /* Sidebar */
 #sidebar {
-  position: fixed; top: 0; left: 0; bottom: 0; width: var(--sidebar-w);
+  position: absolute; top: 0; left: 0; bottom: 0; width: var(--sidebar-w);
   background: var(--bg2); border-right: 1px solid rgba(255,255,255,0.06);
   padding: 20px 18px; z-index: 10; overflow-y: auto;
   display: flex; flex-direction: column; gap: 16px;
@@ -112,8 +131,28 @@ body {
   border-top: 1px solid rgba(255,255,255,0.06); padding-top: 12px;
 }
 .source-info a { color: var(--fg2); }
+.about-link { margin-top: 10px; font-size: 11px; }
+.about-link a { color: var(--accent, #e6961e); text-decoration: none; font-weight: 600; }
+.about-link a:hover { text-decoration: underline; }
 
-canvas#canvas { display: block; position: fixed; top: 0; left: var(--sidebar-w); cursor: default; }
+canvas#canvas { display: block; position: absolute; top: 0; left: var(--sidebar-w); cursor: default; }
+
+/* Second screen: static, crawlable content below the map. */
+.content { max-width: 1100px; margin: 0 auto; padding: 40px 22px 80px; }
+.content h2 { font-size: 24px; line-height: 1.25; margin: 0 0 14px; letter-spacing: -0.02em; }
+.content h3 { font-size: 17px; margin: 40px 0 12px; padding-top: 22px; border-top: 1px solid rgba(255,255,255,0.08); }
+.content p { font-size: 15px; line-height: 1.7; color: #c8c8d2; margin: 10px 0; }
+.content a { color: var(--accent, #e6961e); }
+.content .meta-line { font-size: 12.5px; color: var(--fg2); margin: 6px 0 0; }
+.content table { width: 100%; border-collapse: collapse; margin: 12px 0; font-size: 13.5px; display: block; overflow-x: auto; }
+.content th, .content td { text-align: left; padding: 8px 12px; border-bottom: 1px solid rgba(255,255,255,0.07); white-space: nowrap; }
+.content th { color: var(--fg2); font-weight: 600; }
+.content td.num, .content th.num { text-align: right; }
+.content .exp-chip { display: inline-block; min-width: 34px; text-align: center; font-weight: 700; font-size: 12px; padding: 1px 6px; border-radius: 4px; }
+.content .link-row { display: flex; flex-wrap: wrap; gap: 8px 14px; margin: 10px 0; font-size: 14px; }
+.content .foot { font-size: 12.5px; color: var(--fg2); margin-top: 36px; padding-top: 18px; border-top: 1px solid rgba(255,255,255,0.08); line-height: 1.6; }
+.content .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
+@media (max-width: 720px) { .content .two-col { grid-template-columns: 1fr; } }
 
 #tooltip {
   position: fixed; pointer-events: none; background: var(--bg2);
@@ -147,6 +186,13 @@ canvas#canvas { display: block; position: fixed; top: 0; left: var(--sidebar-w);
 #detailPanel .dp-stat-label { color: var(--fg2); font-size: 11px; }
 #detailPanel .dp-stat-value { font-weight: 500; }
 #detailPanel .dp-rationale { font-size: 12px; color: var(--fg2); line-height: 1.5; border-top: 1px solid rgba(255,255,255,0.06); padding-top: 10px; margin-top: 4px; }
+.ol-block { border-top: 1px solid rgba(255,255,255,0.06); padding-top: 8px; margin-top: 4px; }
+.ol-head { font-size: 12px; color: var(--fg2); margin-bottom: 4px; }
+.ol-head b { font-weight: 700; }
+.ol-svg { display: block; }
+.ol-src { font-size: 10px; color: var(--fg2); opacity: .7; margin-top: 2px; }
+#tooltip .tt-outlook { font-size: 12px; margin-top: 6px; }
+#detailPanel .dp-outlook { margin-bottom: 10px; }
 
 #mobileToggle {
   display: none; position: fixed; top: 12px; left: 12px; z-index: 25;
@@ -200,6 +246,7 @@ canvas#canvas { display: block; position: fixed; top: 0; left: var(--sidebar-w);
 
 <div id="sidebarOverlay"></div>
 
+<div class="map-screen">
 <div id="sidebar">
   <div>
     <h1 id="pageTitle">AI Exposure of the Job Market</h1>
@@ -239,12 +286,12 @@ canvas#canvas { display: block; position: fixed; top: 0; left: var(--sidebar-w);
     <div class="tier-bar" id="tierBar"></div>
   </div>
 
-  <div class="stat-section">
+  <div class="stat-section" id="paySection">
     <h3 id="payChartTitle">Exposure by pay</h3>
     <div class="hbar-chart" id="payChart"></div>
   </div>
 
-  <div class="stat-section">
+  <div class="stat-section" id="wagesSection">
     <h3>Wages exposed</h3>
     <div class="stat-big" id="statWages">&mdash;</div>
     <div class="stat-label">annual wages in high-exposure jobs (7+)</div>
@@ -257,14 +304,21 @@ canvas#canvas { display: block; position: fixed; top: 0; left: var(--sidebar-w);
   </div>
 
   <div class="source-info" id="sourceInfo"></div>
+  <div class="about-link"><a id="aboutLink" href="about.html">About &amp; methodology &rarr;</a></div>
 </div>
 
 <canvas id="canvas"></canvas>
+</div><!-- /.map-screen -->
+
+<main class="content">
+__STATIC_CONTENT__
+</main>
 
 <div id="tooltip">
   <div class="tt-title"></div>
   <div class="tt-exposure"></div>
   <div class="tt-stats"></div>
+  <div class="tt-outlook"></div>
   <div class="tt-rationale"></div>
 </div>
 
@@ -273,6 +327,7 @@ canvas#canvas { display: block; position: fixed; top: 0; left: var(--sidebar-w);
   <div class="dp-title"></div>
   <div class="dp-exposure"></div>
   <div class="dp-stats"></div>
+  <div class="dp-outlook"></div>
   <div class="dp-rationale"></div>
 </div>
 
@@ -438,6 +493,36 @@ function hitTest(mx, my) {
   return null;
 }
 
+function outlookColor(g) { if (g == null) return '#8a8f98'; return g > 0.5 ? '#32a032' : (g < -0.5 ? '#ff5014' : '#c8a020'); }
+function outlookHTML(o, w, h) {
+  if (!o) return '';
+  const g = o.g, col = outlookColor(g);
+  const gtxt = g == null ? '' : (g > 0 ? '+' : '') + g + '%';
+  const head = `<div class="ol-head">Employment outlook ` +
+    (g != null ? `<b style="color:${col}">${gtxt}</b> ` : '') +
+    (o.b && o.e ? `(${o.b}→${o.e})` : '') +
+    (o.desc ? ` · ${o.desc}` : '') + `</div>`;
+  let svg = '';
+  const s = (o.s || []).filter(p => p[1] != null);
+  if (s.length >= 2) {
+    const pad = 4, ys = s.map(p => p[1]), mn = Math.min(...ys), mx = Math.max(...ys), rng = (mx - mn) || 1;
+    const X = i => pad + i * (w - 2 * pad) / (s.length - 1);
+    const Y = v => h - pad - (v - mn) / rng * (h - 2 * pad);
+    let bi = s.findIndex(p => p[2] === 1); if (bi < 0) bi = s.length - 1;
+    const pts = s.map((p, i) => [X(i), Y(p[1])]);
+    const seg = a => a.map((p, i) => (i ? 'L' : 'M') + p[0].toFixed(1) + ' ' + p[1].toFixed(1)).join(' ');
+    const actual = pts.slice(0, bi + 1), proj = pts.slice(Math.max(0, bi));
+    const last = pts[pts.length - 1];
+    svg = `<svg class="ol-svg" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}">` +
+      (actual.length > 1 ? `<path d="${seg(actual)}" fill="none" stroke="${col}" stroke-width="1.6"/>` : '') +
+      (proj.length > 1 ? `<path d="${seg(proj)}" fill="none" stroke="${col}" stroke-width="1.6" stroke-dasharray="3 2" opacity="0.85"/>` : '') +
+      `<circle cx="${pts[0][0].toFixed(1)}" cy="${pts[0][1].toFixed(1)}" r="2" fill="${col}"/>` +
+      `<circle cx="${last[0].toFixed(1)}" cy="${last[1].toFixed(1)}" r="2" fill="${col}"/></svg>`;
+  }
+  return `<div class="ol-block">${head}${svg}` +
+    `<div class="ol-src">Source: ${o.src || ''}${s.length >= 2 ? ' · solid = actual, dashed = projected' : ''}</div></div>`;
+}
+
 function showTooltip(d, mx, my) {
   if (isMobile()) return;
   const tt = document.getElementById("tooltip");
@@ -458,6 +543,7 @@ function showTooltip(d, mx, my) {
     <span class="label">AI exposure pct.</span><span class="value">${d.aioe_pct != null ? d.aioe_pct + 'th' : '—'}</span>
     <span class="label">Education</span><span class="value">${d.education || '—'}</span>
   `;
+  tt.querySelector(".tt-outlook").innerHTML = d.outlook ? outlookHTML(d.outlook, 180, 34) : "";
   tt.querySelector(".tt-rationale").textContent = d.exposure_rationale || "";
   const pad = 16;
   let tx = mx + pad, ty = my - pad;
@@ -489,6 +575,7 @@ function showDetailPanel(d) {
     <div><div class="dp-stat-label">AI exposure pct.</div><div class="dp-stat-value">${d.aioe_pct != null ? d.aioe_pct + 'th' : '—'}</div></div>
     <div><div class="dp-stat-label">Education</div><div class="dp-stat-value">${d.education || '—'}</div></div>
   `;
+  dp.querySelector(".dp-outlook").innerHTML = d.outlook ? outlookHTML(d.outlook, 240, 52) : "";
   dp.querySelector(".dp-rationale").innerHTML =
     (d.exposure_rationale || '') +
     (d.url ? `<a class="dp-link" href="${d.url}" target="_blank">More detail &rarr;</a>` : '');
@@ -607,6 +694,13 @@ document.getElementById("detailPanel").querySelector(".dp-handle").addEventListe
 function resize() { dpr = window.devicePixelRatio || 1; layout(); draw(); }
 
 function computeStats() {
+  // Hide salary-dependent widgets when the country has no wage data (e.g. JP, KR),
+  // rather than rendering misleading $0 figures.
+  const hasPay = data.some(d => d.pay != null);
+  const paySec = document.getElementById("paySection");
+  const wagesSec = document.getElementById("wagesSection");
+  if (paySec) paySec.style.display = hasPay ? "" : "none";
+  if (wagesSec) wagesSec.style.display = hasPay ? "" : "none";
   const totalJobs = data.reduce((s, d) => s + (d.jobs || 0), 0);
   const scoredCount = data.filter(d => d.exposure != null).length;
   document.getElementById("subtitleInfo").innerHTML =
@@ -672,16 +766,18 @@ function drawGradientLegend() {
 }
 
 function applyCountryChrome() {
-  document.title = `AI Exposure of the ${CONFIG.countryName} Job Market`;
+  // document.title is server-rendered (SEO); only update the in-page heading.
   document.getElementById("pageTitle").textContent = `AI Exposure of the ${CONFIG.countryName} Job Market`;
   document.getElementById("sourceInfo").innerHTML = CONFIG.sourceHtml;
+  var _al = document.getElementById("aboutLink");
+  if (_al && CONFIG.aboutUrl) _al.href = CONFIG.aboutUrl;
 }
 
-function loadCountry(cc) {
-  const meta = CONFIG.countries.find(c => c.cc === cc);
-  if (meta) { CONFIG.countryName = meta.name; CONFIG.currency = meta.currency; CONFIG.symbol = meta.symbol; CONFIG.sourceHtml = meta.sourceHtml; }
+function loadCountry() {
   applyCountryChrome();
-  const url = CONFIG.countries.length ? `data/${cc}.json` : CONFIG.dataUrl;
+  const base = CONFIG.dataUrl;
+  // 追加构建版本号防浏览器缓存陈旧 JSON（同一次构建仍可命中缓存，重建后自动失效）
+  const url = CONFIG.ver ? `${base}?v=${CONFIG.ver}` : base;
   fetch(url).then(r => r.json()).then(d => {
     data = d; highlighted = null; hovered = null;
     computeStats(); resize();
@@ -690,18 +786,19 @@ function loadCountry(cc) {
 
 // ── Init ────────────────────────────────────────────────────────
 drawGradientLegend();
+// Country switcher navigates to each country's own URL (/slug/) — no client-side swap.
 if (CONFIG.countries && CONFIG.countries.length) {
   const wrap = document.getElementById("countrySwitchWrap");
   const sel = document.getElementById("countrySelect");
   wrap.style.display = "flex";
   sel.innerHTML = CONFIG.countries.map(c => `<option value="${c.cc}">${c.name}</option>`).join("");
-  sel.value = CONFIG.current;
-  sel.addEventListener("change", () => loadCountry(sel.value));
-  loadCountry(CONFIG.current);
-} else {
-  applyCountryChrome();
-  loadCountry(CONFIG.cc);
+  sel.value = CONFIG.cc;
+  sel.addEventListener("change", () => {
+    const m = CONFIG.countries.find(c => c.cc === sel.value);
+    if (m && m.url) location.href = m.url;
+  });
 }
+loadCountry();
 window.addEventListener("resize", resize);
 </script>
 </body>

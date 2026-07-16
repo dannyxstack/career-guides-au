@@ -78,4 +78,26 @@
 4. `downloads/` 早已在 .gitignore（07-12 为薪资原始数据设），故 outlook 原始数据天然不入库；本会话又加 `job-treemap/dist*`。
 5. CA COPS csv 是 **latin-1**（法语重音），非 utf-8。
 
-> 恢复：读本文件 + memory [[japan-collection]] [[job-treemap-clone]] [[salary-median-mean]]。outlook 采集在 `downloads/outlook/`(gitignore)，入库脚本 `scripts/load_outlook.py`，DB 新表 `occupation_outlook` / `occupation_outlook_meta`（AU/US/CA/UK 已载）。
+---
+
+## 补记（同日续作：outlook 上 job-treemap + exposure 直方图修复）
+
+> 本段两件事，**均未 commit**（`job-treemap/build.py`、`job-treemap/template.html` 改动；`dist/**` 已重建但 gitignore）。
+
+### A. 把 outlook 数据接到 job-treemap
+- `build.py` 新增 `load_outlook_map()`：从 DB 读 `occupation_outlook_meta` + `occupation_outlook`，按 `(country, occ_code)` 建 `{g:增减率, b/e:基准/终止年, desc, src, s:[[年,人数,预测标记]]}`；merge 进每条 record 的 `outlook` 字段。DB 不可用时告警并跳过（不阻断构建）。
+  - 坑：build.py 作为脚本运行时 sys.path 不含仓库根 → `from db.connection import` 报 `No module named 'db'`；已在顶部 `sys.path.insert(0, REPO)` 修复。
+- `template.html`：tooltip(`.tt-outlook`) 与 detail panel(`.dp-outlook`) 新增 outlook 块 = 「Employment outlook +X% (基准→终止)」标题 + **内联 SVG 迷你折线**（`outlookHTML()`；实测=实线、预测=虚线、首尾圆点；按增减染绿/红/灰）。
+- 覆盖率（重建后 data.json）：**AU 504 / US 751 / CA 481 / UK 368**；系列点数 AU=3、US=2、CA=11、UK=15；JP 等无 outlook 正确不渲染。浏览器 JS 验证 CA「Landscaping…」= +18.8%(2023→2033)+11点折线；**canvas 常驻重绘导致 screenshot 超时**，改用 `javascript_tool` 读 DOM 验证。
+
+### B. "Jobs by exposure" 4/6/8 三根假山 → 诊断 + 修复
+- **根因（两层）**：① 生 `automation_exposure` 多为 **.5 刻度且挤在 3.5–8.5**（低 1–3、高 9–10 几乎为空，平均回归）；② `build.py` 原 `int(round())` 是 **Python 银行家舍入(偶数)**，把 {3.5,4.5}→4、{5.5,6.5}→6、{7.5,8.5}→8 折叠 → 只在 4/6/8 起山、奇数(5,7)近空。参照站(aus-jobs/karpathy) exposure 在 1–10 平滑分散（甚至低端更重）。
+- **修复（用户选「即效1行」）**：`build.py` 改 **round-half-up** `int(math.floor(x+0.5))`。
+  - AU 分布：修前 `{4:165,5:16,6:257,7:5,8:82,9:1}` → 修后 `{3:4,4:50,5:131,6:140,7:122,8:49,9:34,10:1}`；US 同样是正。三根假山消除、3–10 单峰分散。加权(按 jobs)版同理受益。
+- **仍存**：中央寄（峰在 5–7、1–3 薄）是**数据本身粗糙**所致，非 bug。要达到参照站的分散度需**再评分/用 `aioe_pct` 较正**（选项3，本次保留）。
+
+### 补充待办
+7. **job-treemap 未 commit**：`build.py`(outlook+舍入) + `template.html`(outlook 折线)；如需分发先 `python job-treemap/build.py` 重建 dist 再打包。
+8. **exposure 数据较正（选项3，可选）**：`automation_exposure` 粗糙(.5刻度/中央寄)，若要分布贴近参照站需整数0–10两极锚点重评分或按 aioe_pct 较正；影响 treemap 颜色 + 直方图 + 加权均值。
+
+> 恢复：读本文件 + memory [[japan-collection]] [[job-treemap-clone]] [[salary-median-mean]]。outlook 采集在 `downloads/outlook/`(gitignore)，入库脚本 `scripts/load_outlook.py`，DB 新表 `occupation_outlook` / `occupation_outlook_meta`（AU/US/CA/UK 已载）；job-treemap 已接 outlook 折线 + 修 exposure 舍入（build.py/template.html 未 commit，dist 已重建）。

@@ -107,7 +107,9 @@ export interface Occ {
     cluster?: string | null;
     automation_exposure?: number | null; human_moat?: number | null;
     entry_risk?: number | null; ai_upside?: number | null;
-    // 学术 AI Exposure 指数（Felten 等 AIOE）：aioe_pct=百分位(0-100，越高越暴露)，aioe_soc=映射到的美国SOC码，aioe_method=direct/crosswalk
+    // 生成式 AI 暴露指数（ILO WP140 + OpenAI GPTs-are-GPTs，见 scripts/compute_ai_exposure.py）：
+    // aioe_score=原始 0-1 分；aioe_pct=全局百分位(0-100，越高越暴露)；aioe_soc=映射到的 SOC/ISCO 键；
+    // aioe_method=ilo_genai(ILO 锚) / eloundou_soc|eloundou_isco(Eloundou 填充) / pending_crosswalk(暂回退 LLM 分)
     aioe_score?: number | null; aioe_pct?: number | null;
     aioe_soc?: string | null; aioe_method?: string | null;
     disruptors?: any[];  // 懒加载详情
@@ -356,7 +358,7 @@ export const UI: Record<string, Record<string, string>> = {
     // —— /jobs 职业聚合页 ——
     jLead: '下方是全球通用的 AI 影响分析；选择一个国家可查看当地薪资、执照与移民数据。',
     jByCountry: '按国家查看本地数据', jWork: '从业人口', jAvail: '可用国家',
-    jAioeT: 'AI 暴露指数（学术 · AIOE）', jAioeD: '暴露程度高于约 {pct}% 的职业（百分位，越高越易受 AI 影响）',
+    jAioeT: 'AI 暴露指数（生成式 AI · ILO/OpenAI）', jAioeD: '暴露程度高于约 {pct}% 的职业（百分位，越高越易受生成式 AI 影响）',
     jTitleG: 'AI 替代风险、被 AI 取代的部分与人类护城河', jTitleC: 'AI 风险、薪资、移民与职业路线',
     jClassic: '打开{c}完整旧版详情页',
     // —— 首页搜索结果（客户端）——
@@ -379,6 +381,9 @@ export const UI: Record<string, Record<string, string>> = {
     abS4h: '数据来源与方法',
     abS4a: '我们汇总公开数据：招聘平台薪资区间、官方职业分类（如澳新的 ANZSCO、加拿大的 NOC、美国和英国的 SOC、德国的 KldB、法国的 ROME、西班牙的 CNO）、移民主管机构的职业清单和就业机构的需求预测，并在其上构建评分模型。',
     abS4b: '所有薪资、评分和移民细节均为估算、仅供参考，并定期更新——请始终以最新官方来源为准。',
+    abAiExpH: 'AI 暴露指数如何计算',
+    abAiExpA: '职业详情页的「AI 暴露指数」（0–100 百分位）来自两个公开、权威、面向生成式 AI 时代的研究，而非我们主观打分：① 国际劳工组织 ILO《生成式 AI 与就业：全球职业暴露度精修指数》（工作论文 140，2025，CC BY 4.0）逐条给出了 112 个 ISCO-08 职业的生成式 AI 暴露均值（0–1），作为高暴露档的权威锚点；② OpenAI 团队 Eloundou 等《GPTs are GPTs》（2023，MIT 许可）基于任务给出约 800 个 O*NET-SOC 职业的连续 LLM 暴露分（beta，0–1），用于连续分化中低暴露档。',
+    abAiExpB: '每个职业先取一个 0–1 原始分（ILO 覆盖到则优先用 ILO，否则经官方 ISCO-08/SOC 对应表取 Eloundou 分），再按同一套全球参考分布换算成 0–100 百分位，因此各国口径一致、可横向比较。ISCO 原生国家（爱尔兰/意大利/荷兰）直接对应；澳新/德/英/加/美/西班牙（西班牙经 INE 官方 CNO-11↔ISCO 表）经官方分类对应表衔接。法国、日本、韩国因未能取到干净的官方 ROME/JSCO/KECO↔ISCO 对应表（日本无代码级官方表、韩国 KOSTAT 门户不可达、法国官方为多跳），改用 LLM 把职业映射到官方 ISCO-08 结构（即 ILO 研究本身采用的做法），并单独标注（方法后缀 `_llmmap`），待官方表到手后升级。',
     abS5h: '我们不做什么',
     abS5: '我们不卖课，也不提供移民、法律或财务建议，更不保证就业或签证结果。所有内容仅供参考。',
     abS6h: '接下来',
@@ -475,7 +480,7 @@ export const UI: Record<string, Record<string, string>> = {
     // —— /jobs occupation aggregate ——
     jLead: 'A global AI analysis is below; pick a country for local salary, licensing and migration data.',
     jByCountry: 'Local data by country', jWork: 'Workforce', jAvail: 'Available countries',
-    jAioeT: 'AI Exposure Index (AIOE)', jAioeD: 'More exposed than about {pct}% of occupations (percentile; higher = more exposed to AI)',
+    jAioeT: 'AI Exposure Index (GenAI · ILO/OpenAI)', jAioeD: 'More exposed than about {pct}% of occupations (percentile; higher = more exposed to generative AI)',
     jTitleG: 'AI risk, what AI replaces & the human moat', jTitleC: 'AI risk, salary, migration & career path',
     jClassic: 'Open the full {c} guide (classic page)',
     // —— Home search results (client-side) ——
@@ -498,6 +503,9 @@ export const UI: Record<string, Record<string, string>> = {
     abS4h: 'Data sources & methodology',
     abS4a: 'We aggregate public data: job-platform salary ranges, official occupation classifications (e.g. ANZSCO for Australia/New Zealand, NOC for Canada, SOC for the United States and the United Kingdom, KldB for Germany, ROME for France, CNO for Spain), migration authorities’ occupation lists and employment agencies’ demand forecasts, and build a scoring model on top.',
     abS4b: 'All salaries, scores and migration details are estimates and indicative only, updated periodically — always rely on the latest official sources.',
+    abAiExpH: 'How the AI Exposure Index is computed',
+    abAiExpA: 'The “AI Exposure Index” (0–100 percentile) on each occupation page comes from two open, authoritative, generative-AI-era studies rather than our own opinion: (1) the ILO’s “Generative AI and Jobs: A Refined Global Index of Occupational Exposure” (Working Paper 140, 2025, CC BY 4.0), which publishes a generative-AI exposure mean (0–1) for the 112 ISCO-08 occupations with meaningful exposure — our authoritative anchor for the high-exposure band; and (2) Eloundou et al., “GPTs are GPTs” (OpenAI, 2023, MIT-licensed), a task-based LLM-exposure score (beta, 0–1) for ~800 O*NET-SOC occupations, used to continuously resolve the low-to-mid band.',
+    abAiExpB: 'Each occupation first gets a raw 0–1 score (ILO where it covers the occupation, otherwise the Eloundou score via official ISCO-08/SOC crosswalks), then that raw score is mapped to a 0–100 percentile against a single global reference distribution, so the numbers stay consistent and comparable across countries. ISCO-native countries (Ireland, Italy, Netherlands) map directly; Australia/NZ, Germany, the UK, Canada, the US and Spain (via Spain&rsquo;s official INE CNO-11&harr;ISCO table) connect through official classification crosswalks. For France, Japan and Korea no clean official ROME/JSCO/KECO&harr;ISCO table was obtainable (Japan publishes none at code level, Korea&rsquo;s KOSTAT portal was unreachable, France&rsquo;s official route is multi-hop), so each occupation is placed onto the official ISCO-08 structure by an LLM &mdash; the same approach the ILO study itself used &mdash; and labelled separately (a &lsquo;_llmmap&rsquo; method suffix), to be upgraded once the official table is wired in.',
     abS5h: 'What we don’t do',
     abS5: 'We don’t sell courses, and we don’t provide migration, legal or financial advice, nor guarantee employment or visa outcomes. All content is for information only.',
     abS6h: 'What’s next',
