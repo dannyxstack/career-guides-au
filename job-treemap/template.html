@@ -6,7 +6,7 @@
 <title>__TITLE__</title>
 <meta name="description" content="__META_DESC__">
 <link rel="canonical" href="__CANONICAL__">
-<meta name="robots" content="index,follow">
+<meta name="robots" content="__ROBOTS__">
 <link rel="icon" type="image/svg+xml" href="./favicon.svg">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="__SITE_NAME__">
@@ -18,6 +18,7 @@
 <meta name="twitter:title" content="__TITLE__">
 <meta name="twitter:description" content="__META_DESC__">
 <meta name="twitter:image" content="__OG_IMAGE__">
+__JSONLD__
 <style>
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 
@@ -137,6 +138,36 @@ body {
 
 canvas#canvas { display: block; position: absolute; top: 0; left: var(--sidebar-w); cursor: default; }
 
+/* No-JS / crawler fallback shown in the map viewport when the canvas can't render. */
+.noscript-map {
+  position: absolute; top: 0; left: var(--sidebar-w); right: 0; bottom: 0;
+  display: flex; flex-direction: column; justify-content: center; gap: 12px;
+  padding: 40px; z-index: 5;
+}
+.noscript-map .ns-inner { max-width: 620px; }
+.noscript-map h2 { font-size: 22px; line-height: 1.3; margin: 0 0 4px; letter-spacing: -0.02em; }
+.noscript-map p { color: var(--fg2); line-height: 1.6; margin: 8px 0; }
+.noscript-map a { color: #e6961e; font-weight: 600; text-decoration: none; }
+.noscript-map a:hover { text-decoration: underline; }
+
+/* Embed mode (/embed/{slug}): bare map for iframing — no sidebar, no second screen. */
+body.embed #sidebar, body.embed #mobileToggle, body.embed #mobileSearch,
+body.embed #sidebarOverlay, body.embed .content { display: none !important; }
+body.embed canvas#canvas { left: 0; }
+body.embed .noscript-map { left: 0; }
+body.embed .map-screen { height: 100vh; height: 100dvh; }
+body.embed .site-footer { display: none; }
+
+/* Embed-code modal (triggered by the country page's "Embed this map" button). */
+#embedModal { position: fixed; inset: 0; z-index: 200; display: flex; align-items: center; justify-content: center; padding: 20px; background: rgba(0,0,0,0.66); }
+#embedModal[hidden] { display: none; }
+#embedModal .em-box { width: 100%; max-width: 560px; background: var(--bg2); border: 1px solid rgba(255,255,255,0.12); border-radius: 14px; padding: 18px 20px 20px; box-shadow: 0 20px 60px rgba(0,0,0,0.6); }
+#embedModal .em-head { display: flex; align-items: center; justify-content: space-between; font-size: 16px; font-weight: 600; margin-bottom: 12px; }
+#embedModal .em-x { background: none; border: none; color: var(--fg2); font-size: 24px; line-height: 1; cursor: pointer; padding: 0 4px; }
+#embedModal .em-x:hover { color: var(--fg); }
+#embedModal textarea { width: 100%; min-height: 110px; background: var(--bg); color: var(--fg); border: 1px solid rgba(255,255,255,0.12); border-radius: 8px; padding: 12px; font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12.5px; line-height: 1.5; resize: vertical; }
+#embedModal .em-copy { margin-top: 12px; padding: 9px 18px; background: var(--accent, #e6961e); color: #0a0a0f; border: none; border-radius: 8px; font-weight: 700; font-size: 14px; cursor: pointer; }
+
 /* Second screen: static, crawlable content below the map. */
 .content { max-width: 1100px; margin: 0 auto; padding: 40px 22px 80px; }
 .content h2 { font-size: 24px; line-height: 1.25; margin: 0 0 14px; letter-spacing: -0.02em; }
@@ -150,9 +181,20 @@ canvas#canvas { display: block; position: absolute; top: 0; left: var(--sidebar-
 .content td.num, .content th.num { text-align: right; }
 .content .exp-chip { display: inline-block; min-width: 34px; text-align: center; font-weight: 700; font-size: 12px; padding: 1px 6px; border-radius: 4px; }
 .content .link-row { display: flex; flex-wrap: wrap; gap: 8px 14px; margin: 10px 0; font-size: 14px; }
+.content .map-download { margin: 14px 0 0; max-width: 400px; border: 1px solid rgba(255,255,255,0.09); border-radius: 12px; background: var(--bg2, #12121a); overflow: hidden; }
+.content .map-download img { width: 100%; height: auto; display: block; background: #000; }
+.content .map-download figcaption { font-size: 12px; color: var(--fg2); padding: 10px 14px 0; line-height: 1.5; }
+.content .map-download .md-actions { display: flex; gap: 8px; padding: 10px 14px 14px; }
+.content .map-download .md-btn { font-size: 13px; font-weight: 700; padding: 7px 14px; border-radius: 7px; text-decoration: none; background: var(--accent, #e6961e); color: #0a0a0f; border: none; cursor: pointer; font-family: inherit; line-height: 1.4; }
+.content .map-download .md-btn.sec { background: rgba(255,255,255,0.06); color: var(--fg); border: 1px solid rgba(255,255,255,0.12); }
 .content .foot { font-size: 12.5px; color: var(--fg2); margin-top: 36px; padding-top: 18px; border-top: 1px solid rgba(255,255,255,0.08); line-height: 1.6; }
-.content .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
-@media (max-width: 720px) { .content .two-col { grid-template-columns: 1fr; } }
+/* Collapsible ranking tables: each on its own row, first 5 rows shown, rest kept
+   in the DOM (crawlable) but hidden until expanded via the heading toggle. */
+.content .tbl-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.content .tbl-toggle { flex-shrink: 0; font-size: 12px; font-weight: 600; padding: 5px 12px; border-radius: 6px; background: rgba(255,255,255,0.06); color: var(--fg); border: 1px solid rgba(255,255,255,0.12); cursor: pointer; font-family: inherit; white-space: nowrap; }
+.content .tbl-toggle:hover { background: rgba(255,255,255,0.1); }
+.content .tbl-wrap table tbody tr:nth-child(n+6) { display: none; }
+.content .tbl-wrap.open table tbody tr:nth-child(n+6) { display: table-row; }
 
 #tooltip {
   position: fixed; pointer-events: none; background: var(--bg2);
@@ -234,7 +276,7 @@ canvas#canvas { display: block; position: absolute; top: 0; left: var(--sidebar-
 }
 </style>
 </head>
-<body>
+<body class="__BODYCLASS__">
 
 <button id="mobileToggle" aria-label="Menu">&#9776;</button>
 
@@ -249,8 +291,8 @@ canvas#canvas { display: block; position: absolute; top: 0; left: var(--sidebar-
 <div class="map-screen">
 <div id="sidebar">
   <div>
-    <h1 id="pageTitle">AI Exposure of the Job Market</h1>
-    <div class="subtitle" id="subtitleInfo">Loading...</div>
+    <h1 id="pageTitle">__H1__</h1>
+    <div class="subtitle" id="subtitleInfo">__SUBTITLE__</div>
   </div>
 
   <div class="stat-section" id="countrySwitchWrap" style="display:none;">
@@ -266,12 +308,12 @@ canvas#canvas { display: block; position: absolute; top: 0; left: var(--sidebar-
 
   <div class="stat-section">
     <h3>Total jobs</h3>
-    <div class="stat-big" id="statTotalJobs">&mdash;</div>
+    <div class="stat-big" id="statTotalJobs">__STAT_TOTALJOBS__</div>
   </div>
 
   <div class="stat-section">
     <h3>Weighted avg. exposure</h3>
-    <div class="stat-big" id="statAvgExposure">&mdash;</div>
+    <div class="stat-big" id="statAvgExposure">__STAT_AVGEXP__</div>
     <div class="stat-label">job-weighted, 0&ndash;10 scale</div>
   </div>
 
@@ -304,15 +346,25 @@ canvas#canvas { display: block; position: absolute; top: 0; left: var(--sidebar-
   </div>
 
   <div class="source-info" id="sourceInfo"></div>
-  <div class="about-link"><a id="aboutLink" href="about.html">About &amp; methodology &rarr;</a></div>
+  <div class="about-link"><a id="aboutLink" href="__ABOUT_URL__">About &amp; methodology &rarr;</a></div>
 </div>
 
 <canvas id="canvas"></canvas>
+__NOSCRIPT__
 </div><!-- /.map-screen -->
 
 <main class="content">
 __STATIC_CONTENT__
 </main>
+__FOOTER__
+
+<div id="embedModal" hidden>
+  <div class="em-box">
+    <div class="em-head"><span>Embed this map</span><button type="button" id="embedClose" class="em-x" aria-label="Close">&times;</button></div>
+    <textarea id="embedSnippet" readonly></textarea>
+    <button type="button" id="embedCopy" class="em-copy">Copy code</button>
+  </div>
+</div>
 
 <div id="tooltip">
   <div class="tt-title"></div>
@@ -484,8 +536,10 @@ function draw() {
 }
 
 function hitTest(mx, my) {
-  const sidebarW = isMobile() ? 0 : parseInt(getComputedStyle(document.documentElement).getPropertyValue('--sidebar-w'));
-  const cx = mx - sidebarW, cy = my;
+  // Map viewport coords to canvas-local coords via the canvas's own box, so the
+  // hit test stays correct regardless of page scroll or the sidebar offset.
+  const rect = canvas.getBoundingClientRect();
+  const cx = mx - rect.left, cy = my - rect.top;
   for (let i = rects.length - 1; i >= 0; i--) {
     const r = rects[i];
     if (cx >= r.rx && cx < r.rx + r.rw && cy >= r.ry && cy < r.ry + r.rh) return r;
@@ -538,7 +592,7 @@ function showTooltip(d, mx, my) {
   tt.querySelector(".tt-stats").innerHTML = `
     <span class="label">Code</span><span class="value">${d.anzsco || '—'}</span>
     <span class="label">Category</span><span class="value">${d.category_name || '—'}</span>
-    <span class="label">Median pay (${CONFIG.currency})</span><span class="value">${d.pay ? formatPay(d.pay) + '/yr' : '—'}</span>
+    <span class="label">Average annual pay (${CONFIG.currency})</span><span class="value">${d.pay ? formatPay(d.pay) + '/yr' : '—'}</span>
     <span class="label">Employed</span><span class="value">${formatNumber(d.jobs)}</span>
     <span class="label">AI exposure pct.</span><span class="value">${d.aioe_pct != null ? d.aioe_pct + 'th' : '—'}</span>
     <span class="label">Education</span><span class="value">${d.education || '—'}</span>
@@ -570,7 +624,7 @@ function showDetailPanel(d) {
   dp.querySelector(".dp-stats").innerHTML = `
     <div><div class="dp-stat-label">Code</div><div class="dp-stat-value">${d.anzsco || '—'}</div></div>
     <div><div class="dp-stat-label">Category</div><div class="dp-stat-value">${d.category_name || '—'}</div></div>
-    <div><div class="dp-stat-label">Median pay (${CONFIG.currency})</div><div class="dp-stat-value">${d.pay ? formatPay(d.pay) + '/yr' : '—'}</div></div>
+    <div><div class="dp-stat-label">Average annual pay (${CONFIG.currency})</div><div class="dp-stat-value">${d.pay ? formatPay(d.pay) + '/yr' : '—'}</div></div>
     <div><div class="dp-stat-label">Employed</div><div class="dp-stat-value">${formatNumber(d.jobs)}</div></div>
     <div><div class="dp-stat-label">AI exposure pct.</div><div class="dp-stat-value">${d.aioe_pct != null ? d.aioe_pct + 'th' : '—'}</div></div>
     <div><div class="dp-stat-label">Education</div><div class="dp-stat-value">${d.education || '—'}</div></div>
@@ -800,6 +854,35 @@ if (CONFIG.countries && CONFIG.countries.length) {
 }
 loadCountry();
 window.addEventListener("resize", resize);
+
+// ── Collapsible ranking tables: heading toggle shows all rows / collapses ──
+document.querySelectorAll(".tbl-toggle").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const wrap = btn.closest(".tbl-wrap");
+    const open = wrap.classList.toggle("open");
+    btn.textContent = open ? "Show less" : "Show all " + (wrap.dataset.count || "");
+  });
+});
+
+// ── "Embed this map" button (country page) -> modal with iframe code + copy ──
+(function () {
+  const btn = document.getElementById("embedBtn");
+  const modal = document.getElementById("embedModal");
+  if (!btn || !modal || !CONFIG.embedSnippet) return;
+  const snippet = document.getElementById("embedSnippet");
+  snippet.value = CONFIG.embedSnippet;
+  const open = () => { modal.hidden = false; };
+  const close = () => { modal.hidden = true; };
+  btn.addEventListener("click", open);
+  document.getElementById("embedClose").addEventListener("click", close);
+  modal.addEventListener("click", e => { if (e.target === modal) close(); });
+  document.addEventListener("keydown", e => { if (e.key === "Escape") close(); });
+  document.getElementById("embedCopy").addEventListener("click", e => {
+    navigator.clipboard.writeText(snippet.value).then(() => {
+      const b = e.target; b.textContent = "Copied!"; setTimeout(() => b.textContent = "Copy code", 1500);
+    });
+  });
+})();
 </script>
 </body>
 </html>

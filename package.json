@@ -1,0 +1,19 @@
+{
+  "name": "career-guides-au",
+  "version": "1.0.0",
+  "description": "build tooling (treemap map shooter)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "devDependencies": {
+    "playwright": "^1.61.1"
+  }
+}
