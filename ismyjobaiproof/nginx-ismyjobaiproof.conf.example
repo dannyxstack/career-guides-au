@@ -1,0 +1,63 @@
+server {
+    listen 80;
+    listen [::]:80;
+    server_name ismyjobaiproof.com www.ismyjobaiproof.com;
+    return 301 https://ismyjobaiproof.com$request_uri;
+}
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name www.ismyjobaiproof.com;
+
+    ssl_certificate /etc/letsencrypt/live/ismyjobaiproof.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ismyjobaiproof.com/privkey.pem;
+    return 301 https://ismyjobaiproof.com$request_uri;
+}
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name ismyjobaiproof.com;
+
+    root /var/www/ismyjobaiproof/current;
+    index index.html;
+    charset utf-8;
+
+    ssl_certificate /etc/letsencrypt/live/ismyjobaiproof.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ismyjobaiproof.com/privkey.pem;
+
+    add_header X-Content-Type-Options nosniff always;
+    add_header Referrer-Policy strict-origin-when-cross-origin always;
+    add_header Permissions-Policy "camera=(), microphone=(), geolocation=()" always;
+
+    gzip on;
+    gzip_vary on;
+    gzip_min_length 1024;
+    gzip_types text/plain text/css text/javascript application/javascript application/json application/xml;
+
+    location = / {
+        try_files /index.html =404;
+        expires -1;
+    }
+
+    location = /data/occupations.json {
+        try_files $uri =404;
+        add_header X-Robots-Tag "noindex" always;
+        expires 1d;
+    }
+
+    location ~* \.(?:css|js)$ {
+        try_files $uri =404;
+        expires 1h;
+    }
+
+    location ~ ^/(?:robots\.txt|sitemap\.xml|llms\.txt)$ {
+        try_files $uri =404;
+        expires 1h;
+    }
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+}
