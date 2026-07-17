@@ -459,7 +459,61 @@ def fallback_summary(name, st):
     return f"<p>{p1}</p>\n<p>{p2}</p>"
 
 
-def static_content(cc, name, st, summary_html, present):
+def country_faqs(name, st):
+    """Deterministic Q&A for one country. Every figure comes from `st` (no invented
+    numbers), so the same list can be rendered visibly and emitted as FAQPage schema.
+    Returns a list of (question, plain-text answer)."""
+    avg = st["weighted_avg"]
+    band = ("low" if avg < 3 else "moderate" if avg < 5
+            else "elevated" if avg < 6.5 else "high")
+    band_art = "an" if band[0] in "aeiou" else "a"
+    top5 = ", ".join(r["title"] for r in st["top"][:5])
+    bot3 = ", ".join(r["title"] for r in st["bottom"][:3])
+    top_inds = ", ".join(i["name"] for i in st["industries"][:3] if i["avg"] is not None)
+    faqs = [
+        (f"How much AI risk do jobs in {name} face?",
+         f"Across {st['total']:,} occupations covering about {st['total_jobs']:,} workers, "
+         f"{name} has an employment-weighted average generative-AI exposure of {avg:.1f} on a "
+         f"0–10 scale — {band_art} {band} level. A higher score means a larger share of a role's "
+         f"day-to-day tasks can already be performed or assisted by AI."),
+        (f"Which jobs in {name} are most at risk from AI?",
+         f"The most exposed occupations in {name} are {top5}. These are roles built around routine "
+         f"information work — writing, data handling and analysis — that large language "
+         f"models already handle well."),
+        (f"Which jobs in {name} are least exposed to AI?",
+         f"The least exposed occupations include {bot3}. Physical, hands-on and in-person tasks are "
+         f"much harder for current AI to automate, so these roles score low."),
+        ("Does a high AI exposure score mean the job will be lost?",
+         "No. Exposure measures how much of a role's tasks AI can perform or assist with — not "
+         "whether the job will disappear. A high score flags where AI is most likely to reshape tasks "
+         "first, and where workers may benefit from building complementary skills."),
+    ]
+    if top_inds:
+        faqs.append(
+            (f"Which industries in {name} are most exposed to AI?",
+             f"By employment-weighted average exposure, the most exposed industries in {name} are "
+             f"{top_inds}."))
+    faqs.append(
+        ("How is the AI exposure score calculated?",
+         f"Every occupation is scored 0–10 by combining two published research datasets — "
+         f"the ILO's Working Paper 140 index and OpenAI's ‘GPTs are GPTs’ task-exposure "
+         f"study — mapped onto {name}'s official occupation classification and ranked on a single "
+         f"global percentile scale so scores stay comparable between countries."))
+    return faqs
+
+
+def faq_accordion(faqs):
+    """Visible, crawlable FAQ block (native <details>, collapsed by default). Text
+    matches country_faqs so it stays identical to the FAQPage schema."""
+    items = "".join(
+        f'<details class="faq-item"><summary>{esc(q)}</summary>'
+        f'<div class="faq-a"><p>{esc(a)}</p></div></details>'
+        for q, a in faqs)
+    return (f'<h2 id="faq">Frequently asked questions</h2>\n'
+            f'<div class="faq">{items}</div>')
+
+
+def static_content(cc, name, st, summary_html, present, faqs):
     updated = datetime.now().strftime("%d %B %Y").lstrip("0")
     top_tbl = occ_table(st["top"], st["has_pay"], COUNTRY_META[cc][2])
     bot_tbl = occ_table(st["bottom"], st["has_pay"], COUNTRY_META[cc][2])
@@ -498,7 +552,7 @@ def static_content(cc, name, st, summary_html, present):
         f"{len(st['top'])} jobs most exposed to AI in {esc(name)}", top_tbl, len(st["top"]))
     bot_block = collapsible_table(
         f"{len(st['bottom'])} jobs least exposed to AI in {esc(name)}", bot_tbl, len(st["bottom"]))
-    return f"""<h2>AI job automation risk in {esc(name)}</h2>
+    return f"""<h2>AI job risk in {esc(name)}</h2>
 {summary_html}
 <p class="meta-line">Data coverage: {st['scored']} of {st['total']} occupations scored &middot; Last updated {updated}</p>
 
@@ -514,6 +568,8 @@ def static_content(cc, name, st, summary_html, present):
 <p class="meta-line">Industries on this page</p>
 <div class="link-row">{ind_links}</div>
 
+{faq_accordion(faqs)}
+
 <h3>Methodology &amp; sources</h3>
 <p>Every occupation is scored 0&ndash;10 for generative-AI exposure by combining two open, published
 research datasets &mdash; the ILO's Working Paper 140 index and OpenAI's <em>GPTs are GPTs</em> task-exposure study &mdash;
@@ -528,6 +584,15 @@ workforce, from official statistics. <a href="/methodology.html">Full methodolog
 # ── Landing hub + SEO assets ─────────────────────────────────────
 
 def build_landing(present, stats_by_cc):
+    sections = load_longform()
+    longform_html = ""
+    if sections:
+        blocks = "".join(
+            f'<section class="lf"><h2>{esc(s.get("h2", ""))}</h2>'
+            f'<div class="lf-body">{s.get("html", "")}</div>'
+            f'<button type="button" class="lf-toggle">Read more</button></section>'
+            for s in sections)
+        longform_html = f'<div class="longform">{blocks}</div>'
     cards = []
     for cc in present:
         name = COUNTRY_META[cc][0]
@@ -582,20 +647,44 @@ h1{{font-size:32px;line-height:1.2;letter-spacing:-.02em;margin:0 0 12px}}
 .cc-meta{{font-size:12.5px;color:var(--fg2)}}
 .cc-exp{{font-size:13px;margin-top:2px}}
 .cc-scale{{color:var(--fg2)}}
+.longform{{max-width:760px;margin:56px auto 0}}
+.lf{{margin:0 0 26px;padding-bottom:22px;border-bottom:1px solid var(--line)}}
+.lf:last-child{{border-bottom:none}}
+.lf h2{{font-size:22px;line-height:1.25;letter-spacing:-.01em;margin:0 0 12px}}
+/* Long-form copy: only the first ~2 lines show; the rest stays in the DOM
+   (crawlable) but is clipped and faded until the reader clicks Read more. */
+.lf-body{{position:relative;max-height:3.2em;overflow:hidden}}
+.lf-body::after{{content:"";position:absolute;left:0;right:0;bottom:0;height:2em;background:linear-gradient(rgba(10,10,15,0),#0a0a0f);pointer-events:none}}
+.lf.open .lf-body{{max-height:none}}
+.lf.open .lf-body::after{{display:none}}
+.lf-body p{{color:var(--fg2);margin:0 0 15px}}
+.lf-body p:last-child{{margin-bottom:0}}
+.lf-toggle{{margin-top:12px;background:none;border:none;color:var(--accent);font:inherit;font-size:14px;font-weight:600;cursor:pointer;padding:0}}
+.lf-toggle:hover{{text-decoration:underline}}
 </style>
 </head>
 <body>
 <div class="wrap">
 <div class="brand"><img src="favicon.svg" alt=""><b>{SITE_NAME}</b></div>
-<h1>Which jobs are most exposed to AI?</h1>
-<p class="lead">An interactive treemap of every occupation in 13 countries, coloured 0&ndash;10 by how
-exposed it is to generative AI &mdash; computed from open ILO and OpenAI research, mapped onto each
-country's official statistics. Pick a country:</p>
+<h1>Which jobs are most at risk from AI?</h1>
+<p class="lead">An interactive treemap of every occupation in 13 countries. We score each job&rsquo;s
+<b>AI risk</b> by its <b>exposure</b> to generative AI &mdash; how much of its day-to-day tasks AI can
+already do &mdash; on a 0&ndash;10 scale, computed from open ILO and OpenAI research and mapped onto
+each country's official statistics. Pick a country:</p>
 <div class="grid">
 {''.join(cards)}
 </div>
+{longform_html}
 </div>
 {build_footer()}
+<script>
+document.querySelectorAll(".lf-toggle").forEach(function(b){{
+  b.addEventListener("click",function(){{
+    var open=b.closest(".lf").classList.toggle("open");
+    b.textContent=open?"Show less":"Read more";
+  }});
+}});
+</script>
 </body>
 </html>"""
 
@@ -970,6 +1059,18 @@ def breadcrumb_ld(cc, name):
     }
 
 
+def faq_ld(faqs):
+    # FAQPage schema; answer text matches the visible faq_accordion (Google requires
+    # the FAQ content to be visible on the page).
+    return {
+        "@context": "https://schema.org", "@type": "FAQPage",
+        "mainEntity": [
+            {"@type": "Question", "name": q,
+             "acceptedAnswer": {"@type": "Answer", "text": a}}
+            for q, a in faqs],
+    }
+
+
 def write_dataset_csv(path, rows_by_cc, present):
     """One row per occupation across all countries — the /dataset.csv download."""
     import csv
@@ -996,6 +1097,18 @@ def load_summaries():
         except Exception as e:
             print("  [summaries] failed to read, using fallback:", e)
     return {}
+
+
+def load_longform():
+    """Optional LLM-written long-form homepage copy: job-treemap/longform.json ->
+    {"sections": [{"h2": str, "html": str}, ...]}. Absent -> homepage renders without it."""
+    p = os.path.join(HERE, "longform.json")
+    if os.path.exists(p):
+        try:
+            return json.load(open(p, encoding="utf-8")).get("sections", [])
+        except Exception as e:
+            print("  [longform] failed to read, skipping:", e)
+    return []
 
 
 def main():
@@ -1058,7 +1171,8 @@ def main():
                           for c in present],
         }
         summary = summaries.get(cc) or fallback_summary(name, st)
-        content = static_content(cc, name, st, summary, present)
+        faqs = country_faqs(name, st)
+        content = static_content(cc, name, st, summary, present, faqs)
 
         title = f"{name} AI Job Risk Map — which jobs are most exposed to AI"
         desc = (f"See how exposed {name}'s jobs are to generative AI: {st['total_jobs']:,} workers "
@@ -1076,7 +1190,8 @@ def main():
         og_image = (f"{DOMAIN}/static/maps/{map_filename(cc)}" if has_png
                     else f"{DOMAIN}/og-image.png")
         jsonld = (ld_script(dataset_ld_country(cc, name, st, has_png))
-                  + ld_script(breadcrumb_ld(cc, name)))
+                  + ld_script(breadcrumb_ld(cc, name))
+                  + ld_script(faq_ld(faqs)))
         page = (template
                 .replace("__CONFIG__", json.dumps(cfg, ensure_ascii=False))
                 .replace("__TITLE__", esc(title))
@@ -1088,7 +1203,7 @@ def main():
                 .replace("__OG_IMAGE__", og_image)
                 .replace("__JSONLD__", jsonld)
                 .replace("__ABOUT_URL__", "/methodology.html")
-                .replace("__H1__", esc(f"AI Exposure of the {name} Job Market"))
+                .replace("__H1__", esc(f"AI Job Risk in {name}"))
                 .replace("__SUBTITLE__", subtitle)
                 .replace("__STAT_TOTALJOBS__", fmt_big_jobs(st["total_jobs"]))
                 .replace("__STAT_AVGEXP__", avg_html)

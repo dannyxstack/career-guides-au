@@ -17,6 +17,7 @@ __pycache__/
 # node
 node_modules/
 site/dist/
+ismyjobaiproof/dist/
 site/node_modules/
 scripts/_ui_src.json
 site/*.zip

@@ -96,6 +96,10 @@ body {
 }
 #sidebar h1 { font-size: 16px; font-weight: 600; letter-spacing: -0.02em; line-height: 1.3; }
 #sidebar .subtitle { font-size: 11px; color: var(--fg2); margin-top: 4px; line-height: 1.4; }
+/* Bridge line: ties the brand term "risk" to the metric "exposure" so the two are
+   explicitly one thing (SEO/GEO + honesty), not mixed terminology. */
+#sidebar .bridge { font-size: 12px; color: var(--fg2); margin-top: 10px; line-height: 1.5; }
+#sidebar .bridge b { color: var(--fg); font-weight: 600; }
 #sidebar .subtitle a { color: var(--fg2); }
 
 .stat-section { display: flex; flex-direction: column; gap: 6px; }
@@ -193,6 +197,16 @@ body.embed .site-footer { display: none; }
 .content .tbl-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 .content .tbl-toggle { flex-shrink: 0; font-size: 12px; font-weight: 600; padding: 5px 12px; border-radius: 6px; background: rgba(255,255,255,0.06); color: var(--fg); border: 1px solid rgba(255,255,255,0.12); cursor: pointer; font-family: inherit; white-space: nowrap; }
 .content .tbl-toggle:hover { background: rgba(255,255,255,0.1); }
+/* FAQ accordion: native <details> so answers stay in the DOM (crawlable) and match
+   the FAQPage JSON-LD; collapsed by default. */
+.content .faq { margin: 10px 0 0; }
+.content .faq-item { border: 1px solid rgba(255,255,255,0.09); border-radius: 10px; background: var(--bg2, #12121a); margin: 0 0 8px; }
+.content .faq-item summary { list-style: none; cursor: pointer; padding: 13px 16px; font-size: 15px; font-weight: 600; color: var(--fg); display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.content .faq-item summary::-webkit-details-marker { display: none; }
+.content .faq-item summary::after { content: "+"; color: var(--fg2); font-size: 18px; line-height: 1; flex-shrink: 0; }
+.content .faq-item[open] summary::after { content: "\2212"; }
+.content .faq-a { padding: 0 16px 14px; }
+.content .faq-a p { font-size: 14px; color: var(--fg2); line-height: 1.6; margin: 0; }
 .content .tbl-wrap table tbody tr:nth-child(n+6) { display: none; }
 .content .tbl-wrap.open table tbody tr:nth-child(n+6) { display: table-row; }
 
@@ -293,6 +307,7 @@ body.embed .site-footer { display: none; }
   <div>
     <h1 id="pageTitle">__H1__</h1>
     <div class="subtitle" id="subtitleInfo">__SUBTITLE__</div>
+    <p class="bridge">We score each job&rsquo;s <b>AI risk</b> by its <b>exposure</b> to generative AI &mdash; how much of its day-to-day tasks AI can already do, from 0 to 10.</p>
   </div>
 
   <div class="stat-section" id="countrySwitchWrap" style="display:none;">
@@ -821,7 +836,7 @@ function drawGradientLegend() {
 
 function applyCountryChrome() {
   // document.title is server-rendered (SEO); only update the in-page heading.
-  document.getElementById("pageTitle").textContent = `AI Exposure of the ${CONFIG.countryName} Job Market`;
+  document.getElementById("pageTitle").textContent = `AI Job Risk in ${CONFIG.countryName}`;
   document.getElementById("sourceInfo").innerHTML = CONFIG.sourceHtml;
   var _al = document.getElementById("aboutLink");
   if (_al && CONFIG.aboutUrl) _al.href = CONFIG.aboutUrl;
