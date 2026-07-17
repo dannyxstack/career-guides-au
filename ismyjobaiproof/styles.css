@@ -39,14 +39,11 @@ footer {
 .site-header { height: 72px; }
 .brand { display: inline-flex; align-items: center; gap: 10px; font-weight: 760; text-decoration: none; }
 .brand-mark {
-  display: grid;
-  place-items: center;
-  width: 31px;
-  height: 31px;
-  color: #fff;
-  background: var(--ink);
-  border-radius: 5px;
-  font-size: 12px;
+  display: block;
+  flex: 0 0 auto;
+  width: 38px;
+  height: 38px;
+  object-fit: contain;
 }
 .method-link { color: var(--muted); font-size: 14px; text-underline-offset: 4px; }
 .page-nav { display: flex; align-items: center; gap: 20px; }

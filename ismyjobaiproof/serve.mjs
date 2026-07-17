@@ -6,7 +6,16 @@ import { fileURLToPath } from 'node:url';
 const sourceRoot = fileURLToPath(new URL('.', import.meta.url));
 const root = process.env.PREVIEW_DIST === '1' ? resolve(sourceRoot, 'dist') : sourceRoot;
 const port = Number(process.env.PORT || 4177);
-const types = { '.html': 'text/html; charset=utf-8', '.css': 'text/css; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.json': 'application/json; charset=utf-8' };
+const types = {
+  '.html': 'text/html; charset=utf-8',
+  '.css': 'text/css; charset=utf-8',
+  '.js': 'text/javascript; charset=utf-8',
+  '.json': 'application/json; charset=utf-8',
+  '.svg': 'image/svg+xml',
+  '.png': 'image/png',
+  '.ico': 'image/x-icon',
+  '.webmanifest': 'application/manifest+json; charset=utf-8'
+};
 
 createServer(async (request, response) => {
   try {

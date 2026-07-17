@@ -1,0 +1,19 @@
+{
+  "name": "Is My Job AI-Proof?",
+  "short_name": "Job AI-Proof",
+  "icons": [
+    {
+      "src": "/favicon-32x32.png?v=4",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple-touch-icon.png?v=4",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#f4f6f2",
+  "background_color": "#f4f6f2",
+  "display": "standalone"
+}

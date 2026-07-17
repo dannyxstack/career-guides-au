@@ -8,7 +8,11 @@ import {
 
 const root = dirname(fileURLToPath(import.meta.url));
 const dist = resolve(root, 'dist');
-const files = ['index.html', 'styles.css', 'app.js', 'favicon.svg', 'og-image.png', 'robots.txt'];
+const files = [
+  'index.html', 'styles.css', 'app.js', 'brand-logo.png', 'favicon.ico',
+  'favicon-16x16.png', 'favicon-32x32.png', 'apple-touch-icon.png',
+  'site.webmanifest', 'og-image.png', 'robots.txt'
+];
 const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, (char) => ({
   '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
 }[char]));
@@ -27,7 +31,11 @@ function shell({ title, description, canonical, body, schema = [], pageClass = '
   <meta name="description" content="${escapeHtml(description)}">
   <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
   <meta name="theme-color" content="#f4f6f2">
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon.ico?v=4" sizes="any">
+  <link rel="icon" href="/favicon-32x32.png?v=4" type="image/png" sizes="32x32">
+  <link rel="icon" href="/favicon-16x16.png?v=4" type="image/png" sizes="16x16">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png?v=4" sizes="180x180">
+  <link rel="manifest" href="/site.webmanifest?v=4">
   <link rel="canonical" href="${canonical}">
   <link rel="stylesheet" href="/styles.css">
   <meta property="og:type" content="website">
@@ -41,7 +49,7 @@ function shell({ title, description, canonical, body, schema = [], pageClass = '
 </head>
 <body class="${pageClass}">
   <header class="site-header">
-    <a class="brand" href="/"><span class="brand-mark" aria-hidden="true">AI</span><span>Is My Job AI-Proof?</span></a>
+    <a class="brand" href="/"><img class="brand-mark" src="/brand-logo.png?v=4" alt="" width="38" height="38" aria-hidden="true"><span>Is My Job AI-Proof?</span></a>
     <nav class="page-nav" aria-label="Site navigation"><a href="/rankings/">Rankings</a><a href="/methodology/">Methodology</a><a href="/about/">About</a></nav>
   </header>
   ${body}

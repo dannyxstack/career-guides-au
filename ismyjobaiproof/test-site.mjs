@@ -6,7 +6,11 @@ const root = resolve(dirname(fileURLToPath(import.meta.url)), 'dist');
 const errors = [];
 const read = (path) => readFile(resolve(root, path), 'utf8');
 
-for (const path of ['index.html', 'methodology/index.html', 'about/index.html', 'editorial-policy/index.html', 'privacy/index.html', 'sitemap.xml', 'robots.txt', 'llms.txt']) {
+for (const path of [
+  'index.html', 'methodology/index.html', 'about/index.html', 'editorial-policy/index.html',
+  'privacy/index.html', 'sitemap.xml', 'robots.txt', 'llms.txt', 'brand-logo.png', 'favicon.ico',
+  'favicon-16x16.png', 'favicon-32x32.png', 'apple-touch-icon.png', 'site.webmanifest'
+]) {
   try { await stat(resolve(root, path)); } catch { errors.push(`Missing ${path}`); }
 }
 
@@ -15,14 +19,17 @@ for (const expected of [
   '<h1 id="assessment-title">Is my job AI-proof?</h1>',
   'href="/methodology/"',
   'id="share-button"',
-  'href="/job/accountant/"'
+  'href="/job/accountant/"',
+  'href="/favicon.ico?v=4"',
+  'href="/favicon-32x32.png?v=4"',
+  'class="brand-mark" src="/brand-logo.png?v=4"'
 ]) if (!home.includes(expected)) errors.push(`Homepage missing ${expected}`);
 
 const jobDirectories = await readdir(resolve(root, 'job'));
 if (jobDirectories.length !== 550) errors.push(`Expected 550 occupation pages, found ${jobDirectories.length}`);
 for (const slug of jobDirectories) {
   const html = await read(`job/${slug}/index.html`);
-  for (const expected of ['<link rel="canonical"', 'application/ld+json', 'Exposure is not replacement probability', '/methodology/']) {
+  for (const expected of ['<link rel="canonical"', 'application/ld+json', 'Exposure is not replacement probability', '/methodology/', 'href="/favicon.ico?v=4"', 'class="brand-mark" src="/brand-logo.png?v=4"']) {
     if (!html.includes(expected)) errors.push(`${slug} missing ${expected}`);
   }
 }
